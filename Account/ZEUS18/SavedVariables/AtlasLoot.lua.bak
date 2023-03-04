@@ -1,0 +1,39 @@
+
+AtlasLootOptions = nil
+AtlasLootDB = {
+	["profileKeys"] = {
+		["Kati - Icecrown"] = "Kati - Icecrown",
+	},
+	["profiles"] = {
+		["Kati - Icecrown"] = {
+			["BigraidHeroic"] = true,
+			["AtlasType"] = "Unknown",
+		},
+	},
+}
+AtlasLootWishList = {
+	["Options"] = {
+		["Kati"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+	},
+	["Shared"] = {
+	},
+	["Own"] = {
+		["Kati"] = {
+			{
+				["info"] = {
+					"Hoply Paladin BiS", -- [1]
+					{
+						["Kati"] = true,
+					}, -- [2]
+					"Interface\\Icons\\Spell_Holy_HolyBolt", -- [3]
+				},
+			}, -- [1]
+		},
+	},
+}

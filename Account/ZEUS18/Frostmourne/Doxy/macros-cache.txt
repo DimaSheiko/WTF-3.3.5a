@@ -1,0 +1,5 @@
+MACRO 16777217 "Auctioneer" Ability_Ambush
+/cleartarget
+/targetexact Subastadora Jaxon
+/cleartarget [dead] [noexists]
+END

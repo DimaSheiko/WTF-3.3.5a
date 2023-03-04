@@ -1,0 +1,13 @@
+
+EveryQuestDBPC = nil
+EQ2DBPC = {
+	["profileKeys"] = {
+		["Yeni - Icecrown"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+			["zoneid"] = 3487,
+			["zonegroup"] = "Eastern Kingdoms",
+		},
+	},
+}

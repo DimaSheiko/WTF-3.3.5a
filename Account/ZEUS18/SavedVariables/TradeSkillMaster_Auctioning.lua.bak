@@ -1,0 +1,31 @@
+
+TradeSkillMaster_AuctioningDB = {
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+	["global"] = {
+		["optionsTreeStatus"] = {
+			["groups"] = {
+				["1"] = true,
+				["3"] = true,
+				[3] = true,
+			},
+			["scrollvalue"] = 0,
+			["selected"] = 1,
+			["treesizable"] = true,
+			["treewidth"] = 175,
+			["fullwidth"] = 740.9997041000196,
+		},
+	},
+	["profileKeys"] = {
+		["Yeni - Icecrown"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Icecrown"] = {
+			["player"] = {
+				["Yeni"] = true,
+			},
+		},
+	},
+}

@@ -1,0 +1,9 @@
+MACRO 16777217 "Boots" INV_Misc_QuestionMark
+#showtooltip 8
+/use 8
+END
+MACRO 16777218 "interrupt" INV_Misc_QuestionMark
+#showtooltip Zurrar
+/cast Zurra
+/say He interrumpido
+END

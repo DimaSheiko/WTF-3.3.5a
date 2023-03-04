@@ -1,0 +1,41 @@
+
+ZygorTalentAdvisorSettings = {
+	["char"] = {
+		["Katy - Icecrown"] = {
+			["debuglog"] = {
+				"23:14:20> Viewer started. ---------------------------", -- [1]
+				"23:14:24> PLAYER_ALIVE", -- [2]
+				"00:06:58> ToggleTalentFrame hook", -- [3]
+				"00:06:58> zta hooking 1st time", -- [4]
+				"00:06:58> Displaying talent suggestions.", -- [5]
+				"00:06:58> ZygorTalentAdvisorPopout_Update", -- [6]
+				"00:06:58> ZygorTalentAdvisorPopout hidden, not updating", -- [7]
+				"00:06:58> ToggleTalentFrame hook", -- [8]
+				"00:06:59> Displaying talent suggestions.", -- [9]
+				"00:06:59> ZygorTalentAdvisorPopout_Update", -- [10]
+				"00:06:59> ZygorTalentAdvisorPopout hidden, not updating", -- [11]
+				"00:06:59> Displaying talent suggestions.", -- [12]
+				"00:06:59> ZygorTalentAdvisorPopout_Update", -- [13]
+				"00:06:59> ZygorTalentAdvisorPopout hidden, not updating", -- [14]
+				"00:06:59> Displaying talent suggestions.", -- [15]
+				"00:06:59> ZygorTalentAdvisorPopout_Update", -- [16]
+				"00:06:59> ZygorTalentAdvisorPopout hidden, not updating", -- [17]
+				"00:06:59> Displaying talent suggestions.", -- [18]
+				"00:06:59> ZygorTalentAdvisorPopout_Update", -- [19]
+				"00:06:59> ZygorTalentAdvisorPopout hidden, not updating", -- [20]
+				"00:06:59> ToggleTalentFrame hook", -- [21]
+				"00:06:59> Displaying talent suggestions.", -- [22]
+				"00:06:59> ZygorTalentAdvisorPopout_Update", -- [23]
+				"00:06:59> ZygorTalentAdvisorPopout hidden, not updating", -- [24]
+				"00:06:59> ToggleTalentFrame hook", -- [25]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Katy - Icecrown"] = "Katy - Icecrown",
+	},
+	["profiles"] = {
+		["Katy - Icecrown"] = {
+		},
+	},
+}

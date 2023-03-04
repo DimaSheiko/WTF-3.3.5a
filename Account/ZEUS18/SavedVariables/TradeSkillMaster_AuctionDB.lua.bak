@@ -1,0 +1,10 @@
+
+TradeSkillMaster_AuctionDBDB = {
+	["profileKeys"] = {
+		["Yeni - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

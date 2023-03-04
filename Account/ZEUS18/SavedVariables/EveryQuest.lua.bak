@@ -1,0 +1,12 @@
+
+EveryQuestDB = nil
+EQ2DB = {
+	["profileKeys"] = {
+		["Katy - Icecrown"] = "global",
+	},
+	["profiles"] = {
+		["global"] = {
+			["querytime"] = 1671166838,
+		},
+	},
+}

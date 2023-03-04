@@ -1,0 +1,10 @@
+MACRO 16777218 "Bloque de hielo" INV_Misc_QuestionMark
+#showtooltip
+/stopcasting
+/camcelaura Bloque de hielo
+/lanzar Bloque de hielo
+END
+MACRO 16777217 "Poli" INV_Misc_QuestionMark
+#showtooltip Polimorfia
+/cast [modifier:shift, target=focus] Polimorfia; [target=mouseover,harm] Polimorfia; Polimorfia
+END

@@ -1,0 +1,79 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+	},
+	["ChatHistoryLog"] = {
+		{
+			"LFM TOC 10 NM,DPS TANK! MING 5k GS!!", -- [1]
+			"Gnojavi", -- [2]
+			"Orco", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			188, -- [11]
+			"0x0700000000885BBA", -- [12]
+			0, -- [13]
+			[51] = 1668123398,
+			[50] = "CHAT_MSG_YELL",
+			[52] = "|cff68ccefGnojavi|r",
+		}, -- [1]
+		{
+			"LFM ICC 25 n GSB hc (B+P ress) need Spriest, warlock,boomy,mage 1 uhdk1ret 5.8 + achiev |cffffff00|Hachievement:4584:07000000004FF658:1:7:22:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Penchoo", -- [2]
+			"Orco", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"DND", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			205, -- [11]
+			"0x07000000004FF658", -- [12]
+			0, -- [13]
+			[51] = 1668123403,
+			[50] = "CHAT_MSG_YELL",
+			[52] = "|cfff48cbaPenchoo|r",
+		}, -- [2]
+		{
+			"Wts |cffa335ee|Hitem:50380:0:0:0:0:0:0:0:80|h[Empuñadura Maltrecha]|h|r 12k5", -- [1]
+			"Kurohyou", -- [2]
+			"Orco", -- [3]
+			"6. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			6, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			206, -- [11]
+			"0x070000000054FB32", -- [12]
+			0, -- [13]
+			[51] = 1668123403,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaKurohyou|r",
+		}, -- [3]
+		{
+			"LU TI ", -- [1]
+			"Swirlflipper", -- [2]
+			"Lengua común", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			215, -- [11]
+			"0x07000000007BB81F", -- [12]
+			0, -- [13]
+			[51] = 1668123407,
+			[50] = "CHAT_MSG_YELL",
+			[52] = "|cffc69b6dSwirlflipper|r",
+		}, -- [4]
+	},
+}

@@ -1,0 +1,26 @@
+
+FixGroupsDB = {
+	["faction"] = {
+		["Horde"] = {
+			["damagerRoleNonGuildCache"] = {
+				["melee"] = {
+				},
+				["ranged"] = {
+				},
+			},
+			["damagerRoleGuildCache"] = {
+				["melee"] = {
+				},
+				["ranged"] = {
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Katy - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

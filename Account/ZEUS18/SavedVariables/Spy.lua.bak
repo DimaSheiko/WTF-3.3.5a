@@ -1,0 +1,39 @@
+
+SpyDB = {
+	["kosData"] = {
+		["Frostmourne"] = {
+			["Alliance"] = {
+				["Doxy"] = {
+				},
+			},
+		},
+	},
+	["removeKOSData"] = {
+		["Frostmourne"] = {
+			["Alliance"] = {
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Doxy - Frostmourne"] = "Doxy - Frostmourne",
+	},
+	["profiles"] = {
+		["Doxy - Frostmourne"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = 760.0000362273697,
+					["x"] = 10.00000025876693,
+					["w"] = 129.9999992236992,
+					["h"] = 44.99999909431575,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+		},
+	},
+}

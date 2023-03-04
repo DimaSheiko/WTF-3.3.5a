@@ -1,0 +1,19 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["Katy - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = {
+	["profileKeys"] = {
+		["Katy - Icecrown"] = "Katy - Icecrown",
+	},
+	["profiles"] = {
+		["Katy - Icecrown"] = {
+		},
+	},
+}

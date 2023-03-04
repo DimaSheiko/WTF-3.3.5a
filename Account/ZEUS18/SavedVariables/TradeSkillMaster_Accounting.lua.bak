@@ -1,0 +1,41 @@
+
+TradeSkillMaster_AccountingDB = {
+	["global"] = {
+		["itemStrings"] = {
+			["Tierra Eterna"] = "item:35624:0:0:0:0:0:0",
+			["Agua Eterna"] = "item:35622:0:0:0:0:0:0",
+			["Vida Eterna"] = "item:35625:0:0:0:0:0:0",
+			["Agua Cristalizada"] = "item:37705:0:0:0:0:0:0",
+			["Esencia Cósmica Inferior"] = "item:34056:0:0:0:0:0:0",
+			["Barra de Titanio"] = "item:41163:0:0:0:0:0:0",
+			["Pergamino de Encantar arma: Precisión"] = "item:44497:0:0:0:0:0:0",
+			["Cristal Abisal"] = "item:34057:0:0:0:0:0:0",
+			["Pergamino de Encantar arma: magia negra"] = "item:43987:0:0:0:0:0:0",
+			["Vitela de Arma III"] = "item:43146:0:0:0:0:0:0",
+			["Fragmento Onírico"] = "item:34052:0:0:0:0:0:0",
+			["Polvo Infinito"] = "item:34054:0:0:0:0:0:0",
+			["Aire Eterno"] = "item:35623:0:0:0:0:0:0",
+			["Vitela de Armadura III"] = "item:43145:0:0:0:0:0:0",
+			["Pergamino de Encantar pechera: temple excepcional"] = "item:38975:0:0:0:0:0:0",
+			["Polvo Arcano"] = "item:22445:0:0:0:0:0:0",
+			["Esencia Cósmica Superior"] = "item:34055:0:0:0:0:0:0",
+			["Vitela de Armadura II"] = "item:37602:0:0:0:0:0:0",
+		},
+	},
+	["profileKeys"] = {
+		["Yeni - Icecrown"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Icecrown"] = {
+			["csvExpired"] = "itemString,itemName,stackSize,quantity,player,time",
+			["csvBuys"] = "itemString,itemName,stackSize,quantity,price,seller,player,time,source",
+			["csvIncome"] = "type,amount,source,player,time",
+			["csvExpense"] = "type,amount,destination,player,time",
+			["goldLog"] = {
+				["Yeni"] = "startMinute,endMinute,copper\n27948928,27948940,110000000",
+			},
+			["csvSales"] = "itemString,itemName,stackSize,quantity,price,buyer,player,time,source",
+			["csvCancelled"] = "itemString,itemName,stackSize,quantity,player,time",
+		},
+	},
+}

@@ -1,0 +1,52 @@
+MACRO 25 "AAChat" INV_Misc_QuestionMark
+Star {Estrella} / {rt1}
+Circle {Círculo} / {Moneda} {rt2}
+Diamond {Diamante} / {rt3}
+Triangle {Triángulo} / {rt4}
+Moon {Luna} / {rt5}
+Square {Cuadrado} / {rt6}
+Cross {Cruz} / {X} / {rt7}
+Skull {Cráneo} / {rt8}
+Fuente: https://www.jugonestop.com/pregunta
+END
+MACRO 18 "Camera" Ability_Druid_HealingInstincts
+/console cameraDistanceMaxFactor 4
+END
+MACRO 15 "ClicToMove" Ability_Kick
+/click InterfaceOptionsMousePanelClickToMove 1
+END
+MACRO 21 "Desgarrar" INV_Misc_QuestionMark
+#showtooltip
+/lanzar Desgarrar
+/startattack
+END
+MACRO 22 "Ejecutar" INV_Misc_QuestionMark
+#showtooltip
+/lanzar Ejecutar
+/startattack
+END
+MACRO 20 "Golpe heroico" INV_Misc_QuestionMark
+#showtooltip
+/lanzar Golpe heroico
+/startattack
+END
+MACRO 23 "Golpe Mortal" INV_Misc_QuestionMark
+#showtooltip
+/lanzar Golpe mortal
+/startattack
+END
+MACRO 16 "Mount" INV_Misc_QuestionMark
+/rmount
+END
+MACRO 19 "TSMAucBClick" INV_Misc_QuestionMark
+/click TSMAuctioningCancelButton
+/click TSMAuctioningPostButton
+END
+MACRO 17 "Valar Morghulis" Ability_Creature_Cursed_03
+/gritar Valar Morghulis
+END
+MACRO 24 "Victoria" INV_Misc_QuestionMark
+#showtooltip
+/lanzar Ataque de la victoria
+/startattack
+END

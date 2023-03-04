@@ -1,0 +1,3518 @@
+
+TradeSkillMaster_CraftingDB = {
+	["global"] = {
+		["optionsTreeStatus"] = {
+			["groups"] = {
+				["1"] = true,
+				[2] = true,
+			},
+			["scrollvalue"] = 0,
+			["selected"] = 1,
+			["treesizable"] = true,
+			["treewidth"] = 175,
+			["fullwidth"] = 740.9997041000196,
+		},
+		["defaultMatCostMethod"] = "AucAppraiser",
+		["frameQueueOpen"] = true,
+		["priceColumn"] = 3,
+		["defaultCraftPriceMethod"] = "AucMinBuyout",
+	},
+	["profileKeys"] = {
+		["Yeni - Icecrown"] = "Default",
+	},
+	["factionrealm"] = {
+		["Horde - Icecrown"] = {
+			["mats"] = {
+				["item:11130:0:0:0:0:0:0"] = {
+					["name"] = "Vara Rúnica de Oro",
+				},
+				["item:6217:0:0:0:0:0:0"] = {
+					["name"] = "Vara de Cobre",
+				},
+				["item:11178:0:0:0:0:0:0"] = {
+					["name"] = "Fragmento Radiante Grande",
+				},
+				["item:22449:0:0:0:0:0:0"] = {
+					["name"] = "Fragmento Centelleante Grande",
+				},
+				["item:10978:0:0:0:0:0:0"] = {
+					["name"] = "Fragmento de Luz Trémula Pequeño",
+				},
+				["item:39350:0:0:0:0:0:0"] = {
+					["name"] = "Vitela de Arma II",
+				},
+				["item:34052:0:0:0:0:0:0"] = {
+					["name"] = "Fragmento Onírico",
+				},
+				["item:13926:0:0:0:0:0:0"] = {
+					["name"] = "Perla de Oro",
+				},
+				["item:17035:0:0:0:0:0:0"] = {
+					["name"] = "Semilla Tuercespina",
+				},
+				["item:25843:0:0:0:0:0:0"] = {
+					["name"] = "Vara de Hierro Vil",
+				},
+				["item:7068:0:0:0:0:0:0"] = {
+					["name"] = "Fuego Elemental",
+				},
+				["item:6037:0:0:0:0:0:0"] = {
+					["name"] = "Barra de Veraplata",
+				},
+				["item:7075:0:0:0:0:0:0"] = {
+					["name"] = "Núcleo de Tierra",
+				},
+				["item:21885:0:0:0:0:0:0"] = {
+					["name"] = "Agua Primigenia",
+				},
+				["item:7078:0:0:0:0:0:0"] = {
+					["name"] = "Esencia de Fuego",
+				},
+				["item:16202:0:0:0:0:0:0"] = {
+					["name"] = "Esencia Eterna Inferior",
+				},
+				["item:11138:0:0:0:0:0:0"] = {
+					["name"] = "Fragmento Resplandeciente Pequeño",
+				},
+				["item:16204:0:0:0:0:0:0"] = {
+					["name"] = "Polvo de Ilusión",
+				},
+				["item:35625:0:0:0:0:0:0"] = {
+					["name"] = "Vida Eterna",
+				},
+				["item:22446:0:0:0:0:0:0"] = {
+					["name"] = "Esencia Bidimensional Superior",
+				},
+				["item:4470:0:0:0:0:0:0"] = {
+					["name"] = "Madera Simple",
+				},
+				["item:22447:0:0:0:0:0:0"] = {
+					["name"] = "Esencia Bidimensional Inferior",
+				},
+				["item:8170:0:0:0:0:0:0"] = {
+					["name"] = "Cuero Basto",
+				},
+				["item:11128:0:0:0:0:0:0"] = {
+					["name"] = "Vara Dorada",
+				},
+				["item:11083:0:0:0:0:0:0"] = {
+					["name"] = "Polvo de Alma",
+				},
+				["item:22445:0:0:0:0:0:0"] = {
+					["name"] = "Polvo Arcano",
+				},
+				["item:7082:0:0:0:0:0:0"] = {
+					["name"] = "Esencia de Aire",
+				},
+				["item:14344:0:0:0:0:0:0"] = {
+					["name"] = "Fragmento Luminoso Grande",
+				},
+				["item:12359:0:0:0:0:0:0"] = {
+					["name"] = "Barra de Torio",
+				},
+				["item:37602:0:0:0:0:0:0"] = {
+					["name"] = "Vitela de Armadura II",
+				},
+				["item:34057:0:0:0:0:0:0"] = {
+					["name"] = "Cristal Abisal",
+				},
+				["item:6218:0:0:0:0:0:0"] = {
+					["name"] = "Vara Rúnica de Cobre",
+				},
+				["item:34056:0:0:0:0:0:0"] = {
+					["name"] = "Esencia Cósmica Inferior",
+				},
+				["item:10939:0:0:0:0:0:0"] = {
+					["name"] = "Esencia Mágica Superior",
+				},
+				["item:11174:0:0:0:0:0:0"] = {
+					["name"] = "Esencia Abisal Inferior",
+				},
+				["item:35624:0:0:0:0:0:0"] = {
+					["name"] = "Tierra Eterna",
+				},
+				["item:6338:0:0:0:0:0:0"] = {
+					["name"] = "Vara de Plata",
+				},
+				["item:11145:0:0:0:0:0:0"] = {
+					["name"] = "Vara Rúnica de Veraplata",
+				},
+				["item:13446:0:0:0:0:0:0"] = {
+					["name"] = "Poción de Sanación Sublime",
+				},
+				["item:6339:0:0:0:0:0:0"] = {
+					["name"] = "Vara Rúnica de Plata",
+				},
+				["item:5500:0:0:0:0:0:0"] = {
+					["name"] = "Perla Iridiscente",
+				},
+				["item:6371:0:0:0:0:0:0"] = {
+					["name"] = "Aceite de Fuego",
+				},
+				["item:11175:0:0:0:0:0:0"] = {
+					["name"] = "Esencia Abisal Superior",
+				},
+				["item:22451:0:0:0:0:0:0"] = {
+					["name"] = "Aire Primigenio",
+				},
+				["item:23571:0:0:0:0:0:0"] = {
+					["name"] = "Poderío Primigenio",
+				},
+				["item:14343:0:0:0:0:0:0"] = {
+					["name"] = "Fragmento Luminoso Pequeño",
+				},
+				["item:3371:0:0:0:0:0:0"] = {
+					["name"] = "Vial de cristal",
+				},
+				["item:11144:0:0:0:0:0:0"] = {
+					["name"] = "Vara de Veraplata",
+				},
+				["item:7971:0:0:0:0:0:0"] = {
+					["name"] = "Perla Negra",
+				},
+				["item:20725:0:0:0:0:0:0"] = {
+					["name"] = "Cristal Nexo",
+				},
+				["item:7067:0:0:0:0:0:0"] = {
+					["name"] = "Tierra Elemental",
+				},
+				["item:16206:0:0:0:0:0:0"] = {
+					["name"] = "Vara de Arcanita",
+				},
+				["item:22450:0:0:0:0:0:0"] = {
+					["name"] = "Cristal de Vacío",
+				},
+				["item:7080:0:0:0:0:0:0"] = {
+					["name"] = "Esencia de Agua",
+				},
+				["item:22452:0:0:0:0:0:0"] = {
+					["name"] = "Tierra Primigenia",
+				},
+				["item:16207:0:0:0:0:0:0"] = {
+					["name"] = "Vara Rúnica de Arcanita",
+				},
+				["item:22461:0:0:0:0:0:0"] = {
+					["name"] = "Vara Rúnica de Hierro Vil",
+				},
+				["item:25844:0:0:0:0:0:0"] = {
+					["name"] = "Vara de Adamantita",
+				},
+				["item:43146:0:0:0:0:0:0"] = {
+					["name"] = "Vitela de Arma III",
+				},
+				["item:22462:0:0:0:0:0:0"] = {
+					["name"] = "Vara Rúnica de Adamantita",
+				},
+				["item:7909:0:0:0:0:0:0"] = {
+					["name"] = "Aguamarina",
+				},
+				["item:25845:0:0:0:0:0:0"] = {
+					["name"] = "Vara de Eternio",
+				},
+				["item:11084:0:0:0:0:0:0"] = {
+					["name"] = "Fragmento con Luz Trémula Grande",
+				},
+				["item:9224:0:0:0:0:0:0"] = {
+					["name"] = "Elixir de Matanza de Demonios",
+				},
+				["item:41745:0:0:0:0:0:0"] = {
+					["name"] = "Vara de Titanio",
+				},
+				["item:18256:0:0:0:0:0:0"] = {
+					["name"] = "Vial derretido",
+				},
+				["item:22448:0:0:0:0:0:0"] = {
+					["name"] = "Fragmento Centelleante Pequeño",
+				},
+				["item:16203:0:0:0:0:0:0"] = {
+					["name"] = "Esencia Eterna Superior",
+				},
+				["item:37705:0:0:0:0:0:0"] = {
+					["name"] = "Agua Cristalizada",
+				},
+				["item:43145:0:0:0:0:0:0"] = {
+					["name"] = "Vitela de Armadura III",
+				},
+				["item:11176:0:0:0:0:0:0"] = {
+					["name"] = "Polvo Onírico",
+				},
+				["item:22791:0:0:0:0:0:0"] = {
+					["name"] = "Flor Abisal",
+				},
+				["item:3372:0:0:0:0:0:0"] = {
+					["name"] = "Vial rajado",
+				},
+				["item:8153:0:0:0:0:0:0"] = {
+					["name"] = "Atriplex Salvaje",
+				},
+				["item:11291:0:0:0:0:0:0"] = {
+					["name"] = "Madera de Estrella",
+				},
+				["item:22792:0:0:0:0:0:0"] = {
+					["name"] = "Vid Pesadilla",
+				},
+				["item:7081:0:0:0:0:0:0"] = {
+					["name"] = "Aliento de Viento",
+				},
+				["item:10938:0:0:0:0:0:0"] = {
+					["name"] = "Esencia Mágica Inferior",
+				},
+				["item:34055:0:0:0:0:0:0"] = {
+					["name"] = "Esencia Cósmica Superior",
+				},
+				["item:10940:0:0:0:0:0:0"] = {
+					["name"] = "Polvo Extraño",
+				},
+				["item:10998:0:0:0:0:0:0"] = {
+					["name"] = "Esencia Astral Inferior",
+				},
+				["item:6370:0:0:0:0:0:0"] = {
+					["name"] = "Aceite de Bocanegra",
+				},
+				["item:11134:0:0:0:0:0:0"] = {
+					["name"] = "Esencia Mística Inferior",
+				},
+				["item:13467:0:0:0:0:0:0"] = {
+					["name"] = "Setelo",
+				},
+				["item:3356:0:0:0:0:0:0"] = {
+					["name"] = "Sangrerregia",
+				},
+				["item:35623:0:0:0:0:0:0"] = {
+					["name"] = "Aire Eterno",
+				},
+				["item:11139:0:0:0:0:0:0"] = {
+					["name"] = "Fragmento Resplandeciente Grande",
+				},
+				["item:7972:0:0:0:0:0:0"] = {
+					["name"] = "Icor de No-muerto",
+				},
+				["item:22463:0:0:0:0:0:0"] = {
+					["name"] = "Vara Rúnica de Eternio",
+				},
+				["item:17034:0:0:0:0:0:0"] = {
+					["name"] = "Semillas de Arce",
+				},
+				["item:11082:0:0:0:0:0:0"] = {
+					["name"] = "Esencia Astral Superior",
+				},
+				["item:36860:0:0:0:0:0:0"] = {
+					["name"] = "Fuego Eterno",
+				},
+				["item:5637:0:0:0:0:0:0"] = {
+					["name"] = "Colmillo Grande",
+				},
+				["item:38682:0:0:0:0:0:0"] = {
+					["name"] = "Vitela de Armadura",
+				},
+				["item:7079:0:0:0:0:0:0"] = {
+					["name"] = "Globo de Agua",
+				},
+				["item:12808:0:0:0:0:0:0"] = {
+					["name"] = "Esencia de No-muerto",
+				},
+				["item:11135:0:0:0:0:0:0"] = {
+					["name"] = "Esencia Mística Superior",
+				},
+				["item:35627:0:0:0:0:0:0"] = {
+					["name"] = "Sombra Eterna",
+				},
+				["item:34054:0:0:0:0:0:0"] = {
+					["name"] = "Polvo Infinito",
+				},
+				["item:11177:0:0:0:0:0:0"] = {
+					["name"] = "Fragmento Radiante Pequeño",
+				},
+				["item:7392:0:0:0:0:0:0"] = {
+					["name"] = "Escama de Cría Verde",
+				},
+				["item:41163:0:0:0:0:0:0"] = {
+					["name"] = "Barra de Titanio",
+				},
+				["item:11137:0:0:0:0:0:0"] = {
+					["name"] = "Polvo de Visión",
+				},
+				["item:39349:0:0:0:0:0:0"] = {
+					["name"] = "Vitela de Arma",
+				},
+				["item:7077:0:0:0:0:0:0"] = {
+					["name"] = "Corazón de fuego",
+				},
+				["item:13444:0:0:0:0:0:0"] = {
+					["name"] = "Poción de Maná Sublime",
+				},
+			},
+			["craftingCostCache"] = {
+				["item:11130:0:0:0:0:0:0"] = 1976910,
+				["item:16207:0:0:0:0:0:0"] = 10909263,
+				["item:6339:0:0:0:0:0:0"] = 1386240,
+				["item:6218:0:0:0:0:0:0"] = 546010,
+				["item:22449:0:0:0:0:0:0"] = 294030,
+				["item:22462:0:0:0:0:0:0"] = 30383159,
+				["item:11145:0:0:0:0:0:0"] = 3997239,
+				["item:22448:0:0:0:0:0:0"] = 69299,
+				["item:22463:0:0:0:0:0:0"] = 37360739,
+				["item:22461:0:0:0:0:0:0"] = 15862786,
+			},
+			["crafts"] = {
+				[44488] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 4,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: precisión",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38953:0:0:0:0:0:0",
+				},
+				[7426] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10938:0:0:0:0:0:0"] = 1,
+						["item:10940:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: amortiguación menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38767:0:0:0:0:0:0",
+				},
+				[7428] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10938:0:0:0:0:0:0"] = 1,
+						["item:10940:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: desvío menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38768:0:0:0:0:0:0",
+				},
+				[44528] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 3,
+						["item:34056:0:0:0:0:0:0"] = 3,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: entereza superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38966:0:0:0:0:0:0",
+				},
+				[60609] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 6,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: velocidad",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:44456:0:0:0:0:0:0",
+				},
+				[32667] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22446:0:0:0:0:0:0"] = 6,
+						["item:22462:0:0:0:0:0:0"] = 1,
+						["item:22445:0:0:0:0:0:0"] = 6,
+						["item:25845:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Vara Rúnica de Eternio",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:22463:0:0:0:0:0:0",
+				},
+				[13817] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11137:0:0:0:0:0:0"] = 5,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: aguante",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38828:0:0:0:0:0:0",
+				},
+				[59621] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:43146:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 12,
+						["item:34055:0:0:0:0:0:0"] = 4,
+						["item:34057:0:0:0:0:0:0"] = 10,
+						["item:34052:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Encantar arma: Rabiar",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:44493:0:0:0:0:0:0",
+				},
+				[47899] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 6,
+						["item:34057:0:0:0:0:0:0"] = 1,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: sabiduría",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:39004:0:0:0:0:0:0",
+				},
+				[44592] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 4,
+						["item:34056:0:0:0:0:0:0"] = 1,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: poder con hechizos excepcional",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38979:0:0:0:0:0:0",
+				},
+				[44616] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 3,
+						["item:34054:0:0:0:0:0:0"] = 16,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: estadísticas superiores",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38987:0:0:0:0:0:0",
+				},
+				[7443] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10938:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: maná menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38769:0:0:0:0:0:0",
+				},
+				[13841] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:6037:0:0:0:0:0:0"] = 3,
+						["item:11137:0:0:0:0:0:0"] = 3,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: minería avanzada",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38831:0:0:0:0:0:0",
+				},
+				[17180] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11176:0:0:0:0:0:0"] = 3,
+						["item:12359:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Barra de torio encantado",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:12655:0:0:0:0:0:0",
+				},
+				[34002] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22445:0:0:0:0:0:0"] = 6,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: asalto",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38938:0:0:0:0:0:0",
+				},
+				[7454] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10938:0:0:0:0:0:0"] = 2,
+						["item:10940:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: resistencia menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38770:0:0:0:0:0:0",
+				},
+				[20009] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11176:0:0:0:0:0:0"] = 4,
+						["item:16202:0:0:0:0:0:0"] = 3,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: espíritu excelente",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38853:0:0:0:0:0:0",
+				},
+				[44489] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 6,
+						["item:35624:0:0:0:0:0:0"] = 6,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: defensa",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38954:0:0:0:0:0:0",
+				},
+				[44513] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 6,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: asalto superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38964:0:0:0:0:0:0",
+				},
+				[20029] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:13467:0:0:0:0:0:0"] = 1,
+						["item:14343:0:0:0:0:0:0"] = 4,
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:7080:0:0:0:0:0:0"] = 1,
+						["item:7082:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar arma: escalofrío gélido",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38868:0:0:0:0:0:0",
+				},
+				[20033] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:12808:0:0:0:0:0:0"] = 4,
+						["item:14344:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Encantar arma: arma profana",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38872:0:0:0:0:0:0",
+				},
+				[13620] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11083:0:0:0:0:0:0"] = 1,
+						["item:6370:0:0:0:0:0:0"] = 3,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: pesca",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38802:0:0:0:0:0:0",
+				},
+				[27946] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22445:0:0:0:0:0:0"] = 12,
+						["item:22452:0:0:0:0:0:0"] = 10,
+						["item:22446:0:0:0:0:0:0"] = 4,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: bloquear con escudo",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38906:0:0:0:0:0:0",
+				},
+				[13626] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11082:0:0:0:0:0:0"] = 1,
+						["item:11084:0:0:0:0:0:0"] = 1,
+						["item:11083:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: estadísticas menores",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38804:0:0:0:0:0:0",
+				},
+				[13628] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11083:0:0:0:0:0:0"] = 2,
+						["item:11082:0:0:0:0:0:0"] = 2,
+						["item:6339:0:0:0:0:0:0"] = 1,
+						["item:11128:0:0:0:0:0:0"] = 1,
+						["item:5500:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Vara Rúnica de Oro",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:11130:0:0:0:0:0:0",
+				},
+				[47900] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 4,
+						["item:34054:0:0:0:0:0:0"] = 20,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: supersalud",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:39005:0:0:0:0:0:0",
+				},
+				[44593] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 4,
+						["item:34054:0:0:0:0:0:0"] = 16,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: espíritu sublime",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38980:0:0:0:0:0:0",
+				},
+				[13640] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11083:0:0:0:0:0:0"] = 3,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: salud superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38808:0:0:0:0:0:0",
+				},
+				[44625] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34052:0:0:0:0:0:0"] = 2,
+						["item:35624:0:0:0:0:0:0"] = 8,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: armero",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38990:0:0:0:0:0:0",
+				},
+				[44633] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34052:0:0:0:0:0:0"] = 4,
+						["item:43146:0:0:0:0:0:0"] = 1,
+						["item:35623:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Encantar arma: agilidad excepcional",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38995:0:0:0:0:0:0",
+				},
+				[13646] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11134:0:0:0:0:0:0"] = 1,
+						["item:11083:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: desvío inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38811:0:0:0:0:0:0",
+				},
+				[60714] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:43146:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 30,
+						["item:34057:0:0:0:0:0:0"] = 6,
+						["item:34052:0:0:0:0:0:0"] = 6,
+					},
+					["name"] = "Encantar arma: poder con hechizos poderoso",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:44467:0:0:0:0:0:0",
+				},
+				[13905] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11175:0:0:0:0:0:0"] = 1,
+						["item:11176:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: espíritu superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38839:0:0:0:0:0:0",
+				},
+				[28022] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22448:0:0:0:0:0:0"] = 3,
+					},
+					["intermediateQueued"] = 8,
+					["name"] = "Fragmento Centelleante Grande",
+					["profession"] = "Encantamiento",
+					["queued"] = 8,
+					["itemID"] = "item:22449:0:0:0:0:0:0",
+				},
+				[33995] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22445:0:0:0:0:0:0"] = 12,
+						["item:22446:0:0:0:0:0:0"] = 1,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: fuerza sublime",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38933:0:0:0:0:0:0",
+				},
+				[13419] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10998:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: agilidad menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38789:0:0:0:0:0:0",
+				},
+				[44506] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 1,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: recolector",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38960:0:0:0:0:0:0",
+				},
+				[13935] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11175:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: agilidad",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38844:0:0:0:0:0:0",
+				},
+				[13937] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11176:0:0:0:0:0:0"] = 2,
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:11178:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Encantar arma 2M: impacto superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38845:0:0:0:0:0:0",
+				},
+				[13939] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11176:0:0:0:0:0:0"] = 2,
+						["item:11175:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: fuerza superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38846:0:0:0:0:0:0",
+				},
+				[13941] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11176:0:0:0:0:0:0"] = 3,
+						["item:11175:0:0:0:0:0:0"] = 2,
+						["item:11178:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: estadísticas",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38847:0:0:0:0:0:0",
+				},
+				[60619] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 40,
+						["item:34052:0:0:0:0:0:0"] = 8,
+						["item:41745:0:0:0:0:0:0"] = 1,
+						["item:22463:0:0:0:0:0:0"] = 1,
+						["item:34055:0:0:0:0:0:0"] = 12,
+					},
+					["name"] = "Vara Rúnica de Titanio",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:44452:0:0:0:0:0:0",
+				},
+				[13945] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11176:0:0:0:0:0:0"] = 5,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: aguante superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38849:0:0:0:0:0:0",
+				},
+				[13947] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11176:0:0:0:0:0:0"] = 3,
+						["item:11178:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: equitación",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38850:0:0:0:0:0:0",
+				},
+				[47901] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 2,
+						["item:34054:0:0:0:0:0:0"] = 10,
+						["item:34052:0:0:0:0:0:0"] = 2,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: vitalidad colmillarr",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:39006:0:0:0:0:0:0",
+				},
+				[13698] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:7392:0:0:0:0:0:0"] = 3,
+						["item:11137:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: desuello",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38823:0:0:0:0:0:0",
+				},
+				[13700] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11139:0:0:0:0:0:0"] = 1,
+						["item:11135:0:0:0:0:0:0"] = 2,
+						["item:11137:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: estadísticas inferiores",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38824:0:0:0:0:0:0",
+				},
+				[13702] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11130:0:0:0:0:0:0"] = 1,
+						["item:11135:0:0:0:0:0:0"] = 2,
+						["item:11137:0:0:0:0:0:0"] = 2,
+						["item:11144:0:0:0:0:0:0"] = 1,
+						["item:7971:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Vara Rúnica de Veraplata",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:11145:0:0:0:0:0:0",
+				},
+				[60691] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:43146:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 40,
+						["item:34057:0:0:0:0:0:0"] = 6,
+						["item:34055:0:0:0:0:0:0"] = 6,
+					},
+					["name"] = "Encantar arma 2M: masacre",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:44463:0:0:0:0:0:0",
+				},
+				[60707] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:43146:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 10,
+						["item:34055:0:0:0:0:0:0"] = 2,
+						["item:34057:0:0:0:0:0:0"] = 4,
+						["item:34052:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Encantar arma: potencia excelente",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:44466:0:0:0:0:0:0",
+				},
+				[7766] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10938:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: espíritu menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38774:0:0:0:0:0:0",
+				},
+				[17181] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:16202:0:0:0:0:0:0"] = 1,
+						["item:8170:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Cuero Encantado",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:12810:0:0:0:0:0:0",
+				},
+				[60763] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 4,
+						["item:34052:0:0:0:0:0:0"] = 4,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: asalto superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:44469:0:0:0:0:0:0",
+				},
+				[33996] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22445:0:0:0:0:0:0"] = 8,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: asalto",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38934:0:0:0:0:0:0",
+				},
+				[34004] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22446:0:0:0:0:0:0"] = 1,
+						["item:22451:0:0:0:0:0:0"] = 1,
+						["item:22445:0:0:0:0:0:0"] = 4,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: agilidad superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38940:0:0:0:0:0:0",
+				},
+				[20014] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:7081:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+						["item:7079:0:0:0:0:0:0"] = 1,
+						["item:7077:0:0:0:0:0:0"] = 1,
+						["item:7972:0:0:0:0:0:0"] = 1,
+						["item:7075:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: resistencia superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38858:0:0:0:0:0:0",
+				},
+				[13485] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10940:0:0:0:0:0:0"] = 4,
+						["item:10998:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: espíritu inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38792:0:0:0:0:0:0",
+				},
+				[7779] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10939:0:0:0:0:0:0"] = 1,
+						["item:10940:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: agilidad menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38777:0:0:0:0:0:0",
+				},
+				[20030] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:16204:0:0:0:0:0:0"] = 10,
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:14344:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Encantar arma 2M: impacto excelente",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38869:0:0:0:0:0:0",
+				},
+				[13746] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11137:0:0:0:0:0:0"] = 3,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: defensa superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38825:0:0:0:0:0:0",
+				},
+				[7782] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10940:0:0:0:0:0:0"] = 5,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: fuerza menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38778:0:0:0:0:0:0",
+				},
+				[44555] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 10,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: intelecto excepcional",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38968:0:0:0:0:0:0",
+				},
+				[13501] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11083:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: aguante inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38793:0:0:0:0:0:0",
+				},
+				[13503] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11083:0:0:0:0:0:0"] = 2,
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:11084:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar arma: golpear inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38794:0:0:0:0:0:0",
+				},
+				[7788] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10939:0:0:0:0:0:0"] = 1,
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:10978:0:0:0:0:0:0"] = 1,
+						["item:10940:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Encantar arma: golpear menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38780:0:0:0:0:0:0",
+				},
+				[44595] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:43146:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 6,
+						["item:34052:0:0:0:0:0:0"] = 6,
+					},
+					["name"] = "Encantar arma 2M: finiquiplaga",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38981:0:0:0:0:0:0",
+				},
+				[60668] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 4,
+						["item:34054:0:0:0:0:0:0"] = 20,
+						["item:34052:0:0:0:0:0:0"] = 1,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: triturador",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:44458:0:0:0:0:0:0",
+				},
+				[63746] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11174:0:0:0:0:0:0"] = 1,
+						["item:11137:0:0:0:0:0:0"] = 4,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: Precisión inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:45628:0:0:0:0:0:0",
+				},
+				[60692] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34052:0:0:0:0:0:0"] = 4,
+						["item:34057:0:0:0:0:0:0"] = 4,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: estadísticas potentes",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:44465:0:0:0:0:0:0",
+				},
+				[44635] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 8,
+						["item:34056:0:0:0:0:0:0"] = 4,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: poder con hechizos superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38997:0:0:0:0:0:0",
+				},
+				[7795] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:6218:0:0:0:0:0:0"] = 1,
+						["item:6338:0:0:0:0:0:0"] = 1,
+						["item:10939:0:0:0:0:0:0"] = 3,
+						["item:10940:0:0:0:0:0:0"] = 6,
+					},
+					["name"] = "Vara Rúnica de Plata",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:6339:0:0:0:0:0:0",
+				},
+				[62948] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:43146:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 40,
+						["item:34057:0:0:0:0:0:0"] = 6,
+						["item:34052:0:0:0:0:0:0"] = 6,
+					},
+					["name"] = "Encantar bastón: poder con hechizos superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:45056:0:0:0:0:0:0",
+				},
+				[28003] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22449:0:0:0:0:0:0"] = 12,
+						["item:22445:0:0:0:0:0:0"] = 20,
+						["item:22446:0:0:0:0:0:0"] = 10,
+						["item:39350:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar arma: oleada de hechizos",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38926:0:0:0:0:0:0",
+				},
+				[27899] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22445:0:0:0:0:0:0"] = 6,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: lozanía",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38897:0:0:0:0:0:0",
+				},
+				[34009] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22445:0:0:0:0:0:0"] = 15,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: aguante sublime",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38945:0:0:0:0:0:0",
+				},
+				[13529] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11083:0:0:0:0:0:0"] = 3,
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:11084:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar arma 2M: impacto inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38796:0:0:0:0:0:0",
+				},
+				[28019] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22445:0:0:0:0:0:0"] = 3,
+						["item:18256:0:0:0:0:0:0"] = 1,
+						["item:22792:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Aceite de Zahorí Excelente",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:22522:0:0:0:0:0:0",
+				},
+				[34001] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22447:0:0:0:0:0:0"] = 3,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: intelecto sublime",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38937:0:0:0:0:0:0",
+				},
+				[14810] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11291:0:0:0:0:0:0"] = 1,
+						["item:11135:0:0:0:0:0:0"] = 1,
+						["item:11137:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Varita Mística Superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:11290:0:0:0:0:0:0",
+				},
+				[33993] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22447:0:0:0:0:0:0"] = 1,
+						["item:22445:0:0:0:0:0:0"] = 4,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: detonación",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38931:0:0:0:0:0:0",
+				},
+				[13794] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11174:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: resistencia",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38826:0:0:0:0:0:0",
+				},
+				[25126] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:3372:0:0:0:0:0:0"] = 1,
+						["item:17035:0:0:0:0:0:0"] = 2,
+						["item:11137:0:0:0:0:0:0"] = 3,
+					},
+					["name"] = "Aceite de Zahorí Inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:20746:0:0:0:0:0:0",
+				},
+				[44484] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 12,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: pericia",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38951:0:0:0:0:0:0",
+				},
+				[44492] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 3,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: salud poderosa",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38955:0:0:0:0:0:0",
+				},
+				[44500] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 9,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: agilidad excelente",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38959:0:0:0:0:0:0",
+				},
+				[44508] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 10,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: espíritu superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38961:0:0:0:0:0:0",
+				},
+				[7457] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10940:0:0:0:0:0:0"] = 3,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: aguante menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38771:0:0:0:0:0:0",
+				},
+				[44524] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34052:0:0:0:0:0:0"] = 4,
+						["item:36860:0:0:0:0:0:0"] = 4,
+						["item:43146:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar arma: Rompehielo",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38965:0:0:0:0:0:0",
+				},
+				[7776] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10938:0:0:0:0:0:0"] = 1,
+						["item:10939:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: maná inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38776:0:0:0:0:0:0",
+				},
+				[20013] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:16204:0:0:0:0:0:0"] = 4,
+						["item:16202:0:0:0:0:0:0"] = 4,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: fuerza superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38857:0:0:0:0:0:0",
+				},
+				[32665] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22449:0:0:0:0:0:0"] = 8,
+						["item:23571:0:0:0:0:0:0"] = 1,
+						["item:22461:0:0:0:0:0:0"] = 1,
+						["item:25844:0:0:0:0:0:0"] = 1,
+						["item:22446:0:0:0:0:0:0"] = 8,
+					},
+					["name"] = "Vara Rúnica de Adamantita",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:22462:0:0:0:0:0:0",
+				},
+				[60621] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:43146:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 2,
+						["item:34056:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Encantar arma: potencia superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:44453:0:0:0:0:0:0",
+				},
+				[44576] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34052:0:0:0:0:0:0"] = 1,
+						["item:35625:0:0:0:0:0:0"] = 4,
+						["item:43146:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar arma: Resguardo de vida",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38972:0:0:0:0:0:0",
+				},
+				[13943] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11175:0:0:0:0:0:0"] = 2,
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:11178:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Encantar arma: golpear superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38848:0:0:0:0:0:0",
+				},
+				[59625] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 6,
+						["item:34057:0:0:0:0:0:0"] = 6,
+						["item:34052:0:0:0:0:0:0"] = 6,
+						["item:43146:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar arma: magia negra",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:43987:0:0:0:0:0:0",
+				},
+				[60653] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 12,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: intelecto superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:44455:0:0:0:0:0:0",
+				},
+				[44596] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 20,
+						["item:35624:0:0:0:0:0:0"] = 1,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: resistencia a lo Arcano excelente",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38982:0:0:0:0:0:0",
+				},
+				[47766] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 10,
+						["item:35624:0:0:0:0:0:0"] = 1,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: defensa superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:39002:0:0:0:0:0:0",
+				},
+				[47672] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 2,
+						["item:34054:0:0:0:0:0:0"] = 15,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: Armadura poderosa",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:39001:0:0:0:0:0:0",
+				},
+				[20008] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:16202:0:0:0:0:0:0"] = 3,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: Intelecto superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38852:0:0:0:0:0:0",
+				},
+				[28027] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22449:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Esfera centelleante",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:22460:0:0:0:0:0:0",
+				},
+				[13836] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11137:0:0:0:0:0:0"] = 5,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: aguante",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38830:0:0:0:0:0:0",
+				},
+				[14809] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11134:0:0:0:0:0:0"] = 1,
+						["item:11083:0:0:0:0:0:0"] = 1,
+						["item:11291:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Varita Mística Inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:11289:0:0:0:0:0:0",
+				},
+				[13931] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11175:0:0:0:0:0:0"] = 1,
+						["item:11176:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: desvío",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38842:0:0:0:0:0:0",
+				},
+				[13948] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:8153:0:0:0:0:0:0"] = 2,
+						["item:11178:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: celeridad menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38851:0:0:0:0:0:0",
+				},
+				[13917] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11175:0:0:0:0:0:0"] = 1,
+						["item:11174:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: maná excelente",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38841:0:0:0:0:0:0",
+				},
+				[13846] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11174:0:0:0:0:0:0"] = 3,
+						["item:11137:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: espíritu superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38832:0:0:0:0:0:0",
+				},
+				[13915] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11176:0:0:0:0:0:0"] = 2,
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:9224:0:0:0:0:0:0"] = 1,
+						["item:11177:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar arma: matanza de demonios",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38840:0:0:0:0:0:0",
+				},
+				[27944] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22445:0:0:0:0:0:0"] = 6,
+						["item:22452:0:0:0:0:0:0"] = 10,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: escudo consistente",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38904:0:0:0:0:0:0",
+				},
+				[33990] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22446:0:0:0:0:0:0"] = 2,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: espíritu sublime",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38928:0:0:0:0:0:0",
+				},
+				[44575] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 6,
+						["item:34054:0:0:0:0:0:0"] = 24,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: asalto superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:44815:0:0:0:0:0:0",
+				},
+				[20051] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:16206:0:0:0:0:0:0"] = 1,
+						["item:16203:0:0:0:0:0:0"] = 4,
+						["item:11145:0:0:0:0:0:0"] = 1,
+						["item:16204:0:0:0:0:0:0"] = 10,
+						["item:13926:0:0:0:0:0:0"] = 1,
+						["item:14344:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Vara Rúnica de Arcanita",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:16207:0:0:0:0:0:0",
+				},
+				[13858] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11137:0:0:0:0:0:0"] = 6,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: salud excelente",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38833:0:0:0:0:0:0",
+				},
+				[60767] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 6,
+						["item:34054:0:0:0:0:0:0"] = 6,
+						["item:34052:0:0:0:0:0:0"] = 1,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: poder con hechizos excelente",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:44470:0:0:0:0:0:0",
+				},
+				[20011] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:16204:0:0:0:0:0:0"] = 10,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: aguante excelente",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38855:0:0:0:0:0:0",
+				},
+				[20015] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:16204:0:0:0:0:0:0"] = 8,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: defensa excelente",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38859:0:0:0:0:0:0",
+				},
+				[25125] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11083:0:0:0:0:0:0"] = 3,
+						["item:3372:0:0:0:0:0:0"] = 1,
+						["item:17034:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Aceite de Maná Menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:20745:0:0:0:0:0:0",
+				},
+				[20023] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:8153:0:0:0:0:0:0"] = 2,
+						["item:16202:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: agilidad superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38863:0:0:0:0:0:0",
+				},
+				[7745] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:10978:0:0:0:0:0:0"] = 1,
+						["item:10940:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Encantar arma 2M: impacto menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38772:0:0:0:0:0:0",
+				},
+				[13617] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11083:0:0:0:0:0:0"] = 1,
+						["item:3356:0:0:0:0:0:0"] = 3,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: herboristería",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38801:0:0:0:0:0:0",
+				},
+				[20035] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:14344:0:0:0:0:0:0"] = 2,
+						["item:16203:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Encantar arma 2M: espíritu sublime",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38874:0:0:0:0:0:0",
+				},
+				[60606] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 4,
+						["item:34056:0:0:0:0:0:0"] = 4,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: asalto",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:44449:0:0:0:0:0:0",
+				},
+				[27948] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22445:0:0:0:0:0:0"] = 6,
+						["item:13444:0:0:0:0:0:0"] = 4,
+						["item:13446:0:0:0:0:0:0"] = 4,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: vitalidad",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38908:0:0:0:0:0:0",
+				},
+				[44629] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:43146:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 10,
+						["item:34055:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Encantar arma: poder con hechizos excepcional",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38991:0:0:0:0:0:0",
+				},
+				[13882] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11174:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: agilidad inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38835:0:0:0:0:0:0",
+				},
+				[13890] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11174:0:0:0:0:0:0"] = 1,
+						["item:11177:0:0:0:0:0:0"] = 1,
+						["item:7909:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: velocidad menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38837:0:0:0:0:0:0",
+				},
+				[13631] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11134:0:0:0:0:0:0"] = 1,
+						["item:11083:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: aguante inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38805:0:0:0:0:0:0",
+				},
+				[13378] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10940:0:0:0:0:0:0"] = 2,
+						["item:10998:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: aguante menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38787:0:0:0:0:0:0",
+				},
+				[27972] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22449:0:0:0:0:0:0"] = 4,
+						["item:22445:0:0:0:0:0:0"] = 20,
+						["item:22446:0:0:0:0:0:0"] = 5,
+						["item:39350:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar arma: potencia",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38920:0:0:0:0:0:0",
+				},
+				[13637] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11083:0:0:0:0:0:0"] = 1,
+						["item:11134:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: agilidad inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38807:0:0:0:0:0:0",
+				},
+				[13657] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11134:0:0:0:0:0:0"] = 1,
+						["item:7068:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: Resistencia al Fuego",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38815:0:0:0:0:0:0",
+				},
+				[44621] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 2,
+						["item:34052:0:0:0:0:0:0"] = 6,
+						["item:43146:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar arma: matagigantes",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38988:0:0:0:0:0:0",
+				},
+				[13898] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:7078:0:0:0:0:0:0"] = 1,
+						["item:11177:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Encantar arma: arma ígnea",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38838:0:0:0:0:0:0",
+				},
+				[13663] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11135:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: maná superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38818:0:0:0:0:0:0",
+				},
+				[7859] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10998:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: espíritu inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38783:0:0:0:0:0:0",
+				},
+				[42613] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:20725:0:0:0:0:0:0"] = 1,
+					},
+					["intermediateQueued"] = 24,
+					["name"] = "Fragmento Centelleante Pequeño",
+					["profession"] = "Encantamiento",
+					["queued"] = 24,
+					["itemID"] = "item:22448:0:0:0:0:0:0",
+				},
+				[28004] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22449:0:0:0:0:0:0"] = 8,
+						["item:21885:0:0:0:0:0:0"] = 2,
+						["item:22450:0:0:0:0:0:0"] = 8,
+						["item:39350:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar arma: maestro de batalla",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38927:0:0:0:0:0:0",
+				},
+				[13653] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11134:0:0:0:0:0:0"] = 1,
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:11138:0:0:0:0:0:0"] = 1,
+						["item:5637:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Encantar arma: Destripadora de bestias inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38813:0:0:0:0:0:0",
+				},
+				[13655] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11134:0:0:0:0:0:0"] = 1,
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:11138:0:0:0:0:0:0"] = 1,
+						["item:7067:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar arma: mataelementales inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38814:0:0:0:0:0:0",
+				},
+				[28016] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22445:0:0:0:0:0:0"] = 3,
+						["item:22791:0:0:0:0:0:0"] = 1,
+						["item:18256:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Aceite de Maná Excelente",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:22521:0:0:0:0:0:0",
+				},
+				[13659] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11135:0:0:0:0:0:0"] = 1,
+						["item:11137:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: espíritu",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38816:0:0:0:0:0:0",
+				},
+				[33991] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22447:0:0:0:0:0:0"] = 2,
+						["item:22445:0:0:0:0:0:0"] = 2,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: restaurar maná de primera",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38929:0:0:0:0:0:0",
+				},
+				[28028] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22450:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Esfera de vacío",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:22459:0:0:0:0:0:0",
+				},
+				[34007] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22449:0:0:0:0:0:0"] = 8,
+						["item:22451:0:0:0:0:0:0"] = 8,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: presteza felina",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38943:0:0:0:0:0:0",
+				},
+				[13421] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10940:0:0:0:0:0:0"] = 6,
+						["item:10978:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: protección inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38790:0:0:0:0:0:0",
+				},
+				[7857] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10940:0:0:0:0:0:0"] = 4,
+						["item:10998:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: salud",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38782:0:0:0:0:0:0",
+				},
+				[7861] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:6371:0:0:0:0:0:0"] = 1,
+						["item:10998:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: resistencia al Fuego inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38784:0:0:0:0:0:0",
+				},
+				[44494] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 15,
+						["item:35627:0:0:0:0:0:0"] = 1,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: resistencia a la Naturaleza excelente",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38956:0:0:0:0:0:0",
+				},
+				[7863] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10940:0:0:0:0:0:0"] = 8,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: aguante menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38785:0:0:0:0:0:0",
+				},
+				[44510] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:43146:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 16,
+						["item:34052:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Encantar arma: espíritu excepcional",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38963:0:0:0:0:0:0",
+				},
+				[13887] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11174:0:0:0:0:0:0"] = 2,
+						["item:11137:0:0:0:0:0:0"] = 3,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: fuerza",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38836:0:0:0:0:0:0",
+				},
+				[44584] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 2,
+						["item:34054:0:0:0:0:0:0"] = 8,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: vitalidad superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38974:0:0:0:0:0:0",
+				},
+				[7748] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10938:0:0:0:0:0:0"] = 2,
+						["item:10940:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: salud inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38773:0:0:0:0:0:0",
+				},
+				[13635] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11138:0:0:0:0:0:0"] = 1,
+						["item:11083:0:0:0:0:0:0"] = 3,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: defensa",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38806:0:0:0:0:0:0",
+				},
+				[13687] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11134:0:0:0:0:0:0"] = 2,
+						["item:11135:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: espíritu inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38819:0:0:0:0:0:0",
+				},
+				[60623] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 8,
+						["item:37705:0:0:0:0:0:0"] = 1,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: caminante de hielo",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38986:0:0:0:0:0:0",
+				},
+				[13822] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11174:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: intelecto",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38829:0:0:0:0:0:0",
+				},
+				[59619] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:43146:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 20,
+						["item:34055:0:0:0:0:0:0"] = 4,
+						["item:34057:0:0:0:0:0:0"] = 6,
+						["item:34052:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Encantar arma: precisión",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:44497:0:0:0:0:0:0",
+				},
+				[44582] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 15,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: Perforar con hechizos",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38973:0:0:0:0:0:0",
+				},
+				[44509] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 4,
+						["item:34054:0:0:0:0:0:0"] = 4,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: restaurar maná superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38962:0:0:0:0:0:0",
+				},
+				[44598] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 3,
+						["item:34054:0:0:0:0:0:0"] = 14,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: pericia",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38984:0:0:0:0:0:0",
+				},
+				[13648] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11083:0:0:0:0:0:0"] = 6,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: aguante",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38812:0:0:0:0:0:0",
+				},
+				[60663] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 2,
+						["item:34054:0:0:0:0:0:0"] = 8,
+						["item:34052:0:0:0:0:0:0"] = 2,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: agilidad sublime",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:44457:0:0:0:0:0:0",
+				},
+				[13695] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11139:0:0:0:0:0:0"] = 1,
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:11137:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Encantar arma 2M: impacto",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38822:0:0:0:0:0:0",
+				},
+				[44630] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:43146:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 6,
+						["item:34055:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Encantar arma 2M: salvajismo superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38992:0:0:0:0:0:0",
+				},
+				[44383] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22449:0:0:0:0:0:0"] = 1,
+						["item:22447:0:0:0:0:0:0"] = 4,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: temple",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38949:0:0:0:0:0:0",
+				},
+				[13693] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11139:0:0:0:0:0:0"] = 1,
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:11135:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Encantar arma: golpear",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38821:0:0:0:0:0:0",
+				},
+				[13689] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11139:0:0:0:0:0:0"] = 1,
+						["item:11135:0:0:0:0:0:0"] = 2,
+						["item:11137:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: bloqueo inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38820:0:0:0:0:0:0",
+				},
+				[13661] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11137:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: fuerza",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38817:0:0:0:0:0:0",
+				},
+				[13644] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11083:0:0:0:0:0:0"] = 4,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: aguante inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38810:0:0:0:0:0:0",
+				},
+				[13464] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10978:0:0:0:0:0:0"] = 1,
+						["item:10940:0:0:0:0:0:0"] = 1,
+						["item:10998:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: protección inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38791:0:0:0:0:0:0",
+				},
+				[13642] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11134:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: espíritu",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38809:0:0:0:0:0:0",
+				},
+				[13622] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11082:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: intelecto inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38803:0:0:0:0:0:0",
+				},
+				[33992] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22446:0:0:0:0:0:0"] = 4,
+						["item:22445:0:0:0:0:0:0"] = 10,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: temple sublime",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38930:0:0:0:0:0:0",
+				},
+				[13607] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11082:0:0:0:0:0:0"] = 1,
+						["item:10998:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: maná",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38799:0:0:0:0:0:0",
+				},
+				[27905] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22445:0:0:0:0:0:0"] = 6,
+						["item:22447:0:0:0:0:0:0"] = 6,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: estadísticas",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38898:0:0:0:0:0:0",
+				},
+				[7867] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10940:0:0:0:0:0:0"] = 6,
+						["item:10998:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: agilidad menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38786:0:0:0:0:0:0",
+				},
+				[27913] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22446:0:0:0:0:0:0"] = 8,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: restaurar maná de primera",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38901:0:0:0:0:0:0",
+				},
+				[20012] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:16204:0:0:0:0:0:0"] = 3,
+						["item:16202:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: agilidad superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38856:0:0:0:0:0:0",
+				},
+				[20016] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:16204:0:0:0:0:0:0"] = 4,
+						["item:16203:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: vitalidad",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38860:0:0:0:0:0:0",
+				},
+				[20020] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11176:0:0:0:0:0:0"] = 5,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: aguante superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38862:0:0:0:0:0:0",
+				},
+				[25124] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:3371:0:0:0:0:0:0"] = 1,
+						["item:17034:0:0:0:0:0:0"] = 1,
+						["item:10940:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Aceite de Zahorí Menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:20744:0:0:0:0:0:0",
+				},
+				[20028] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:16204:0:0:0:0:0:0"] = 8,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: maná sublime",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38867:0:0:0:0:0:0",
+				},
+				[13380] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:10998:0:0:0:0:0:0"] = 1,
+						["item:10940:0:0:0:0:0:0"] = 6,
+					},
+					["name"] = "Encantar arma 2M: espíritu inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38788:0:0:0:0:0:0",
+				},
+				[20036] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:14344:0:0:0:0:0:0"] = 2,
+						["item:16203:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Encantar arma 2M: intelecto sublime",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38875:0:0:0:0:0:0",
+				},
+				[27945] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22446:0:0:0:0:0:0"] = 4,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar escudo: intelecto",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38905:0:0:0:0:0:0",
+				},
+				[60616] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 6,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: golpear",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38971:0:0:0:0:0:0",
+				},
+				[44589] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 4,
+						["item:34054:0:0:0:0:0:0"] = 16,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar botas: agilidad excelente",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38976:0:0:0:0:0:0",
+				},
+				[27957] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22445:0:0:0:0:0:0"] = 8,
+						["item:14344:0:0:0:0:0:0"] = 2,
+						["item:13446:0:0:0:0:0:0"] = 4,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: salud excepcional",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38911:0:0:0:0:0:0",
+				},
+				[27961] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:22445:0:0:0:0:0:0"] = 8,
+						["item:37602:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: armadura sublime",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38914:0:0:0:0:0:0",
+				},
+				[47898] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 4,
+						["item:34054:0:0:0:0:0:0"] = 16,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: velocidad superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:39003:0:0:0:0:0:0",
+				},
+				[44591] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34052:0:0:0:0:0:0"] = 2,
+						["item:34054:0:0:0:0:0:0"] = 8,
+						["item:41163:0:0:0:0:0:0"] = 2,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: tejido de titán",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38978:0:0:0:0:0:0",
+				},
+				[62959] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:43146:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 12,
+						["item:34055:0:0:0:0:0:0"] = 2,
+					},
+					["name"] = "Encantar bastón: poder con hechizos",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:45060:0:0:0:0:0:0",
+				},
+				[7786] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:39349:0:0:0:0:0:0"] = 1,
+						["item:10939:0:0:0:0:0:0"] = 2,
+						["item:10940:0:0:0:0:0:0"] = 4,
+					},
+					["name"] = "Encantar arma: Destripadora de bestias menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38779:0:0:0:0:0:0",
+				},
+				[32664] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:16207:0:0:0:0:0:0"] = 1,
+						["item:16203:0:0:0:0:0:0"] = 4,
+						["item:14344:0:0:0:0:0:0"] = 6,
+						["item:25843:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Vara Rúnica de Hierro Vil",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:22461:0:0:0:0:0:0",
+				},
+				[44623] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 4,
+						["item:34056:0:0:0:0:0:0"] = 2,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: estadísticas excelentes",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38989:0:0:0:0:0:0",
+				},
+				[44631] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34057:0:0:0:0:0:0"] = 1,
+						["item:34054:0:0:0:0:0:0"] = 12,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: armadura de las Sombras",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38993:0:0:0:0:0:0",
+				},
+				[44588] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 2,
+						["item:34052:0:0:0:0:0:0"] = 2,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: temple excepcional",
+					["profession"] = "Encantamiento",
+					["queued"] = 2,
+					["itemID"] = "item:38975:0:0:0:0:0:0",
+				},
+				[13815] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11174:0:0:0:0:0:0"] = 1,
+						["item:11137:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: agilidad",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38827:0:0:0:0:0:0",
+				},
+				[42615] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 3,
+					["mats"] = {
+						["item:22449:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Fragmento Centelleante Pequeño",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:22448:0:0:0:0:0:0",
+				},
+				[20026] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:14343:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: salud sublime",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38866:0:0:0:0:0:0",
+				},
+				[7771] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10939:0:0:0:0:0:0"] = 1,
+						["item:10940:0:0:0:0:0:0"] = 3,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar capa: protección menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38775:0:0:0:0:0:0",
+				},
+				[14293] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10938:0:0:0:0:0:0"] = 1,
+						["item:4470:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Varita Mágica Inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:11287:0:0:0:0:0:0",
+				},
+				[7418] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10940:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar brazales: salud menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38679:0:0:0:0:0:0",
+				},
+				[14807] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10939:0:0:0:0:0:0"] = 1,
+						["item:4470:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Varita Mágica Superior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:11288:0:0:0:0:0:0",
+				},
+				[7420] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10940:0:0:0:0:0:0"] = 1,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: salud menor",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38766:0:0:0:0:0:0",
+				},
+				[7421] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10938:0:0:0:0:0:0"] = 1,
+						["item:6217:0:0:0:0:0:0"] = 1,
+						["item:10940:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Vara Rúnica de Cobre",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:6218:0:0:0:0:0:0",
+				},
+				[13538] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:11082:0:0:0:0:0:0"] = 1,
+						["item:11084:0:0:0:0:0:0"] = 1,
+						["item:10940:0:0:0:0:0:0"] = 2,
+						["item:38682:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: amortiguación inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38798:0:0:0:0:0:0",
+				},
+				[27958] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34054:0:0:0:0:0:0"] = 6,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar pechera: maná excepcional",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38912:0:0:0:0:0:0",
+				},
+				[44529] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:34055:0:0:0:0:0:0"] = 4,
+						["item:34052:0:0:0:0:0:0"] = 1,
+						["item:43145:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar guantes: agilidad sublime",
+					["profession"] = "Encantamiento",
+					["queued"] = 1,
+					["itemID"] = "item:38967:0:0:0:0:0:0",
+				},
+				[7793] = {
+					["players"] = {
+						["Yeni"] = true,
+					},
+					["numResult"] = 1,
+					["mats"] = {
+						["item:10939:0:0:0:0:0:0"] = 3,
+						["item:39349:0:0:0:0:0:0"] = 1,
+					},
+					["name"] = "Encantar arma 2M: intelecto inferior",
+					["profession"] = "Encantamiento",
+					["queued"] = 0,
+					["itemID"] = "item:38781:0:0:0:0:0:0",
+				},
+			},
+			["tradeSkills"] = {
+				["Yeni"] = {
+				},
+			},
+		},
+	},
+}

@@ -1,0 +1,4 @@
+
+ZoneLevelInfoSettings = {
+	["fontLarge"] = 20,
+}

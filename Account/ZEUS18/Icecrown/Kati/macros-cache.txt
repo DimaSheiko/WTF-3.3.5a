@@ -1,0 +1,66 @@
+MACRO 16777231 "Burf" INV_Misc_QuestionMark
+#showtooltip
+/lanzar Cólera vengativa
+/usar Dije de Resurgimiento
+/usar Cristal de Meteorito
+END
+MACRO 16777217 "Cancel" INV_Misc_QuestionMark
+#showtooltip
+/cast [mod:alt,@player] [@mouseover,help,nodead] [help] [@targettarget,help,nodead] [] Escudo divino
+/cancelaura Escudo divino
+END
+MACRO 16777222 "Choque Sagrado" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead][] Choque Sagrado
+END
+MACRO 16777228 "Destello de Luz" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead][] Destello de Luz
+END
+MACRO 16777230 "Escudo Divino" INV_Misc_QuestionMark
+#showtooltip Escudo divino
+/cast Escudo divino
+/cancelaura Escudo divino
+END
+MACRO 16777220 "Escudo sacro" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead][] Escudo sacro
+END
+MACRO 16777226 "Limpiar" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead][] Limpiar
+END
+MACRO 16777219 "Luz Sagrada" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead][] Luz sagrada
+END
+MACRO 16777224 "Mano de libertad" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead][] Mano de libertad
+END
+MACRO 16777225 "Mano de salvacio" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead][] Mano de salvación
+END
+MACRO 16777218 "Mineria/Herbo" INV_Misc_QuestionMark
+#showtooltip Buscar hierbas
+/run _,_,active = GetTrackingInfo(1); if active == 1 then SetTracking(2); else SetTracking(1); end;
+END
+MACRO 16777223 "Protección divin" INV_Misc_QuestionMark
+#showtooltip
+/cast [mod:alt,@player] [@mouseover,help,nodead] [help] [@targettarget,help,nodead] [] Protección divina
+END
+MACRO 16777229 "Sacrificio divin" INV_Misc_QuestionMark
+#showtooltip Sacrificio divino
+/cast Sacrificio divino
+/cancelaura Sacrificio divino
+END
+MACRO 16777227 "Sentencia" INV_Misc_QuestionMark
+#showtooltip
+/lanzar Sentencia de Luz
+/startattack
+END
+MACRO 16777221 "Señal de la Luz" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead][] Señal de la Luz
+END

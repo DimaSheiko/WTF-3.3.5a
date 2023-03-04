@@ -1,0 +1,10 @@
+
+AF1_config = {
+	["Frostmourne-Doxy"] = {
+		["message"] = "AutoFlood1 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
+}

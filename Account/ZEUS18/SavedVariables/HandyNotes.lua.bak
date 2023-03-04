@@ -1,0 +1,11 @@
+
+HandyNotesDB = {
+	["profileKeys"] = {
+		["Doxy - Frostmourne"] = "Doxy - Frostmourne",
+	},
+}
+HandyNotes_HandyNotesDB = {
+	["profileKeys"] = {
+		["Doxy - Frostmourne"] = "Doxy - Frostmourne",
+	},
+}

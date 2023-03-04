@@ -1,0 +1,153 @@
+
+ZygorGuidesViewerSettings = {
+	["char"] = {
+		["Katy - Icecrown"] = {
+			["maint_fetchitemdata"] = true,
+			["taxis"] = {
+			},
+			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+			["maint_fetchquestdata"] = true,
+			["step"] = 81,
+			["starting"] = false,
+			["debuglog"] = {
+				"00:27:14> CacheQuestLog cached 20 quests", -- [1]
+				"00:27:23> CacheQuestLog cached 20 quests", -- [2]
+				"00:27:30> CacheQuestLog cached 20 quests", -- [3]
+				"00:27:38> CacheQuestLog cached 20 quests", -- [4]
+				"00:27:48> CacheQuestLog cached 20 quests", -- [5]
+				"00:27:53> CacheQuestLog cached 20 quests", -- [6]
+				"00:27:54> CacheQuestLog cached 20 quests", -- [7]
+				"00:28:19> CacheQuestLog cached 20 quests", -- [8]
+				"00:28:20> CacheQuestLog cached 20 quests", -- [9]
+				"00:28:48> CacheQuestLog cached 20 quests", -- [10]
+				"00:28:50> CacheQuestLog cached 20 quests", -- [11]
+				"00:28:58> CacheQuestLog cached 20 quests", -- [12]
+				"00:29:04> CacheQuestLog cached 20 quests", -- [13]
+				"00:29:14> CacheQuestLog cached 20 quests", -- [14]
+				"00:29:14> CacheQuestLog cached 21 quests", -- [15]
+				"00:29:14> New Quest: El collar de Sylvanas id 9175", -- [16]
+				"00:29:18> CacheQuestLog cached 21 quests", -- [17]
+				"00:29:25> CacheQuestLog cached 21 quests", -- [18]
+				"00:29:29> CacheQuestLog cached 21 quests", -- [19]
+				"00:29:32> CacheQuestLog cached 21 quests", -- [20]
+				"00:29:40> CacheQuestLog cached 21 quests", -- [21]
+				"00:29:43> CacheQuestLog cached 21 quests", -- [22]
+				"00:29:45> CacheQuestLog cached 21 quests", -- [23]
+				"00:29:47> CacheQuestLog cached 21 quests", -- [24]
+				"00:29:56> CacheQuestLog cached 21 quests", -- [25]
+				"00:29:59> CacheQuestLog cached 21 quests", -- [26]
+				"00:30:07> CacheQuestLog cached 21 quests", -- [27]
+				"00:30:10> CacheQuestLog cached 21 quests", -- [28]
+				"00:30:19> CacheQuestLog cached 21 quests", -- [29]
+				"00:30:23> CacheQuestLog cached 21 quests", -- [30]
+				"00:30:44> CacheQuestLog cached 21 quests", -- [31]
+				"00:30:44> CacheQuestLog cached 21 quests", -- [32]
+				"00:31:24> CacheQuestLog cached 21 quests", -- [33]
+				"00:32:12> CacheQuestLog cached 21 quests", -- [34]
+				"00:32:13> CacheQuestLog cached 21 quests", -- [35]
+				"00:32:20> CacheQuestLog cached 21 quests", -- [36]
+				"00:32:28> CacheQuestLog cached 21 quests", -- [37]
+				"00:32:33> CacheQuestLog cached 21 quests", -- [38]
+				"00:32:39> CacheQuestLog cached 21 quests", -- [39]
+				"00:32:49> CacheQuestLog cached 21 quests", -- [40]
+				"00:32:50> CacheQuestLog cached 21 quests", -- [41]
+				"00:32:56> CacheQuestLog cached 21 quests", -- [42]
+				"00:33:06> CacheQuestLog cached 21 quests", -- [43]
+				"00:33:06> CacheQuestLog cached 21 quests", -- [44]
+				"00:35:30> GetQuestId: id of quest 'La costa apestada' = 9149", -- [45]
+				"00:35:30> Completed Quest: La costa apestada, id: 9149", -- [46]
+				"00:35:30> CacheQuestLog cached 21 quests", -- [47]
+				"00:35:30> CacheQuestLog cached 20 quests", -- [48]
+				"00:35:30> Lost Quest: La costa apestada, id: 9149, complete: false", -- [49]
+				"00:35:38> CacheQuestLog cached 20 quests", -- [50]
+				"00:35:38> CacheQuestLog cached 21 quests", -- [51]
+				"00:35:38> New Quest: El Sagrario del Sol id 9151", -- [52]
+				"00:35:40> GetQuestId: id of quest 'Al rescate del pasado' = 9150", -- [53]
+				"00:35:40> Completed Quest: Al rescate del pasado, id: 9150", -- [54]
+				"00:35:40> CacheQuestLog cached 21 quests", -- [55]
+				"00:35:40> CacheQuestLog cached 20 quests", -- [56]
+				"00:35:40> Lost Quest: Al rescate del pasado, id: 9150, complete: false", -- [57]
+				"00:35:45> GetQuestId: id of quest 'Explorando An'daroth' = 9160", -- [58]
+				"00:35:45> Completed Quest: Explorando An'daroth, id: 9160", -- [59]
+				"00:35:45> CacheQuestLog cached 19 quests", -- [60]
+				"00:35:45> Lost Quest: Explorando An'daroth, id: 9160, complete: true", -- [61]
+				"00:35:45> CacheQuestLog cached 19 quests", -- [62]
+				"00:35:46> CacheQuestLog cached 20 quests", -- [63]
+				"00:35:46> New Quest: En territorio ocupado id 9163", -- [64]
+				"00:35:46> CacheQuestLog cached 20 quests", -- [65]
+				"00:35:46> GetQuestId: id of quest 'Recuperar Aguja Brisaveloz' = 9173", -- [66]
+				"00:35:46> Completed Quest: Recuperar Aguja Brisaveloz, id: 9173", -- [67]
+				"00:35:46> CacheQuestLog cached 19 quests", -- [68]
+				"00:35:46> Lost Quest: Recuperar Aguja Brisaveloz, id: 9173, complete: true", -- [69]
+				"00:35:48> CacheQuestLog cached 19 quests", -- [70]
+				"00:35:48> CacheQuestLog cached 20 quests", -- [71]
+				"00:35:48> New Quest: Juju trol id 9199", -- [72]
+				"00:35:48> CacheQuestLog cached 20 quests", -- [73]
+				"00:35:49> GetQuestId: id of quest 'El collar de Sylvanas' = 9175", -- [74]
+				"00:35:49> Completed Quest: El collar de Sylvanas, id: 9175", -- [75]
+				"00:35:49> CacheQuestLog cached 20 quests", -- [76]
+				"00:35:49> CacheQuestLog cached 19 quests", -- [77]
+				"00:35:49> Lost Quest: El collar de Sylvanas, id: 9175, complete: false", -- [78]
+				"00:35:50> GetQuestId: id of quest 'Problemas en las Minas Sondaluz' = 9192", -- [79]
+				"00:35:50> Completed Quest: Problemas en las Minas Sondaluz, id: 9192", -- [80]
+				"00:35:50> CacheQuestLog cached 18 quests", -- [81]
+				"00:35:50> Lost Quest: Problemas en las Minas Sondaluz, id: 9192, complete: true", -- [82]
+				"00:35:51> CacheQuestLog cached 18 quests", -- [83]
+				"00:35:51> CacheQuestLog cached 19 quests", -- [84]
+				"00:35:51> New Quest: Viaje a Entrañas id 9180", -- [85]
+				"00:36:02> GetQuestId: id of quest 'Los suministros de Sepulturero' = 9152", -- [86]
+				"00:36:02> Completed Quest: Los suministros de Sepulturero, id: 9152", -- [87]
+				"00:36:02> CacheQuestLog cached 19 quests", -- [88]
+				"00:36:02> CacheQuestLog cached 18 quests", -- [89]
+				"00:36:02> Lost Quest: Los suministros de Sepulturero, id: 9152, complete: false", -- [90]
+				"00:36:09> GetQuestId: id of quest 'Texturas crujientes' = 9171", -- [91]
+				"00:36:09> Completed Quest: Texturas crujientes, id: 9171", -- [92]
+				"00:36:09> CacheQuestLog cached 18 quests", -- [93]
+				"00:36:09> CacheQuestLog cached 17 quests", -- [94]
+				"00:36:09> Lost Quest: Texturas crujientes, id: 9171, complete: false", -- [95]
+				"00:36:18> GetQuestId: id of quest 'Polvo de espina dorsal' = 9218", -- [96]
+				"00:36:18> Completed Quest: Polvo de espina dorsal, id: 9218", -- [97]
+				"00:36:18> CacheQuestLog cached 17 quests", -- [98]
+				"00:36:18> CacheQuestLog cached 16 quests", -- [99]
+				"00:36:18> Lost Quest: Polvo de espina dorsal, id: 9218, complete: false", -- [100]
+			},
+			["guides_history"] = {
+				{
+					["short"] = "Orc (1-13)",
+					["step"] = 192,
+					["full"] = "Zygor's Horde Leveling Guides\\Orc (1-13)",
+				}, -- [1]
+				{
+					["short"] = "Main Guide (13-20)",
+					["full"] = "Zygor's Horde Leveling Guides\\Main Guide (13-20)",
+					["step"] = 2,
+				}, -- [2]
+				{
+					["short"] = "The Oracles",
+					["full"] = "Zygor's Horde Dailies Guides\\Reputation\\The Oracles",
+				}, -- [3]
+				{
+					["short"] = "Blood Elf (1-13)",
+					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+					["step"] = 81,
+				}, -- [4]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Katy - Icecrown"] = "Katy - Icecrown",
+	},
+	["profiles"] = {
+		["Katy - Icecrown"] = {
+			["fullheight"] = 442.4777316180709,
+			["visible"] = false,
+			["showallsteps"] = true,
+			["arrowposx"] = 1294.000549362185,
+			["arrowcam"] = false,
+			["arrowposy"] = 811.5485029492314,
+			["windowlocked"] = false,
+			["arrowsmooth"] = true,
+			["contractmobs"] = true,
+		},
+	},
+}

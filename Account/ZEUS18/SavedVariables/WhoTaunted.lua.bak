@@ -1,0 +1,10 @@
+
+WhoTauntedDB = {
+	["profileKeys"] = {
+		["Katy - Icecrown"] = "profile",
+	},
+	["profiles"] = {
+		["profile"] = {
+		},
+	},
+}

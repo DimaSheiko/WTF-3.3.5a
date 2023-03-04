@@ -1,0 +1,56 @@
+
+KPackCharDB = {
+	["PersonalResources"] = {
+		["enabled"] = true,
+		["fontSize"] = 12,
+		["combat"] = false,
+		["color"] = {
+			0, -- [1]
+			0, -- [2]
+			0, -- [3]
+			0.5, -- [4]
+		},
+		["text"] = false,
+		["width"] = 180,
+		["font"] = "Friz Quadrata TT",
+		["fontOutline"] = "OUTLINE",
+		["height"] = 32,
+		["scale"] = 1,
+		["point"] = "CENTER",
+		["texture"] = "KPack Norm",
+	},
+	["Automate"] = {
+		["groundmount"] = "",
+		["sets"] = {
+		},
+		["flyingmount"] = "",
+	},
+	["Postal"] = {
+		["BlackBook"] = {
+			["ExcludeRandoms"] = true,
+			["AutoFill"] = true,
+			["UseAutoComplete"] = true,
+			["contacts"] = {
+			},
+			["AutoCompleteAlts"] = true,
+			["AutoCompleteGuild"] = true,
+			["alts"] = {
+			},
+			["recent"] = {
+			},
+			["AutoCompleteRecent"] = true,
+			["AutoCompleteContacts"] = true,
+			["DisableBlizzardAutoComplete"] = false,
+			["AutoCompleteFriends"] = true,
+		},
+	},
+	["LFR"] = {
+		["currentset"] = "active",
+		["raidsets"] = {
+			["Secundario"] = {
+			},
+			["Principal"] = {
+			},
+		},
+	},
+}

@@ -1,0 +1,34 @@
+MACRO 18 "Camera" Ability_Druid_HealingInstincts
+/console cameraDistanceMaxFactor 4
+END
+MACRO 15 "ClicToMove" Ability_Kick
+/click InterfaceOptionsMousePanelClickToMove 1
+END
+MACRO 30 "Focus" Ability_Hunter_FocusedAim
+/focus [@mouseover,exists,nodead] []
+END
+MACRO 32 "icc" INV_Misc_QuestionMark
+/6 ------ ICC 25NM LFM |cffffff00|Hachievement:4597:0x07000000003FF456:0:0:0:0:0:0:0:0|h[El Trono Helado (25 j.)]|h|r NEED RDUDU + DPS MAGE LOCK (B+P RESS) --------
+END
+MACRO 43 "inspect" Ability_CheapShot
+/focus mouseover
+/run if UnitExists("focus") then InspectUnit("focus"); ChatFrame1:AddMessage("Now Inspecting: "..UnitName("focus").." ("..UnitClass("focus")..")") else ChatFrame1:AddMessage("-- Focus Cleared") end
+END
+MACRO 42 "orinar" INV_Misc_QuestionMark
+/say o
+/say (_- " '.
+/say /\ %t
+END
+MACRO 33 "reload" Ability_Creature_Cursed_04
+/reload
+END
+MACRO 34 "test" Ability_Spy
+/run print(GetMouseFocus():GetName())
+END
+MACRO 41 "TSMAucBClick" INV_Misc_QuestionMark
+/click TSMAuctioningCancelButton
+/click TSMAuctioningPostButton
+END
+MACRO 17 "Valar Morghulis" Ability_Creature_Cursed_03
+/gritar Valar Morghulis
+END

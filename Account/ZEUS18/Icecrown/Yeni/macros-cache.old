@@ -1,0 +1,15 @@
+MACRO 16777218 "awd" INV_Misc_QuestionMark
+|cff1eff00|Hitem:34055:0:0:0:0:0:0:0:75|h[Esencia Cósmica Superior]|h|r|cffa335ee|Hitem:34057:0:0:0:0:0:0:0:75|h[Cristal Abisal]|h|r
+END
+MACRO 16777221 "bankui" Spell_Shadow_ScourgeBuild
+/tsm bankui
+END
+MACRO 16777219 "Cancel Auction" Ability_Creature_Cursed_02
+/click Atr_CancelSelectionButton
+END
+MACRO 16777220 "test" INV_Misc_QuestionMark
+END
+MACRO 16777217 "WTB Cristal Abis" INV_Misc_QuestionMark
+#showtooltip Cristal Abisal
+/flood
+END
