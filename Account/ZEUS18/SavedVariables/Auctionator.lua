@@ -1,12 +1,12 @@
 
 AUCTIONATOR_SAVEDVARS = {
-	["_10000"] = 200,
-	["_50000"] = 500,
-	["_500"] = 5,
-	["_1000000"] = 2500,
 	["_5000000"] = 10000,
-	["STARTING_DISCOUNT"] = 5,
+	["_50000"] = 500,
 	["_200000"] = 1000,
+	["_1000000"] = 2500,
+	["_10000"] = 200,
+	["_500"] = 5,
+	["STARTING_DISCOUNT"] = 5,
 	["_2000"] = 100,
 }
 AUCTIONATOR_PRICING_HISTORY = {
@@ -35,11 +35,11 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["7513193"] = "130000:1",
 	},
 	["Paño de Lana"] = {
-		["7564042"] = "9900:17",
-		["7492296"] = "650:9",
-		["7492292"] = "4500:20",
-		["7565386"] = "9600:12",
 		["is"] = "2592:0",
+		["7492296"] = "650:9",
+		["7565386"] = "9600:12",
+		["7564042"] = "9900:17",
+		["7492292"] = "4500:20",
 	},
 	["Piedra Sólida"] = {
 		["is"] = "7912:0",
@@ -63,8 +63,8 @@ AUCTIONATOR_PRICING_HISTORY = {
 	},
 	["Diamante de Azeroth"] = {
 		["is"] = "12800:0",
-		["7662903"] = "499999:1",
 		["7661979"] = "499000:1",
+		["7662903"] = "499999:1",
 	},
 	["Piedra Burda"] = {
 		["is"] = "2836:0",
@@ -96,8 +96,8 @@ AUCTIONATOR_PRICING_HISTORY = {
 	},
 	["Pergamino de Encantar arma: Rabiar"] = {
 		["is"] = "44493:0",
-		["7656032"] = "12990000:1",
 		["7660814"] = "9890000:1",
+		["7656032"] = "12990000:1",
 	},
 	["Barra de Torio"] = {
 		["is"] = "12359:0",
@@ -169,14 +169,9 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["is"] = "12228:0",
 		["7513313"] = "149500:1",
 	},
-	["Paño de Lino"] = {
-		["7486522"] = "98:12",
-		["7564041"] = "90:20",
-		["7492292"] = "134:20",
-		["7492296"] = "134:5",
-		["7490835"] = "18:1",
-		["7565386"] = "149:10",
-		["is"] = "2589:0",
+	["Pergamino de Encantar guantes: agilidad sublime"] = {
+		["is"] = "38967:0",
+		["7655025"] = "2786250:1",
 	},
 	["Fórmula: encantar brazales: espíritu menor"] = {
 		["is"] = "6344:0",
@@ -191,21 +186,23 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["is"] = "3820:0",
 		["7572387"] = "205000:1",
 	},
-	["Draenita dorada gruesa"] = {
-		["is"] = "23115:0",
-		["7661980"] = "29600:1",
+	["Receta: Pastel de Araña Pegajosa"] = {
+		["is"] = "3683:0",
+		["7513193"] = "349000:1",
 	},
-	["Poción de Sanación Excelente"] = {
-		["is"] = "3928:0",
-		["7572387"] = "550:4",
+	["Lágrima encantada"] = {
+		["is"] = "42702:0",
+		["7662361"] = "428888:1",
+		["7664310"] = "428888:1",
+		["7663130"] = "428888:1",
 	},
 	["Pergamino de Encantar arma: Precisión"] = {
 		["is"] = "44497:0",
 		["7656031"] = "21490000:1",
 	},
-	["Draenita Dorada"] = {
-		["is"] = "23112:0",
-		["7661980"] = "38200:1",
+	["Lágrima de granate de sangre"] = {
+		["is"] = "23094:0",
+		["7661980"] = "9600:1",
 	},
 	["Madeja de Paño de Seda"] = {
 		["is"] = "4305:0",
@@ -215,17 +212,18 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["is"] = "11993:930",
 		["7565385"] = "200000:1",
 	},
-	["Citrino"] = {
-		["is"] = "3864:0",
-		["7661980"] = "69000:1",
+	["Polvo Onírico"] = {
+		["is"] = "11176:0",
+		["7659188"] = "495:2",
+		["7658929"] = "855:2",
 	},
 	["Filigrana de Mitril"] = {
 		["is"] = "20963:0",
 		["7661981"] = "159500:1",
 	},
-	["Espesartita de llamas destellante"] = {
-		["is"] = "23100:0",
-		["7661979"] = "9800:1",
+	["Madeja de Tejido Mágico"] = {
+		["is"] = "4339:0",
+		["7572387"] = "13700:2",
 	},
 	["Polvo Extraño"] = {
 		["is"] = "10940:0",
@@ -233,14 +231,13 @@ AUCTIONATOR_PRICING_HISTORY = {
 	},
 	["Diamante de Llama Celeste Presto"] = {
 		["7661957"] = "789000:1",
-		["7662902"] = "789900:1",
-		["is"] = "41339:0",
 		["7665791"] = "789900:1",
+		["is"] = "41339:0",
+		["7662902"] = "789900:1",
 	},
-	["Barra de Cobre"] = {
-		["is"] = "2840:0",
-		["7661982"] = "29800:16",
-		["7661753"] = "34800:20",
+	["Carne de Lince"] = {
+		["is"] = "27668:0",
+		["7565386"] = "790:3",
 	},
 	["Tubo de cobre"] = {
 		["is"] = "4361:0",
@@ -254,68 +251,68 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["is"] = "3679:0",
 		["7513193"] = "130000:1",
 	},
-	["Residuo de Hierro Negro"] = {
-		["is"] = "18945:0",
-		["7513772"] = "122:64",
-	},
-	["Polvo de Visión"] = {
-		["is"] = "11137:0",
-		["7659188"] = "19800:17",
+	["Poción de Sanación Superior"] = {
+		["is"] = "1710:0",
+		["7572387"] = "75:2",
 	},
 	["Receta: Potaje de Crocolisco"] = {
 		["is"] = "3681:0",
 		["7513193"] = "349000:1",
 	},
-	["Mena de Hierro Vil"] = {
-		["is"] = "23424:0",
-		["7480766"] = "49750:5",
+	["Diamante de Llama Celeste Incansable"] = {
+		["7661957"] = "749000:1",
+		["7665791"] = "750000:1",
+		["is"] = "41375:0",
+		["7662903"] = "750000:1",
 	},
 	["Carne de Murciélago"] = {
 		["is"] = "27669:0",
 		["7565386"] = "6000:10",
 	},
-	["Poción de Maná Menor"] = {
-		["is"] = "2455:0",
-		["7492306"] = "30000:1",
-	},
-	["Mota de Tierra"] = {
-		["is"] = "22573:0",
-		["7480767"] = "51852:2",
+	["Jade Oscuro Deslumbrante"] = {
+		["is"] = "39984:0",
+		["7661958"] = "44600:1",
+		["7661979"] = "44600:1",
 	},
 	["Piedra Lunar Azur Chispeante"] = {
 		["is"] = "23119:0",
 		["7661980"] = "9800:1",
 	},
-	["Cuchilla de Abominación del Sol"] = {
-		["is"] = "31268:-83:2",
-		["7565386"] = "1217500:1",
+	["Mota de Tierra"] = {
+		["is"] = "22573:0",
+		["7480767"] = "51852:2",
 	},
-	["Receta: Filete de Crocolisco"] = {
-		["is"] = "3678:0",
-		["7513193"] = "349000:1",
+	["Poción de Maná Menor"] = {
+		["is"] = "2455:0",
+		["7492306"] = "30000:1",
 	},
 	["Receta: Sopa de Aleta de Múrloc"] = {
 		["is"] = "3680:0",
 		["7513193"] = "130000:1",
 	},
+	["Receta: Filete de Crocolisco"] = {
+		["is"] = "3678:0",
+		["7513193"] = "349000:1",
+	},
+	["Cuchilla de Abominación del Sol"] = {
+		["is"] = "31268:-83:2",
+		["7565386"] = "1217500:1",
+	},
 	["Cuero Medio"] = {
 		["is"] = "2319:0",
 		["7572387"] = "59500:4",
 	},
-	["Jade Oscuro Deslumbrante"] = {
-		["is"] = "39984:0",
-		["7661979"] = "44600:1",
-		["7661958"] = "44600:1",
+	["Mena de Hierro Vil"] = {
+		["is"] = "23424:0",
+		["7480766"] = "49750:5",
 	},
-	["Diamante de Llama Celeste Incansable"] = {
-		["7661957"] = "749000:1",
-		["7662903"] = "750000:1",
-		["is"] = "41375:0",
-		["7665791"] = "750000:1",
+	["Polvo de Visión"] = {
+		["is"] = "11137:0",
+		["7659188"] = "19800:17",
 	},
-	["Poción de Sanación Superior"] = {
-		["is"] = "1710:0",
-		["7572387"] = "75:2",
+	["Residuo de Hierro Negro"] = {
+		["is"] = "18945:0",
+		["7513772"] = "122:64",
 	},
 	["Cuero Grueso"] = {
 		["is"] = "4304:0",
@@ -325,90 +322,93 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["is"] = "1210:0",
 		["7492305"] = "31800:1",
 	},
-	["Carne de Lince"] = {
-		["is"] = "27668:0",
-		["7565386"] = "790:3",
+	["Barra de Cobre"] = {
+		["is"] = "2840:0",
+		["7661982"] = "29800:16",
+		["7661753"] = "34800:20",
 	},
 	["Diamante de Llama Celeste Impasible"] = {
 		["is"] = "41379:0",
-		["7662903"] = "2997500:1",
 		["7665791"] = "607500:1",
+		["7662903"] = "2997500:1",
 	},
-	["Madeja de Tejido Mágico"] = {
-		["is"] = "4339:0",
-		["7572387"] = "13700:2",
+	["Espesartita de llamas destellante"] = {
+		["is"] = "23100:0",
+		["7661979"] = "9800:1",
 	},
-	["Polvo Onírico"] = {
-		["is"] = "11176:0",
-		["7659188"] = "495:2",
-		["7658929"] = "855:2",
+	["Citrino"] = {
+		["is"] = "3864:0",
+		["7661980"] = "69000:1",
 	},
-	["Lágrima de granate de sangre"] = {
-		["is"] = "23094:0",
-		["7661980"] = "9600:1",
+	["Draenita Dorada"] = {
+		["is"] = "23112:0",
+		["7661980"] = "38200:1",
 	},
 	["Receta: Pinza de Cangrejo Cocida"] = {
 		["is"] = "2698:0",
 		["7513193"] = "30200:1",
 	},
-	["Lágrima encantada"] = {
-		["is"] = "42702:0",
-		["7662361"] = "428888:1",
-		["7663130"] = "428888:1",
-		["7664310"] = "428888:1",
+	["Poción de Sanación Excelente"] = {
+		["is"] = "3928:0",
+		["7572387"] = "550:4",
 	},
-	["Receta: Pastel de Araña Pegajosa"] = {
-		["is"] = "3683:0",
-		["7513193"] = "349000:1",
+	["Draenita dorada gruesa"] = {
+		["is"] = "23115:0",
+		["7661980"] = "29600:1",
 	},
 	["Diamante Negro"] = {
 		["is"] = "11754:0",
 		["7661981"] = "3300:2",
 	},
-	["Pergamino de Encantar guantes: agilidad sublime"] = {
-		["is"] = "38967:0",
-		["7655025"] = "2786250:1",
+	["Paño de Lino"] = {
+		["is"] = "2589:0",
+		["7564041"] = "90:20",
+		["7565386"] = "149:10",
+		["7492296"] = "134:5",
+		["7490835"] = "18:1",
+		["7486522"] = "98:12",
+		["7492292"] = "134:20",
 	},
 }
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Pergamino de Encantar", -- [1]
-			"Ópalo crepuscular purificado", -- [2]
-			"Ópalo Crepuscular", -- [3]
-			"Ópalo Crepuscular Equilibrado", -- [4]
-			"Receta/Joyería/Ámbar ", -- [5]
-			"Receta/Joyería/topacio", -- [6]
-			"Receta/Joyería", -- [7]
-			"hebilla", -- [8]
-			"Ámbar del rey rápido", -- [9]
-			"Brazales del Guardián de La Cripta", -- [10]
-			"Cinturón del Noble Solitario", -- [11]
-			"Pergamino de Encantar arma: intelecto sublime", -- [12]
-			"Pergamino de Encantar arma: potencia excelente", -- [13]
-			"Vitela de Armadura III", -- [14]
-			"Fragmento Centelleante Grande", -- [15]
-			"Cristal Nexo", -- [16]
-			"Polvo Infinito", -- [17]
-			"Aire Eterno", -- [18]
-			"Fragmento Centelleante Pequeño", -- [19]
-			"Polvo Arcano", -- [20]
-			"Contenedor/Bolsa", -- [21]
-			"Poción de Maná rúnica", -- [22]
-			"Filete de Manta Imperial", -- [23]
-			"Elixir de Pensamientos poderosos", -- [24]
-			"Elixir de Velocidad relámpago", -- [25]
-			"Barra de Veraplata", -- [26]
-			"Piedra Pesada", -- [27]
-			"Rabiar", -- [28]
-			"Ra", -- [29]
-			"Magia negra", -- [30]
-			"Fragmento Onírico", -- [31]
-			"Miscelánea/Otros", -- [32]
-			"Miscelánea/Montura", -- [33]
-			"Miscelánea/Mascota", -- [34]
-			"Miscelánea/Vacaciones", -- [35]
-			"Cristal Abisal", -- [36]
+			"Cristal Abisal", -- [1]
+			"Polvo Arcano", -- [2]
+			"Pergamino de Encantar", -- [3]
+			"Ópalo crepuscular purificado", -- [4]
+			"Ópalo Crepuscular", -- [5]
+			"Ópalo Crepuscular Equilibrado", -- [6]
+			"Receta/Joyería/Ámbar ", -- [7]
+			"Receta/Joyería/topacio", -- [8]
+			"Receta/Joyería", -- [9]
+			"hebilla", -- [10]
+			"Ámbar del rey rápido", -- [11]
+			"Brazales del Guardián de La Cripta", -- [12]
+			"Cinturón del Noble Solitario", -- [13]
+			"Pergamino de Encantar arma: intelecto sublime", -- [14]
+			"Pergamino de Encantar arma: potencia excelente", -- [15]
+			"Vitela de Armadura III", -- [16]
+			"Fragmento Centelleante Grande", -- [17]
+			"Cristal Nexo", -- [18]
+			"Polvo Infinito", -- [19]
+			"Aire Eterno", -- [20]
+			"Fragmento Centelleante Pequeño", -- [21]
+			"Contenedor/Bolsa", -- [22]
+			"Poción de Maná rúnica", -- [23]
+			"Filete de Manta Imperial", -- [24]
+			"Elixir de Pensamientos poderosos", -- [25]
+			"Elixir de Velocidad relámpago", -- [26]
+			"Barra de Veraplata", -- [27]
+			"Piedra Pesada", -- [28]
+			"Rabiar", -- [29]
+			"Ra", -- [30]
+			"Magia negra", -- [31]
+			"Fragmento Onírico", -- [32]
+			"Miscelánea/Otros", -- [33]
+			"Miscelánea/Montura", -- [34]
+			"Miscelánea/Mascota", -- [35]
+			"Miscelánea/Vacaciones", -- [36]
 			"Frasco de Ira Infinita", -- [37]
 			"Armadura/Placas/Manos/40/40", -- [38]
 			"Armadura/Placas/40/40", -- [39]
@@ -435,6 +435,8 @@ AUCTIONATOR_SHOPPING_LISTS = {
 }
 AUCTIONATOR_PRICE_DATABASE = {
 	["__dbversion"] = 2,
+	["Icecrown_Alliance"] = {
+	},
 	["Frostmourne_Horde"] = {
 	},
 	["Frostmourne_Alliance"] = {
@@ -468,15 +470,15 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Cinturón Simbólico"] = 280000,
 		["Gema de las Sombras"] = 32000,
 		["Madeja de Paño de Lana"] = 4899,
-		["Receta: Delicia de Sabiola"] = 109900,
-		["Receta: Pastel de Araña Pegajosa"] = 349999,
-		["Receta: Potaje de Crocolisco"] = 349999,
+		["Piedra Sólida"] = 2100,
+		["Tubo de cobre"] = 480,
+		["Guanteletes de Mitril Pesado"] = 47500,
 		["Ágata Musgosa"] = 11880,
 		["Receta: Pinza de Cangrejo Cocida"] = 30300,
 		["Yelmo de Placas de Acero"] = 229999,
-		["Guanteletes de Mitril Pesado"] = 47500,
-		["Tubo de cobre"] = 480,
-		["Piedra Sólida"] = 2100,
+		["Receta: Potaje de Crocolisco"] = 349999,
+		["Receta: Pastel de Araña Pegajosa"] = 349999,
+		["Receta: Delicia de Sabiola"] = 109900,
 	},
 	["Icecrown_Horde"] = {
 		["Glifo de Armadura de Escarcha"] = 463900,
@@ -572,7 +574,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Filete de Talbuk Ahumado"] = 50000,
 		["Mena de Cobre"] = 29599,
 		["Medusa"] = 78000,
-		["Pergamino de Encantar brazales: poder con hechizos excelente"] = 2200000,
+		["Pergamino de Encantar brazales: poder con hechizos excelente"] = 2367499,
 		["Receta: Uñagrieta Asado"] = 399999,
 		["Golpe de Traslación"] = 20000000,
 		["Encendedor"] = 450000,
@@ -601,8 +603,8 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Boceto: Ojo de Noche Soberano"] = 670000,
 		["Glifo de Choque"] = 254799,
 		["Quijotes de Escamas de Quimera del Campeón"] = 3110000,
-		["Pergamino de Encantar botas: presteza felina"] = 26244999,
-		["Pergamino de Encantar brazales: Intelecto superior"] = 4480000,
+		["Pergamino de Encantar botas: presteza felina"] = 26189999,
+		["Pergamino de Encantar brazales: Intelecto superior"] = 220000,
 		["Robot de Reparación de Campo 110G"] = 1531000,
 		["Escarpes Calavermis de espíritu"] = 500000,
 		["Escudo de Bayeaux del soldado"] = 34999999,
@@ -647,7 +649,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Pantalones Draénicos Gruesos"] = 400000,
 		["Cristal de Sombras Soberano Perfecto"] = 300000,
 		["Glifo de Deflagración Arcana"] = 132000,
-		["Pergamino de Encantar brazales: estadísticas superiores"] = 2792499,
+		["Pergamino de Encantar brazales: estadísticas superiores"] = 2232499,
 		["Barra de Acero"] = 29900,
 		["Dragonizo Mecánico"] = 1500000,
 		["Sobrevesta Piedra de Sal de aguante"] = 88888888,
@@ -671,9 +673,9 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Coraza de Jade de aguante"] = 40000000,
 		["Leotardos de seda de ascuas del búho"] = 12999999,
 		["Barra de Cobalto"] = 44999,
-		["Pergamino de Encantar botas: caminante del hielo"] = 788999,
+		["Pergamino de Encantar botas: caminante del hielo"] = 947999,
 		["Dos de Pícaros"] = 500000,
-		["Pergamino de Encantar guantes: recolector"] = 100000,
+		["Pergamino de Encantar guantes: recolector"] = 532499,
 		["Brillo del Otoño"] = 1497500,
 		["Receta: poción de curación"] = 209900,
 		["Coraza de Pielférrea de la ballena"] = 40000000,
@@ -726,9 +728,9 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Cinturón Pujante de la ballena"] = 2556896,
 		["Libro sobre maestría en glifos"] = 97500,
 		["Destripador de Silítido"] = 250000,
-		["Pergamino de Encantar pechera: estadísticas superiores"] = 2997500,
+		["Pergamino de Encantar pechera: estadísticas superiores"] = 9999999,
 		["Receta: Sopa de Almejas"] = 3000000,
-		["Pergamino de Encantar botas: vitalidad superior"] = 1519999,
+		["Pergamino de Encantar botas: vitalidad superior"] = 1602499,
 		["Grilletes marcados de huargen del nigromante"] = 3000000,
 		["Garrote Moretón"] = 750000,
 		["Daga de Pionero del Campeón"] = 263720,
@@ -753,11 +755,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Ballesta Compuesta del Campeón"] = 500000,
 		["Estrella Sanguina"] = 200000,
 		["Coraza de Cabecilla de cólera de la Naturaleza"] = 1499999,
-		["Pergamino de Encantar guantes: agilidad superior"] = 390000,
+		["Pergamino de Encantar guantes: agilidad superior"] = 1445029,
 		["Leotardos de Tejido del Alba Negro"] = 1983748,
 		["Siete de Nobles"] = 6720000,
 		["Refuerzo para Armadura Boreal"] = 100000,
-		["Pergamino de Encantar capa: tejido de titán"] = 2994999,
+		["Pergamino de Encantar capa: tejido de titán"] = 2397298,
 		["Manual: Venda de Tejido Mágico"] = 159900,
 		["Patrón: Máscara de Gran Vudú"] = 395000,
 		["Glifo de Sanación en Cadena"] = 453499,
@@ -864,7 +866,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Botas de Placas Forradas de Hielo"] = 20000,
 		["Bomba de Hierro Vil"] = 3900,
 		["Fragmento Luminoso Grande"] = 130000,
-		["Pergamino de Encantar brazales: aguante inferior"] = 89900,
+		["Pergamino de Encantar brazales: aguante inferior"] = 100000,
 		["Receta: Estofado de Kodo Pesado"] = 4497500,
 		["Escarabajo de Oro"] = 298000,
 		["Guanteletes Formidables del tigre"] = 50000000,
@@ -874,11 +876,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Vara de Adamantita"] = 1455000,
 		["Daga Gancho de fuerza"] = 1990000,
 		["Receta: Almeja Gigante a la Brasa"] = 79500,
-		["Pergamino de Encantar arma 2M: impacto superior"] = 3289900,
+		["Pergamino de Encantar arma 2M: impacto superior"] = 1690000,
 		["Guantes Haltorboll de espíritu"] = 500000,
 		["Leotardos Tethys del profeta"] = 150618,
 		["Coraza de Espadachín del búho"] = 5127360,
-		["Pergamino de Encantar pechera: temple excepcional"] = 1997199,
+		["Pergamino de Encantar pechera: temple excepcional"] = 1392199,
 		["Salero"] = 18174,
 		["Yelmo de Fuego"] = 40000000,
 		["Espaldares de Extranjero del águila"] = 1809429,
@@ -895,7 +897,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Cinturón de Brillavalva de fuerza"] = 1999999,
 		["Hacha de Placa Ósea del anciano"] = 410000,
 		["Sobrehombros de Cuero Escamado de aguante"] = 50000,
-		["Cristal Abisal"] = 740000,
+		["Cristal Abisal"] = 649000,
 		["Glifo de Golpe de la Plaga"] = 69000,
 		["Sal de Roca"] = 264,
 		["Martillo de Ambrosía del anciano"] = 120000,
@@ -963,9 +965,9 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Barra de Hierro Vil"] = 49400,
 		["Quijotes de Conquistador de protección de la Naturaleza"] = 35500053,
 		["Hombreras de Colmillo de Can del Núcleo"] = 989000,
-		["Pergamino de Encantar pechera: súper salud"] = 1020000,
+		["Pergamino de Encantar pechera: súper salud"] = 1697500,
 		["Fórmula: encantar arma: arma ígnea"] = 500000,
-		["Pergamino de Encantar arma: agilidad excepcional"] = 3072496,
+		["Pergamino de Encantar arma: agilidad excepcional"] = 5139998,
 		["Corazón de fuego"] = 1239,
 		["Botas Rutilantes del búho"] = 230000,
 		["Ojo de Zul Brillante"] = 1005920,
@@ -1009,7 +1011,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Bufas de Piel de Foca del ladrón"] = 12000000,
 		["Elixir de Sabiduría Draénica"] = 21255,
 		["Cinturón Encapotado"] = 5809900,
-		["Pergamino de Encantar guantes: poder con hechizos excepcional"] = 578999,
+		["Pergamino de Encantar guantes: poder con hechizos excepcional"] = 831499,
 		["Sombrero de Tela Ribeteada con Escarcha"] = 199500,
 		["Botas Reales del búho"] = 6999999,
 		["Receta: Salmón Escama de Sol Pochado"] = 249999,
@@ -1080,8 +1082,8 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Avambrazos de Ango'rosh del jabalí"] = 661990,
 		["Manto Escapabruma"] = 2999999,
 		["Coraza de Jade de la ballena"] = 24800000,
-		["Pergamino de Encantar pechera: estadísticas excelentes"] = 631999,
-		["Pergamino de Encantar capa: defensa excelente"] = 6660000,
+		["Pergamino de Encantar pechera: estadísticas excelentes"] = 737999,
+		["Pergamino de Encantar capa: defensa excelente"] = 8880000,
 		["Estrella Artesanal"] = 125000,
 		["Madera Simple"] = 9700,
 		["Botas de Tejido del Alba"] = 500000,
@@ -1117,7 +1119,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Botas Nafsavar de poder"] = 120000,
 		["Glifo de Batalla"] = 329899,
 		["Poción de Maná Menor"] = 196,
-		["Pergamino de Encantar arma: poder de sanación"] = 6666666,
+		["Pergamino de Encantar arma: poder de sanación"] = 30000000,
 		["Esmeralda del Bosque Brillante"] = 620000,
 		["Boceto: Pantera de Perla Negra"] = 300000,
 		["Escudo de dragontina del invocador"] = 1499999,
@@ -1144,7 +1146,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Espaldares Pretorianos del mono"] = 40000000,
 		["Guantes de Forestal del búho"] = 550000,
 		["Botos de Saronita Ornamentada"] = 3199000,
-		["Pergamino de Encantar botas: Asalto"] = 558949,
+		["Pergamino de Encantar botas: Asalto"] = 598999,
 		["Prendas de Lana de Devastador"] = 228825,
 		["Armadura de Puño de Roca del anciano"] = 40000000,
 		["Bolsa de Paño Rúnico"] = 150000,
@@ -1161,7 +1163,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Camisa de Esmoquin"] = 1549999,
 		["Anillo de Plata Elegante"] = 11000,
 		["Yelmo del Gran Jefe"] = 99999999,
-		["Pergamino de Encantar pechera: salud"] = 299900,
+		["Pergamino de Encantar pechera: salud"] = 100000,
 		["Coraza de Mitril Ornamentado"] = 5000000,
 		["Rubí Escarlata Llamativo"] = 2140000,
 		["Patrón: Camisa de Esmoquin"] = 2210000,
@@ -1174,7 +1176,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Manto Niebla Negra del lobo"] = 2337676,
 		["Varita de Páramos del médico"] = 1500000,
 		["Faja Poderosa del águila"] = 1426962,
-		["Pergamino de Encantar brazales: fuerza inferior"] = 299900,
+		["Pergamino de Encantar brazales: fuerza inferior"] = 59900,
 		["Espaldares de Placas de Alabastro"] = 1000000,
 		["Glifo de Tromba Arcana"] = 565000,
 		["Glifo de Alivio Presto"] = 406999,
@@ -1259,7 +1261,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Esencia de No-muerto"] = 162250,
 		["Maza Sacrosanta del búho"] = 750000,
 		["Toga regia de cólera Arcana"] = 42009099,
-		["Pergamino de Encantar arma 2M: impacto menor"] = 1500000,
+		["Pergamino de Encantar arma 2M: impacto menor"] = 200000,
 		["Vial de Veneno Sellado"] = 698000,
 		["Cubrehombros Exaltados del oso"] = 60000000,
 		["Gargantilla Enorme de Torta"] = 389000,
@@ -1290,7 +1292,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Glifo de Tormenta de Truenos"] = 524183,
 		["Algas"] = 9900,
 		["Bomba de Fragmentación de Cobalto"] = 119999,
-		["Pergamino de Encantar escudo: espíritu inferior"] = 369000,
+		["Pergamino de Encantar escudo: espíritu inferior"] = 699900,
 		["Guantes Runavold de la ballena"] = 100000,
 		["Ametrino Potenciado"] = 2447439,
 		["Naipe de la Luna Negra: El Vacío Abisal"] = 6000000,
@@ -1367,7 +1369,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Patrón: Sombrero de Cuero Cómodo"] = 90000,
 		["Fragmento Luminoso Pequeño"] = 874,
 		["Mena de Eternio"] = 19800,
-		["Pergamino de Encantar arma: potencia excelente"] = 4944999,
+		["Pergamino de Encantar arma: potencia excelente"] = 5579999,
 		["La Hoja de la Noche"] = 7209251,
 		["Granada de Hierro"] = 9700,
 		["Musleras Garrasalto de intelecto"] = 100000,
@@ -1401,11 +1403,11 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Carcaj Pesado"] = 399999,
 		["Flor Abisal"] = 348000,
 		["Patrón: Armadura de Cuero Rúnico"] = 47400,
-		["Pergamino de Encantar brazales: fuerza excelente"] = 5200000,
+		["Pergamino de Encantar brazales: fuerza excelente"] = 4000000,
 		["Escudo de Guardia de Honor Draenei"] = 3097500,
 		["Pantalones de Guerrero"] = 1000,
 		["Engarce de Bronce"] = 87000,
-		["Pergamino de Encantar escudo: aguante sublime"] = 748999,
+		["Pergamino de Encantar escudo: aguante sublime"] = 407999,
 		["Manto Lunar del búho"] = 15550000,
 		["Receta: Superpoción de Maná"] = 399999,
 		["Botas Delicadas de la ballena"] = 2758552,
@@ -1460,7 +1462,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Diente Viejo de aguante"] = 287000,
 		["Brazales de Destripador Gigante"] = 40000000,
 		["Marra Onerosa del Campeón"] = 13500000,
-		["Pergamino de Encantar guantes: minería avanzada"] = 4997500,
+		["Pergamino de Encantar guantes: minería avanzada"] = 3997499,
 		["Sortija del Unicornio"] = 350000,
 		["Pergamino de Encantar pechera: maná"] = 4440000,
 		["Yelmo de Puño de Roca del anciano"] = 40000000,
@@ -1549,7 +1551,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Cuenca del Ojo de Rey del bandido"] = 18000000,
 		["Anillo de Selenio del águila"] = 600000,
 		["Arco Recurvado Macizo de aguante"] = 250000,
-		["Pergamino de Encantar brazales: poder de sanación"] = 4000000,
+		["Pergamino de Encantar brazales: poder de sanación"] = 3400000,
 		["Cuero Impregnado de Cristales"] = 79000,
 		["Esmeralda del Bosque"] = 85999,
 		["Botas de Espadachín de aguante"] = 1257500,
@@ -1584,7 +1586,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Fuego Cristalizado"] = 97500,
 		["Vara de Titanio"] = 1250000,
 		["Anillo Extraviado del pronosticador"] = 303890037,
-		["Pergamino de Encantar brazales: poder con hechizos superior"] = 1149999,
+		["Pergamino de Encantar brazales: poder con hechizos superior"] = 789999,
 		["Glifo de Asustar Bestia"] = 287995,
 		["Serpiente Albina"] = 999900,
 		["Pergamino de Fuerza"] = 28000,
@@ -1595,7 +1597,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Guanteletes de Jormungar de agilidad"] = 272314,
 		["Glifo de Vigor"] = 303899,
 		["Amuleto con Cordón de Seda del hierofante"] = 400000,
-		["Pergamino de Encantar guantes: triturador"] = 3987199,
+		["Pergamino de Encantar guantes: triturador"] = 2145000,
 		["Pergamino de Agilidad VII"] = 79500,
 		["Mota de Sol"] = 1500000,
 		["Botas de Caminaniebla"] = 450000,
@@ -1635,7 +1637,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Tapitas de Kibler"] = 140000,
 		["Botas de Ideales Impetuosos"] = 700000000,
 		["Zarpa de Seis Dedos del anciano"] = 1900000,
-		["Pergamino de Encantar brazales: intelecto excepcional"] = 598000,
+		["Pergamino de Encantar brazales: intelecto excepcional"] = 290000,
 		["Esmeralda del Bosque Radiante"] = 269000,
 		["Coraza Runaoscura"] = 25000000,
 		["Patrón: Bolsa de Tejido Abisal Imbuido"] = 1937500,
@@ -1658,7 +1660,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Pantalones de Fuego de Jade del oso"] = 9255500,
 		["Guanteletes de Jormungar de fuerza"] = 299999,
 		["Tratado sobre Tenacidad"] = 1000,
-		["Pergamino de Encantar brazales: aguante superior"] = 4400000,
+		["Pergamino de Encantar brazales: aguante superior"] = 4401320,
 		["Bolsa Esmeralda"] = 6090000,
 		["Ámbar del Rey"] = 3045000,
 		["Jubón de Malla de Dorsacerado del mono"] = 1850000,
@@ -1666,7 +1668,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Sobrehombros de Concejal de la ballena"] = 4999999,
 		["Festín Pequeño"] = 249499,
 		["Brazales de Búho"] = 120000,
-		["Pergamino de Encantar capa: velocidad superior"] = 1890199,
+		["Pergamino de Encantar capa: velocidad superior"] = 1667499,
 		["Flamberge de Luz Trémula del jabalí"] = 40000000,
 		["Salmón Glacial"] = 76500,
 		["Pergamino de Fuerza III"] = 24900,
@@ -1788,7 +1790,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Capucha Tejida con Escarcha"] = 70000,
 		["Pergamino de Aguante VIII"] = 110000,
 		["Lágrima de pesadilla"] = 1726250,
-		["Pergamino de Encantar guantes: agilidad excelente"] = 8700000,
+		["Pergamino de Encantar guantes: agilidad excelente"] = 15550000,
 		["Toga de Sanguiespora de la ballena"] = 100000,
 		["Marra de Draenetista del Campeón"] = 4455000,
 		["Envoltura de Mitril"] = 300000,
@@ -1857,6 +1859,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Guardahombros Nafsavar del oso"] = 990000,
 		["Fajín de Caminante de Viento de la mente"] = 400000,
 		["Brillo de otoño grueso"] = 1850000,
+		["Pergamino de Encantar escudo: aguante sublime "] = 748999,
 		["Mantón de Castillo Andrajoso"] = 350000,
 		["Barra de Acero de Titanes"] = 4200000,
 		["Receta: Elixir de Camuflaje"] = 315999,
@@ -1889,7 +1892,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Coraza de Pielférrea del búho"] = 40000000,
 		["Peto de Templario de poder"] = 5550000,
 		["Coraza de Navajazo"] = 5000000,
-		["Pergamino de Encantar escudo: aguante superior"] = 255000,
+		["Pergamino de Encantar escudo: aguante superior"] = 77250,
 		["Disfraz de Ogro Gordok"] = 7960000,
 		["Cubrehombros de jade del oso"] = 40000000,
 		["Hombreras de la Soñadora"] = 495702,
@@ -1901,7 +1904,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Glifo de Diablillo"] = 204898,
 		["Cortador de Mamut"] = 779,
 		["Refuerzo para Armadura Basto"] = 76500,
-		["Pergamino de Encantar guantes: asalto superior"] = 1092499,
+		["Pergamino de Encantar guantes: asalto superior"] = 885999,
 		["Lanza Abandonada del bandido"] = 6660000,
 		["Zapatillas de Archimago del invocador"] = 2999999,
 		["Guantes Fulgurantes de la ballena"] = 6999999,
@@ -1922,13 +1925,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Manto de Taumaturgo"] = 189500,
 		["Tinta de Medianoche"] = 249000,
 		["Patrón: Guantes de Escamas Descarriadas"] = 450000,
-		["Pergamino de Encantar arma: poder con hechizos"] = 9990000,
+		["Pergamino de Encantar arma: poder con hechizos"] = 12218051,
 		["Anillo de Paladio"] = 309998,
 		["Faja Exaltada del oso"] = 29990000,
 		["Patrón: Botas de Escórpido Resistentes"] = 8100,
 		["Tubo de Mitril"] = 120000,
 		["Destructor dragoboca"] = 205000,
-		["Pergamino de Encantar pechera: salud excelente"] = 409000,
+		["Pergamino de Encantar pechera: salud excelente"] = 330000,
 		["Varita Oscurecida del búho"] = 799999,
 		["Glifo de Disparo Arcano"] = 189500,
 		["Corona de Sabiduría Infinita"] = 5000000,
@@ -1979,14 +1982,14 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Patrón: sobrehombros de escórpido resistentes"] = 23479,
 		["Borceguíes aborígenes de la ballena"] = 2499999,
 		["Bolsa de Lana"] = 25400,
-		["Pergamino de Encantar brazales: fuerza superior"] = 700000,
+		["Pergamino de Encantar brazales: fuerza superior"] = 120000,
 		["Espada de Masacre del águila"] = 4999999,
 		["Anca de Huargo"] = 4200,
 		["Glifo de Trampa de Escarcha"] = 349399,
 		["Guantes de Muradin del águila"] = 500000,
 		["Papada de Hiena Risitas"] = 10000,
 		["Las Verdes Colinas de Tuercespina: Página 25"] = 429000,
-		["Pergamino de Encantar brazales: fuerza"] = 400000,
+		["Pergamino de Encantar brazales: fuerza"] = 70000,
 		["Anillo del Pantano de agilidad"] = 250000,
 		["Toga Sentida"] = 770000,
 		["Chaleco de Oso Pardo de intelecto"] = 100000,
@@ -2021,7 +2024,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Collar de ojo de tigre ornamentado"] = 39000,
 		["Varita Fría de la ballena"] = 750000,
 		["Rubí Escarlata"] = 1995000,
-		["Pergamino de Encantar botas: espíritu superior"] = 1097498,
+		["Pergamino de Encantar botas: espíritu superior"] = 1562298,
 		["Boceto: Sortija con Incrustaciones de Gemas"] = 80000,
 		["Chafarote Imbuido de Cristal"] = 20000000,
 		["Glifo de Porrazo"] = 349500,
@@ -2054,12 +2057,12 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Báculo de Oficial"] = 15500,
 		["Citrino Enorme Fiero"] = 51250,
 		["Bufas de Cabalista de la ballena"] = 3000000,
-		["Pergamino de Encantar escudo: intelecto"] = 6668824,
+		["Pergamino de Encantar escudo: intelecto"] = 6178461,
 		["Cinturón de Cabalista de intelecto"] = 2490999,
 		["Diseño: Botas de Acero Pulido"] = 99500,
 		["Cinturón de Puño de Roca del lobo"] = 4440000,
 		["Grebas de Colmipala de poder con hechizos"] = 180201,
-		["Pergamino de Encantar capa: penetración de hechizos"] = 8880000,
+		["Pergamino de Encantar capa: penetración de hechizos"] = 8840000,
 		["Cerradura de prácticas"] = 39999,
 		["Vástago esmeralda diminuto"] = 85005000,
 		["Anillo Ovalado del gorila"] = 160000,
@@ -2095,7 +2098,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Caperuza de Garrida de poder con hechizos"] = 270000,
 		["Sobrehombros de cobalto claveteados"] = 108000,
 		["Brazales de Hurto Rotundo"] = 988888,
-		["Pergamino de Encantar arma: fuerza"] = 3500000,
+		["Pergamino de Encantar arma: fuerza"] = 1750000,
 		["Pergamino de Encantar botas: maña"] = 999999,
 		["Hombreras Astralaan de protección de Escarcha"] = 9999999,
 		["Cinturón Multibolsillos"] = 1867943,
@@ -2122,7 +2125,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Patrón: Sobrehombros Golpepresto"] = 1099999,
 		["Armadura Fauceparda del águila"] = 270000,
 		["Guanteletes de Láminas Pesados del jabalí"] = 2444206,
-		["Pergamino de Encantar capa: sabiduría"] = 2197499,
+		["Pergamino de Encantar capa: sabiduría"] = 1797499,
 		["Musleras de Gran Jefe de la ballena"] = 25758432,
 		["Guanteletes de Kraken del jabalí"] = 906000,
 		["Cinturón de Belicista del jabalí"] = 1999999,
@@ -2188,6 +2191,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Bolsa de las Sombras de Ébano"] = 5950000,
 		["Coraza de Lord del águila"] = 6999999,
 		["Quijotes de Conquistador del oso"] = 34559999,
+		["Pergamino de Encantar guantes: Poder de Escarcha"] = 9298122,
 		["Camisote de Saronita Ornamentada"] = 999500,
 		["Leotardos de Oscuridad Concentrada"] = 579999,
 		["Guanteletes de Placas Góticas del oso"] = 2043552,
@@ -2222,7 +2226,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Ataduras de Cóndor del hechicero"] = 1509622,
 		["Togas de Seda Celestiales de aguante"] = 40000000,
 		["Pólvora Sólida"] = 49800,
-		["Pergamino de Encantar arma: Fuego Solar"] = 22220000,
+		["Pergamino de Encantar arma: Fuego Solar"] = 18880000,
 		["Ojo de Zul"] = 680500,
 		["Pantalones Rojos Imperiales"] = 990000,
 		["Boceto: Collar de Ópalo de Impacto"] = 87500,
@@ -2246,7 +2250,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Patrón: sobrehombros de paño rúnico"] = 28400,
 		["Espada Ancha de Barón del anciano"] = 29990000,
 		["Espada Golpecabeza del mono"] = 3999999,
-		["Pergamino de Encantar botas: Precisión inferior"] = 1987654,
+		["Pergamino de Encantar botas: Precisión inferior"] = 2500000,
 		["Talismán de la suerte"] = 12000000,
 		["Generador de Agujeros de Gusano: Rasganorte"] = 2969999,
 		["Almádena Muertobosque"] = 3000000,
@@ -2259,7 +2263,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Cristal Umbrío"] = 346000,
 		["Salmón Escama Blanca Crudo"] = 135000,
 		["Hojas Salvajes"] = 3164,
-		["Pergamino de Encantar botas: Agilidad"] = 4440000,
+		["Pergamino de Encantar botas: Agilidad"] = 894999,
 		["Leotardos imbuidos de relámpago"] = 88873312,
 		["Escarabajo de Cristal"] = 779999,
 		["Piedra de Terror"] = 1117500,
@@ -2285,7 +2289,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Glifo de Rezo de Sanación"] = 548500,
 		["Pantalones de Bucanero de cólera ígnea"] = 13750000,
 		["Retoño de Azotador del Valle Ammen"] = 30000100,
-		["Pergamino de Encantar capa: defensa superior"] = 1990000,
+		["Pergamino de Encantar capa: defensa superior"] = 949999,
 		["Ojo de Zul Brumoso"] = 951734,
 		["Grebas de Líder de Guerra"] = 30000000,
 		["Topacio Monarca de Campeón"] = 1487500,
@@ -2335,7 +2339,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Boceto: talasita dentada"] = 2900000,
 		["Linterna de Gran Potencia"] = 1010000,
 		["Pata de Araña Crujiente"] = 1666,
-		["Pergamino de Encantar capa: Armadura poderosa"] = 1239999,
+		["Pergamino de Encantar capa: Armadura poderosa"] = 1499999,
 		["Casco Frioescollo de intelecto"] = 60000,
 		["Daga Fantasma del anciano"] = 1499999,
 		["Bufas Templadas en Sangre"] = 1272500,
@@ -2426,13 +2430,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Bolsa de Cuero Rojo"] = 9500,
 		["Grebas de Puño de Roca de la bestia"] = 40000000,
 		["Amuleto de Veramira"] = 150000,
-		["Pergamino de Encantar pechera: salud superior"] = 4440000,
+		["Pergamino de Encantar pechera: salud superior"] = 997000,
 		["Cinturón de Mazo de Guerra del anciano"] = 2440000,
 		["Escudo craneal de saronita ornamentada"] = 1600000,
 		["Patrón: Brazales de Quitina Negra"] = 1200000,
 		["Coraza de Kraken de la ballena"] = 250000,
 		["Musleras de Malla de Luz Trémula"] = 5479208,
-		["Pergamino de Encantar arma 2M: Finiquiplaga"] = 4794999,
+		["Pergamino de Encantar arma 2M: Finiquiplaga"] = 2842499,
 		["Anillo Grabado del búho"] = 190000,
 		["Cetro Sobrenatural del anciano"] = 200000,
 		["Glifo de Pozo de Luz"] = 49900,
@@ -2475,7 +2479,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Anillo de Fragmento de Vidriera"] = 799500,
 		["Carne de Crocolisco"] = 481,
 		["Máquina de Ruido"] = 549000,
-		["Pergamino de Encantar botas: vitalidad colmillarr"] = 1877499,
+		["Pergamino de Encantar botas: vitalidad colmillarr"] = 2904671,
 		["Botas de Placas Imperiales"] = 5000000,
 		["El Carnicero"] = 40000000,
 		["Ocho de Prismas"] = 1798787,
@@ -2501,7 +2505,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Glifo de Subidón de Adrenalina"] = 242900,
 		["Hacha de Golpe de Suerte del anciano"] = 44440000,
 		["Achicoria Buscasueños del águila"] = 2999999,
-		["Pergamino de Encantar pechera: salud sublime"] = 325000,
+		["Pergamino de Encantar pechera: salud sublime"] = 709999,
 		["Señuelo Explosivo"] = 1590,
 		["Brazales Aleta Invernal de intelecto"] = 140000,
 		["Glifo de Corrupción"] = 242850,
@@ -2544,7 +2548,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Maza de Guerra Gélida de la bestia"] = 12500000,
 		["Boceto: ópalo crepuscular purificado"] = 430000,
 		["Atraepeces Acuadinámico"] = 95500,
-		["Pergamino de Encantar arma: Resguardo de vida"] = 3182499,
+		["Pergamino de Encantar arma: Resguardo de vida"] = 2399999,
 		["Armadura Nerubiana para Pierna"] = 2195000,
 		["Estrella de Elune"] = 100000,
 		["Ojo de Contemplador Ígneo del bandido"] = 18000000,
@@ -2599,7 +2603,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Aro de Jade de aguante"] = 40000000,
 		["Escarpes Gloriosos del tigre"] = 17688888,
 		["Leotardos Tethys del búho"] = 4990000,
-		["Pergamino de Encantar brazales: aguante sublime"] = 2280199,
+		["Pergamino de Encantar brazales: aguante sublime"] = 3087100,
 		["Hacha de Cristal Canto"] = 15000000,
 		["Bengala de Humo Morado"] = 32200,
 		["Diseño: Hacha Azul Relumbrante"] = 100000,
@@ -2635,7 +2639,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Quijotes de Jormungar del jabalí"] = 500000,
 		["Gafas Tintadas de Rosa"] = 18800,
 		["Ópalo crepuscular de guardián"] = 209050,
-		["Pergamino de Encantar bastón: poder con hechizos superior"] = 12089999,
+		["Pergamino de Encantar bastón: poder con hechizos superior"] = 7950000,
 		["Conversor de Arcanita Delicado"] = 2850000,
 		["Núcleo de Tierra"] = 9000,
 		["Malla de Placas de Torio Encantado"] = 49800,
@@ -2663,7 +2667,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Cinturón de Nova de Sangre"] = 5209999,
 		["Glifo de Amago"] = 200000,
 		["Jubón de la Luna Negra del tigre"] = 90000,
-		["Pergamino de Encantar capa: armadura sublime"] = 3977499,
+		["Pergamino de Encantar capa: armadura sublime"] = 3652239,
 		["Citrino Enorme con Inscripciones"] = 149500,
 		["Jubón de Tirahuesos de la ballena"] = 1490947,
 		["Nudillos de Hueso Vaciado del Campeón"] = 1222131,
@@ -2682,7 +2686,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Sobrehombros de Determinación Férrea del lobo"] = 35000000,
 		["Sobrehombros Barbáricos"] = 12000,
 		["Garra Espectral de Gondria del hierofante"] = 13955509,
-		["Pergamino de Encantar arma: verdugo"] = 18760000,
+		["Pergamino de Encantar arma: verdugo"] = 14430000,
 		["Musleras de Wendigo de espíritu"] = 1900000,
 		["Pilares de poder"] = 114000000,
 		["Guardabrazos Grandiosos del oso"] = 612343,
@@ -2733,7 +2737,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Toga de Cóndor del profeta"] = 499999,
 		["Pergamino de Encantar pechera: temple excepcional "] = 989893,
 		["Hombreras Garrafuria de defensa"] = 9990000,
-		["Pergamino de Encantar guantes: Pericia"] = 389500,
+		["Pergamino de Encantar guantes: Pericia"] = 897999,
 		["Patrón: Toga del Archimago"] = 669198,
 		["Culebra Carmesí"] = 27000,
 		["Manto de Elementalista del médico"] = 40000000,
@@ -3022,7 +3026,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Brazales de Saronita Ornamentada"] = 2098000,
 		["Glifo de Golpe en El Corazón"] = 359999,
 		["Manto de consejero mayor del búho"] = 6999999,
-		["Pergamino de Encantar guantes: poder de sanación"] = 8800000,
+		["Pergamino de Encantar guantes: poder de sanación"] = 1699999,
 		["Glifo de Martillo de Cólera"] = 254899,
 		["Topacio Monarca Durable"] = 1435099,
 		["Ídolo Bermellón"] = 497000,
@@ -3033,7 +3037,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Ópalo Crepuscular Regio"] = 330000,
 		["Collar Luminoso"] = 590000,
 		["Hoja de Entrenamiento Draénica"] = 29990000,
-		["Pergamino de Encantar botas: Velocidad menor"] = 490000,
+		["Pergamino de Encantar botas: Velocidad menor"] = 500000,
 		["Vara de Tejido de Sangre de sanación"] = 294934,
 		["Escarpes de Escamas Gruesas del jabalí"] = 2669464,
 		["Mandiletes de Batalla con Tachuelas de Topacio"] = 850000000,
@@ -3064,7 +3068,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Guanteletes de Placas de Alabastro"] = 12980000,
 		["Icor de Araña"] = 427,
 		["Musleras Zarpacieno del bandido"] = 350000,
-		["Polvo Arcano"] = 25000,
+		["Polvo Arcano"] = 10000,
 		["Fragmentos de Floración"] = 3900,
 		["Guanteletes defensores de fuerza"] = 2997500,
 		["Patrón: Cinturón de Cuero Maligno"] = 10715,
@@ -3098,7 +3102,7 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Pálida"] = 26000,
 		["Elixir de Entereza"] = 50000,
 		["Aliento de Viento"] = 85000,
-		["Pergamino de Encantar arma: golpear inferior"] = 1970000,
+		["Pergamino de Encantar arma: golpear inferior"] = 2229000,
 		["Boceto: La Protección Aguamarina"] = 199500,
 		["Glifo de Aliviar"] = 110000,
 		["Armadura Baleheim de defensa"] = 200000,
@@ -3115,46 +3119,48 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Poción de Sanación Rúnica"] = 19200,
 		["Estoque Llameante"] = 8880000,
 		["Botines de Horror de Sangre"] = 99500,
+		["Pergamino de Encantar brazales: fuerza menor"] = 50000,
 		["Glifo de Levantar a Muerto"] = 274897,
 		["Toga Delicada del águila"] = 9974508,
 		["Glifo de Espinas"] = 345000,
-		["Boceto: Colgante de Jade de Detonación"] = 108500,
+		["Varita Opaca"] = 350000,
+		["Pergamino de Encantar capa: sutileza"] = 7844700,
 		["Mojo de Resistencia"] = 8000,
-		["Fragmentos de plantas sin identificar"] = 5946,
+		["Pergamino de Encantar capa: Velocidad "] = 759952,
 		["Botas de Segador"] = 300000,
 		["Cubrehombros de Puño de Roca de defensa"] = 40000000,
-		["Pergamino de Encantar capa: Velocidad "] = 759952,
+		["Pergamino de Encantar guantes: Poder de las Sombras"] = 4200000,
 		["Alfombra voladora"] = 2450000,
-		["Pergamino de Encantar guantes: Poder de las Sombras"] = 4500000,
-		["Pergamino de Encantar arma 2M: Salvajismo superior"] = 1133750,
-		["Patrón: Madeja de Tejido Abisal Imbuido"] = 999000,
-		["Boceto: estrella de Elune sólida"] = 1402184,
-		["Pergamino de Encantar escudo: esquivar "] = 1279983,
-		["Pergamino de Encantar botas: entereza superior "] = 943941,
+		["Faja Piedra de Sal del oso"] = 18888888,
+		["Boceto: piedra del alba lisa"] = 2900000,
+		["Pergamino de Encantar botas: aguante superior"] = 555555,
+		["Favor de Muradin"] = 83509999,
+		["Boceto: Búho de Esmeralda"] = 400000,
+		["Pergamino de Encantar guantes: agilidad sublime "] = 1232757,
 		["Collar helado Nevada"] = 550000,
-		["Pergamino de Encantar capa: agilidad inferior"] = 3327500,
-		["Pergamino de Encantar capa: Perforar con hechizos "] = 958000,
-		["Diamante de Llama Celeste Incansable "] = 330000,
+		["Pergamino de Encantar capa: agilidad inferior"] = 8880000,
+		["Pergamino de Encantar guantes: Poder de Fuego"] = 14804900,
+		["Pergamino de Encantar arma: espíritu poderoso"] = 6666666,
 		["Tinta Estrella del Alba"] = 10000,
-		["Bolsa de Lino"] = 20000,
+		["Alforjas de Corcel Vil"] = 12200,
 		["Guanteletes de Veraplata"] = 9999900,
 		["Cinturón Forjaluz"] = 190000,
-		["Pergamino de Encantar arma: intelecto poderoso"] = 8990000,
+		["Cristal de Sol Luminoso "] = 40000,
 		["Escarpines Lindeallá de aguante"] = 160000,
 		["Leotardos de Cabecilla del búho"] = 99999999,
-		["Pergamino de Encantar arma 2M: intelecto inferior"] = 2297500,
-		["Armadura Caminasueños"] = 850000,
+		["Pergamino de Encantar arma 2M: intelecto inferior"] = 850000,
+		["Pergamino de Encantar arma: Destripadora de bestias menor"] = 1000000,
 		["Bolsa de Tela Lunar Primigenia"] = 7990000,
 		["Cuatro de Caos"] = 1988787,
 		["Glifo de Velocidad Borrosa"] = 283000,
 		["Orbe Rúnico"] = 4000000,
-		["Pergamino de Encantar brazales: intelecto"] = 4440000,
-		["Pergamino de Encantar arma: matagigantes"] = 7770000,
-		["Cuchilla de Abominación del Sol"] = 1220000,
+		["Manto de Sabio del búho"] = 1750000,
+		["Pergamino de Encantar arma: matagigantes"] = 5690000,
+		["Armadura para Pierna de Jormungar"] = 3151999,
 		["Varita Enigmática de poder con hechizos"] = 400000,
 		["Botas de Garrida del médico"] = 5000000,
-		["Pergamino de Encantar arma: drenador de sangre"] = 17950000,
-		["Sortija de Técnica de Maestro de Milan"] = 1249999,
+		["Pergamino de Encantar pechera: maná excelente"] = 6667500,
+		["Pergamino de Encantar arma: maestro de batalla"] = 20020100,
 		["Coraza Nerubiana Embrujada"] = 77300000,
 		["Péndola Vibrante"] = 10000,
 		["Pergamino de Encantar arma: escarcha letal"] = 8990000,
@@ -3164,50 +3170,50 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Regla de Forja Maldita"] = 670000,
 		["Garfas Indómitas del mono"] = 320000,
 		["Sortija de Torio Resplandeciente"] = 159500,
-		["Pergamino de Encantar guantes: herboristería avanzada"] = 6660000,
-		["Pergamino de Encantar brazales: Desvío"] = 5559000,
-		["Pergamino de Encantar pechera: salud menor"] = 9900,
+		["Hebilla eterna"] = 1350000,
+		["Pergamino de Encantar botas: aguante"] = 333333,
+		["Pergamino de Encantar pechera: salud menor"] = 3339800,
 		["Aro Bruma de Hielo del invocador"] = 150000,
 		["Cordón Pinocerda del hechicero"] = 189900,
 		["Gran Bastón de Turba de la bestia"] = 650000,
 		["Guardarrenes de Saronita Salvaje"] = 1510000,
 		["Collar de la Suerte de Wodin"] = 13890000,
 		["Hoja de Guerra Fría del tigre"] = 11000000,
-		["Siluro de 10 kilos"] = 211086,
-		["Pergamino de Encantar arma: escalofrío gélido"] = 8900000,
-		["Pergamino de Encantar escudo: temple"] = 550000,
+		["Guerrera Celestial del búho"] = 20000000,
+		["Pergamino de Encantar arma: escalofrío gélido"] = 8140000,
+		["Pergamino de Encantar arma: mataelementales inferior"] = 3339000,
 		["Glifo de Abrasamiento Mental"] = 259899,
 		["Bufas de Solidaridad de Wapach"] = 34000000,
 		["Hoja de Fuego"] = 65000,
 		["Hoja Krol"] = 11500000,
-		["Hierba Vil"] = 12100,
-		["Sello de Aguamarina de fuerza"] = 180000,
-		["Pergamino de Encantar escudo: aguante inferior"] = 4440000,
+		["Semilla de Fuego"] = 27000,
+		["Pergamino de Encantar arma: golpear sublime"] = 14440000,
+		["Tinta del Mar"] = 184500,
 		["Tres de Demonios"] = 250000,
-		["Leotardos Tejidos con Escarcha"] = 125500,
+		["Pergamino de Encantar arma: matanza de demonios"] = 3500000,
 		["Leotardos de Escamas de Escarcha Oscuros"] = 450000,
-		["Pergamino de Encantar arma: robo de vida"] = 2947500,
+		["Pergamino de Encantar brazales: Asalto"] = 1049999,
 		["Receta: Delicia de Pez Descarriado Sabrosa"] = 12540000,
 		["Patrón: Camisa de Seda Morada Viva"] = 560000,
-		["Guanteletes de Púas de Eslabones Oxidados"] = 300000000,
-		["Sangrerregia"] = 15600,
-		["Tubo de Acero Gélido Reforzado"] = 589000,
-		["Ron Volátil"] = 49800,
-		["Guardabrazos Salvedar del gorila"] = 2150000,
-		["Pergamino de Encantar botas: espíritu"] = 6660000,
+		["Glifo de Levitar"] = 316000,
+		["Gargantilla Carmesí de la Reina de Sangre"] = 169990000,
+		["Pergamino de Encantar brazales: restaurar maná de primera"] = 8889999,
+		["Pergamino de Encantar brazales: espíritu excelente"] = 4440000,
+		["Diseño: Vara de Adamantita"] = 800000,
+		["Residuo de Hierro Negro"] = 100,
 		["Espada de Zelote"] = 2000000,
-		["Armadura Hiperión del oso"] = 6507234,
+		["Prole de dracohalcón dorado"] = 286391,
 		["Maza Sacrosanta del anciano"] = 180000,
 		["Colgante del Escudo de Ágata"] = 150000,
-		["Pólvora Burda"] = 1999,
-		["Pergamino de Encantar pechera: amortiguación inferior"] = 3005000,
+		["Espaldares de Ajustador"] = 2999999,
+		["Pergamino de Encantar arma 2M: intelecto sublime"] = 12225000,
 		["Leotardos de Cuero Abisal de restauración"] = 890000,
-		["Anillo de Ascua Encendida"] = 15550000,
+		["Corona Canto de Cristal del invocador"] = 2220000,
 		["Colmillo de Skoll del invocador"] = 34990000,
 		["Hombreras Lindeallá del médico"] = 500000,
 		["Botas de Errante de la ballena"] = 250000,
 		["Carne de Almeja Suculenta"] = 10600,
-		["Pergamino de Encantar botas: agilidad superior"] = 6660000,
+		["Brazales Ulduar del médico"] = 219000,
 		["Frasco de Resistencia Inferior"] = 288000,
 		["Piedra de Afilar Burda"] = 1990,
 		["Polvo Extraño"] = 4200,
@@ -3216,26 +3222,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Rubí Cárdeno Sutil"] = 4925000,
 		["Daga Extraña de la ballena"] = 300000,
 		["Esencia Bidimensional Superior"] = 992500,
-		["Pergamino de Encantar guantes: fuerza superior"] = 1000000,
+		["Pergamino de Encantar guantes: fuerza superior"] = 5559000,
 		["Grebas de Jade del tigre"] = 18000000,
-		["Pergamino de Encantar pechera: estadísticas inferiores"] = 1580000,
+		["Pergamino de Encantar pechera: estadísticas inferiores"] = 1250000,
 		["Trozo de Elemental"] = 9999,
 		["Faja de Aparecido del tigre"] = 4000000,
-		["Maza Fulgente del jabalí"] = 3999999,
+		["Pergamino de Encantar arma: golpear"] = 3007500,
 		["Manto Tejido con Madeja"] = 50000,
 		["Daga Excéntrica del anciano"] = 150000,
-		["Receta: elixir de agilidad menor"] = 4400,
-		["Pergamino de Encantar pechera: estadísticas"] = 5425000,
-		["Sobrehombros de Alma de Sangre"] = 15500000,
+		["Petardo Festivo"] = 20000,
+		["Coraza de Adamantita"] = 5000000,
+		["Agua Eterna"] = 149800,
 		["Quijotes de Jormungar de defensa"] = 250000,
-		["Espetadora de Piedra Mácula del oso"] = 989900,
-		["Pergamino de Encantar arma: golpear superior"] = 6660000,
+		["Yeti mecánico tranquilo"] = 8835600,
+		["Pergamino de Encantar pechera: estadísticas"] = 4444444,
 		["Aire Primigenio"] = 848000,
 		["Defensor de Mirmidón"] = 790000,
 		["Caja de Rana de Bosque"] = 25550000,
-		["Pergamino de Encantar capa: resistencia superior"] = 3499999,
-		["Piedra Mercúrica"] = 2807500,
-		["Faja Hiperión del tigre"] = 9800000,
+		["Pergamino de Encantar capa: resistencia superior"] = 8859999,
+		["Garra Robustecida"] = 7425,
+		["Receta: Elixir de Poder de Escarcha Sublime"] = 509998,
 		["Hacha de doble filo del bandido"] = 2550000,
 		["Cachorro de Dun Morogh"] = 30000100,
 		["Ópalo crepuscular soberano"] = 278850,
@@ -3243,22 +3249,22 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Punzón de Sabiduría de aguante"] = 1500000,
 		["Manto de Cultor Crepuscular"] = 70000,
 		["Brazales de Orca de intelecto"] = 150000,
-		["Pergamino de Encantar arma: oleada de hechizos"] = 2002500,
-		["Pergamino de Encantar escudo: esquivar"] = 1169995,
-		["Mamut de la Semana Pasada"] = 125000,
-		["Glifo de Abisario"] = 199500,
-		["Elixir de Respiración Acuática Superior"] = 29600,
+		["Pergamino de Encantar arma: oleada de hechizos"] = 5550000,
+		["Draenita dorada reluciente"] = 499000,
+		["Cría de tiburón"] = 900000000,
+		["Cubrehombros de Mazo de Guerra de la ballena"] = 5500000,
+		["Anillo de guardia de tierra de titanio"] = 17619999,
 		["Receta: Pargo de Lodo Boquilargo"] = 207000,
 		["Bracamarte Furioso del mono"] = 2188725,
-		["Bufas Rectas del búho"] = 1590844,
+		["Pellejo de Raptor"] = 219,
 		["Vitela de Arma III"] = 348000,
 		["Sapo mecánico casi vivo"] = 955000,
 		["Hoja de Guerra Fría del Campeón"] = 11000000,
 		["Faja de Comandante de la ballena"] = 5027141,
-		["Vial corrupto"] = 2900,
+		["Venda de Lana"] = 48,
 		["Especias del Norte"] = 29800,
 		["Receta: Sorpresa de Araña Crujiente"] = 190000,
-		["Leotardos Grabados del mono"] = 8500886,
+		["Glifo de Exponer Armadura"] = 397699,
 		["Venda de Lino Gruesa"] = 500,
 		["Faja Hiperión del mono"] = 1450000,
 		["Hombreras de Garrida del hechicero"] = 450000,
@@ -3269,54 +3275,54 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Mena de Saronita"] = 59999,
 		["Quijotes magistrales del águila"] = 22000000,
 		["Modulador de cobre"] = 4600,
-		["Glifo de Maestría en Agua"] = 264900,
+		["Sombra Cristalizada"] = 38025,
 		["Teropiña"] = 299000,
-		["Diseño: Martillo de Sulfuron"] = 94999999,
+		["Talador Astillado del soldado"] = 2500000,
 		["Receta: Chili de Cangrejo Especiado"] = 37600,
-		["Partículas Arcanas"] = 9498,
+		["Ornato Glorioso del águila"] = 8888888,
 		["Jubón de Bucanero de aguante"] = 3999999,
 		["Diadema de Tejido Onírico"] = 3950000,
-		["Espaldares Frioescollo del lobo"] = 200000,
+		["Seda de las Sombras"] = 2000,
 		["Anillo Rúnico de intelecto"] = 40000000,
 		["Brazales Pinocerda del búho"] = 150000,
 		["Receta: Pinza de Cangrejo Cocida"] = 89500,
-		["Quijotes Gloriosos de sanación"] = 55880000,
+		["Avambrazos de Placas Imbuidos"] = 999999,
 		["Leotardos de seda de ascuas del mono"] = 12999999,
 		["Escudo de Gran Jefe de defensa"] = 9999999,
 		["Ron Rumsey Etiqueta Negra"] = 4000,
 		["Estoque Defias"] = 3497500,
 		["Cinco de Magos"] = 4950000,
 		["Leotardos Skom del bandido"] = 290000,
-		["Pergamino de Encantar pechera: temple sublime"] = 4419999,
+		["Quijotes Gloriosos de sanación"] = 55880000,
 		["Piedra de Terror Resplandeciente"] = 2884999,
 		["Espaldares Presavil de defensa"] = 700000,
-		["Guanteletes Impenetrables del águila"] = 1888888,
+		["Receta: Siluro Mostacherizo"] = 199900,
 		["Guerrera Delicada de la ballena"] = 6999999,
 		["Cinturón Corazón Salvaje"] = 129499,
 		["Bolsa de Tejido Abisal"] = 189499,
-		["Capa de Saqueador del oso"] = 3980000,
-		["Pergamino de Encantar arma 2M: espíritu sublime"] = 12227500,
+		["Ballesta de Cabeza de Carnero del bandido"] = 1999999,
+		["Pergamino de Encantar arma 2M: espíritu sublime"] = 3332499,
 		["Coraza de dragontina de cruzado"] = 55000000,
 		["Rodela Golpe de Guerra"] = 3595000,
 		["Guanteletes Exaltados de la ballena"] = 40000000,
 		["Receta: Sabiola Ahumada"] = 12200,
 		["Cubrehombros de Puño de Roca de la bestia"] = 5000000,
 		["Coraza de Pielférrea del falcón"] = 3100000,
-		["Receta: Estofado de la Selva"] = 15500,
+		["Receta: Pastel de Hígado de Dentosangre"] = 553999,
 		["Guerrera de Pigmeo del bandido"] = 1500000,
 		["Manto de Sanguiespora de poder con hechizos"] = 500000,
-		["Cinco de Nobles"] = 8889999,
-		["Pergamino de Encantar capa: armadura de las Sombras"] = 1229999,
-		["Prole obsidiana"] = 999900,
-		["Flecha de Hoja de Hielo"] = 149,
+		["Grebas Hiperión del oso"] = 40000000,
+		["Pergamino de Encantar capa: armadura de las Sombras"] = 2144799,
+		["Receta: Estofado Crestagrana"] = 498999,
+		["Coraza Aterrallamas"] = 17500000,
 		["Hombreras de Mur'crófago del hechicero"] = 140000,
 		["Queso de Cabra Ácido"] = 1450,
-		["Bastón Medicinal del oso"] = 4500000,
+		["Receta: Cola de Lagarto Crujiente"] = 199899,
 		["Jaula para Gatos (gatito Blanco)"] = 5550000,
 		["Espada Golpecabeza del tigre"] = 2220000,
 		["Diseño: Brazales Forjados con Sol"] = 12250000,
 		["Espada Bastarda Corta del lobo"] = 413701,
-		["Receta: Atún Blanco Arco Iris"] = 75400,
+		["Tratado sobre Voracidad"] = 9000,
 		["Baluarte del Benefactor"] = 1888888,
 		["Pulseras Canto de Cristal del búho"] = 309799,
 		["Prole saltarina"] = 1631800,
@@ -3325,123 +3331,123 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Escudo Exaltado de fuerza"] = 40000000,
 		["Pantalones Invernales"] = 9990000,
 		["Ojo de Contemplador Ígneo del invocador"] = 19500000,
-		["Receta: Chuleta de Talbuk"] = 197500,
-		["Guanteletes Gloriosos del gorila"] = 25000000,
-		["Pergamino de Encantar botas: asalto superior"] = 1300000,
-		["Pergamino de Encantar pechera: defensa superior"] = 1542499,
-		["Hombreras de Cadáver Tieso"] = 4480000,
+		["Polvo Onírico"] = 496,
+		["Toga de La Orden Carmesí"] = 550000,
+		["Cubremuñecas de Tejido del Alba Negro"] = 1532500,
+		["Pergamino de Encantar pechera: defensa superior"] = 1144999,
+		["Lágrima de Sirena"] = 50000,
 		["Leotardos de Piedra Mácula del anciano"] = 299999,
 		["Sobrehombros Incomparables del mono"] = 510000,
 		["Guantes Elegantes del falcón"] = 2266556,
 		["Botas Elegantes del búho"] = 2556828,
-		["Fórmula: Aceite de Zahorí Inferior"] = 19600,
-		["Cimitarra Fina"] = 199999999,
+		["Pergamino de Encantar arma: poder con hechizos poderoso"] = 9099999,
+		["Códice: Rezo de Protección contra las Sombras"] = 19800,
 		["Manto Clamalluvias de cólera gélida"] = 3999999,
-		["Toga Tejeocaso de espíritu"] = 999984,
+		["Pergamino de Encantar guantes: equitación"] = 690000,
 		["Glifo de Lobo Fantasmal"] = 339793,
 		["Guanteletes Exaltados de fuerza"] = 40000000,
-		["Fórmula: Encantar Capa: Resistencia Superior"] = 4700,
+		["Pergamino de Encantar pechera: restaurar maná de primera"] = 3750000,
 		["Ataduras de Elementos"] = 199500,
 		["Sortija Viridiana del búho"] = 1950000,
-		["Ron Rumsey Dorado"] = 80000,
+		["Botas Incomparables del falcón"] = 3364231,
 		["Receta: tortilla gigante"] = 59988,
 		["Sobrehombros Incomparables del búho"] = 1439662,
-		["Pergamino de Encantar brazales: Pericia"] = 1277500,
-		["Mota de Sombra"] = 419,
+		["Pergamino de Encantar brazales: Pericia"] = 3104999,
+		["Guerrera de ojo de halcón"] = 19999999,
 		["Ídolo de Muerte"] = 8500150,
 		["Guantes de La Guardia Oeste del búho"] = 250000,
-		["Glifo de Descarga de Escarcha"] = 204699,
+		["Pechera de arconte"] = 8000000,
 		["Guerrera del Consejo de la Sombra de intelecto"] = 4450000,
 		["Las Verdes Colinas de Tuercespina: Página 21"] = 189000,
 		["Sobrevesta de Celador"] = 40000000,
-		["Puños de Concejal de sanación"] = 25000000,
+		["Cubrehombros de jade del águila"] = 40000000,
 		["Ídolo de La Guerra"] = 4017500,
 		["Cubrehombros de Kraken de poder"] = 458505,
-		["Espesartita de Llamas"] = 38220,
+		["Partecostillas de fuerza"] = 40000000,
 		["Mazo Amenazante"] = 30425000,
 		["Equipo de Construcción de Robot Chatarra"] = 280000,
-		["Pergamino de Encantar brazales: asalto superior"] = 2804999,
+		["Jubón de Oficial"] = 120000,
 		["Ametrino Durable"] = 2870000,
 		["Patrón: Toga de Adepto Superior"] = 189500,
 		["Faja Heroica del gorila"] = 40000000,
 		["Brazales de Mutilación Gigante"] = 9970000,
-		["Patrón: Sombrero de Almirante"] = 2000000,
+		["Colavil con Manchas"] = 4900,
 		["Leotardos de Brigadier"] = 4171633,
 		["Mostacho de Khadgar"] = 29800,
 		["Embozo Sagrado"] = 509000,
-		["Rodela de Guardián"] = 120000,
+		["Brazales de Muradin del bandido"] = 158800,
 		["Quijotes Fauceparda del médico"] = 500000,
 		["Jade Oscuro Radiante"] = 50000,
 		["Mandoble de Cobalto Forjado"] = 849999,
 		["Escama Múrloc Gruesa"] = 1695,
-		["Manteo Vinculado a la Tierra"] = 557833,
-		["Mineral de Abisalita"] = 16500,
-		["Estabilizador de Acero Vil"] = 2200000,
+		["Las Verdes Colinas de Tuercespina: Página 20"] = 79000,
+		["Leotardos de Placas Góticas del oso"] = 5120494,
+		["Dos de Elementales"] = 500000,
 		["Esquema: Reflector de Hielo Girohielo"] = 1899969,
 		["Cinco de Bestias"] = 500000,
-		["Prole de ravasaurio"] = 9950000,
-		["Glifo de Divinidad"] = 39800,
-		["Coraza de Gólem del médico"] = 1500000,
+		["Capa Eterna de espíritu"] = 25550000,
+		["Ojo de Basilisco Escama Húmeda"] = 9900,
+		["Flujo Débil"] = 6900,
 		["Caja de Ayudante Verde"] = 1239900,
-		["Daga de Combustión del anciano"] = 600000,
+		["Sobrehombros Esqueléticas"] = 1005000,
 		["Estofado del Norte"] = 18300,
 		["Ojo de León"] = 70000,
 		["Bufas de Piel de Foca del hechicero"] = 3000000,
 		["Pergamino de Encantar capa: defensa"] = 6667500,
-		["Aceite de Pescado"] = 66,
+		["Glifo de Aluvión de Acero"] = 1249899,
 		["Leotardos Scorpashi"] = 29980000,
 		["Daga Silbante de aguante"] = 700000,
 		["Anochecedor"] = 3999999,
-		["Cohete de fuegos artificiales rojo"] = 48555,
+		["Collar de culebras entrelazadas de la bestia"] = 1590000,
 		["Sobrehombros de Tormentero"] = 9939900,
 		["Manual de Instrucciones de Trituradora: Página 5"] = 999000,
-		["Pechera Escarlata"] = 40000000,
+		["Escudo de Pielférrea del búho"] = 40000000,
 		["Vestimenta Elemental"] = 40000000,
 		["Guanteletes de Zeliek"] = 880000000,
-		["Cuchilla de Verdugo"] = 6000000,
+		["Patrón: Sobrehombros de Reflejos de Relámpago"] = 20000000,
 		["Toga del Consorcio de protección de la Naturaleza"] = 24500000,
 		["Hacha Cuchilla de agilidad"] = 29999999,
 		["Guanteletes de Aparecido de defensa"] = 190000,
 		["Brazales con Borde de Hueso"] = 25000000,
 		["Espaldares de Altonato"] = 9999999,
-		["Peto de Aparecido del oso"] = 4500000,
+		["Tratado sobre Protección"] = 499000,
 		["Rascador Curvo del Campeón"] = 490000,
 		["Gafas de Nieve Mecanizadas del invocador"] = 1500000,
 		["Esquema: Carga de Seforio Pequeña"] = 80000,
-		["Escarpes Sangremar del jabalí"] = 188003,
-		["Patrón: Brazales de Escórpido Gruesos"] = 989000,
-		["Pergamino de Encantar guantes: Asalto"] = 659499,
-		["Jade Oscuro Deslumbrante"] = 44600,
-		["Cuero Basto"] = 43999,
+		["Guantes del Alba"] = 15000000,
+		["Juego de Inyección de Sanación"] = 199999,
+		["Ojo de Zul Deslumbrante"] = 1005869,
+		["Glifo de Seccionar"] = 583984,
+		["Diamante de Llama Celeste Incansable"] = 750000,
 		["Pellejo Grueso"] = 765,
-		["Cubrehombros de Puño de Roca de agilidad"] = 40000000,
+		["Espaldares de Comandante del gorila"] = 5000000,
 		["Escarabajo de Plata"] = 179000,
 		["Dos de Caos"] = 3220000,
-		["Pergamino de Encantar capa: agilidad menor"] = 150000,
-		["Yelmo de Acero de Titanes Luminoso"] = 22499997,
+		["Pergamino de Encantar guantes: Asalto"] = 2080212,
+		["Extractor de Motas de Zapacelerador"] = 7000000,
 		["Citrino Enorme Diestro"] = 50000,
 		["Hilo de Seda"] = 2900,
 		["El Guardián del Juramento"] = 4010000,
-		["Glifo de Crecimiento Salvaje"] = 340500,
-		["Icor de No-muerto"] = 950,
+		["Carne de Lobo Rojo"] = 324,
+		["Garfas Indómitas del búho"] = 250000,
 		["Musleras de Wendigo de defensa"] = 170000,
-		["Pergamino de Encantar arma: potencia superior"] = 786000,
+		["Pergamino de Encantar arma: potencia superior"] = 1137499,
 		["Guantes de Cuero de Bosque"] = 33331500,
+		["Manto de Golpe de Tigre"] = 40000000,
+		["Guanteletes de Señor Supremo del oso"] = 29000000,
 		["Cubrehombros de jade de defensa"] = 40000000,
-		["Rubí Estrella"] = 340000,
-		["Patrón: sobrehombros de cuero oscuro"] = 19800,
-		["Diamante de Llama Celeste de Ascuas"] = 2497299,
-		["Corazón de fiera"] = 38900,
+		["Guanteletes de Eviscerador"] = 7879900,
+		["Brazales Frioescollo de la ballena"] = 85500,
 		["Boceto: El Ojo de Jade"] = 38000,
 		["Glifo de Danza de las Sombras"] = 469793,
 		["Coraza de Magnatauro de protección de Escarcha"] = 259500,
 		["Cristal de Sombras Purificado"] = 47577,
 		["Elixir de Fuerza Bruta"] = 50000,
-		["Diseño: Gran Maza de Adamantita"] = 399900,
+		["Las Verdes Colinas de Tuercespina: Página 14"] = 139000,
 		["Collar de Adamantita Grueso"] = 350000,
-		["Corona Runavold del médico"] = 500000,
+		["Cubrehombros de Mazo de Guerra del tigre"] = 45000000,
 		["Seis de Locuras"] = 38699,
-		["Peto de Ajustador"] = 70000000,
+		["Guantes de Paño de Hiedra del mono"] = 950000,
 		["Guardabrazos de Cruzado del falcón"] = 120000,
 		["Capucha de Tejido del Alba"] = 250000,
 		["Condensador Sobrecargado"] = 241500,
@@ -3449,79 +3455,79 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Hombreras de Cóndor de aguante"] = 250000,
 		["Pulmón de Jabalí Maldito"] = 25500,
 		["Zuecos de Acero de Sombras"] = 17500000,
-		["Runa de Amparo Inferior"] = 450000,
+		["Pergamino de Encantar guantes: Precisión"] = 1197499,
 		["Moneda de la Fortuna"] = 900000000,
 		["Dinamita Sólida"] = 349500,
-		["Costillas de Jabalí"] = 125000,
+		["Diamante de llama celeste caótico"] = 1157499,
 		["Coraza Simbólica"] = 60000000,
-		["Pergamino de Encantar capa: Resistencia a lo Arcano excelente"] = 5552500,
-		["Pergamino de Encantar guantes: pescador"] = 1999999,
+		["Pergamino de Encantar capa: Resistencia a lo Arcano excelente"] = 8887500,
+		["Pergamino de Encantar guantes: pescador"] = 4100000,
 		["Diseño: Martillo Rúnico de Mitril"] = 1400000,
 		["Cinta de Seda"] = 40000,
 		["Carcasa de Rana de Árbol"] = 407000,
-		["Guantes de Cabalista de cólera Arcana"] = 109999,
+		["Espaldares de Campeón del jabalí"] = 4999999,
 		["Vitela de Armadura III"] = 125000,
 		["Receta: Trucha Ennegrecida"] = 379000,
 		["Topacio Monarca Pujante"] = 1720000,
-		["Hoja con Punta de Hielo"] = 50000,
+		["Botas Rectas de espíritu"] = 2499999,
 		["Fetiche de Sen'jin"] = 15000000,
 		["Espaldares Arácnidos del lobo"] = 2230000,
-		["Guantes de Bandido de defensa"] = 3180949,
-		["Dragontina desgastada"] = 730,
+		["Glifo de Carrerilla"] = 574499,
+		["Amito Tejeocaso de intelecto"] = 1499999,
 		["Cinturón de Cabalista de la ballena"] = 1614305,
 		["Guanteletes de Cruzado de espíritu"] = 1999999,
-		["Botines de Cuero Abisal del invocador"] = 9980000,
-		["Guanteletes magistrales del águila"] = 15500000,
+		["Guantes de Wendigo del mono"] = 500000,
+		["Calabaza Iluminada Pesada"] = 699000,
 		["Fajín Scorpashi"] = 30000000,
 		["Brazales Nafsavar del bandido"] = 230000,
-		["Brazales de Pielférrea del falcón"] = 1500000,
+		["Guantes del Oráculo del médico"] = 2502999,
 		["Cuero Pesado"] = 24600,
-		["Guantes de Paño Rúnico"] = 30000,
-		["Carne Misteriosa"] = 12261,
-		["Piedra de Pulir Densa"] = 11000,
+		["Dos de Demonios"] = 100000,
+		["Esmeralda Enorme"] = 920000,
+		["Rubí Cárdeno Llamativo"] = 3419999,
 		["Maza Sacrosanta de intelecto"] = 500000,
-		["Pigmento índigo"] = 25000,
+		["Carne Misteriosa"] = 12261,
 		["Escudo Exaltado del oso"] = 12000000,
 		["Escama de Jormungar"] = 91500,
-		["Cinturón Delicado de cólera ígnea"] = 2914989,
-		["Diseño: Almófar de Escamas Doradas"] = 2450000,
+		["Dos de Nobles"] = 9400000,
+		["Garras de Espíritu Élficas"] = 40000000,
 		["Cría de Protodraco"] = 12770000,
 		["Pellejo Ligero Curtido"] = 48900,
-		["Pantalones de Gran Vudú"] = 100000,
+		["Batería de korio"] = 6619999,
 		["Armadura de Vínculo de Huesos de espíritu"] = 3713339,
 		["Escarpines de Muerte inminente"] = 66900000,
 		["Glifo de Enfoque"] = 578096,
 		["Espada de Cristal del mono"] = 55009999,
 		["Guantes de pelaje de murcipeste"] = 449999,
-		["Celada de Cóndor del hechicero"] = 355456,
+		["Cuero Boreal Pesado"] = 300000,
 		["Botas de Placas Estampadas del tigre"] = 7285493,
 		["Leotardos de Viajero"] = 4999999,
 		["Esquema: Amplificador de Mundo"] = 17800,
-		["Hilo de Hechizo Rúnico"] = 20000000,
+		["Cincha de Seda Aguanieve"] = 299000,
 		["Cardo de Sangre"] = 7400,
-		["Glifo de Vigilancia"] = 474792,
-		["Pistola Empobrecida del Campeón"] = 100000,
+		["Barra de Mitril"] = 127500,
+		["Daga Keris Sinuosa del soldado"] = 2275029,
 		["Brazales Pinocerda del invocador"] = 250000,
 		["Brazales Nidal del profeta"] = 310000,
 		["Fajín Runavold del profeta"] = 300000,
+		["Ornato Astralaan del invocador"] = 2980000,
 		["Parche de espadachín del mono"] = 13734098,
-		["Manual de Instrucciones de Trituradora: Página 9"] = 999000,
 		["Mota de Aire"] = 75000,
-		["Contacto de Plata"] = 1420,
+		["Faja Brigada del jabalí"] = 2527416,
 		["Fórmula: Aceite de Zahorí Excelente"] = 998500,
 		["Gargantilla de Remordimiento"] = 3610633,
 		["Brazales de Señor de las Arañas del médico"] = 1903000,
 		["Leotardos Incomparables de resistencia a lo Arcano"] = 2826711,
-		["Aro de consejero mayor del falcón"] = 40000000,
-		["Cinturón de Paño Rúnico"] = 39800,
+		["Fragmento Radiante Pequeño"] = 9800,
+		["Varita Polar de aguante"] = 1200000,
 		["Elixir de Respiración Acuática"] = 500000,
-		["Diseño: Estoque de Adamantita"] = 399900,
-		["Vela de Elune"] = 5899999,
-		["Mazo con Cabeza de Piedra del oso"] = 400000,
-		["Espaldares de Caballero de Sangre del jabalí"] = 2300000,
-		["Barra de Estaño"] = 298,
+		["Espada de Coleccionista de Huesos del tigre"] = 27500000,
+		["Coraza de Mazo de Guerra del anciano"] = 1970000,
+		["Sombrero Arcano"] = 9999999,
+		["Guardahombros Mascahuesos de intelecto"] = 3999999,
+		["Bola de Nieve Enorme"] = 499000,
 		["Arpón Paciente de la bestia"] = 330000,
-		["Balas de Hierro Vil"] = 750,
+		["Cola de Truenagarto"] = 9108,
 		["Encantar escudo: intelecto III "] = 890959,
 		["Martillo con cabeza de veta del soldado"] = 14500000,
 		["Bastón de Hadas de la bestia"] = 590000,
@@ -3532,408 +3538,408 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Chaqueta de Esmoquin"] = 878999,
 		["Brazales Presavil del gorila"] = 100000,
 		["Guanteletes Exaltados del mono"] = 40000000,
-		["Bomba de Saronita"] = 7000,
+		["Ojo de Zul Intemporal"] = 2259920,
 		["Guardamuñecas de Rastreador del búho"] = 40000000,
 		["Escudo de Bayeaux del búho"] = 28948320,
-		["Hoja de asesino"] = 90000000,
+		["Naipe de la Luna Negra: Muerte"] = 35940000,
 		["Seda de Araña Tejeabismo"] = 14400,
-		["Pergamino de Encantar arma 2M: Agilidad"] = 3749999,
-		["Sombrero de Anciano de cólera ígnea"] = 4999999,
-		["Almádena Piedra de Espinas"] = 500000,
+		["Pergamino de Encantar arma 2M: Agilidad"] = 7499999,
+		["Pergamino de Intelecto"] = 18800,
+		["Fórmula: Aceite de Maná Menor"] = 9900,
 		["Quijotes de Tirano"] = 46888888,
-		["Trituradora Trol del anciano"] = 225000,
+		["Mazo de Granito del hechicero"] = 600000,
 		["Diamante de Llama Estelar de Desamparo"] = 400000,
 		["Bomba Grande de Cobre"] = 16500,
 		["Guanteletes Gloriosos de la ballena"] = 14999999,
 		["Escudo Imbuido"] = 1499999,
-		["Paño de las Sombras"] = 682500,
+		["Ballesta Plegable del jabalí"] = 500000,
 		["Pergamino de Encantar pechera: maná inferior"] = 4440000,
 		["Glifo de Resguardo contra el Fuego"] = 323000,
 		["Ojo de Zul Fuerte"] = 1889999,
 		["Toga de Discípulo del búho"] = 4000000,
 		["Carne de Tigre"] = 2300,
 		["Brazales Heráldicos"] = 2999999,
-		["Caparazón Haltorboll del Campeón"] = 500000,
-		["Carne de Serpiente"] = 7200,
-		["Dragontina roja"] = 29700,
+		["Coraza Ocultabultos"] = 599999,
+		["Esquema: Desfibriladores Goblin"] = 248000,
+		["Leotardos de Torio Encantado"] = 40000000,
 		["El Portador de la Muerte"] = 4000000,
-		["Espaldares Celestiales de la ballena"] = 5000000,
-		["Pantalones de Lego de cólera ígnea"] = 2525070,
-		["Ataduras de Anhelo"] = 34990000,
-		["Carne de Lobo Tierna"] = 1666,
-		["Toga de Sanguiespora de espíritu"] = 120000,
-		["Pergamino de Encantar capa: protección inferior"] = 3330000,
+		["Cinturón de Escamas Descarriadas"] = 40000000,
+		["Coselete de Brigandina del lobo"] = 1993634,
+		["Esquema: Caja de Herramientas de Titanio"] = 770000,
+		["Brazales Presavil del bandido"] = 1000000,
+		["Botas de Cruzado de agilidad"] = 2999999,
+		["Pergamino de Encantar capa: protección inferior"] = 500000,
 		["Espaldares de Brigandina del búho"] = 2499999,
-		["Partecostillas del oso"] = 32000000,
+		["Escudo de Pielférrea de la ballena"] = 40000000,
 		["Guanteletes Exaltados del oso"] = 7979999,
 		["Hacha Cuchilla del tigre"] = 24999999,
 		["Espada Corta de Guardia Nocturno"] = 4220000,
 		["Varita Derretida del invocador"] = 1100000,
-		["Maestro de Primeros Auxilios: Doctor en Casa"] = 999999,
+		["Riendas del Destrero de la Muerte Carmesí"] = 419990000,
 		["Receta: Pezfango a la Parrilla"] = 196899,
-		["Amito Real del búho"] = 1999999,
-		["Rinoceronte Suculento"] = 99500,
+		["Mira Solar"] = 80000,
+		["Guantes de Cuero de Montañero"] = 70700,
 		["Escrito sobre Resguardo contra la Escarcha"] = 98500,
 		["Protectores de Tejido de Sangre de aguante"] = 20000000,
-		["Aguijón de escórpido"] = 765,
+		["Leotardos de Mur'crófago del hechicero"] = 488888,
 		["Herreruelo Aterrabojas"] = 990000,
-		["Anillo Grabado del jabalí"] = 1660000,
+		["Aguijón de escórpido"] = 765,
 		["Espaldares de Placas Estampadas de la ballena"] = 40000000,
 		["Elixir de sangre de trol sublime"] = 99500,
 		["Glifo de Palabra de las Sombras: Dolor"] = 299100,
 		["Yelmo Sangremar del médico"] = 349000,
 		["Cinturón de Cabecilla del búho"] = 922539,
-		["Escama de Múrloc Babosa"] = 2000,
+		["Guantes de Celador"] = 2499999,
 		["Manteo de Consuelo de Zoe"] = 400000,
-		["Leotardos de Visir del invocador"] = 26660000,
+		["Poción de Invulnerabilidad Limitada"] = 500150,
 		["Bastón con Punta de Diamante"] = 19299,
 		["Leotardos Njord de defensa"] = 150000,
 		["Armadura Fulgurante de aguante"] = 2452080,
 		["Dientes de dragón"] = 24325,
 		["Guantes de La Guardia Oeste de la ballena"] = 300000,
 		["Medallón de Platino del soldado"] = 12500000,
-		["Escarpes Piedra de Sal del oso"] = 100000000,
+		["Activador de Explosivo Volátil"] = 86500,
 		["Elixir de Entereza Poderosa"] = 38700,
 		["Leotardos del Amor Perdido"] = 400000000,
-		["Almete Duradero"] = 2990000,
+		["Receta: Elixir de Defensa Sublime"] = 2497499,
 		["Sangrita"] = 29999,
-		["Pergamino de Encantar brazales: lozanía"] = 1327499,
+		["Pergamino de Encantar brazales: lozanía"] = 250000,
+		["Guanteletes Piedra de Sal del oso"] = 10000000,
 		["Togas de Seda Celestiales del búho"] = 40000000,
-		["Barra de Korio"] = 1787400,
-		["Agua de Manantial Refrescante"] = 14200,
+		["Felpa de Brillavalva del mono"] = 1000959,
 		["Boceto: rubí vivo luminoso"] = 990000,
-		["Grilletes de Hierro de Lanzamiento"] = 3965000,
-		["Bolsa de Tejido Mágico Roja"] = 30000,
-		["Leotardos Lupinos del oso"] = 799999,
-		["Botas Bruñidas"] = 2000000,
+		["Mutiladora"] = 1495000,
+		["Quijotes de acero puro"] = 122800000,
+		["Quijotes magistrales del falcón"] = 18000000,
+		["Cascanueces Goblin del oso"] = 99999,
+		["Bastón de Cono de Conífera del oso"] = 894020,
 		["Toga del Magi"] = 40000000,
-		["Pergamino de Encantar escudo: protección inferior"] = 4440000,
 		["Fajín de Caminante de Viento de la pesadilla"] = 400000,
 		["Cuero de Pellejo Nudoso"] = 137499,
 		["Ojo gélido de Tuétano"] = 65009999,
-		["Partecostillas del jabalí"] = 23333333,
+		["Glifo de Golpe Sangriento"] = 346500,
 		["Puños de Orca del búho"] = 330000,
 		["Glifo de Sed de Sangre"] = 504999,
 		["Gorro de Infiltrado del mono"] = 28555500,
-		["Glifo de Arma de Vida Terrestre"] = 400000,
-		["Tinta de Marfil"] = 15000,
-		["Coselete Encapotado"] = 4689900,
+		["Glifo de Capa de las Sombras"] = 274898,
+		["Aceite de Bocanegra"] = 700000,
+		["Parche de espadachín de la ballena"] = 40000000,
 		["Rebrote de Teldrassil"] = 30000100,
-		["Cinturón con Puntadas Skom de protección de las Sombras"] = 470000,
-		["Rama Cortada Brutal de la bestia"] = 1230000,
+		["Faltriquera de Gemas"] = 1500000,
+		["Corona de Atracador de Hielo"] = 40000000,
 		["Escarpes de Gólem de la ballena"] = 433768,
 		["Esquema: Caja de Ardilla Mecánica"] = 10400,
-		["Glifo de lo Desvaído"] = 593397,
+		["Leotardos Magníficos del águila"] = 22000000,
 		["Musleras de Tormenta Abisal de la ballena"] = 40000000,
 		["Colmillo Místico del anciano"] = 250000,
-		["Estrella de Altonato"] = 1491862,
-		["Musleras Grandiosas del águila"] = 3742267,
-		["Campana de Je'Tze"] = 55009900,
+		["Escudo de Hierro Vil del hechicero"] = 2550000,
+		["Quijotes de Kraken del mono"] = 500000,
+		["Manto de Devastador"] = 50000000,
 		["Zapatos Pinocerda del águila"] = 351798,
-		["Leotardos de Hierro Verdes"] = 150000,
-		["Siete de Bestias"] = 500000,
+		["Bufas Cubredaga de intelecto"] = 159000,
+		["Bastón Madera Brillante Resplandeciente"] = 2499899,
 		["Glifo de Choque de Llamas"] = 199300,
-		["Barra de Cobre"] = 30000,
-		["Cristales Vetustos"] = 4900,
+		["Dos de Locuras"] = 50000,
+		["Bolsa de Cuero Azul"] = 15400,
 		["Estrella de Vigía del búho"] = 2999999,
 		["Guantes de Uñagrieta de protección de la Naturaleza"] = 14999999,
-		["Guerrera Delicada del búho"] = 9999999,
+		["Cinturón Grandioso del búho"] = 2994831,
 		["Pergamino de Encantar escudo: bloquear con escudo"] = 12220000,
 		["Musleras de Asaltante de fuerza"] = 60000,
-		["Fórmula: encantar botas: vitalidad"] = 100000,
-		["Cinturón de Aparecido del médico"] = 4990000,
-		["Boceto: Amuleto de Caudal de Vida"] = 199990000,
-		["Espaldares de Señor Orgulloso"] = 990000,
-		["Armamentos de Colmillo Torcido"] = 119000,
-		["Fajín de Visir del invocador"] = 1500000,
-		["Tambores de los Reyes Olvidados"] = 4800000,
-		["Cadena de Titanio"] = 1288448,
-		["Pergamino de Encantar botas: aguante menor"] = 200000,
+		["Guanteletes de Brigandina de la ballena"] = 1499999,
+		["Guantes Puñosangre del Campeón"] = 5152846,
+		["Guanteletes Simbólicos"] = 30000000,
 		["Camisote de Escamas de Draco del mono"] = 13780000,
-		["Glifo de Maldición de Agonía"] = 841500,
+		["Pergamino de Encantar botas: aguante menor"] = 200000,
+		["Fajín de Visir del invocador"] = 1500000,
+		["Cinturón de Aparecido del médico"] = 4990000,
+		["Cadena de Titanio"] = 1288448,
+		["Boceto: Amuleto de Caudal de Vida"] = 199990000,
+		["Togas Imperiales de Chan"] = 43992515,
+		["Garra Afilada"] = 840,
 		["Toga Runavold del búho"] = 770000,
-		["Martillo de Secuoya de poder"] = 3000000,
+		["Armadura Forjabatalla del oso"] = 2499998,
 		["Perla Oscura"] = 8400,
 		["Sangre de la montaña"] = 149999,
-		["Armadura de Brigadier"] = 1499999,
+		["Glifo de Abanico de Cuchillos"] = 463097,
 		["Glifo de Golpe de Raptor"] = 846500,
-		["Chaleco Piel de Cardo de espíritu"] = 499999,
+		["Leotardos del Tejepiedra"] = 30000000,
 		["Sobrehombros de Aparecido del oso"] = 30000000,
 		["Papiro Pesado"] = 48000,
-		["Botas Cielo Nocturno"] = 2550000,
-		["Glifo de Nova de Fuego"] = 409295,
-		["Pergamino de Encantar pechera: restaurar maná superior"] = 2997499,
-		["Destripador de Batalla del oso"] = 5999999,
-		["Coraza ornamentada de agilidad"] = 9500000,
+		["Glifo de Ataque de La Victoria"] = 298000,
+		["Coraza Gloriosa del oso"] = 45000000,
+		["Pergamino de Encantar pechera: restaurar maná superior"] = 1299999,
+		["Balas de Mitril de Gran Impacto"] = 990,
+		["Guanteletes Gloriosos del oso"] = 8990000,
 		["Glifo de Transfusión de Vida"] = 419988,
 		["Pantalones Aurora"] = 4250000,
 		["Braciles Putrefactos"] = 4868434,
-		["Guanteletes Gloriosos del oso"] = 8990000,
+		["Rama Tejeocaso del búho"] = 150000,
 		["Collar de Trofeos"] = 1004281,
 		["Grebas Haltorboll del lobo"] = 280000,
-		["Rama Tejeocaso del búho"] = 150000,
+		["Destripador de Batalla del oso"] = 5999999,
 		["Leotardos de Talismanes Dudosos"] = 1197500,
-		["Escamas de pez lustrosas"] = 139,
+		["Hueso de Oso Grande"] = 30000,
 		["Glifo de Inmolar"] = 335782,
 		["Glifo de Punición"] = 99000,
 		["Hoja curva de Skettis del anciano"] = 29990000,
-		["Bastón Maldito del bandido"] = 12500000,
-		["Almeja Aguaoscura"] = 349000,
+		["Alianza de oro"] = 5550000,
+		["Grebas Heroicas de defensa"] = 2499999,
 		["Cinturón de Seda Azur"] = 3999999,
 		["Anillo de Sombras Crepusculares"] = 19900,
+		["Musleras de Brillavalva del lobo"] = 3999999,
+		["Fajín de Hilo de Plata"] = 4065356,
+		["Circón Majestuoso"] = 1839999,
 		["Hipogrifo llameante"] = 1732520000,
-		["Elixir de Crecimiento Gigante"] = 292999,
-		["Falda de crecimiento vivo"] = 1982500,
-		["Sombrero de Zahorí Regio del águila"] = 40000000,
 		["Espaldares de La Plaza de los Cruzados"] = 220000,
 		["Anillo de Estribo del mono"] = 490000,
-		["Boceto: Talasita Radiante"] = 500000,
+		["Pergamino de Encantar arma: magia negra"] = 7399998,
 		["Bastón Ajado por los Viajes de la ballena"] = 194986,
 		["Hacha de Batalla de Bronce"] = 80808,
-		["Costillas de Cerdo Secas"] = 30000,
-		["Poción de Celeridad"] = 629999,
+		["Fuegos artificiales de Dalaran"] = 67000,
+		["Brazales Encapotados"] = 1847500,
 		["Pico de Minero"] = 29900,
 		["Brazales de Agua Estancada"] = 4400,
-		["Encantar escudo: intelecto III"] = 990000,
+		["Poción de Celeridad"] = 629999,
 		["Rebanasesos"] = 1999999,
-		["Hiedra de Charlotte"] = 3000000,
-		["Pergamino de Encantar pechera: estadísticas potentes"] = 6050000,
+		["Pergamino de Encantar pechera: estadísticas potentes"] = 4140000,
+		["Aceite de Escama Pétrea"] = 25000,
 		["Yelmo de Mitril Ornamentado"] = 5000000,
-		["Huevo de Polilla Azul"] = 1215000,
-		["Hilo Burdo"] = 7699,
-		["Coraza Falange de fuerza"] = 1999999,
+		["Ojo de Zul Intrincado"] = 1899920,
+		["Estrella Barbada del soldado"] = 200000,
+		["Cinturón de Anillas con Pinchos de la ballena"] = 80000,
+		["Botas de Geomántico de aguante"] = 2999999,
+		["Faja de Vuelo Incontestable"] = 390000,
+		["Hombreras de Espadachín del águila"] = 3876626,
 		["Huevo de Polilla Roja"] = 2000000,
-		["Engranacerebros de Titanio del pronosticador"] = 18900000,
-		["Glifo de halcón"] = 257700,
-		["Escarpes Exaltados del oso"] = 110000000,
-		["Glifo de Desgarrar"] = 397999,
+		["Espaldares de Placas de Campo del oso"] = 30000,
 		["Circón Majestuoso Chispeante"] = 2089999,
-		["Glifo de Eviscerar"] = 274999,
-		["Brazales Rectos del mono"] = 150000,
-		["Guanteletes de Placas Góticas del gorila"] = 13999999,
+		["Siluro Mostacherizo"] = 8000,
+		["Engranacerebros de Titanio del pronosticador"] = 18900000,
+		["Cuchilla Mísera del jabalí"] = 149500,
 		["Glifo de Golpe de Cruzado"] = 100000,
 		["Grebas Belicutor"] = 4000000,
-		["Espaldares Pretorianos de resistencia a la Naturaleza"] = 1999347,
-		["Jade Oscuro"] = 110000,
+		["Sobrehombros de Forestal del oso"] = 66600,
+		["Calzas Fulgurantes de espíritu"] = 6999999,
 		["Bufas de Tirahuesos de intelecto"] = 2999999,
 		["Dardo Dorado"] = 18400,
-		["Hueso de Pierna de Gigante del hechicero"] = 4000000,
-		["Arco de Precisión"] = 150000,
+		["Capa de Escamas Luminiscentes"] = 245000,
 		["Mapa del tesoro del capitán Sanders"] = 500000,
+		["Faja Calavermis del búho"] = 150000,
 		["Tabardo del Iluminado"] = 345999999,
 		["Armadura Fauceparda del oso"] = 200000,
 		["Armadura Acolchada Pretoriana de resistencia a las Sombras"] = 3999999,
-		["Barra de Bronce"] = 30000,
-		["Guanteletes Descomunales"] = 13999999,
+		["Hueso de Pierna de Gigante del hechicero"] = 4000000,
+		["Yelmo de Saronita Templada"] = 6249699,
 		["Vestido de Lana Blanco"] = 500000,
 		["Receta: Poción de Atriplex Salvaje"] = 11500,
 		["Receta: poción de acción libre"] = 1440000,
-		["Glifo de Zarpa"] = 159999,
-		["Pergamino de Aguante II"] = 15000,
-		["Guanteletes Ornamentados de espíritu"] = 16311043,
+		["Brazales de Velo Lunar Real"] = 26623349,
+		["Coraza de Escamas de Tortuga"] = 250000,
+		["Espada de Verdugo"] = 1007500,
 		["Camisa de Lana Gris"] = 90000,
-		["Leotardos Mascahuesos del invocador"] = 6999999,
-		["Sobrehombros de Bandido"] = 100000,
-		["Cuero de Oso de Guerra"] = 19600,
+		["Casco de Pielférrea de cólera de la Naturaleza"] = 40000000,
+		["Glifo de Picadura de Serpiente"] = 192500,
+		["Guantes Místicos del búho"] = 396947,
 		["Musleras Grandiosas del búho"] = 5753361,
 		["Musleras de Aventurero de cólera Arcana"] = 2809396,
-		["Herramientas de Joyero"] = 176600,
+		["Hacha de Guerra Ardiente"] = 40000000,
 		["Gorro de Abrecaminos del búho"] = 40000000,
 		["Pantalones de Korio"] = 40000000,
 		["Leotardos de Placas Góticas de poder"] = 1000000,
-		["Hilo de hechizo azur"] = 1697500,
-		["Glifo de Drenar Alma"] = 393494,
+		["Botas del Guardián Terrestre"] = 1251101,
+		["Yelmo de Trampero del médico"] = 299999,
 		["Rémora Pigmea"] = 10000,
-		["Madeja de Paño de Lana"] = 9900,
-		["Leotardos defensores del águila"] = 15655500,
-		["Saronita primordial"] = 5350000,
+		["Glifo de Drenar Alma"] = 393494,
+		["Capa de la mente ágil"] = 859000,
+		["Togas de Bucanero de espíritu"] = 20000,
 		["Manto del Centinela Eterno"] = 400000000,
-		["Glifo de Atronar"] = 473990,
-		["Yelmo de Adepto Defensor"] = 99999999,
-		["Anillo con Perla Sencillo"] = 190000,
+		["Inyector de Sanación Rúnica"] = 47499,
+		["Anillo de Jade Pesado"] = 9999,
+		["Esencia Astral Inferior"] = 40000,
 		["Fórmula: Fragmento Centelleante Grande"] = 543999,
-		["Puños de Batalla de Korio Duro"] = 200000000,
+		["Fórmula: Vara Rúnica de Arcanita"] = 391000,
 		["Fuegos artificiales rojos"] = 9999,
-		["Glifo de Destripar"] = 492688,
-		["Guantes de Bucanero del mono"] = 2068135,
-		["Patrón: Capa de Paño Brillante"] = 632000,
+		["Pulseras del Oráculo del búho"] = 421292,
+		["Guanteletes de Caballero de fuerza"] = 150000,
+		["Pretina Garrasalto del anciano"] = 400000,
 		["Rubí Cárdeno"] = 3111500,
-		["Escudo Triangular de Cobalto"] = 479000,
-		["Guardahombros Tejerred del tigre"] = 12500000,
+		["Botas de Forestal de protección de Escarcha"] = 1500000,
+		["El Vicio del Verdugo"] = 19990000,
 		["Leotardos Presavil de aguante"] = 250000,
-		["Glifo de Ola de Sanación"] = 343000,
+		["Glifo de Fuerza Poseída"] = 428202,
 		["Capa de Bosque"] = 49800,
 		["Cojín de Flumblub del tirador"] = 5000000,
+		["Glifo de Reflejo Exacto"] = 2939898,
 		["Rubí Cárdeno Preciso"] = 3600000,
-		["Hombreras Salpicadas de Sangre"] = 12200,
 		["Mando de máquina voladora turboalimentada"] = 87870100,
 		["Zapatillas Glaciales"] = 6890000,
-		["Coraza de Gólem del soldado"] = 11500000,
-		["Botines de Destino"] = 56000000,
+		["Musleras de Dorsacerado del bandido"] = 4990000,
+		["Dragontina helada"] = 50000,
 		["Esquema: Bengala de Humo Morado"] = 1499999,
 		["Lechuza Gavilana"] = 675000,
-		["Las Verdes Colinas de Tuercespina: Página 8"] = 359999,
-		["Esquema: Mira de Precisión"] = 1093455,
+		["Sello Onírico del bandido"] = 1790000,
+		["Boceto: diamante de llama celeste del trueno"] = 94500,
 		["Glifo de Golpe Heroico"] = 236800,
 		["Receta: elixir del ojo escrutador"] = 19200,
 		["Manteo de Pellejo Nerubiano Durable"] = 12000000,
-		["Mirada Mortal de Ryft"] = 4999999,
+		["Sobrehombros de Montañero"] = 35000,
 		["Dinamita Férrea"] = 6500,
 		["Fórmula: Encantar Arma de 2M: Intelecto Inferior"] = 392900,
-		["Patrón: Caperuza de Tela Vil"] = 77500,
+		["Tótem de la Tormenta"] = 77980000,
 		["Catalejo Ornamentado"] = 24000,
 		["Leotardos de Cruzado de la ballena"] = 2499999,
 		["Brazales de Quitina Negra"] = 45400000,
 		["Casco de Jormungar de espíritu"] = 299999,
 		["Esquema: Muñeco-diana Magistral"] = 287988,
 		["Escarpes Gloriosos de aguante"] = 15000000,
-		["Glifo de Insultos Barbáricos"] = 89000,
-		["Glifo de Escudo de Relámpagos"] = 500000,
+		["Glifo de Fuego Lunar"] = 297993,
+		["Glifo de Sello de Orden"] = 1997500,
 		["Hombreras de Mur'crófago de la ballena"] = 300000,
 		["Punta de Escudo de Titanio"] = 1240000,
-		["Coraza Impenetrable de aguante"] = 30000000,
+		["Poción de acción libre"] = 972289,
 		["Pretina Garrasalto del bandido"] = 600000,
 		["Pretina de Colmipala del gorila"] = 1900000,
 		["Armadura de Orca del búho"] = 200000,
 		["Escama Naga"] = 8400,
 		["Guanteletes Grabados del falcón"] = 3716000,
+		["Rubí Escarlata Rúnico"] = 2547599,
 		["Receta: Cigala Picante"] = 292999,
-		["Vara de Hierro Vil"] = 871200,
 		["Brazales de Punzada Mental"] = 24999999,
 		["Coraza de Pielférrea de espíritu"] = 3500000,
 		["Guantes de Reacciones Rápidas"] = 1320009999,
-		["Guantes Ennegrecidos Defias"] = 1900000,
+		["Hoja de Hechizo de Saronita"] = 7498495,
 		["Baraja de Pícaros"] = 700000,
 		["Mena de Titanio"] = 409000,
 		["Pergamino de Espíritu II"] = 1000,
 		["Cinturón con Puntadas Skom del oso"] = 75500,
-		["Paño de Lino"] = 150,
-		["Ámbar del Rey Liso"] = 3035000,
+		["Sobrehombros Tejidos con Escarcha Místicos"] = 400000,
+		["Patrón: Cinturón de Caos Azul"] = 40000000,
 		["Ballesta Feroz del bandido"] = 488888,
-		["Prospector Trol"] = 1770000,
-		["Cuchilla de Peña de agilidad"] = 50000,
-		["Patrón: Guantes del Padre Invierno"] = 2200000,
-		["Anillo Espuela del soldado"] = 2220000,
+		["Sortija de Estimulación"] = 280000,
+		["Botas de Placas Estampadas del mono"] = 4999999,
+		["Ámbar del Rey Liso"] = 3035000,
+		["Glifo de Espíritu Feral"] = 408030,
 		["Zafiro Empíreo"] = 70000,
 		["Leotardos Garrafuria del oso"] = 29900,
 		["Jubón de Bucanero del búho"] = 5840506,
 		["Hacha de Placa Ósea del hechicero"] = 750000,
-		["Pergamino de Encantar arma: intelecto sublime"] = 11279999,
-		["Manoplas Despiertas"] = 199999,
-		["Poción de Protección contra lo Arcano Superior"] = 558816,
+		["Pergamino de Encantar arma: intelecto sublime"] = 8800000,
+		["Toga Runavold de poder con hechizos"] = 500000,
+		["Glifo de Enjambre de Insectos"] = 369900,
 		["Capa de Cuero Oscuro"] = 59999,
-		["Diseño: Estoque de Mitril Deslumbrante"] = 39000,
+		["Glifo de Golpe Fantasmal"] = 269899,
 		["Manto de Vigilante"] = 4638041,
-		["Glifo de Renacer Desahogado"] = 396999,
+		["Sobrehombros de Seda Verdes"] = 40000,
 		["Glifo de Toque de Sanación"] = 998500,
-		["Prole de Gundrak"] = 12969999,
 		["Tinta Celestial"] = 210000,
+		["Diseño: Estoque de Mitril Deslumbrante"] = 39000,
 		["Calzones de lino cosidos a mano"] = 90000,
-		["Glifo de Veneno Entorpecedor"] = 199999,
-		["Venda de Paño Rúnico Gruesa"] = 6100,
+		["Guardamuñecas de Recuperación Verdeante"] = 179500,
+		["Culebra Marrón"] = 288900,
 		["Coraza de Jade de fuerza"] = 19000000,
 		["Toga de Velo Lunar Real"] = 49940009,
-		["Manta Incubahuevos del hierofante"] = 9999999,
-		["Guerrera de Paño de Hiedra de espíritu"] = 4500000,
+		["Boceto: Rubí Vivo Ostentoso"] = 999999,
+		["Espada Ancha con Mango de Piel del Campeón"] = 6990000,
 		["Sobrehombros de Escarcha Salvaje"] = 1699000,
 		["Oro de Cuergo"] = 378400,
 		["Cinturón de Cuero Curado"] = 20000,
 		["Jarra de Bourbon"] = 1000,
-		["Guerrera Delicada de espíritu"] = 9999999,
-		["Pergamino de Encantar pechera: maná superior"] = 3330000,
+		["Esquema: ultragafas ojo de gato"] = 119211,
+		["Pergamino de Encantar pechera: maná superior"] = 750000,
 		["Diamante de Asedio de Tierra Eterno"] = 2675000,
 		["Manta Raya Imperial"] = 18235,
-		["Leotardos de Bronce Férreos"] = 25000,
+		["Leotardos de Ritual de cólera ígnea"] = 499900,
 		["Bastón de Flor de Nieve de fuerza"] = 1500000,
 		["Rubí Cárdeno Brillante"] = 3299900,
 		["Chal del Gigante Devastado"] = 150000000,
-		["Glifo de Resguardo de Miedo"] = 324420,
-		["Salviargenta de Montaña"] = 29600,
+		["Custodiador Candente"] = 40000000,
+		["Tratado sobre Resistencia"] = 3412,
 		["Fajín de Sanguiespora del hechicero"] = 500000,
-		["Manteo Golpe de Guerra"] = 438750,
-		["Armadura de Comandante del oso"] = 11349639,
+		["Salviargenta de Montaña"] = 29600,
+		["Pergamino de Encantar pechera: salud excepcional"] = 3985000,
 		["Cubrehombros de Rastreador de Bosque"] = 40000000,
 		["Pergamino de Protección II"] = 8909,
-		["Cinturón de la Ordenación"] = 139900,
+		["Caperuza de Sanguiespora del invocador"] = 250000,
 		["Guantes de Cuero Estampado"] = 10200,
 		["Sobrehombros de Cazador del águila"] = 2999999,
-		["Ametrino Resuelto"] = 2780000,
+		["Chuleta de Oso Grande"] = 69500,
 		["Receta: Sopa de Pargo Nocturno"] = 249999,
-		["Glifo de Traslación"] = 129500,
+		["Glifo de Choque de Escarcha"] = 249899,
 		["Guanteletes de Malla de Grifo del tigre"] = 2133710,
-		["Pergamino de Encantar brazales: golpear"] = 1677499,
-		["Quijotes de Cobalto"] = 299000,
-		["Taparrabos Salpicado de Sangre del jabalí"] = 2388173,
+		["Pergamino de Encantar brazales: golpear"] = 885554,
+		["Jaula para Gatos (atigrado Plateado)"] = 149750,
+		["Patrón: Cinturón del Archimago"] = 30000000,
 		["Ametrino Resplandeciente"] = 2787224,
 		["Armadura Malaescama del lobo"] = 30000000,
-		["Anguila Relámpago"] = 8899,
+		["Botines de Acero de Titanes Templado"] = 24870328,
 		["Mitones Benditos Ligeros"] = 4179700,
 		["Carne de Devastador"] = 3200,
 		["Sangrita Delicada"] = 85249,
-		["Botines de Acero de Titanes Templado"] = 24870328,
-		["Espaldares Mercúricos de aguante"] = 15550000,
-		["Glifo de Multidisparo"] = 735600,
+		["Quijotes de Cobalto"] = 299000,
+		["Botas Njord del falcón"] = 100000,
 		["Sobrehombros de Determinación Férrea de la ballena"] = 2938679,
-		["Brazales Tejeocaso del búho"] = 250000,
+		["Anguila Relámpago"] = 8899,
+		["Bufas Rectas de agilidad"] = 210000,
 		["Nudillo Moldeado con Hierro del soldado"] = 1550000,
-		["Glifo de Bola de Fuego"] = 462499,
-		["Guerrera Bruñida"] = 1320000,
-		["Fajín de Paño Abisal de restauración"] = 390000,
+		["Seis de Bendiciones"] = 675000,
+		["Glifo de Piedra de Alma"] = 220000,
+		["Barra de Acero Vil"] = 590000,
 		["As de Nobles"] = 10450000,
 		["Leotardos de Tela Lunar"] = 2599000,
-		["Glifo de Falsa Arremetida"] = 549900,
+		["Toga Bruma de Hielo de protección de la Naturaleza"] = 406177,
 		["Humillo"] = 3950000,
 		["Espada Ancha Oscurecida del oso"] = 39990000,
-		["Huevo de Polilla Blanca"] = 1275000,
+		["Diseño: Placa de Batalla de Korio Duro"] = 400000000,
 		["Anillo Ovalado de la bestia"] = 500000,
 		["Brazaletes de Sanguiespora del médico"] = 500000,
 		["Branquirrojo Crudo"] = 9899,
-		["Faja Deliriohelado"] = 11990000,
+		["Cinturón Njord del tigre"] = 60000,
 		["Pulseras de Cormorán del búho"] = 512618,
-		["Tinte Morado"] = 9900,
+		["Guantes de La Guardia Oeste del águila"] = 190000,
 		["Guerrera de Lego de cólera gélida"] = 2000000,
 		["Boceto: esmeralda del bosque de relámpagos"] = 191000,
 		["Glifo de Miedo"] = 498000,
-		["Guantes de La Guardia Oeste del águila"] = 190000,
-		["Las Verdes Colinas de Tuercespina: Página 26"] = 799000,
-		["Boceto: topacio monarca con inscripciones"] = 498000,
+		["Huevo de Polilla Blanca"] = 1275000,
+		["Guanteletes de Cruzado de cólera Arcana"] = 2444206,
+		["Patrón: Toga de Tejido Abisal"] = 999999,
 		["Cubrehombros de Kraken del médico"] = 700700,
 		["Quijotes Calavermis de espíritu"] = 207150,
 		["Ocho de Tormentas"] = 99500,
 		["Frasco de Mojo Puro"] = 248000,
-		["Musleras Taunka de protección de Fuego"] = 600000,
+		["Grebas de Placas Abisales de ataque"] = 2500000,
 		["Elixir de Agilidad"] = 7400,
-		["Pergamino de Encantar arma: Precisión"] = 25489998,
-		["Bastón de Géiser de la bestia"] = 319999,
-		["Quijotes de Saronita Ornamentada"] = 2398999,
+		["Pergamino de Encantar arma: Precisión"] = 13219998,
+		["La grande"] = 5813750,
+		["Anillo de Diamante de Enfoque"] = 55569,
 		["Diseño: Coraza de Cuchillas de Titanio"] = 12290000,
+		["Coraza de la Mano Destrozada del anciano"] = 40000000,
 		["Musleras de la Mano Destrozada"] = 499000,
-		["Trozos de Huesos"] = 8850,
 		["Fórmula: encantar arma: Destripadora de bestias inferior"] = 8700,
 		["Escudo de Alabastro"] = 5335221,
 		["Escarabajo de Hueso"] = 498000,
-		["Pergamino de Encantar arma 2M: impacto"] = 2997500,
+		["Pergamino de Encantar arma 2M: impacto"] = 1200000,
 		["Vara de Arcanita"] = 3027499,
 		["Glifo de Salvación"] = 319793,
-		["Pergamino de Fuerza VI"] = 29799,
+		["Mena de Plata"] = 190168,
 		["Botas Árticas"] = 200000,
 		["Topacio Monarca Fiero"] = 1232499,
-		["Braquiales Golpe de Guerra"] = 251378,
+		["Orbe de Engaño"] = 22999999,
 		["Guanteletes Fauceparda de poder"] = 100000,
 		["Glifo de Esfumarse"] = 287399,
-		["Patrón: Brazales de Zahorí con Joyas"] = 33450000,
+		["Toga Tejida con Escarcha Mística"] = 380000,
 		["Locura de Mojo Gurubashi"] = 1060000,
-		["Patrón: Manto Sanapresto"] = 1829099,
+		["Fórmula: encantar brazales: espíritu menor"] = 899000,
 		["Calzones de Cuero Quemado"] = 52500,
 		["Jubón Aborigen de cólera gélida"] = 4999999,
 		["Naipe de la Luna Negra: Ilusión"] = 18270000,
-		["Cinta Nochefugaz"] = 49900,
+		["Brazales de Acero Vil Negros"] = 35000000,
+		["Grebas de Wolvar de poder con hechizos"] = 1900000,
 		["Vestiduras de Tejido de Draco del hechicero"] = 500000,
-		["Velo Lunar"] = 808000,
 		["Bastón Ajado por los Viajes del búho"] = 250000,
 		["Retales de Ropas de Pelaje Gruesos"] = 5200,
 		["Quijotes de Templario del jabalí"] = 7451625,
-		["Arremetida Mortal"] = 250000,
+		["Brazales de Vórtice de Tormenta"] = 69420,
 		["Mandoble de Decano"] = 2287648,
 		["Daga Silbante de espíritu"] = 300000,
 		["Carne de Almeja Gigante"] = 200000,
@@ -3941,50 +3947,50 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Parche de espadachín del búho"] = 36000000,
 		["Pergamino de Protección VII"] = 1350,
 		["Coraza Ulduar del búho"] = 350000,
-		["Manual de Instrucciones de Trituradora: Página 12"] = 999000,
-		["Cuchillo de Bronce Grande"] = 690000,
-		["Cinturón de Buscador de Tesoros"] = 5999999,
+		["Espaldares de Templario de defensa"] = 5000000,
+		["Bastón de Agua Torrencial del tigre"] = 229000,
+		["Guanteletes de Piedra"] = 800000,
 		["Calzas Fulgurantes del mono"] = 1990000,
 		["Glifo de Himno de Esperanza"] = 1649797,
 		["Vara de Eternio"] = 699399,
 		["Yelmo de Cormorán de agilidad"] = 1909000,
 		["Pulidora Sencilla"] = 95599,
 		["Caperuza de Lego de la ballena"] = 7999999,
-		["Brazales de Cuero Verdes"] = 120000,
+		["Calzas Cubredaga de defensa"] = 154735,
 		["Espada Golpecabeza del águila"] = 2999999,
 		["Aro de Jade del oso"] = 40000000,
-		["Capucha de Caribú del jabalí"] = 500000,
-		["Glifo de Protección contra las Sombras"] = 594499,
+		["El Antiguo Cetro de Sue-Min"] = 20000000,
+		["Escudo de Pared de Vínculo de Huesos de cólera ígnea"] = 500000,
 		["Diamante de Fuego Celeste"] = 850000,
-		["Hojasueño"] = 29800,
-		["Pergamino de Encantar pechera: maná excepcional"] = 897999,
-		["Musgo de pantano"] = 119500,
+		["Baraja de Elementales"] = 18000000,
+		["Pergamino de Encantar pechera: maná excepcional"] = 549698,
+		["Refuerzo para Armadura Pesado"] = 10600,
 		["Gargantilla Impactante de Titanio"] = 20620300,
 		["Jaula para Gatos (bombay)"] = 327500,
 		["Guantes Garrafuria de la ballena"] = 3999999,
-		["Guanteletes de Cuero Rúnico"] = 999999,
-		["Botas de Resortes de Hierro"] = 170000000,
+		["Glifo de Última Carga"] = 586849,
+		["Pergamino de Encantar arma: poder con hechizos excepcional"] = 1810149,
 		["Faja Hiperión de poder"] = 40000000,
-		["Pergamino de Encantar arma: poder con hechizos excepcional"] = 2274999,
+		["Botas de Resortes de Hierro"] = 170000000,
 		["Botas de Cuero Oscuro"] = 16000,
-		["Leotardos del Señor del Anillo"] = 1250000,
+		["Vórtice Abisal"] = 49600,
 		["Ídolo de Obsidiana"] = 40200,
 		["Naipe de la Luna Negra: Heroísmo"] = 9624596,
-		["Bomba Altamente Explosiva"] = 1950,
+		["Leotardos del Señor del Anillo"] = 1250000,
 		["Fajín de Espadas Silenciosas"] = 509999,
 		["Mota de Vida"] = 25000,
-		["Guanteletes Magnánimos de poder"] = 3000000,
+		["Blasón Simbólico"] = 2999999,
 		["Aplastahuesos de Acero de Titanes"] = 36110000,
-		["Bufas Rectas de la ballena"] = 3975606,
+		["Mascahuesos"] = 4987500,
 		["Guantes de Tejemarañas"] = 200000,
 		["Glifo de Resguardo contra la Escarcha"] = 249899,
 		["Ojo de Zul Turbio"] = 1499899,
 		["Bufas de Pellejo de Demonio"] = 700000,
-		["Pantalones Durables del búho"] = 5000000,
+		["Braquiales Piedra de Sal de la ballena"] = 8888888,
 		["Leotardos Flechapresta"] = 5429900,
 		["Caña de Pescar Fuerte"] = 10000,
-		["Braquiales Piedra de Sal de la ballena"] = 8888888,
-		["Brazales Skom de protección de la Naturaleza"] = 800000,
+		["Pantalones Durables del búho"] = 5000000,
+		["Yelmo de Torio"] = 173943,
 		["Glifo de Ruptura"] = 389899,
 		["Sello de Aguamarina de intelecto"] = 230000,
 		["Brazales Incomparables de la ballena"] = 597471,
@@ -3992,15 +3998,15 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Guantes de Tejido de Ébano"] = 8990000,
 		["Búho Común"] = 1233750,
 		["Anillo de Ramillete del bandido"] = 1950000,
-		["Jaula para gatos (Gata tricolor)"] = 815200,
+		["Leotardos Haal'eshi del búho"] = 1990000,
 		["Códice: Rezo de Entereza"] = 29900,
-		["Yelmo de Acero de Titanes Templado"] = 24979999,
+		["Machacachanguk"] = 3885007,
 		["Gemelos de Plata Solariegos"] = 3999999,
-		["Hacha de dos filos del oso"] = 950000,
 		["Glifo de Encadenar No-muerto"] = 280000,
+		["Sombrero Taunka del falcón"] = 700000,
 		["Poción de Sanación Inferior"] = 77,
 		["Glifo de Sello de Rectitud"] = 350000,
-		["Defensor Antiguo del búho"] = 900000,
+		["Yelmo de Acero de Titanes Templado"] = 24979999,
 		["Runa Oscura"] = 500000,
 		["Caña de Pescar"] = 121002,
 		["Glifo de Bendición de Sabiduría"] = 299899,
@@ -4012,78 +4018,78 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Diamante Negro"] = 3300,
 		["Báculo de Ámbar de Anciano de la ballena"] = 258000,
 		["Las Verdes Colinas de Tuercespina: Página 10"] = 79000,
-		["Glifo de Súcubo"] = 99500,
-		["Patrón: Bola de Cuero Pesado"] = 300000,
-		["Daga Arrojadiza Pesada Rota"] = 1109000,
-		["Pergamino de Encantar guantes: armero"] = 1379999,
-		["Hacha del Bosque Profundo"] = 1267500,
-		["Guerrera de seda de ascuas del búho"] = 1636026,
-		["Botas de agitación regia"] = 66800000,
+		["Adamantita Mercúrica"] = 1000000,
+		["Cinturón de Escarcha Salvaje"] = 1900000,
+		["Fórmula: Aceite de Zahorí Menor"] = 8900,
+		["Poción de Maná"] = 8828,
+		["Casco de Placas Imbuido"] = 2835064,
+		["Glifo de Lluvia de Estrellas"] = 447999,
+		["Esencia Mágica Superior"] = 100000,
 		["Musleras de Brillavalva del águila"] = 2999999,
-		["Maza Demoledora Menor del anciano"] = 1200000,
+		["Botas Brigada del lobo"] = 50000000,
 		["Toga de Garrida del invocador"] = 140000,
 		["Achicoria Buscasueños de poder con hechizos"] = 400319,
+		["Puños de Tormentero"] = 9939900,
 		["Leotardos Primigenios de la ballena"] = 159000,
-		["Glifo de Bramido"] = 258899,
 		["Botas de Wendigo del bandido"] = 2550000,
 		["Barrera del Norte"] = 720000000,
 		["Quijotes de Jormungar de poder con hechizos"] = 190000,
-		["Madeja de Paño de Seda"] = 17000,
-		["Pergamino de Encantar brazales: estadísticas"] = 6659900,
+		["Maza con Pinchos Pesada"] = 64500,
+		["Guanteletes Sangremar de defensa"] = 500000,
 		["Sombrero de Cuero Cómodo"] = 40000000,
 		["Sortija de Hueso de Presagista"] = 3200000,
-		["Escudo de Gran Jefe de agilidad"] = 11999999,
 		["Guantes Delicados de la ballena"] = 2499999,
 		["Vidarraíz"] = 22200,
+		["Pergamino de Encantar brazales: estadísticas"] = 6630000,
 		["Diamante de Asedio de Tierra Vigorizador"] = 3497500,
-		["Coraza Tosca de aguante"] = 60000000,
+		["Glifo de Captar No-muertos"] = 325500,
 		["Arco para Flechas Abrasadoras"] = 39980000,
-		["Glifo de Kilrogg"] = 378292,
+		["Glifo de Martillo del Honrado"] = 388900,
 		["Guantes de Sauce del águila"] = 599999,
-		["Piedra Burda"] = 1050,
-		["Varita de Fuego"] = 200000,
-		["Brazal del Consorcio de intelecto"] = 1250000,
-		["Liquen Antiguo"] = 507000,
+		["Coselete de La Garfa"] = 811696,
+		["Corona de Vigilante"] = 390000,
+		["Piedra de Afilar Sólida"] = 17450,
+		["Coraza de Mazo de Guerra de protección Arcana"] = 2000000,
 		["Leotardos Conchaplata"] = 350000,
-		["Pergamino de Encantar botas: agilidad excelente"] = 1935000,
+		["Pergamino de Encantar botas: agilidad excelente"] = 3489999,
 		["Receta: Poción de Escabullida"] = 409998,
 		["Calcedonia rígida perfecta"] = 543000,
-		["Pergamino de Encantar bastón: poder con hechizos"] = 1764999,
-		["Cohete Rojo Grande"] = 25000,
+		["Prole de dracohalcón azul"] = 2500000,
+		["Estrella de Elementalista de espíritu"] = 2499999,
 		["Sobrehombros Vivos"] = 40000000,
 		["Guantes Rígidos del falcón"] = 6620000,
 		["Cinturón de garroso de la arboleda"] = 2000000,
 		["Caña de Pescar de Hierro Grande"] = 3550000,
-		["Jubón de Tela Lunar"] = 2699000,
+		["Frasco de Restauración Poderosa"] = 651428,
 		["Casco de Pielférrea del lobo"] = 3253750,
 		["Sortija de ojo de tigre"] = 9900,
-		["Pergamino de Intelecto III"] = 10400,
-		["Sobrehombros Durable del águila"] = 320000,
-		["Pergamino de Encantar capa: Perforar con hechizos"] = 932999,
-		["Musleras Cantasueños"] = 3870000,
-		["Guanteletes de jade del gorila"] = 40000000,
-		["Glifo de Bloque de Hielo"] = 160999,
-		["Vástago oscuro"] = 76000000,
-		["Las Verdes Colinas de Tuercespina: Página 4"] = 989000,
+		["Cristal de Sombras destellante perfecto"] = 290000,
+		["Muro de los Muertos"] = 9479999,
+		["Guanteletes Njord de espíritu"] = 155424,
+		["Musleras Ulduar del tigre"] = 11500000,
+		["Sobrehombros Nerubianos"] = 150000,
+		["Guanteletes de Saronita Ornamentada"] = 3357000,
+		["Pechera Aleta Invernal del jabalí"] = 150000,
+		["Espaldares de Saronita Ornamentada"] = 1890000,
 		["Yelmo de Placas Imperiales"] = 5000000,
-		["Cinturón Ansia de Sangre"] = 8000000,
-		["Glifo de Lanzamiento Mortal"] = 384797,
+		["Botas Aleta Invernal de protección de Escarcha"] = 500000,
+		["Rocío de Gloria Matinal"] = 60000,
 		["Glifo de Disparo de Dispersión"] = 181250,
 		["Mira Buscacorazones"] = 130000,
 		["Topacio Monarca con Inscripciones"] = 1142500,
-		["Musleras de Brisaveloz"] = 3000000,
-		["Receta: Venado Magro"] = 6500000,
+		["Halo de Cazador de Almas"] = 1220000,
 		["Glifo de Cadena de Relámpagos"] = 358698,
+		["Receta: Venado Magro"] = 6500000,
 		["Foco de cristal mermado"] = 10100,
 		["Tres de Prismas"] = 3597500,
-		["Glifo de Armadura de Mago"] = 990000,
-		["Barra de Veraplata"] = 6200,
+		["Guanteletes Sangremar de poder con hechizos"] = 407000,
+		["Brazales de Fuego de Precisión"] = 650000,
 		["Glifo de Sanación Relámpago"] = 290900,
-		["Grebas Rectas"] = 3499900,
+		["Glifo de Separación"] = 258900,
 		["Brazales magistrales del águila"] = 999999,
 		["Capa defensora del oso"] = 150000,
 		["Pisoteadores Arcánicos"] = 550000000,
-		["Fajín de Visir del águila"] = 1900000,
+		["Glifo de Sello de Luz"] = 485342,
 		["Receta: Bacalao Piedrescama"] = 65650,
 		["Receta: perrito de devastador"] = 399999,
 		["Mojo Potente"] = 100000,
@@ -4093,198 +4099,198 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Sabiola Cruda Superior"] = 349000,
 		["Receta: Ala de Murciélago Crujiente"] = 308900,
 		["Hacha de Guerra Gigante del lobo"] = 550000,
-		["Botas supremas de la ballena"] = 3990000,
-		["Poción de Maná Excelente"] = 9799,
+		["Pergamino de Encantar escudo: Resistencia"] = 12229900,
+		["Martillo de Batalla Algaz del oso"] = 13270282,
 		["Elixir de Detección de No-muertos"] = 6337,
 		["Leotardos Bruñidos"] = 50000,
 		["Flamberge de Galante de poder"] = 74000000,
 		["Glifo de Latigazo de Lava"] = 200000,
 		["Faja defensora del gorila"] = 1414358,
-		["Patrón: Cinturón de Guardián"] = 29800,
-		["Aceite de Inmolación"] = 33058,
+		["Poción de Maná Excelente"] = 9799,
+		["Amito Fulgurante"] = 100000,
 		["Brazales Presavil de agilidad"] = 2650000,
 		["Guanteletes de Espuma de Mar"] = 5000000,
 		["Sello Onírico del hierofante"] = 1789999,
 		["Elixir de Caminar sobre el agua"] = 29400,
-		["Cristal de Sol Rígido"] = 49600,
+		["Cinturón Pie Fantasmal de la ballena"] = 40000000,
 		["Cohete abisal X-51 X-TREMO"] = 850000000,
 		["Toga de Lino Blanca"] = 74500,
-		["Glifo de Disparo Explosivo"] = 548900,
-		["Sortija de Coral del oso"] = 50000,
-		["Pergamino de Encantar brazales: aguante menor"] = 9900,
+		["Patrón: leotardos de dragontina negra"] = 15689,
+		["Pergamino de Encantar arma: arma profana"] = 9820800,
+		["Botas Forjabatalla del águila"] = 3007500,
 		["Paño Rúnico"] = 1135,
 		["Seda de Araña Tejehielo"] = 25000,
 		["Pantalones de Garrida del invocador"] = 1000000,
 		["Escudo Despiadado de la ballena"] = 250000,
-		["Especias Festivas"] = 7900,
-		["Madeja de Paño de Lino"] = 1000,
-		["Glifo de Espiral de la Muerte"] = 838196,
+		["Sortija de Coral del oso"] = 50000,
+		["Glifo de Vida Renovada"] = 427499,
+		["Arco Hiriente"] = 539000,
 		["Arco de ojo de halcón de la ballena"] = 999999,
 		["Glándula de Tósigo de Colmillo de Terror"] = 80000,
 		["Sello Onírico del invocador"] = 1789999,
-		["Armadura de Comandante de aguante"] = 14999999,
-		["Lubina Cruda"] = 9332,
+		["Glifo de Rajar"] = 383492,
 		["Pata de Marrano Salvaje"] = 20000,
-		["Escudo de Bayeaux de protección de Escarcha"] = 4000000,
 		["Cinturón de Orca de protección de las Sombras"] = 250000,
+		["Escudo de Bayeaux de protección de Escarcha"] = 4000000,
+		["Armadura de Comandante de aguante"] = 14999999,
 		["Manto Rúnico Oscuro"] = 488800,
-		["Pólvora Densa"] = 1145,
-		["Diseño: guanteletes de tormenta"] = 516000,
-		["Trozo Draenetista Imperfecto"] = 9800,
+		["Manual de Instrucciones de Trituradora: Página 4"] = 999000,
+		["Sobrevesta Primigenia del falcón"] = 8148797,
+		["Escama de Vakkiz"] = 990000,
 		["Escarpes de Rabioso"] = 5690000,
 		["Ballesta Certera"] = 1500000,
 		["Lúas Elunaritas"] = 8883637,
 		["Guanteletes Antiguos del lobo"] = 1000000,
 		["Carne de Almeja"] = 49799,
 		["Espaldares Grabados de cólera de la Naturaleza"] = 2120963,
-		["Patas de Lince"] = 27555500,
+		["Guadaña Siniestra del bandido"] = 14880000,
 		["Musleras Impenetrables de poder"] = 3007420,
-		["Manto del Consorcio del hechicero"] = 2250000,
+		["Manifiesto de Prisión"] = 1695000,
 		["Almádena Engorrosa del águila"] = 1109000,
 		["Yelmo de Cormorán de espíritu"] = 1895000,
 		["Pantalones de Escamas de Mitril"] = 320000,
-		["Elixir de Visión Onírica"] = 950550,
-		["Zapatos de Cóndor del águila"] = 170000,
+		["Sello de Edward El Extraño"] = 11990000,
+		["Camisote de Hierro Verde"] = 9990000,
 		["Manual: Venda de Seda Gruesa"] = 49900,
 		["Colmillo Escabechado"] = 62000,
-		["Hamburguesa de Distorsión"] = 89500,
+		["Cinturón con Puntadas Skom de aguante"] = 500000,
 		["Aguardiente Nevada"] = 80000,
-		["Pergamino de Encantar capa: agilidad superior"] = 8880000,
-		["Patrón: Cinturón Barbárico"] = 29900,
+		["Glifo de Manáfago"] = 2969999,
+		["Pechera Mascahuesos de la bestia"] = 500000,
 		["Glifo de Exorcismo"] = 349800,
 		["Capa Nemorosa"] = 90000,
-		["Garfas de Akkarai"] = 35000000,
-		["Glifo de Eliminar Maldición"] = 774500,
+		["Patrón: Cinturón Barbárico"] = 29900,
+		["Puños de Wolvar de defensa"] = 1500000,
 		["Collar de la Luna Negra"] = 12330826,
 		["Espesartita de llamas destellante"] = 9900,
 		["Coraza Forjanegra"] = 10000000,
-		["Armadura Fulgurante del águila"] = 2911513,
-		["Escudo con Remaches del hechicero"] = 2000000,
-		["Anillo Espuela de la bestia"] = 9990000,
-		["Anillo de Tendones Podridos"] = 5690000,
-		["Casco de Skettis del soldado"] = 994356,
-		["Talega de Seda Pequeña"] = 19800,
-		["Acérita Salvaje"] = 26200,
-		["Leotardos de Mur'crófago del médico"] = 340000,
-		["Cinturón Pie Fantasmal del búho"] = 40000000,
+		["Agua Elemental"] = 16500,
+		["Citrino Enorme"] = 25489,
+		["Cinturón de Puño de Roca de protección de Fuego"] = 2000000,
+		["Anillo de Revitalización de huargen"] = 200000,
+		["Colgante del Guerrero de Aguamarina"] = 99900,
+		["Espaldares de Cruzado de la ballena"] = 300000,
+		["Dinamita para Tontos II"] = 10680,
 		["Boceto: ópalo crepuscular destellante"] = 78400,
+		["Casco de Skettis del soldado"] = 994356,
+		["Daga Keris Sinuosa del bandido"] = 12500000,
 		["Toga de Escarcha Salvaje"] = 1886999,
-		["Sortija Piadosa de protección de la Naturaleza"] = 710000,
+		["Cinturón de garroso de las Sombras"] = 2000000,
 		["Brazales de Torio"] = 20900,
-		["Pergamino de Encantar botas: entereza superior"] = 917999,
-		["Las Verdes Colinas de Tuercespina: Página 18"] = 330000,
-		["Manteo de Tafetán Teñido del hierofante"] = 2350000,
+		["Pergamino de Encantar botas: entereza superior"] = 819849,
+		["Acérita Salvaje"] = 26200,
+		["Diseño: pantalones de mitril pesado"] = 48400,
 		["Casco Haltorboll del lobo"] = 500000,
 		["Coselete de Hueso de Cóndor"] = 197000,
 		["Esquema: Aparato de Invisibilidad Gnómico"] = 281775,
-		["Aguamarina"] = 69500,
+		["Espaldares Heroicos de aguante"] = 8737975,
 		["Brazales de Orca del búho"] = 2150000,
+		["Coraza Magnánima del oso"] = 9500000,
 		["Cristal de Sol Luminoso"] = 29400,
-		["Cinco de Caos"] = 950000,
 		["Yelmo de Puño de Roca de protección de las Sombras"] = 40000000,
-		["Cebos Explosivos Helados"] = 14800,
+		["Rubí Cárdeno Fracturado"] = 3449999,
 		["Retales de Ropas de Pelaje"] = 1485,
-		["Topacio Monarca"] = 999999,
-		["Brazales de Escarcha Salvaje"] = 1500000,
+		["Pergamino de Agilidad V"] = 29999,
+		["Guardahombros Njord del búho"] = 120000,
 		["Leotardos de Placas de Alabastro"] = 4797500,
-		["Botas Místicas de cólera Arcana"] = 2999999,
-		["Glifo de Arañazo"] = 198102,
 		["Cinturón Rúnico de Cobre"] = 70000,
+		["Glifo de Arañazo"] = 198102,
+		["Cebos Explosivos Helados"] = 14800,
 		["Fragmento Superior del Mapa"] = 14300,
 		["Fórmula: Encantar Escudo: Aguante Sublime"] = 1377600,
-		["Elixir de ojo de gato"] = 89500,
-		["Bolsa Glacial"] = 6050000,
-		["Espina de Hielo"] = 50000,
-		["Glifo de Control Mental"] = 254333,
-		["Draenita de Sombras resplandeciente"] = 6900,
-		["Cinturón Escarlata"] = 687000,
+		["Leotardos de Comandante de intelecto"] = 14999999,
+		["Coraza de la Mano Destrozada de protección de Escarcha"] = 18999999,
+		["Rodela de Bosque"] = 499999,
+		["Diseño: Cadena de Adamantita"] = 19800,
+		["Patrón: Caperuza de Escamas de Cobra"] = 4999999,
+		["Glándula ígnea"] = 100000,
 		["Gran Bastón con Colmillos de fuerza"] = 600000,
-		["Pergamino de Encantar guantes: agilidad sublime"] = 1019998,
+		["Glifo de Monzón"] = 273900,
 		["Cristal de sombras cambiante"] = 87750,
-		["Botas de alma terrestre"] = 55660000,
-		["Fajín de Ogron"] = 28555500,
-		["Pergamino de Encantar arma: espíritu excepcional"] = 2944302,
-		["Draenita dorada gruesa"] = 29800,
+		["Antorcha Incesante"] = 710000,
+		["Botas Místicas de la ballena"] = 2804010,
+		["Lente Verde de cólera Arcana"] = 999000,
+		["Guantes Tejerred del médico"] = 500000,
 		["Manual de Instrucciones de Trituradora: Página 2"] = 990000,
-		["Draenita dorada rígida"] = 20000,
+		["Montaje de Equipo Neodinámico"] = 9800,
 		["Glifo de Ola de Choque"] = 434899,
 		["Glifo de Súplica Divina"] = 219000,
 		["Jubón de la Luna Negra del mono"] = 90000,
-		["Gafas de Nieve Mecanizadas de la bestia"] = 1467798,
-		["Martillo de Herrero"] = 29900,
-		["Cardopresto"] = 5000,
+		["Pergamino de Encantar arma: espíritu excepcional"] = 1799800,
+		["Pergamino de Encantar capa: agilidad sublime"] = 1559999,
+		["Elixir de Defensa Excelente"] = 91668,
 		["Comida de Megamamut"] = 140000,
 		["Amito Tejeocaso de cólera Arcana"] = 1499999,
 		["Aletadragón Ennegrecido"] = 182750,
-		["Rebanadora Esquelética del águila"] = 2390000,
+		["Hoja Tigre de Escarcha"] = 7770000,
 		["Botas de Templario del tigre"] = 2499999,
-		["Botas de Desgarrador del Viento"] = 24999899,
+		["Moquillo Desagradable"] = 12000000,
 		["Guantes de Mitril Ornamentado"] = 5000000,
-		["Granate de sangre brillante"] = 26600,
+		["Glifo de Orden"] = 305399,
 		["Leotardos Encapotados"] = 9829900,
-		["Ocho de No-muertos"] = 3890000,
-		["Carne de Venado Salada"] = 985,
+		["Clava de Fúrbolg del bandido"] = 350000,
+		["Elixir de Poder de Fuego Sublime"] = 550000,
 		["Brazales de Kodo Encantados"] = 5000000,
-		["Escarpines Lindeallá de protección de la Naturaleza"] = 100000,
-		["Glifo de Renovar"] = 208850,
+		["Esquema: Rifle de Torio"] = 79399,
+		["Gafas de Nieve Mecanizadas de la batalla"] = 217434,
 		["Guantes Ghrino de intelecto"] = 300000,
 		["Esencia Abisal Superior"] = 398000,
 		["Apisonadoras de Tormentero"] = 9939900,
-		["Manoplas de Malla Abisal de restauración"] = 390000,
-		["Pergamino de Encantar arma: arma ígnea"] = 1355000,
+		["Daga Excéntrica del búho"] = 799000,
+		["Pergamino de Encantar arma: arma ígnea"] = 1899999,
 		["Anillo de Dragón Dorado"] = 10800,
 		["Patrón: Chaleco de Cuero Blanco"] = 1295,
-		["Patrón: Coraza de Escórpido Resistente"] = 3600,
+		["Cincho de Implorador del mono"] = 4950000,
 		["Garra Peluda Pequeña"] = 2200,
-		["Trabuco Mortal"] = 1500000,
-		["Mena de Estaño"] = 5000,
+		["Aro del Ensalmador Oscuro"] = 49980000,
 		["Leotardos de Pellejo de Quimera de protección de la Naturaleza"] = 2500000,
+		["Mena de Estaño"] = 5000,
 		["Quijotes de cobalto claveteados"] = 490000,
-		["Diseño: Jubón de Anillas de Cobre"] = 660,
-		["Glifo de Torbellino"] = 442089,
+		["Cristal de Sol"] = 9000,
+		["Seis de Nobles"] = 8570000,
 		["Glifo de Golpe con Runa"] = 479899,
 		["Toga de Tejido Verde de la ballena"] = 60000,
 		["Pergamino de Encantar capa: resistencia a la Naturaleza excelente"] = 8885000,
 		["Corona Celestial del búho"] = 40000000,
-		["Pergamino de Encantar arma 2M: masacre"] = 10979999,
-		["Receta: Chuleta de Lince"] = 439000,
+		["Pergamino de Encantar arma 2M: masacre"] = 9789999,
+		["Fajín regio de la ballena"] = 6795882,
 		["Anillo de Salvadores"] = 2875000,
-		["Guardabrazos Sombra Lunar"] = 64440000,
+		["Fragmentos de Hierro Negro"] = 3124,
 		["Estrella Regia de intelecto"] = 2999999,
 		["Tizona Llameante de Teebu"] = 160000000,
-		["Jade Oscuro Fuerte Perfecto"] = 40000,
+		["Leotardos Elegantes del águila"] = 8000000,
 		["Equipo de Muñeco de Nieve"] = 3266733,
-		["Pez Coraza de Placas"] = 4899,
+		["Cohete Amarillo Grande"] = 25000,
 		["Manto de Tejido Verde del lobo"] = 1000000,
-		["Guardamuñecas de Arena"] = 40000000,
+		["Fajín de Fuego Estelar de protección de Fuego"] = 2010154,
+		["Furia de Bruja"] = 1999999,
 		["Coraza Brigada del águila"] = 50000000,
-		["Coraza de Forjavida"] = 250000000,
 		["Garrote de Conífera del invocador"] = 400000,
-		["Desgarrador Dimensional: Área 52"] = 32000000,
+		["Musleras de Grupo de Anillas"] = 4507899,
+		["Glifo de Sello de Sabiduría"] = 412499,
 		["Toga de Tejido Abisal Imbuido"] = 3120000,
-		["Receta: Kebab de Lobo Sazonado"] = 508999,
 		["Espina de Karrog"] = 990000,
 		["Toga de Sauce del búho"] = 190000,
-		["Glifo de Piel de Corteza"] = 398900,
+		["MOLL-E"] = 2297500,
 		["Botas Riecráneos del águila"] = 2999999,
 		["Rosa Roja"] = 50000,
-		["Baluarte de Placas de intelecto"] = 1500000,
+		["Pergamino de intelecto IV"] = 5000,
 		["Bastón del Fraile"] = 4500000,
 		["Elixir de Golpes Mortales"] = 443000,
 		["Patrón: Leotardos de Cuero Oscurecido"] = 19800,
 		["Sobrehombros de Paño Oscuro de la ballena"] = 5198259,
-		["Espada de Corrupción"] = 300000,
+		["Marco Indestructible"] = 90000,
 		["Tierra Elemental"] = 209000,
 		["Ojo de Zul Resistente"] = 889999,
 		["Barra de elementium encantado"] = 16500999,
-		["Espaldares Simbólicos"] = 160000000,
+		["Pantalones de Infiltrado de la ballena"] = 40000000,
 		["Bufas de Tejido de Trol"] = 19730000,
-		["Patrón: Toga de Lana Gris"] = 119900,
+		["Diamante de Azeroth"] = 499999,
 		["Fragmento Centelleante Grande"] = 232500,
 		["Diseño: Sobrehombros de Escamas de Mitril"] = 30000,
-		["Glifo de Pirofrío"] = 469997,
+		["Botas Tralladón del mono"] = 488888,
 		["Brazales de la Plaza del Rey"] = 827000,
-		["Pergamino de Encantar brazales: aguante excelente"] = 8220000,
+		["Pergamino de Encantar brazales: aguante excelente"] = 8880000,
 		["Hombreras de Espadachín de intelecto"] = 3999999,
 		["Receta: Carne de Oso Ahumada"] = 199899,
 		["Jubón de Caribú de fuerza"] = 310000,
@@ -4292,150 +4298,150 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Brazales Elegantes del águila"] = 8250000,
 		["Machacacaras"] = 40000000,
 		["Patrón: Sobrehombros de Lana Reforzada"] = 275220,
-		["Guantes de Pigmeo del médico"] = 300000,
-		["Escarabajo de Terracota"] = 991953,
+		["Anillo de Roca Volcánica"] = 2487500,
+		["Quijotes Gloriosos del oso"] = 40000000,
 		["Poción de Sanación Menor"] = 280,
 		["Leotardos de Belicista del búho"] = 10000000,
-		["Glifo de Aullido de Terror"] = 233704,
-		["Ataduras de Orca de protección de las Sombras"] = 150000,
+		["Boletus Edulis Seco"] = 11300,
+		["Manto de Brillavalva"] = 5740000,
 		["Mitad Superior de Forja de Armaduras Avanzada: Volumen II"] = 39999,
 		["Elixir de Precisión"] = 250000,
 		["Varita Polar del búho"] = 700000,
 		["Armadura Arcana"] = 1999999,
-		["Almeja Jaggal"] = 2650,
+		["Pergamino de Encantar arma: Rabiar"] = 9999999,
 		["Mantón Hechicero de cólera Arcana"] = 2506978,
 		["Gran Bastón con Pinchos del bandido"] = 7990000,
-		["Grebas Magníficas de poder"] = 8000000,
+		["Carcaj Reforzado Nerubiano"] = 5478800,
 		["Agua Cristalizada"] = 8700,
 		["Faja Mercúrica de la ballena"] = 750000,
-		["Glifo de Garrote"] = 250000,
-		["Ajorcas de la llama vibrante"] = 35000000,
+		["Ataduras de Orca de protección de las Sombras"] = 150000,
+		["Yelmo de Tirano"] = 40000000,
 		["Cubrehombros de jade de aguante"] = 40000000,
-		["Quijotes Exaltados del oso"] = 140000000,
-		["Superpoción de Sanación"] = 10300,
+		["Varita de Potencia Arcana"] = 819000,
 		["Cinturón de Cruzado del búho"] = 19999999,
-		["Diseño: Guanteletes de Cobre con Gemas"] = 1985,
 		["Glifo de Explosión de Fuego"] = 219898,
+		["Diseño: Guanteletes de Cobre con Gemas"] = 1985,
 		["Guardahombros de Capitán de defensa"] = 10999985,
+		["Balista Brutal del Campeón"] = 554010,
 		["Sortija Guardapiedra"] = 175500,
 		["Patrón: Pantalones de Cuero Refinado"] = 30000,
-		["Glifo de Golpe de Tormenta"] = 229900,
-		["Fragmento Resplandeciente Grande"] = 9800,
+		["Capa de Cielos Atormentados"] = 500000,
+		["Coraza de Pielférrea del lobo"] = 40000000,
 		["Pargo de Lodo Boquilargo"] = 8000,
-		["Cinturón Despiadado de la ballena"] = 2417603,
+		["Bastón de Esbirro de la bestia"] = 12500000,
 		["Grebas de Puño de Roca del gorila"] = 40000000,
-		["Glifo de Guardia Vil"] = 403283,
+		["Botas de Espadachín de la ballena"] = 3114808,
 		["Girotiro de Mitril"] = 100,
-		["Loto Negro"] = 199000,
-		["Bufas de cornopala nudosas"] = 298000,
+		["Gargantilla de Perlas Tejidas del invocador"] = 1900000,
+		["Esencia de Agua"] = 199500,
 		["Ametrino de Precisión"] = 3449999,
 		["Glifo de Sello de Venganza"] = 485499,
 		["Camisote de Guardia de El Aviario"] = 499000,
-		["Leotardos natoespada"] = 94800000,
-		["Madera de Estrella"] = 30000,
+		["Glifo de Misiles Arcanos"] = 285900,
+		["Esencia Cósmica Inferior"] = 65656,
 		["Libranza del Artesano: Aro Radiante"] = 199999,
 		["Mero Aletarroca"] = 1500,
-		["Guerrera Delicada de cólera Arcana"] = 11643586,
+		["Esencia de Tierra"] = 450000,
 		["Pantalones Durables del águila"] = 7000000,
 		["Armadura incomparable del mono"] = 300000,
 		["Ocaso"] = 55550000,
 		["Jubón de Bucanero de la ballena"] = 4999999,
-		["Mandoble de Combatiente"] = 3557500,
-		["Bufas de Placas Góticas de defensa"] = 7070334,
-		["Partecostillas del lobo"] = 3000000,
+		["Arenque Oscuro"] = 254000,
+		["Leotardos de tejido de muerte"] = 68950000,
+		["Guanteletes defensores de la ballena"] = 2999999,
 		["Brazales de Bucanero del búho"] = 1000000,
 		["Cubretesta de Terror Eterno"] = 1282500,
 		["Receta: Raptor Asado"] = 54798,
 		["Quijotes magistrales de agilidad"] = 2500000,
 		["Topacio Monarca Diestro"] = 1497500,
 		["Mandoble Cortapiedras del águila"] = 24500000,
-		["Cubrehombros de jade de la ballena"] = 40000000,
+		["Capa de Cuero Estampado"] = 9000,
 		["Anillo de Lágrimas del Norte"] = 6555537,
-		["Filete Talbuk"] = 2500,
+		["Boceto: ojo de noche intemporal"] = 1999999,
 		["Escarabajo de Marfil"] = 887000,
 		["Enseña de Excavador"] = 77777700,
 		["Glifo de Escudo de Vengador"] = 409971,
 		["Cristal de sol liso perfecto"] = 780000,
 		["Patrón: Cinturón de Escamas Descarriadas"] = 500000,
 		["Espada de Costilla de Dragón del mono"] = 500000,
-		["Receta: Elixir de Poder de las Sombras"] = 1882500,
-		["Colgante de Zafiro de Noche Invernal"] = 107000,
+		["Aro de Jade del jabalí"] = 40000000,
+		["Siete de No-muertos"] = 2905445,
 		["Coraza de Cresta Oscura del falcón"] = 44999999,
 		["Patrón: Toga del Vacío"] = 1500000,
-		["Parche de espadachín de resistencia a las Sombras"] = 40000000,
-		["Manoplas Desalentadoras"] = 1784884,
+		["Anillo de Lazulita de fuerza"] = 4142443,
+		["Botines de Acero de Titanes Luminoso"] = 23349997,
 		["Cinturón de Cabecilla de la ballena"] = 2999999,
-		["Espaldares de Cruzado del jabalí"] = 1917128,
+		["Brazales Frioescollo de fuerza"] = 300000,
 		["Parche de espadachín del águila"] = 22226500,
 		["Marco de Bronce"] = 375000,
-		["Brazales Frioescollo de fuerza"] = 300000,
+		["Espaldares de Cruzado del jabalí"] = 1917128,
 		["Gubia de Ced"] = 8000000,
 		["Pantalones Forrados de Pieles"] = 20000,
 		["Anillo de Truenedera"] = 40000000,
 		["Núcleo de Elementos"] = 1985,
-		["Látigo cerebral"] = 2326500,
+		["Fórmula: encantar arma: oleada de hechizos"] = 385550,
 		["Coraza Magnífica de resistencia a las Sombras"] = 9900000,
 		["Brea Ardiente"] = 19600,
 		["Cinturón de Soñador"] = 70000,
-		["Fórmula: Encantar Escudo: Protección Inferior"] = 40000,
-		["Armadura de Cuero Fortalecido"] = 709999,
-		["Faca de Acero de Titanes"] = 30000000,
-		["Pergamino de Encantar arma: golpear menor"] = 1400000,
+		["Pechera Formidable de espíritu"] = 75000000,
+		["Glifo de Aura de Disparo Certero"] = 293000,
+		["Baraja de No-muertos"] = 23206000,
+		["Pergamino de Encantar arma: golpear menor"] = 2229500,
 		["Hacha de Hueso Barbada"] = 40000000,
-		["Pergamino de Encantar arma: mangosta"] = 9549999,
+		["Corona de Templario de la ballena"] = 150000,
 		["Glifo de Bloqueo"] = 463090,
-		["Toga de Tejido de Ébano"] = 10190000,
-		["Poción de Sanación Excelente"] = 554,
-		["Yelmo Calavermis del búho"] = 145000,
-		["Faja de Wendigo del bandido"] = 5000000,
+		["Pechera Nafsavar del bandido"] = 699000,
+		["Manto Hechicero del búho"] = 2999999,
+		["Glifo de Orden Oscura"] = 467700,
+		["Bengala de Humo Verde"] = 141500,
 		["Prole de Estornino"] = 70000,
 		["Bastón de Jordan"] = 40000000,
-		["Coraza de Golpe Rápido"] = 10000000,
 		["Fragmento Helado"] = 300000,
+		["Poción de Sanación Excelente"] = 554,
 		["Receta: Transmutar Poderío Primigenio"] = 2500000,
 		["Cordón de Bucanero del búho"] = 1000000,
 		["Ojo de Zul Duradero"] = 1601249,
-		["Cinturón de Cuero Refinado"] = 30000,
+		["Faja de la Prisión Mística"] = 445000,
 		["Guanteletes de Cobalto"] = 210000,
 		["Glifo de Explosión Arcana"] = 492462,
-		["Paño de Lana"] = 9700,
+		["Brazales de Templario de poder"] = 1191527,
 		["Cacharros Zumbones de Bronce"] = 78500,
-		["Espaldares valerosos"] = 50000,
-		["Guanteletes de Kraken de intelecto"] = 1900000,
-		["Baraja de Portales"] = 18000000,
+		["Pechera Ártica Oscura"] = 1119999,
+		["Botas de Sabio de la ballena"] = 3061199,
+		["Ortiga Mortal"] = 34000,
 		["Casco de Pielférrea de aguante"] = 40000000,
 		["Guja de Leyenda del bandido"] = 1600000,
 		["Collar Extraviado del invocador"] = 299999999,
+		["Rifle de Asalto Gnomo del águila"] = 1250000,
+		["Pergamino de Encantar capa: agilidad excelente"] = 660599,
 		["Orbe de Embozo de Veneno"] = 1250000,
-		["Pergamino de Encantar capa: agilidad excelente"] = 319000,
-		["Glifo de Venas Heladas"] = 220000,
-		["Diseño: Botas de Escamas Doradas"] = 440000,
 		["Perla Azul"] = 80,
-		["Pantalones Lindeallá del médico"] = 200000,
+		["Diseño: Botas de Escamas Doradas"] = 440000,
+		["Fragmentos Geodésicos"] = 57692,
 		["Cinturón de Jade del oso"] = 22000000,
 		["Daga Mermada"] = 15000000,
-		["Pergamino de Encantar arma 2M: impacto inferior"] = 1997500,
-		["Ametrino Velado"] = 5545000,
+		["Escarpines de Silencio"] = 67000000,
+		["Patrón: Brazales Golpenegro"] = 6000000,
 		["Dragontina azul"] = 41890,
 		["Topacio Monarca Destellante"] = 1651250,
-		["Corazón de huargo descolorido"] = 1550,
-		["Dos de Señores de la Guerra"] = 730000,
-		["Fajín Invernal"] = 39500,
+		["Braciles del Anillo Celeste"] = 360000,
+		["Fórmula: encantar pechera: maná menor"] = 2100,
+		["Brazales de Valor"] = 140000,
 		["Cinturón Caldeado de Muerte"] = 39500000,
-		["Libro de Cocina de Chef"] = 90000,
-		["Cubrehombros de Puño de Roca del mono"] = 40000000,
+		["Ametrino Velado"] = 5545000,
+		["Pantalones Astralaan del águila"] = 16999999,
 		["Ametrino Luminoso"] = 3899999,
-		["Saco de Maravillas de Ikfirus"] = 73000000,
+		["Corazón de huargo descolorido"] = 1550,
 		["Tubo de Bronce"] = 49800,
-		["Garfa Rúnica del anciano"] = 190000,
-		["Guardahombros Ulduar del anciano"] = 470000,
+		["Poción de Sanación Volátil"] = 18800,
+		["Fajín Invernal"] = 39500,
 		["Uña de Araña del lobo"] = 200000,
 		["Sobrehombros de Cabecilla de la ballena"] = 12999999,
 		["Glifo de Estimular"] = 393900,
 		["Guantes de La Guardia Oeste del médico"] = 150000,
 		["Gloria de Ensueño"] = 19000,
-		["Mandoble Bendito"] = 209000,
-		["Puñado de Tornillos de Cobre"] = 76000,
+		["Garfa Rúnica del anciano"] = 190000,
+		["Malicia Negra"] = 1499999,
 		["Cristal Nexo"] = 90000,
 		["Cubrehombros de Puño de Roca del lobo"] = 40000000,
 		["Meca-jarly"] = 184000000,
@@ -4444,586 +4450,586 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Botas de Tejido Abisal"] = 520000,
 		["Las Verdes Colinas de Tuercespina: Página 6"] = 238000,
 		["Leotardos de Nigromante"] = 25655500,
-		["Malicia Negra"] = 1499999,
+		["Mandoble Bendito"] = 209000,
 		["Botas de Viajero"] = 290000,
 		["Taparrabos Salpicado de Sangre de la ballena"] = 2386250,
-		["Pergamino de Encantar pechera: maná sublime"] = 1445000,
+		["Pergamino de Encantar pechera: maná sublime"] = 650000,
 		["Faja defensora del jabalí"] = 1414358,
 		["Caperuza Tejerred del médico"] = 30000000,
-		["Flor de Fuego"] = 12000,
+		["Pluma Ligera"] = 99,
 		["Patrón: Botas Prestas"] = 14587,
-		["Dos de No-muertos"] = 1860000,
+		["Poción de Presteza"] = 399999,
 		["Cuchilla para Huesos de la ballena"] = 150000,
 		["Aro Bruma de Hielo del hechicero"] = 250000,
-		["Esquema: Modulador de Amplificación de Voz"] = 25007500,
-		["Jubón de Fuego Estelar de protección Arcana"] = 4431715,
+		["Dado Decagonal de Enano"] = 8000000,
+		["Flor de Fuego"] = 12000,
 		["Glifo de Frío Hambriento"] = 288900,
 		["Talasita"] = 118500,
-		["Pretina Cubredaga del mono"] = 488888,
+		["Bengala de Humo Blanco"] = 50999,
 		["Sobrehombros de Cabecilla del búho"] = 920000,
-		["Pergamino de Encantar brazales: espíritu sublime"] = 955500,
-		["Receta: Tortilla con un Sabor Curioso"] = 9899,
-		["Toga Aborigen de cólera de las Sombras"] = 1950000,
-		["Amuleto de Cainwyn Enjoyado"] = 6500000,
-		["Báculo de paño de ascuas del búho"] = 10000000,
+		["Pergamino de Encantar brazales: espíritu sublime"] = 2942597,
+		["Leotardos de Pretoriano del oso"] = 3314474,
+		["Patrón: Jubón de Cuero de Montañero"] = 80820,
+		["Dos de No-muertos"] = 1860000,
+		["Esquema: Modulador de Amplificación de Voz"] = 25007500,
 		["Filo de Elanor"] = 2233750,
 		["Anillo Extraviado del hierofante"] = 249999999,
-		["Voluntad de Edward El Raro"] = 25550000,
-		["Diamante Negro Prístino"] = 864500,
+		["Pretina Cubredaga del mono"] = 488888,
+		["Espaldares de Cresta Oscura del falcón"] = 5000000,
 		["Ágata Musgosa"] = 99500,
 		["Círculo de Doncella"] = 1000000,
-		["Péndulo de Fatalidad"] = 999990000,
+		["Amuleto de Proa de Dragón"] = 3300000,
 		["Patrón: botas de sable de hielo"] = 79999,
 		["Vendetta"] = 70000000,
 		["Coraza Suprema del águila"] = 9999999,
 		["Manto de Esquilador de Ovejas"] = 1500000,
 		["Calcedonia Brillante"] = 10000,
-		["Cuatro de Demonios"] = 250000,
-		["Anillo de Citrino de Sanación Rápida"] = 10530,
+		["Cinturón Salvedar del lobo"] = 400000,
+		["Diamante Negro Prístino"] = 864500,
 		["Cuero de Uñagrieta Grueso"] = 790,
-		["Pergamino de Encantar capa: Resistencia a las Sombras excelente"] = 7500000,
-		["Pergamino de Encantar escudo: Vitalidad"] = 1200000,
+		["Pergamino de Encantar capa: Resistencia a las Sombras excelente"] = 7000000,
+		["Pergamino de Encantar escudo: Vitalidad"] = 700000,
 		["Escarpes Impenetrables de poder"] = 30000000,
 		["Zapatillas de Paño Abisal de brujería"] = 390000,
-		["Cetro Dogmático del anciano"] = 500000,
-		["Patrón: Armadura de Seda Verde"] = 108899,
+		["Pantalones de Sabio de sanación"] = 6999999,
+		["Quijotes Heroicos de poder"] = 5753361,
 		["Cinturón de Bruto del oso"] = 1999999,
-		["Pulseras de Escamas Gruesas del tigre"] = 26969,
+		["Cinturón de Cuero Oscuro"] = 89999,
 		["Culebra Reina Negra"] = 269899,
-		["Manto Piel de Cardo del lobo"] = 4968911,
+		["Glifo de Cadenas de Hielo"] = 100000,
 		["Maza de Guerra Gélida de fuerza"] = 546351,
 		["Cristal de Sol Grueso"] = 117499,
-		["Pantalones de Tejido de Sangre del águila"] = 950000,
+		["Naipe de la Luna Negra: ¡Rabioso!"] = 9850000,
 		["Guanteletes de Cruzado del águila"] = 3118198,
-		["Glifo de Dolor Abrasador"] = 358100,
-		["Fórmula: Encantar Botas: Espíritu Inferior"] = 99500,
+		["Pantalones de Tejido de Sangre del águila"] = 950000,
+		["Glifo de Sangre Vampírica"] = 249000,
 		["Mantón de Guardia de Escarcha"] = 4172500,
 		["Corazón de oscuridad"] = 1000000,
 		["Sobrehombros de Tejido del Alba"] = 550000,
 		["Tela Vil"] = 119500,
-		["Armamento Vil"] = 107142,
+		["Palitos de Pez Dorado"] = 12500,
 		["Diamante de Asedio de Tierra Incansable"] = 1805000,
 		["Piedra de Terror Enjundiosa"] = 1938800,
-		["Casco Nafsavar de agilidad"] = 645000,
+		["Ocho de Furias"] = 49800,
 		["Flujo Concentrado"] = 6900,
 		["Cinturón Ghrino del bandido"] = 1500000,
+		["Espada Decapitadora del tigre"] = 3493364,
 		["Cartera de Encantador"] = 1500000,
-		["Patrón: Yelmo de Escórpido Grueso"] = 989000,
-		["Faja Inductora de Choques"] = 500000,
-		["Gema de las Sombras"] = 70000,
+		["Colmillo Negro"] = 3500000,
+		["Esencia Eterna Superior"] = 358000,
 		["Coraza Brigada de espíritu"] = 50000000,
 		["Aguja del Tallapiedras"] = 770000,
 		["Anillo de Frente de Acero"] = 40000000,
 		["Varita de Hielo Sólida del hechicero"] = 371500,
-		["Pergamino de Espíritu"] = 10000,
-		["Pergamino de Encantar guantes: celeridad menor"] = 5550000,
+		["Fórmula: encantar brazales: aguante superior"] = 3227500,
+		["Pergamino de Encantar guantes: celeridad menor"] = 2500000,
 		["Chafarote de Saronita"] = 1509998,
 		["Espaldares de Malla de Luz Trémula"] = 3000000,
 		["Leotardos de Glotón del águila"] = 180529,
 		["Mitad Inferior de Forja de Armaduras Avanzada: Volumen I"] = 2500000,
-		["Faja Sombranoche de defensa"] = 2193615,
+		["Basilisco Ennegrecido"] = 995,
 		["Esquema: Bengala de Humo Blanco"] = 1867406,
 		["Glifo de Aflicción Inestable"] = 438391,
 		["Glifo de Tótem de Cólera"] = 293899,
-		["Armadura Fulgurante de espíritu"] = 3999999,
-		["Escarpes Inexorables"] = 189999999,
+		["Fórmula: encantar brazales: espíritu excelente"] = 5550000,
+		["Glifo de Toque Helado"] = 296500,
 		["Yelmo Sangremar de la ballena"] = 150000,
-		["Patrón: Pantalones de Cuero Maligno"] = 55000,
-		["Barra de Titanio"] = 758000,
+		["Recuerdo Embrujado"] = 180000000,
+		["Botas de Mitril Pesado"] = 5000000,
 		["Anillo de Sabana del lobo"] = 249999,
 		["Leotardos de Escamas de Tortuga"] = 150000,
 		["Receta: Poción de Resistencia a la Magia Menor"] = 206910,
-		["Botas de Mitril Pesado"] = 5000000,
+		["Barra de Titanio"] = 758000,
 		["Patrón: pantalones de tejido fantasmal"] = 20000,
 		["Fórmula: Encantar Arma: Golpes Excelentes"] = 659000,
 		["Anillo de Sutarn"] = 2557500,
-		["Anillo de Poder de Sombra"] = 550000,
-		["Fórmula: Encantar Botas: Agilidad Menor"] = 171000,
+		["Dinamita Densa"] = 1500,
+		["Esquema: gafas de maestro ingeniero"] = 225924,
 		["Esquema: Mina Terrestre Goblin"] = 1237500,
 		["Cetro Magnífico de Melia"] = 4360000,
-		["Hacha de Batalla de Torio Enorme"] = 350000,
+		["Fórmula: Encantar Botas: Agilidad Menor"] = 171000,
 		["Maza de Blanchard"] = 35550000,
-		["Jade Oscuro Duradero"] = 9900,
+		["Espada Magna Abandonada"] = 500000,
 		["Capucha de Cultor Crepuscular"] = 150000,
 		["Hoja de Cíngaro del anciano"] = 159999,
-		["Cinturón Pataescarcha del médico"] = 2200000,
-		["Guantes de Tejido del Alba"] = 200000,
-		["Glifo de Entereza Ligada al Hielo"] = 194499,
+		["Fórmula: encantar brazales: fuerza menor"] = 29800,
+		["Bastón de Conocimiento Primigenio de la bestia"] = 500000,
+		["Espada de Masacre de fuerza"] = 4999999,
 		["Cinturón de Pellejo de Cría de Ley"] = 1000000,
 		["Ojo de Noche"] = 44800,
 		["Siete de Señores de la Guerra"] = 1977500,
-		["Glifo de Bomba Viva"] = 238000,
+		["Glifo de Atracción Letal"] = 198501,
 		["Garfas Indómitas de la bestia"] = 219000,
 		["Sello de Invierno"] = 77000000,
 		["Grebas de Puño de Roca del hechicero"] = 100000000,
 		["Coraza de Capitán de cólera de la Naturaleza"] = 2999999,
-		["Patrón: Manos de Oscuridad"] = 99500,
-		["Guanteletes de Placas Abisales de ataque"] = 2500000,
+		["Anillo de Bronce Sólido"] = 9750,
 		["Glifo de Filotormenta"] = 447542,
-		["Gracia de Kharmaa"] = 810000,
-		["Guanteletes de Solescama"] = 2116542,
-		["Elixir de Defensa Superior"] = 9262,
-		["Ataduras de Eviscerador"] = 7869900,
-		["Botas de Escarcha Salvaje"] = 1983500,
 		["Aceite de Zahorí Excelente"] = 389999,
+		["Elixir de Defensa Superior"] = 9262,
+		["Guanteletes de Solescama"] = 2116542,
+		["Patrón: Manos de Oscuridad"] = 99500,
+		["Ataduras de Eviscerador"] = 7869900,
+		["Rubí Escarlata Brillante"] = 1000000,
+		["Lentes de Enfoque de Cristal de Sombras"] = 40000,
 		["Fajín de Jordan"] = 40000000,
 		["Grebas de Jade del águila"] = 40000000,
 		["Leotardos Rectos de la ballena"] = 35206662,
 		["Maza Trituracráneos del oso"] = 11999999,
 		["Toga Pinocerda del búho"] = 1000000,
-		["Lentes de Enfoque de Cristal de Sombras"] = 40000,
-		["Rodela de Kashala del hechicero"] = 900000,
+		["Joya de Tormenta Luminosa"] = 3500000,
+		["Cogulla de Escarcha Salvaje"] = 1900000,
 		["Hacha de Tratante de Esclavos del gorila"] = 9999999,
 		["Vara de Veraplata"] = 299000,
 		["Sello de Aguamarina del lobo"] = 140000,
-		["Cogulla de Escarcha Salvaje"] = 1900000,
+		["Botas de Escarcha Salvaje"] = 1983500,
 		["Draenita de Sombras Soberana"] = 2535,
-		["Fórmula: encantar brazales: espíritu superior"] = 499000,
+		["Paño de Tejido Abisal"] = 5100,
 		["Blasón de la familia Garrett"] = 6660000,
 		["Avancarga de cazador"] = 119000,
 		["Carne de Gusano de Arena"] = 18600,
 		["Brazales de Muradin de defensa"] = 158800,
-		["Siete de Caos"] = 1507500,
+		["Calzones Uñagrieta del falcón"] = 6283041,
 		["Patrón: guantes de fe verdadera"] = 40000,
 		["Garrote en Pico del anciano"] = 300000,
 		["Hocinos Preciados del soldado"] = 488888,
-		["Ámbar del Rey Rígido"] = 3447500,
-		["Fórmula: Encantar Guantes: Minería Avanzada"] = 242475,
+		["Esmeralda del Bosque Deslumbrante"] = 47237,
+		["Armadura Acolchada Pretoriana de aguante"] = 220320,
 		["Colgante de Daga de Jade"] = 780000,
 		["Patrón: Guardabrazos Sombra Lunar"] = 14500000,
 		["Coraza de Saronita Luminosa"] = 2099399,
 		["Carabina con Bayoneta"] = 1600000000,
-		["Glifo de Golpe de Escarcha"] = 316900,
-		["Pellejo Medio Curtido"] = 40000,
+		["Grebas de Puño de Roca de la ballena"] = 40000000,
+		["Botas Taunka de fuerza"] = 200000,
 		["Arco Largo de Plumas de Roc"] = 299999,
 		["Celada de Cóndor del médico"] = 250000,
 		["Anillo Grabado del falcón"] = 435553,
-		["Citrino Enorme Velado"] = 49600,
 		["Zafiro Celestial"] = 154500,
-		["Ojo de Zul Hendido"] = 1989920,
+		["Citrino Enorme Velado"] = 49600,
+		["Glifo de Congelación Profunda"] = 1163750,
 		["Botas de Relámpagos con Toma de Tierra"] = 60000000,
 		["Guanteletes Bendecidos por El Sol"] = 200000000,
-		["Par de Colmillos de Marfil"] = 19602,
+		["Vestimenta Cabeza de la Muerte"] = 2000000,
 		["Rifle de Barbalarga del bandido"] = 450000,
 		["Guardahombros de Capitán del falcón"] = 2860324,
 		["Pretina Umbropantano del mono"] = 1200000,
 		["Bolsa de Seis Demonios"] = 24999999,
 		["Diseño: Rompepuntas de Saronita"] = 4800000,
-		["Manto de Lego del búho"] = 2999999,
+		["Pechera Garrasalto del bandido"] = 350000,
 		["Coraza de Pielférrea del mono"] = 40000000,
 		["Patrón: Toga de Lino Rojo"] = 1200,
 		["Yelmo de Brigandina del falcón"] = 320000,
-		["Pergamino de Encantar pechera: estadísticas menores"] = 3005000,
+		["Pergamino de Encantar pechera: estadísticas menores"] = 979000,
 		["Gafas Tintadas de Verde"] = 50000,
 		["Espaldares de Brigadier"] = 1409688,
-		["Cristal de Sol Místico Perfecto"] = 560000,
-		["Partículas de titanio"] = 376100,
-		["Poción de Sanación Resurgente"] = 9000,
-		["Poción de Magia Salvaje"] = 1008525,
-		["Granate de Sangre Llamativo"] = 8800,
+		["Glifo de Rabia"] = 175013,
+		["Anillo Grabado del oso"] = 606118,
+		["Sortija de Sangrita"] = 200000,
+		["Espaldares de Mazmorras"] = 23000000,
+		["Lágrima encantada"] = 428888,
 		["Sobrehombros de Cobalto"] = 1500000,
-		["Espada Corta de Venganza"] = 30000000,
+		["Granate de Sangre Llamativo"] = 8800,
 		["Mochila de Viaje de Trampero"] = 4859900,
-		["Glifo de Almas"] = 477296,
-		["Pulseras de Visir del médico"] = 220000,
+		["Manijas de Mur'crófago del profeta"] = 400000,
+		["Leotardos Elegantes del falcón"] = 7000000,
 		["Tejido de Ébano"] = 991000,
-		["Ídolo de Ámbar"] = 749500,
+		["Quijotes de Saronita Salvaje"] = 2895000,
 		["Arco Largo Honorable del lobo"] = 2200000,
-		["Glifo de Cuerno de Invierno"] = 254999,
+		["Quijotes Haltorboll del Campeón"] = 990000,
 		["Glifo de Caparazón Antimagia"] = 439183,
-		["Guardamuñecas con Pinchos de Titanio"] = 50900000,
+		["Quiebraespadas Afilada de Lydia"] = 589999,
 		["Prendas de Lana de Místico"] = 5296876,
-		["Fórmula: encantar arma: profano"] = 39000,
+		["Colmillo Oscuro"] = 77980500,
 		["Pan Ácimo Crujiente"] = 1101,
-		["Anillo de Poder Terráneo"] = 6922837,
+		["Sello Onírico del tirador"] = 1689999,
 		["Varita de Ascuas del gorila"] = 850000,
-		["Glifo de Tormenta Divina"] = 545693,
+		["Sombrero de Zahorí Regio del búho"] = 50000000,
 		["Manijas Lupinas del mono"] = 494949,
 		["Botas de Láminas Pesadas de la ballena"] = 1576014,
 		["Jade"] = 170000,
 		["Tinta de Fuego de Jade"] = 420000,
-		["Jubón de Sauce de la ballena"] = 20000,
-		["Glifo de Dispersión"] = 385000,
-		["Glifo de Aspecto de La Víbora"] = 739900,
-		["Dirk Temerario"] = 750000,
+		["Grebas de Jade de defensa"] = 40000000,
 		["Citrino Enorme Diestro Perfecto"] = 150000,
-		["Bufas Pino Ámbar de la ballena"] = 100000,
+		["Glifo de Aspecto de La Víbora"] = 739900,
+		["Boceto: topacio monarca de adepto"] = 399999,
+		["Dirk Temerario"] = 750000,
+		["Arco Largo Macizo"] = 220000,
 		["Yelmo de Escamas de Sangre del búho"] = 25500000,
 		["Esmeralda del Bosque Destrozada"] = 420099,
-		["Elixir de Camuflaje"] = 295999,
+		["Jubón de Sauce de la ballena"] = 20000,
+		["Casquete Cubredaga del lobo"] = 500000,
 		["Brezospina"] = 73684,
-		["Glifo de Evocación"] = 220000,
-		["Toga de Vicario"] = 60000,
+		["Guardahombros Tejerred del águila"] = 348129,
 		["Leotardos Canto de Cristal del profeta"] = 11500000,
+		["Especias Suaves"] = 9200,
+		["Anillo Retorcido de Oro del búho"] = 109590,
 		["Guanteletes de Nidada de Rhie-ay"] = 399000,
-		["Cinturón de Lágrimas Cristalinas"] = 299000,
-		["Hombreras Aborígenes"] = 100000,
-		["Glifo de Armadura Inquebrantable"] = 99500,
+		["Guantes de Lino Gruesos"] = 50000,
 		["Huargo Asado"] = 12400,
-		["Vial rajado"] = 2900,
-		["Glifo de Reflejo de Hechizos"] = 346500,
-		["Belicista"] = 500000,
+		["Toga de Vicario"] = 60000,
+		["Envoltorio de Telaraña Roto"] = 780000000,
+		["Manto Místico de cólera Arcana"] = 2999999,
 		["Boceto: topacio noble temerario"] = 669999,
 		["Pantalones de Muradin del bandido"] = 500000,
 		["Serviola Moteada Cruda"] = 498,
-		["Manto Místico de cólera Arcana"] = 2999999,
-		["Runaespada del tigre"] = 14848753,
+		["Belicista"] = 500000,
+		["Carne de Almeja Jaggal"] = 654,
 		["Símbolo de Divinidad"] = 29999,
 		["Piedra Sólida"] = 1152,
-		["Símbolo de Reyes"] = 50000,
+		["Runaespada del tigre"] = 14848753,
 		["Leotardos de Golpes Viscerales"] = 2800497,
 		["Ametrino Mortal"] = 3120000,
 		["Pergamino de Encantar arma: poder con hechizos sublime"] = 12000000,
 		["Patrón: Coraza Nerubiana Embrujada"] = 3995000,
 		["Ataduras de Ensamblaje"] = 185000,
+		["Receta: Poción de Fuerza Demente"] = 499000,
 		["Togas de Eclipse Lunar"] = 98800000,
-		["Patrón: Faltriquera de Tejido Mágico Encantada"] = 15500,
-		["Lente Verde de regeneración"] = 900000,
+		["Orbe de Calavera de Demonio del médico"] = 500000,
 		["Punzón de Sabiduría del águila"] = 1500000,
 		["Pantalones Delicados de espíritu"] = 9470422,
-		["Botas de cobalto claveteadas"] = 199000,
+		["Sombrero de Fatalidad Invernal"] = 6015500,
 		["Esquema: Sapo mecánico casi vivo"] = 2925000,
-		["Glifo de Abrazo de la Muerte"] = 479000,
-		["Escalpelo de Flebotomista"] = 1527318,
+		["Lágrima de granate de sangre"] = 9700,
+		["Golpeamuerte del oso"] = 4999999,
 		["Cinturón de Escalador Liviano"] = 57152700,
 		["Glifo de Añublo Profano"] = 301500,
 		["Destripador de Ballenas del Campeón"] = 500000,
 		["Poción de Maná Helada"] = 45692,
 		["Máscara Rocasol del invocador"] = 29999999,
-		["Anillo Rúnico del búho"] = 40000000,
-		["Pergamino de Encantar botas: velocidad de jabalí"] = 24440000,
-		["Manual: Contraveneno Fuerte"] = 494000,
-		["Medusa Azul Picante"] = 150974,
-		["Poción de Alquimista Demente"] = 201000,
-		["Guantes de Wendigo de espíritu"] = 1900000,
+		["Carne de Uñagrieta"] = 7450,
+		["Glifo de Descarga de Caos"] = 291972,
+		["Mena de Veraplata"] = 24800,
+		["Espaldares de Saronita Luminosos"] = 4379699,
 		["Libro de Cocina para Expertos"] = 100001,
+		["Glifo de Trueno"] = 338000,
+		["Bufas Skom del vidente"] = 290000,
 		["Carne de Águila Ratonera"] = 204,
-		["Celada Pinocerda de protección de Fuego"] = 100000,
+		["Guantes de Wendigo de espíritu"] = 1900000,
 		["Cohete Verde Grande"] = 25000,
-		["Maná Primigenio"] = 500000,
-		["Glifo de Invisibilidad"] = 539697,
+		["Varita Fría del invocador"] = 1259999,
+		["Musleras de Pielférrea de cólera Arcana"] = 40000000,
 		["Pargo Extremo"] = 72000,
-		["Mena de Korio"] = 800000,
+		["Sello de Aguamarina del falcón"] = 1506250,
 		["Patrón: Toga de Velo Lunar Real"] = 18460000,
-		["Patrón: Guanteletes de Cuero Rúnico"] = 18200,
+		["Glifo de Imposición de Manos"] = 398949,
 		["Guardia de Escarcha"] = 53808629,
+		["Casco de Pielférrea de cólera Arcana"] = 40000000,
 		["Glifo de Disparo de Quimera"] = 501488,
-		["Madeja de Paño Rúnico"] = 5900,
 		["Brazales de Señor de las Arañas del anciano"] = 1500000,
-		["Dos de Bendiciones"] = 505500,
-		["Sombrero de corazón de fuego de poder con hechizos"] = 600000,
-		["Diseño: Cinturón Radiante"] = 9899,
-		["Ataduras Celestiales de sanación"] = 350000,
+		["Espaldares Presavil de intelecto"] = 999000,
+		["Puños de Concejal del búho"] = 190000,
+		["Suero Acre de Foca"] = 6600,
+		["Pantalones de Bucanero de espíritu"] = 60000000,
 		["Sobrehombros de Concejal del lobo"] = 4999999,
 		["Guadaña del Viento del jabalí"] = 240000,
 		["Hilo Rúnico"] = 8899,
-		["Caperuza de Acero Brillante"] = 1000000,
+		["Sombrero de corazón de fuego de poder con hechizos"] = 600000,
 		["Martillo de Ambrosía de aguante"] = 197729,
 		["Casco Pataescarcha del tigre"] = 299999,
 		["Loto de Escarcha"] = 49800,
-		["Glifo de Flor de Vida"] = 439000,
+		["Patrón: guantes de sable de hielo"] = 145888,
 		["Cubremuñecas de Tejido del Alba"] = 300000,
 		["Glifo de Armadura de Arrabio"] = 338000,
-		["Ojo de Zul vidente"] = 939997,
-		["Yelmo de Acerira"] = 40000000,
+		["Bombachos de Seda Carmesíes"] = 40000,
+		["Jubón de Eslabones Pino Ámbar del tigre"] = 900000,
 		["Guantes de Escarcha Salvaje"] = 1900000,
-		["Guardahombros Njord de la ballena"] = 100000,
+		["Prendas de Lana Ancestrales"] = 11300000,
 		["Draenita dorada luminosa"] = 14800,
 		["Escamas Cromáticas Luminosas"] = 65554,
 		["Fórmula: Encantar Capa: Resistencia a las Sombras Excelente"] = 9999999,
-		["Esencia Astral Superior"] = 90000,
+		["Guanteletes de Brigandina de defensa"] = 999999,
 		["Casco Fuerte Ébano"] = 350000,
-		["Cetro Dogmático del águila"] = 1507500,
+		["Guanteletes de jade del jabalí"] = 40000000,
 		["Citrino Enorme con Inscripciones Perfecto"] = 290000,
 		["Patrón: Sobrehombros de Embozo de Tormenta"] = 620000,
-		["Cubrehombros Rutilantes del búho"] = 39990000,
-		["Corona de Gran Jefe de defensa"] = 4999999,
-		["Palo de Nguni del anciano"] = 40000000,
-		["Elixir de Fuerza Poderosa"] = 77000,
+		["Patrón: guantes de tejido de Escarcha"] = 19206,
+		["Camisote Flechapresta"] = 9929899,
+		["Esmeralda del Bosque Resistente"] = 80000,
+		["Bufas Pino Ámbar del vidente"] = 250000,
 		["Glándula de Veneno Enorme"] = 3206,
 		["Barra de Arcanita"] = 1050000,
-		["Salmón Ahumado"] = 29055,
+		["Cinturón Flechapresta"] = 9929900,
 		["Antorcha de Austen"] = 750000,
 		["Flor Vil"] = 4350,
+		["Aro de Jade de la ballena"] = 40000000,
 		["Filete Tártaro de Huargo"] = 184999,
-		["Jaula para Gatos (atigrado Negro)"] = 9395000,
-		["Glifo de Ola Explosiva"] = 629000,
+		["Sopa de Almejas de Dalaran"] = 10000,
 		["Manto de consejero mayor de la ballena"] = 19999999,
-		["Toga de Sanguiespora del hechicero"] = 500000,
-		["Soldador Láser Goblin"] = 30000,
+		["Diseño: guardamuñecas con pinchos de titanio"] = 4430000,
 		["Yelmo Cabeza de Lobo"] = 9990000,
+		["Soldador Láser Goblin"] = 30000,
 		["Hoja de Agua de espíritu"] = 304275,
-		["Cubrehombros Haltorboll de intelecto"] = 100000,
+		["Medallón de Platino de la bestia"] = 50000000,
 		["Bocarda Calibrada Milimétricamente"] = 1980000,
 		["Poción de Maná Inferior"] = 11600,
 		["Patrón: Sobrehombros de Cuero Rúnico"] = 15790,
-		["Guantes de Caribú de poder con hechizos"] = 60000,
+		["Glifo de Magullar"] = 195000,
 		["Glifo de Descarga de Relámpagos"] = 298700,
 		["Hongo de Oronja Verde"] = 119500,
 		["Glifo de Maestría Elemental"] = 548273,
-		["Glifo de Magullar"] = 195000,
+		["Guantes de Caribú de poder con hechizos"] = 60000,
 		["Pechera de Señor de las Arañas del bandido"] = 499999,
 		["Perla Iridiscente"] = 9900,
 		["Sello Onírico del soldado"] = 1459999,
 		["Glifo de Emboscada"] = 20200,
-		["Patrón: Pantalones de Gran Vudú"] = 59500,
-		["Patrón: Cinta de Tejido Mágico Roja"] = 20000,
+		["Ametrino Temerario"] = 3055000,
+		["Alabarda del águila"] = 700000,
 		["Glifo de Nova Sagrada"] = 198600,
-		["Filete de Huargo Ennegrecido"] = 189000,
+		["Loto Vil"] = 7600,
 		["Poción de Pesadillas"] = 138000,
 		["Diseño: Yelmo de Torio"] = 228400,
 		["Botas de Expedición de intelecto"] = 40000000,
-		["Leotardos con Inscripciones"] = 209000,
-		["Clamacielos"] = 1250000,
-		["Martillo de Paliza de poder"] = 40000,
+		["El Minotauro"] = 400000,
+		["Escrito Arcano"] = 13800,
+		["Ametrino Destellante"] = 3029920,
 		["Cordón Presavil de protección de Fuego"] = 259000,
 		["Botas del Exterminador"] = 555555,
 		["Guanteletes de jade de poder"] = 40000000,
 		["Guanteletes Flechapresta"] = 9929900,
 		["Esmeralda del Bosque Brumosa"] = 168500,
 		["Faja Puñosangre de la bestia"] = 9999999,
-		["Desgarrantrañas"] = 1000000,
+		["Leotardos de Paño Sacro"] = 1490000,
 		["Topacio Monarca Temerario"] = 2360000,
 		["Botas de Fragmento de Hielo Sedosas"] = 6412177,
 		["Perritos de Rinoceronte"] = 10000,
 		["Glifo de Transfusión de Sangre"] = 358892,
 		["Glifo de Fingir Muerte"] = 274900,
-		["Vermizo de Maná"] = 2000000,
-		["Patrón: Cinturón de Cuero Rúnico"] = 39800,
+		["Guantes de Rastreador del falcón"] = 40000000,
+		["Fuego Eterno"] = 929000,
 		["Guanteletes Forjaluz"] = 500000,
-		["Pergamino de Encantar pechera: amortiguación menor"] = 3330000,
+		["Pergamino de Encantar pechera: amortiguación menor"] = 1500000,
 		["Hombreras Lindeallá del invocador"] = 500000,
 		["Caperuza de Wendigo de espíritu"] = 500000,
-		["Pez Escorpión del Norte Pochado"] = 97013,
-		["Guantes de Garrida del búho"] = 250000,
+		["Fajín de Prospector"] = 9990000,
+		["Coraza de Cresta Oscura de la bestia"] = 2509900,
 		["Rodela Excelente de agilidad"] = 200000,
-		["Carpa de Cloaca"] = 56249,
-		["Patrón: Leotardos de Escórpido Resistentes"] = 2300,
+		["Capa del Depredador Indomado"] = 118880000,
+		["Brazales Frioescollo del lobo"] = 85500,
 		["Glifo de Succionar Vida"] = 468699,
 		["Zapatillas de Visir del búho"] = 200000,
 		["Botas de Cobalto"] = 110000,
 		["Hombreras Astralaan de protección de Fuego"] = 5500000,
-		["Escopeta Compacta"] = 120000,
+		["Hacha de Rin'ji"] = 9999999,
 		["Glifo de Rugido Salvaje"] = 582999,
-		["Patrón: Togas de Arcana"] = 2500000,
+		["Sombrero de Errante del mono"] = 4999999,
 		["Pellejo Ligero"] = 3300,
 		["Combustible de Cohete Goblin"] = 795562,
-		["Poción de Maná Rúnica"] = 94500,
-		["Guantes de Cóndor de poder con hechizos"] = 210000,
+		["Ojo de Contemplador Amatista de espíritu"] = 37730929,
+		["Patrón: Togas de Arcana"] = 2500000,
 		["Calcedonia"] = 258878,
 		["Patrón: guantes de paño brillante"] = 17622,
-		["Grebas Haltorboll del soldado"] = 755000,
+		["Botas Cubredaga del gorila"] = 250000,
 		["Botas Salvedar del jabalí"] = 350000,
+		["Cristal de Hielo del invocador"] = 12500000,
 		["Leotardos de Sanguiespora del hechicero"] = 290000,
-		["Sandalias del Insurgente"] = 110000,
-		["Anillo Extraviado del tirador"] = 263429798,
-		["Pergamino de Aguante VII"] = 7900,
 		["Patrón: guerrera de paño rúnico"] = 6550,
-		["Baraja de Prismas"] = 20879999,
+		["Pergamino de Aguante VII"] = 7900,
+		["Hombreras de Cóndor del hechicero"] = 279761,
+		["Anillo Extraviado del tirador"] = 263429798,
 		["Esmeralda del Bosque Intemporal"] = 99000,
 		["Faja Esmeralda del tigre"] = 2499999,
 		["Jaula de Loro (carolina)"] = 995000,
-		["Tres de Tormentas"] = 120000,
+		["Faja de Placas Góticas del jabalí"] = 12999999,
 		["Fórmula: Vara Rúnica de Eternio"] = 148500,
-		["Puño de Luchador de la bestia"] = 690000,
-		["Hoja de Asesinato"] = 6000000,
+		["Mira Refractaria de Corte de Diamante"] = 34800,
 		["Garona: Un Estudio sobre el Sigilo y la Traición"] = 90000,
-		["Arrancaojos"] = 2999999,
-		["Toga Arcana"] = 2505875,
-		["Glifo de Regreso Astral"] = 319691,
+		["Tres de Tormentas"] = 120000,
+		["Guantes Tralladón de poder con hechizos"] = 170000,
 		["Guanteletes de Pielférrea de defensa"] = 31110000,
-		["Glifo de Forzar Cerradura"] = 439698,
+		["Guanteletes Pataescarcha de protección de las Sombras"] = 250000,
+		["Toga Arcana"] = 2505875,
+		["Arrancaojos"] = 2999999,
 		["Jubón de la Luna Negra de agilidad"] = 90000,
 		["Espaldares Hiperión del tigre"] = 5500000,
-		["Guantes Tralladón de poder con hechizos"] = 170000,
-		["Pergamino de Encantar pechera: espíritu sublime"] = 3451246,
+		["Pergamino de Encantar pechera: espíritu sublime"] = 3689998,
+		["Glifo de Regreso Astral"] = 319691,
 		["Asediador Demente"] = 400000,
 		["Glifo de Disipación en Masa"] = 235000,
-		["Sortija Helada"] = 40000000,
+		["Escudo Rompechizos del hechicero"] = 32500000,
+		["As de No-muertos"] = 1990000,
 		["Martillo de Necrófago de lo Salvaje"] = 1200000,
-		["Bastón de Furia Natural"] = 3600000,
 		["Varita de Allistarj"] = 150000,
 		["Capa de Gamuza de poder con hechizos"] = 100000,
-		["Guerrera de Lego de aguante"] = 110000,
+		["Ojo de Adaegus"] = 880000,
 		["Manta Raya al Horno"] = 140000,
-		["Almófar de Pretoriano de aguante"] = 850000,
+		["Cinco de Furias"] = 399999,
+		["Partecostillas del águila"] = 40000000,
 		["Huevo de Polilla Amarilla"] = 1275000,
-		["Cinturón Celestial de intelecto"] = 40000000,
-		["Aguijón Supernumerario de Namlak"] = 26900000,
 		["Guardamuñecas Tralladón del bandido"] = 500000,
+		["Cristal de Sol Místico"] = 220000,
 		["Yelmo de Cuero Imperial"] = 40000000,
 		["Glifo de Agua Eterna"] = 327000,
 		["Guantes de Camorrista"] = 990000,
+		["Ojo de Zul Irregular"] = 1001499,
+		["Garrote con púas de cólera de la Naturaleza"] = 1500000,
 		["Perla Jaggal"] = 88000,
-		["Leotardos de Choque de Hechizo"] = 9800000,
-		["Leotardos de can de peste"] = 250000,
 		["Yelmo Corazón de León"] = 99999999,
+		["Coselete de Solescama"] = 3397499,
+		["Pergamino de Encantar botas: agilidad inferior"] = 4440000,
 		["Espaldares de Lord del búho"] = 2999999,
-		["Martillo Digno del águila"] = 4990000,
-		["Venda de seda gruesa"] = 4800,
 		["Fórmula: encantar escudo: Resistencia a la Escarcha"] = 370000,
 		["Filete de Gusano Rinolicioso"] = 99500,
-		["Rasgador de Carne del jabalí"] = 300000,
+		["Pechera de Muradin del tigre"] = 5250000,
+		["Piedra Lunar Azur Chispeante"] = 9900,
 		["Espada Golpecabeza de aguante"] = 2999999,
-		["Glifo de Recrecimiento"] = 1521847,
-		["Chanclos de Ogro Negros"] = 70000000,
+		["Elixir de Fuerza Sublime"] = 99000,
 		["Costal Marrón Grande"] = 14000,
 		["Patrón: Guantes de Escamas de Tortuga"] = 56200,
-		["Guardahombros de Trampero de protección de la Naturaleza"] = 500000,
-		["Guantes de Cabalista del búho"] = 250000,
+		["Elixir de Cólera"] = 29250,
+		["Cuchilla Mísera del lobo"] = 150000,
 		["Inyector de Maná Rúnico"] = 199999,
-		["Puño de Luchador del jabalí"] = 300000,
+		["Semilla de Pesadilla"] = 224000,
 		["Pico de Hierro Frío"] = 2997500,
-		["Jade Oscuro Deslumbrante "] = 10000,
-		["Yelmo de acero de titanes claveteado"] = 28640000,
+		["Puño de Luchador del jabalí"] = 300000,
+		["Elixir de Adepto"] = 150000,
 		["Llave de Tuerca Arcoluz"] = 50000,
 		["Cinta de Tejido Mágico Negra"] = 300000,
-		["Pergamino de Fuerza VIII"] = 300000,
-		["Mazo de Granito del tigre"] = 206900,
+		["Glifo de Huracán"] = 750000,
+		["Rubí Cárdeno Ostentoso"] = 4482499,
 		["Aceite de Zahorí Luminoso"] = 305800,
-		["Toga Tethys del médico"] = 210000,
+		["Fuerza de Uther"] = 888000,
 		["Chaleco de Forestal del bandido"] = 350000,
 		["Ala de Águila Ratonera"] = 8000,
-		["Patrón: Pantalones Fénix"] = 118000,
+		["Diamante de Llama Celeste Destructor"] = 2799999,
 		["Bolsa de Lana Roja"] = 9800,
 		["Sandalias de Consagración"] = 42989999,
 		["Disco Reactivo a la Fuerza"] = 29900000,
 		["Botas de Zelote"] = 499000,
-		["Filete de Colmipala Tierno"] = 104999,
+		["Patrón: Toga de Paño Brillante"] = 83655,
 		["Ocho de Bestias"] = 180000,
-		["Ciruela de Nieve Sabrosa"] = 49999,
-		["Diseño: Sobrehombros de Escamas Doradas"] = 45050,
-		["Leotardos Almanegra"] = 15500000,
-		["Seis de Caos"] = 3400000,
-		["Cinturón Magnánimo del mono"] = 4400000,
+		["Pigmento de Rubí"] = 20000,
+		["Diseño: Botas de Torio"] = 98751,
+		["Elixir de Perforar Armadura"] = 140000,
+		["Tinta Real"] = 20000,
+		["Glifo de Gubia"] = 100000,
 		["Armadura de Pierna de Escama de Hielo"] = 9179999,
-		["Caperuza de Sanguiespora del hechicero"] = 488888,
-		["Patrón: Toga de Gran Vudú"] = 61500,
+		["Leotardos Almanegra"] = 15500000,
+		["Palo de Rama del Campeón"] = 250000,
 		["Caja de Herramientas Pesada"] = 1500000,
 		["Espaldares Brigada de intelecto"] = 50000000,
-		["Espuelas de Mitril"] = 498000,
+		["Cinturón Magnánimo del mono"] = 4400000,
 		["Guanteletes de Malla de Grifo de la ballena"] = 10000000,
 		["Anguila Resbaladiza"] = 8800,
-		["Rodela de Rebanacabezas de la ballena"] = 101120757,
+		["Sombrero de ganchillo"] = 19800,
 		["Esencia Bidimensional Inferior"] = 315000,
 		["Esquirla de Sangre"] = 396,
-		["Receta: Sorpresa de Carroña"] = 388799,
-		["Elixir de Defensa Poderosa"] = 88500,
+		["Rodela de Rebanacabezas de la ballena"] = 101120757,
+		["Armadura Terránea para Pierna"] = 8800000,
 		["Blasón de Lord del mono"] = 350000,
-		["Guantes de Rastreador del águila"] = 6008371,
+		["Elixir de Defensa Poderosa"] = 88500,
 		["Manto regio del búho"] = 2999999,
 		["Glifo de Secretos del Oficio"] = 299500,
-		["Tierra Primigenia"] = 148750,
+		["Receta: Hamburguesa de Oso Jugosa"] = 197999,
 		["Gafas de Nieve Mecanizadas de agilidad"] = 750000,
 		["Collar de Cuentas de Jaspe del invocador"] = 170000,
 		["Armadura de Hilo de Plata"] = 6999999,
-		["Elixir de Espíritu"] = 79499,
-		["Ojo de Dragón"] = 1147499,
+		["Envoltura del Viajero Astral"] = 18500000,
+		["Yema Vieja"] = 1600,
 		["Vestimentas de Pira Funeraria"] = 550000,
-		["Cinturón de extiendetormentas"] = 1499999,
-		["Dije de Piedra Verde del oso"] = 1000000,
-		["Toga de Oráculo del hechicero"] = 1903000,
+		["Transportador Ultraseguro: Gadgetzan"] = 9000000,
+		["Sangrita Ostentosa Perfecta"] = 530000,
+		["Glifo de Tótem Marea de Maná"] = 486063,
 		["Brazales de Mamut del anciano"] = 208758,
-		["Glifo de Sombra"] = 284000,
+		["Glifo de Llama de las Sombras"] = 217000,
 		["Lente Verde de cólera de la Naturaleza"] = 2000000,
-		["Botines del Purificador"] = 299000,
-		["Receta: Elixir de Detección de Invisibilidad Inferior"] = 484000,
+		["Dije de Piedra Verde del oso"] = 1000000,
+		["Piedra de Vida"] = 3159000,
 		["Caparazón Haltorboll del vidente"] = 750000,
 		["Espada de Instrucción del tigre"] = 209000,
-		["Guanteletes de Bronce Bañados en Plata"] = 209900,
+		["Calzas Zarrapucha del águila"] = 900000,
 		["Guantes Sedarena"] = 4990344,
 		["Mota de Maná"] = 44800,
 		["Ópalo Crepuscular Enjundioso"] = 469000,
-		["Diamante Rompeterra Incansable"] = 300000,
+		["Faja Arácnida de la ballena"] = 2230000,
 		["Grebas de Mirmidón"] = 3331282,
-		["Coraza Protectora"] = 3331250,
+		["Diamante Rompeterra Incansable"] = 300000,
 		["Glifo de Sentencia"] = 320000,
 		["Sombra Primigenia"] = 6630,
-		["Cascahuesos"] = 990000,
+		["Perla Lustrosa Pequeña"] = 9600,
 		["Patrón: Yelmo de Escórpido Resistente"] = 68500,
 		["Musleras de Malla Abisal de brujería"] = 850000,
 		["Fajín de Paño Abisal de brujería"] = 390000,
-		["Espaldares de Saronita Salvaje"] = 1997500,
-		["Receta: Poción de Invulnerabilidad Limitada"] = 550000,
+		["Glifo del Sabio"] = 323500,
+		["Rubí Escarlata Preciso"] = 2420000,
 		["Estrella Regia del lobo"] = 3999999,
 		["Martillo de Sulfuron"] = 175000000,
 		["Almete Salvedar del falcón"] = 591995,
 		["Pigmento de Ébano"] = 50000,
 		["Guantes Lindeallá del invocador"] = 399900,
 		["Guantes Runavold del invocador"] = 210000,
-		["Citrino Enorme Temerario"] = 148000,
+		["Peridoto intenso Radiante"] = 4600,
 		["Cadena Serpenteante del hechicero"] = 1500000,
-		["Varita Derretida del águila"] = 150000,
+		["Hacha de Batalla Ardiente del águila"] = 700000,
 		["Musgo de Tumba"] = 210900,
 		["Espaldares de Héroe"] = 3327500,
-		["Saco de Minero"] = 1500000,
+		["Ataduras de Gigantes Rúnicas"] = 419999,
 		["Escudo de Placas Estampadas de aguante"] = 800000,
-		["Armadura del Vengador"] = 40000000,
-		["Vela Sacra"] = 10000,
-		["Elixir de Consistencia Inferior"] = 448000,
+		["Rodela de Kan"] = 109990000,
+		["Perla Negra"] = 600000,
+		["Glifo de Escudo de Rectitud"] = 229500,
 		["Guantes Hechicero de la ballena"] = 220000,
-		["Espada Bastarda Afilada del águila"] = 880000,
 		["Cubrehombros de Piedra Mácula del jabalí"] = 13780000,
+		["Vela Sacra"] = 10000,
 		["Pólvora Potente"] = 77000,
 		["Casco de Cuero Forrado de Pieles"] = 107431,
-		["Capucha Cielo Nocturno"] = 1500000,
-		["Balas Mordedura de Escarcha"] = 250,
-		["Navaja Gnómica"] = 30000,
+		["Sombrero Hechicero de intelecto"] = 250000,
+		["Elixir de Detección de Demonios"] = 40245,
+		["Piedra Lunar Azur"] = 34884,
 		["Pantalones de cuero cosidos a mano"] = 139500,
-		["Patrón: Cinturón de Escamas de Múrloc"] = 12500,
-		["Mena de Sangrita Inferior"] = 19999,
-		["Avambrazos de Mazo de Guerra del Campeón"] = 2250000,
+		["Frasco de Sangrepiedra"] = 1960000,
+		["Estofado de Orca Suculento"] = 61875,
+		["Patrón: Pantalones de Cuero Rúnico"] = 480000,
 		["Botas de Templario del oso"] = 124600,
 		["Siete de Furias"] = 965250,
-		["Hombreras Delicadas de la ballena"] = 12999999,
-		["Glifo de Cólera Vengativa"] = 288400,
+		["Delicia de Pez Descarriado Sabrosa"] = 49999,
+		["Sangrita Brillante"] = 79500,
 		["Pantalones de Oficial"] = 500000,
 		["Boceto: Serpiente de Rubí"] = 335625,
 		["Vestiduras de Tejido de Draco del águila"] = 4107500,
 		["Colgante de Calavera Ardiente"] = 1995000,
-		["Zapatillas de Salvador"] = 45900000,
-		["Receta: Poción de Protección contra la Escarcha Superior"] = 350000,
-		["Piedra Lunar Azur Tormentosa"] = 9999,
+		["Coraza Ansia de Sangre"] = 9990000,
+		["Sangrita delicada perfecta"] = 433999,
+		["Cinturón de Escamas de Sangre del falcón"] = 50000000,
 		["Topacio Monarca Resuelto"] = 699000,
-		["Sangrita Llamativa Perfecta"] = 398999,
-		["Sangrita Fracturada"] = 99000,
+		["Cinturón de Pigmeo del bandido"] = 1500000,
+		["Botas de Mur'crófago del médico"] = 350000,
 		["Receta: Poción de Protección contra el Fuego Superior"] = 1227499,
 		["Peto de Aparecido de resistencia a las Sombras"] = 5000000,
 		["Vid de Sangre"] = 31125,
-		["Piedra Lunar Azur Maciza"] = 6728,
+		["Glifo de Poder Arcano"] = 237600,
 		["Guanteletes Forjabatalla de sanación"] = 5520000,
-		["Receta: Poción de Purificación"] = 18914,
+		["Vida Primigenia"] = 334444,
 		["Glifo de Círculo de Sanación"] = 229600,
 		["Ámbar del Rey Rápido"] = 2207500,
 		["Manto Canto de Cristal del invocador"] = 645248,
+		["Coraza de conquistador del anciano"] = 19900000,
+		["Pergamino de Encantar arma: Agilidad"] = 5699999,
 		["Zapatillas Celestiales del falcón"] = 40000000,
-		["Pergamino de Encantar arma: Agilidad"] = 2747500,
-		["Martillo con el borde hendido de la bestia"] = 749820,
-		["Sangrita luminosa perfecta"] = 338999,
-		["Caja de Ardilla Mecánica"] = 1650000,
+		["Leotardos Brigada del oso"] = 5000000,
+		["Elixir de Pensamientos Poderosos"] = 169999,
 		["Pulseras de Visir del invocador"] = 12500000,
 		["Bufas de Telaraña Calcificada del tirador"] = 1650000,
 		["Boceto: Jabalí de Veraplata"] = 98999,
 		["Yelmo Hiperión de defensa"] = 40000000,
-		["Pelambre de Oso Rasgada"] = 2900,
+		["Ataduras Gloriosas del mono"] = 8888888,
 		["Manteo Crepuscular de cólera Arcana"] = 230000,
 		["Arco Ligero Astral de la bestia"] = 710101,
-		["Pergamino de Encantar arma: golpes excelentes"] = 9790000,
-		["Sangrita Llamativa"] = 39900,
+		["Circón Majestuoso Luciente"] = 1999999,
+		["Yelmo Skom del médico"] = 100000,
 		["Guardabrazos Salvedar del profeta"] = 950000,
 		["Cubrehombros de Hierro de Señor de la Guerra del búho"] = 8780000,
-		["Glifo de Regeneración Iracunda"] = 336079,
-		["Elixir de Gurú"] = 32000,
+		["Pelambre de Oso Rasgada"] = 2900,
+		["Coraza de Magnatauro del vidente"] = 1500000,
 		["Poción Indestructible"] = 80000,
-		["Vida Eterna"] = 526666,
-		["Receta: Elixir de Gigantes"] = 197505,
+		["Bastón de Hielo Derritiéndose de la bestia"] = 946714,
+		["Receta: Elixir de los Sabios"] = 39006,
 		["Pluma de Arakkoa"] = 70500,
 		["Coraza de Pielférrea de resistencia al Fuego"] = 40000000,
-		["Pergamino de Runas de Entereza"] = 74625,
-		["Receta: Elixir de Sangre de Mago Sublime"] = 49800,
+		["Zarpa de Seis Dedos del bandido"] = 230419,
+		["Tinta de Cazador"] = 10000,
+		["Brazales frágiles de la Dama"] = 75000000,
+		["Paño de Tejido Mágico"] = 4997,
 		["Toga de Sanguiespora de aguante"] = 150000,
-		["Piedra de Terror de Guardián"] = 1894999,
-		["Glifo de Muro de Escudo"] = 498989,
 		["Anillo de Defensa"] = 1499999,
 		["Prole de dracohalcón plateado"] = 166725,
 		["Camisa de Manoberta"] = 20000,
@@ -5031,1034 +5037,1034 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Hacha de Guerra Brutal de la ballena"] = 3999999,
 		["Robot Triturador"] = 1400000,
 		["Cuatro de Bestias"] = 500000,
-		["Fórmula: Encantar Botas: Aguante Superior"] = 5000000,
-		["Pergamino de Encantar arma: cruzado"] = 1214999,
+		["Tinte Rojo"] = 50000,
+		["Destripador de Ballenas del bandido"] = 710000,
 		["Jubón Elunarita"] = 9992489,
-		["Casco de Pielférrea del oso"] = 40000000,
+		["Cristal de Sombras cambiante perfecto"] = 79500,
 		["Calzones Tejeoscuro"] = 15550000,
 		["Hombreras Lindeallá de la ballena"] = 250000,
 		["Cucaracha"] = 200000,
-		["Tinta del Cielo"] = 49800,
-		["Receta: Elixir de Visión Onírica"] = 598899,
+		["Receta: Poción de Heroicidad"] = 38800,
+		["Murfestar del tigre"] = 990000,
 		["Kris de Sacrificio del oso"] = 100000,
 		["Pellejo del rey vacuno"] = 3581210,
 		["Guerrera de Bardo del mono"] = 3181715,
-		["Murfestar del tigre"] = 990000,
-		["Receta: Poción de Heroicidad"] = 38800,
-		["Cristal de Sombras cambiante perfecto"] = 79500,
-		["Destripador de Ballenas del bandido"] = 710000,
-		["Tinte Rojo"] = 50000,
+		["Receta: Elixir de Visión Onírica"] = 598899,
+		["Tinta del Cielo"] = 49800,
+		["Casco de Pielférrea del oso"] = 40000000,
+		["Pergamino de Encantar arma: cruzado"] = 1300000,
+		["Fórmula: Encantar Botas: Aguante Superior"] = 5000000,
 		["Yelmo Aterrallamas"] = 17500000,
-		["Paño de Tejido Mágico"] = 4997,
+		["Glifo de Muro de Escudo"] = 498989,
 		["Pechera Formidable de la ballena"] = 1999999,
-		["Brazales frágiles de la Dama"] = 75000000,
-		["Tinta de Cazador"] = 10000,
-		["Zarpa de Seis Dedos del bandido"] = 230419,
+		["Piedra de Terror de Guardián"] = 1894999,
+		["Receta: Elixir de Sangre de Mago Sublime"] = 49800,
+		["Pergamino de Runas de Entereza"] = 74625,
 		["Yelmo de Escamas de Sangre del anciano"] = 25500000,
-		["Receta: Elixir de los Sabios"] = 39006,
-		["Bastón de Hielo Derritiéndose de la bestia"] = 946714,
-		["Coraza de Magnatauro del vidente"] = 1500000,
-		["Yelmo Skom del médico"] = 100000,
-		["Pergamino de Encantar pechera: salud poderosa"] = 815999,
-		["Ataduras Gloriosas del mono"] = 8888888,
-		["Circón Majestuoso Luciente"] = 1999999,
+		["Receta: Elixir de Gigantes"] = 197505,
+		["Vida Eterna"] = 526666,
+		["Elixir de Gurú"] = 32000,
+		["Glifo de Regeneración Iracunda"] = 336079,
+		["Pergamino de Encantar pechera: salud poderosa"] = 891998,
+		["Pergamino de Encantar arma: golpes excelentes"] = 8990000,
+		["Sangrita Llamativa"] = 39900,
 		["Cristal de Sol Rápido"] = 48850,
-		["Leotardos Brigada del oso"] = 5000000,
-		["Elixir de Pensamientos Poderosos"] = 169999,
-		["Coraza de conquistador del anciano"] = 19900000,
+		["Caja de Ardilla Mecánica"] = 1650000,
+		["Sangrita luminosa perfecta"] = 338999,
+		["Martillo con el borde hendido de la bestia"] = 749820,
 		["Yelmo Nerubiano"] = 750000,
 		["Ojo de Zul Tenso"] = 1064249,
-		["Vida Primigenia"] = 334444,
-		["Glifo de Poder Arcano"] = 237600,
+		["Receta: Poción de Purificación"] = 18914,
+		["Piedra Lunar Azur Maciza"] = 6728,
 		["Morral Grande"] = 30000,
 		["Glifo de Mutilar"] = 306793,
-		["Botas de Mur'crófago del médico"] = 350000,
-		["Cinturón de Pigmeo del bandido"] = 1500000,
-		["Cinturón de Escamas de Sangre del falcón"] = 50000000,
-		["Sangrita delicada perfecta"] = 433999,
-		["Coraza Ansia de Sangre"] = 9990000,
+		["Sangrita Fracturada"] = 99000,
+		["Sangrita Llamativa Perfecta"] = 398999,
+		["Piedra Lunar Azur Tormentosa"] = 9999,
+		["Receta: Poción de Protección contra la Escarcha Superior"] = 350000,
+		["Zapatillas de Salvador"] = 45900000,
 		["Cristal de Sombras"] = 9200,
-		["Sangrita Brillante"] = 79500,
-		["Patrón: Pantalones de Cuero Rúnico"] = 480000,
-		["Delicia de Pez Descarriado Sabrosa"] = 49999,
-		["Estofado de Orca Suculento"] = 61875,
-		["Frasco de Sangrepiedra"] = 1960000,
-		["Elixir de Detección de Demonios"] = 40245,
-		["Piedra Lunar Azur"] = 34884,
-		["Sombrero Hechicero de intelecto"] = 250000,
+		["Glifo de Cólera Vengativa"] = 288400,
+		["Hombreras Delicadas de la ballena"] = 12999999,
+		["Patrón: Cinturón de Escamas de Múrloc"] = 12500,
+		["Avambrazos de Mazo de Guerra del Campeón"] = 2250000,
+		["Mena de Sangrita Inferior"] = 19999,
+		["Navaja Gnómica"] = 30000,
+		["Balas Mordedura de Escarcha"] = 250,
+		["Capucha Cielo Nocturno"] = 1500000,
 		["Baluarte Resonante de Zom"] = 62000000,
-		["Glifo de Escudo de Rectitud"] = 229500,
-		["Perla Negra"] = 600000,
-		["Rodela de Kan"] = 109990000,
-		["Ataduras de Gigantes Rúnicas"] = 419999,
-		["Hacha de Batalla Ardiente del águila"] = 700000,
+		["Espada Bastarda Afilada del águila"] = 880000,
+		["Elixir de Consistencia Inferior"] = 448000,
+		["Armadura del Vengador"] = 40000000,
+		["Saco de Minero"] = 1500000,
+		["Varita Derretida del águila"] = 150000,
 		["Leotardos Forjanegra"] = 37550000,
-		["Peridoto intenso Radiante"] = 4600,
+		["Citrino Enorme Temerario"] = 148000,
 		["Muñeco-diana"] = 230000,
 		["Tratado sobre Constitución"] = 1989,
 		["Guantes Aterrallamas"] = 17500000,
-		["Rubí Escarlata Preciso"] = 2420000,
-		["Glifo del Sabio"] = 323500,
+		["Receta: Poción de Invulnerabilidad Limitada"] = 550000,
+		["Espaldares de Saronita Salvaje"] = 1997500,
 		["Guanteletes de jade de fuerza"] = 40000000,
 		["Bolsa de Cuero Draénica"] = 136000,
-		["Perla Lustrosa Pequeña"] = 9600,
+		["Cascahuesos"] = 990000,
 		["Glifo de Forma Acuática"] = 389000,
-		["Faja Arácnida de la ballena"] = 2230000,
+		["Coraza Protectora"] = 3331250,
 		["Guardabrazos de Devastador"] = 4999999,
-		["Calzas Zarrapucha del águila"] = 900000,
-		["Piedra de Vida"] = 3159000,
-		["Glifo de Tótem Marea de Maná"] = 486063,
-		["Glifo de Llama de las Sombras"] = 217000,
-		["Sangrita Ostentosa Perfecta"] = 530000,
-		["Transportador Ultraseguro: Gadgetzan"] = 9000000,
-		["Pergamino de Encantar arma: amparo de hojas"] = 23930000,
-		["Yema Vieja"] = 1600,
-		["Envoltura del Viajero Astral"] = 18500000,
-		["Receta: Hamburguesa de Oso Jugosa"] = 197999,
+		["Guanteletes de Bronce Bañados en Plata"] = 209900,
+		["Botines del Purificador"] = 299000,
+		["Glifo de Sombra"] = 284000,
+		["Receta: Elixir de Detección de Invisibilidad Inferior"] = 484000,
+		["Toga de Oráculo del hechicero"] = 1903000,
+		["Cinturón de extiendetormentas"] = 1499999,
+		["Pergamino de Encantar arma: amparo de hojas"] = 19400000,
+		["Ojo de Dragón"] = 1147499,
+		["Elixir de Espíritu"] = 79499,
+		["Tierra Primigenia"] = 148750,
 		["Bastón Ajado por los Viajes de la bestia"] = 488000,
 		["Escarpines Lindeallá del águila"] = 500000,
-		["Armadura Terránea para Pierna"] = 8800000,
+		["Guantes de Rastreador del águila"] = 6008371,
 		["Brazales Tejerred del bandido"] = 12500000,
-		["Sombrero de ganchillo"] = 19800,
+		["Receta: Sorpresa de Carroña"] = 388799,
 		["Botas magistrales del águila"] = 25000000,
 		["Guadaña de Pueblo del búho"] = 900000,
 		["Rubí Cárdeno Delicado"] = 3494949,
-		["Palo de Rama del Campeón"] = 250000,
-		["Glifo de Gubia"] = 100000,
-		["Tinta Real"] = 20000,
-		["Elixir de Perforar Armadura"] = 140000,
-		["Diseño: Botas de Torio"] = 98751,
-		["Pigmento de Rubí"] = 20000,
-		["Patrón: Toga de Paño Brillante"] = 83655,
+		["Caperuza de Sanguiespora del hechicero"] = 488888,
+		["Espuelas de Mitril"] = 498000,
+		["Patrón: Toga de Gran Vudú"] = 61500,
+		["Seis de Caos"] = 3400000,
+		["Diseño: Sobrehombros de Escamas Doradas"] = 45050,
+		["Ciruela de Nieve Sabrosa"] = 49999,
+		["Filete de Colmipala Tierno"] = 104999,
 		["Musleras Alafunesta"] = 6999999,
-		["Diamante de Llama Celeste Destructor"] = 2799999,
+		["Patrón: Pantalones Fénix"] = 118000,
 		["Tinta de Avalancha"] = 109500,
-		["Fuerza de Uther"] = 888000,
-		["Glifo de Huracán"] = 750000,
-		["Rubí Cárdeno Ostentoso"] = 4482499,
-		["Pergamino de Encantar arma: Rompehielo"] = 5989999,
-		["Elixir de Adepto"] = 150000,
-		["Semilla de Pesadilla"] = 224000,
+		["Toga Tethys del médico"] = 210000,
+		["Mazo de Granito del tigre"] = 206900,
+		["Pergamino de Fuerza VIII"] = 300000,
+		["Pergamino de Encantar arma: Rompehielo"] = 4999996,
+		["Yelmo de acero de titanes claveteado"] = 28640000,
+		["Jade Oscuro Deslumbrante "] = 10000,
 		["Refuerzo para Armadura Boreal Pesado"] = 2192455,
-		["Cuchilla Mísera del lobo"] = 150000,
-		["Elixir de Cólera"] = 29250,
-		["Elixir de Fuerza Sublime"] = 99000,
-		["Piedra Lunar Azur Chispeante"] = 9900,
+		["Guantes de Cabalista del búho"] = 250000,
+		["Guardahombros de Trampero de protección de la Naturaleza"] = 500000,
+		["Chanclos de Ogro Negros"] = 70000000,
+		["Glifo de Recrecimiento"] = 1521847,
 		["Estrella del Norte de protección de las Sombras"] = 1550000,
-		["Pechera de Muradin del tigre"] = 5250000,
+		["Rasgador de Carne del jabalí"] = 300000,
 		["Guanteletes del Hogar Alegre"] = 139000,
-		["Pergamino de Encantar botas: agilidad inferior"] = 4440000,
-		["Coselete de Solescama"] = 3397499,
+		["Venda de seda gruesa"] = 4800,
+		["Martillo Digno del águila"] = 4990000,
 		["Ametrino de Adepto"] = 1986499,
-		["Garrote con púas de cólera de la Naturaleza"] = 1500000,
-		["Ojo de Zul Irregular"] = 1001499,
+		["Leotardos de can de peste"] = 250000,
+		["Leotardos de Choque de Hechizo"] = 9800000,
 		["Sobrehombros de Mitril Ornamentado"] = 5000000,
 		["Piedra de Terror Imbuida"] = 2439999,
-		["Cristal de Sol Místico"] = 220000,
-		["Partecostillas del águila"] = 40000000,
-		["Cinco de Furias"] = 399999,
+		["Aguijón Supernumerario de Namlak"] = 26900000,
+		["Cinturón Celestial de intelecto"] = 40000000,
+		["Almófar de Pretoriano de aguante"] = 850000,
 		["Bufas Cubredaga del búho"] = 153671,
-		["Ojo de Adaegus"] = 880000,
+		["Guerrera de Lego de aguante"] = 110000,
 		["Botas de Mitril Ornamentado"] = 6000000,
-		["Escudo Rompechizos del hechicero"] = 32500000,
-		["As de No-muertos"] = 1990000,
+		["Bastón de Furia Natural"] = 3600000,
+		["Sortija Helada"] = 40000000,
 		["Glifo de Lanza de Hielo"] = 30600,
 		["Espada Vikinga de poder"] = 9999970,
 		["Robot de Reparación de Campo 74A"] = 8006600,
-		["Guanteletes Pataescarcha de protección de las Sombras"] = 250000,
+		["Glifo de Forzar Cerradura"] = 439698,
 		["Esencia Mística Inferior"] = 29000,
 		["Guardarrenes de saronita ornamentada"] = 2998700,
 		["Vara de Alma en Pena del Sol"] = 14250000,
-		["Mira Refractaria de Corte de Diamante"] = 34800,
-		["Faja de Placas Góticas del jabalí"] = 12999999,
-		["Hombreras de Cóndor del hechicero"] = 279761,
+		["Hoja de Asesinato"] = 6000000,
+		["Baraja de Prismas"] = 20879999,
+		["Puño de Luchador de la bestia"] = 690000,
 		["Pantalones Tejeocaso del falcón"] = 310000,
-		["Cristal de Hielo del invocador"] = 12500000,
+		["Sandalias del Insurgente"] = 110000,
 		["Pantalones de esmoquin negro"] = 760000,
-		["Botas Cubredaga del gorila"] = 250000,
+		["Grebas Haltorboll del soldado"] = 755000,
 		["Guardahombros de Capitán de la ballena"] = 2337676,
-		["Ojo de Contemplador Amatista de espíritu"] = 37730929,
-		["Sombrero de Errante del mono"] = 4999999,
+		["Guantes de Cóndor de poder con hechizos"] = 210000,
+		["Poción de Maná Rúnica"] = 94500,
 		["Diamante de Llama Celeste del Trueno"] = 999000,
 		["Glifo de Conflagrar"] = 375553,
-		["Hacha de Rin'ji"] = 9999999,
-		["Brazales Frioescollo del lobo"] = 85500,
-		["Capa del Depredador Indomado"] = 118880000,
+		["Escopeta Compacta"] = 120000,
+		["Patrón: Leotardos de Escórpido Resistentes"] = 2300,
+		["Carpa de Cloaca"] = 56249,
 		["Leotardos de Contrahielo Oscuros"] = 1111111,
-		["Coraza de Cresta Oscura de la bestia"] = 2509900,
-		["Fajín de Prospector"] = 9990000,
+		["Guantes de Garrida del búho"] = 250000,
+		["Pez Escorpión del Norte Pochado"] = 97013,
 		["Caparazón de Reyes Olvidados"] = 19000000,
-		["Fuego Eterno"] = 929000,
-		["Guantes de Rastreador del falcón"] = 40000000,
+		["Patrón: Cinturón de Cuero Rúnico"] = 39800,
+		["Vermizo de Maná"] = 2000000,
 		["Venda de Tejido Abisal Gruesa"] = 7400,
-		["Leotardos de Paño Sacro"] = 1490000,
+		["Desgarrantrañas"] = 1000000,
 		["Piedra de Terror Soberana"] = 1257500,
 		["Cinturón Incomparable del búho"] = 4999999,
 		["Círculo Iridio de concentración"] = 40000000,
-		["Ametrino Destellante"] = 3029920,
-		["Escrito Arcano"] = 13800,
-		["El Minotauro"] = 400000,
+		["Martillo de Paliza de poder"] = 40000,
+		["Clamacielos"] = 1250000,
+		["Leotardos con Inscripciones"] = 209000,
 		["Cinturón de La Guardia Oeste del búho"] = 200000,
 		["Escarpes Gloriosos del gorila"] = 25000000,
-		["Loto Vil"] = 7600,
-		["Alabarda del águila"] = 700000,
-		["Ametrino Temerario"] = 3055000,
+		["Filete de Huargo Ennegrecido"] = 189000,
+		["Patrón: Cinta de Tejido Mágico Roja"] = 20000,
+		["Patrón: Pantalones de Gran Vudú"] = 59500,
 		["Fajín Cielo Nocturno"] = 1990000,
 		["Ópalo crepuscular purificado"] = 235499,
 		["Boceto: ópalo crepuscular soberano"] = 139500,
 		["Daga Excéntrica de aguante"] = 245000,
 		["Collar de Dientes de Tiburón del Campeón"] = 450000,
-		["Medallón de Platino de la bestia"] = 50000000,
+		["Cubrehombros Haltorboll de intelecto"] = 100000,
 		["Partecostillas del tigre"] = 40000000,
 		["Hoja del Basilisco"] = 555555,
-		["Diseño: guardamuñecas con pinchos de titanio"] = 4430000,
-		["Sopa de Almejas de Dalaran"] = 10000,
-		["Aro de Jade de la ballena"] = 40000000,
-		["Pergamino de Encantar capa: Velocidad"] = 613999,
-		["Cinturón Flechapresta"] = 9929900,
+		["Toga de Sanguiespora del hechicero"] = 500000,
+		["Glifo de Ola Explosiva"] = 629000,
+		["Jaula para Gatos (atigrado Negro)"] = 9395000,
+		["Pergamino de Encantar capa: Velocidad"] = 1001249,
+		["Salmón Ahumado"] = 29055,
 		["Hacha de Batalla Devastadora de la ballena"] = 2120000,
-		["Bufas Pino Ámbar del vidente"] = 250000,
-		["Esmeralda del Bosque Resistente"] = 80000,
-		["Camisote Flechapresta"] = 9929899,
-		["Guanteletes de jade del jabalí"] = 40000000,
-		["Patrón: guantes de tejido de Escarcha"] = 19206,
-		["Guanteletes de Brigandina de defensa"] = 999999,
+		["Elixir de Fuerza Poderosa"] = 77000,
+		["Palo de Nguni del anciano"] = 40000000,
+		["Corona de Gran Jefe de defensa"] = 4999999,
+		["Cubrehombros Rutilantes del búho"] = 39990000,
+		["Cetro Dogmático del águila"] = 1507500,
+		["Esencia Astral Superior"] = 90000,
 		["Vela Sagrada"] = 10000,
-		["Prendas de Lana Ancestrales"] = 11300000,
-		["Jubón de Eslabones Pino Ámbar del tigre"] = 900000,
-		["Bombachos de Seda Carmesíes"] = 40000,
+		["Guardahombros Njord de la ballena"] = 100000,
+		["Yelmo de Acerira"] = 40000000,
+		["Ojo de Zul vidente"] = 939997,
 		["Brazales de dragontina de cruzado"] = 43300000,
-		["Patrón: guantes de sable de hielo"] = 145888,
+		["Glifo de Flor de Vida"] = 439000,
 		["Faltriquera de Munición de Cuero Pequeña"] = 49500,
 		["Glifo de Consagración"] = 299988,
-		["Pantalones de Bucanero de espíritu"] = 60000000,
-		["Puños de Concejal del búho"] = 190000,
-		["Suero Acre de Foca"] = 6600,
-		["Espaldares Presavil de intelecto"] = 999000,
+		["Caperuza de Acero Brillante"] = 1000000,
+		["Diseño: Cinturón Radiante"] = 9899,
+		["Ataduras Celestiales de sanación"] = 350000,
+		["Dos de Bendiciones"] = 505500,
 		["Pica Apestada del lobo"] = 250000,
-		["Casco de Pielférrea de cólera Arcana"] = 40000000,
-		["Pergamino de Encantar brazales: salud menor"] = 9900,
-		["Glifo de Imposición de Manos"] = 398949,
+		["Madeja de Paño Rúnico"] = 5900,
+		["Pergamino de Encantar brazales: salud menor"] = 4449800,
+		["Patrón: Guanteletes de Cuero Rúnico"] = 18200,
 		["Fajín Supremo del jabalí"] = 3364454,
-		["Sello de Aguamarina del falcón"] = 1506250,
+		["Mena de Korio"] = 800000,
 		["Escarpes Frioescollo de protección de la Naturaleza"] = 70000,
-		["Musleras de Pielférrea de cólera Arcana"] = 40000000,
-		["Varita Fría del invocador"] = 1259999,
-		["Bufas Skom del vidente"] = 290000,
+		["Glifo de Invisibilidad"] = 539697,
+		["Celada Pinocerda de protección de Fuego"] = 100000,
+		["Maná Primigenio"] = 500000,
 		["Quijotes de Observador Eterno de la bestia"] = 15000000,
-		["Glifo de Trueno"] = 338000,
-		["Espaldares de Saronita Luminosos"] = 4379699,
-		["Mena de Veraplata"] = 24800,
-		["Carne de Uñagrieta"] = 7450,
-		["Glifo de Descarga de Caos"] = 291972,
+		["Poción de Alquimista Demente"] = 201000,
+		["Medusa Azul Picante"] = 150974,
+		["Manual: Contraveneno Fuerte"] = 494000,
+		["Pergamino de Encantar botas: velocidad de jabalí"] = 26660000,
+		["Anillo Rúnico del búho"] = 40000000,
 		["Sobrehombros Magníficos del mono"] = 209999,
-		["Golpeamuerte del oso"] = 4999999,
-		["Lágrima de granate de sangre"] = 9700,
-		["Sombrero de Fatalidad Invernal"] = 6015500,
-		["Orbe de Calavera de Demonio del médico"] = 500000,
-		["Receta: Poción de Fuerza Demente"] = 499000,
+		["Escalpelo de Flebotomista"] = 1527318,
+		["Glifo de Abrazo de la Muerte"] = 479000,
+		["Botas de cobalto claveteadas"] = 199000,
+		["Lente Verde de regeneración"] = 900000,
+		["Patrón: Faltriquera de Tejido Mágico Encantada"] = 15500,
 		["Fórmula: Encantar Pechera: Salud Sublime"] = 90000,
 		["Musleras de batallador del oso"] = 30000000,
 		["Orbe de bucanero del águila"] = 30000,
 		["Cinturón de linterna con borla"] = 1600000,
-		["Carne de Almeja Jaggal"] = 654,
+		["Símbolo de Reyes"] = 50000,
 		["Pez Ángel Aletadragón"] = 99999,
 		["Pantalones de Cargador del oso"] = 1174221,
-		["Envoltorio de Telaraña Roto"] = 780000000,
-		["Guantes de Lino Gruesos"] = 50000,
-		["Anillo Retorcido de Oro del búho"] = 109590,
-		["Guardahombros Tejerred del águila"] = 348129,
-		["Especias Suaves"] = 9200,
-		["Casquete Cubredaga del lobo"] = 500000,
+		["Vial rajado"] = 2900,
+		["Glifo de Reflejo de Hechizos"] = 346500,
+		["Hombreras Aborígenes"] = 100000,
+		["Cinturón de Lágrimas Cristalinas"] = 299000,
+		["Glifo de Armadura Inquebrantable"] = 99500,
+		["Glifo de Evocación"] = 220000,
 		["Mota de Tierra"] = 14000,
-		["Arco Largo Macizo"] = 220000,
-		["Boceto: topacio monarca de adepto"] = 399999,
+		["Elixir de Camuflaje"] = 295999,
+		["Bufas Pino Ámbar de la ballena"] = 100000,
 		["Corona de Lord de la ballena"] = 110000,
-		["Grebas de Jade de defensa"] = 40000000,
+		["Glifo de Dispersión"] = 385000,
 		["Triturador de Cobalto"] = 14980000,
 		["Elixir de Velocidad Relámpago"] = 94500,
-		["Sombrero de Zahorí Regio del búho"] = 50000000,
-		["Sello Onírico del tirador"] = 1689999,
-		["Colmillo Oscuro"] = 77980500,
-		["Quiebraespadas Afilada de Lydia"] = 589999,
+		["Glifo de Tormenta Divina"] = 545693,
+		["Anillo de Poder Terráneo"] = 6922837,
+		["Fórmula: encantar arma: profano"] = 39000,
+		["Guardamuñecas con Pinchos de Titanio"] = 50900000,
 		["Vial derretido"] = 9900,
-		["Quijotes Haltorboll del Campeón"] = 990000,
-		["Quijotes de Saronita Salvaje"] = 2895000,
+		["Glifo de Cuerno de Invierno"] = 254999,
+		["Ídolo de Ámbar"] = 749500,
 		["Lengua de Víboris"] = 639000,
-		["Leotardos Elegantes del falcón"] = 7000000,
-		["Manijas de Mur'crófago del profeta"] = 400000,
-		["Lágrima encantada"] = 428888,
+		["Pulseras de Visir del médico"] = 220000,
+		["Glifo de Almas"] = 477296,
+		["Espada Corta de Venganza"] = 30000000,
 		["Capa de Reanimador"] = 2050000,
-		["Espaldares de Mazmorras"] = 23000000,
-		["Sortija de Sangrita"] = 200000,
-		["Anillo Grabado del oso"] = 606118,
-		["Glifo de Rabia"] = 175013,
+		["Poción de Magia Salvaje"] = 1008525,
+		["Poción de Sanación Resurgente"] = 9000,
+		["Partículas de titanio"] = 376100,
+		["Cristal de Sol Místico Perfecto"] = 560000,
 		["Malaquita"] = 8000,
 		["Esencia Mística Superior"] = 49600,
 		["Manteo de Lino Reforzado"] = 15000,
-		["Pechera Garrasalto del bandido"] = 350000,
+		["Manto de Lego del búho"] = 2999999,
 		["Brazales de Combustión"] = 9990000,
 		["Hombreras Astralaan del invocador"] = 10896085,
-		["Vestimenta Cabeza de la Muerte"] = 2000000,
-		["Glifo de Congelación Profunda"] = 1163750,
+		["Par de Colmillos de Marfil"] = 19602,
+		["Ojo de Zul Hendido"] = 1989920,
 		["Destripador de Ballenas del falcón"] = 2450000,
-		["Grebas de Puño de Roca de la ballena"] = 40000000,
-		["Botas Taunka de fuerza"] = 200000,
+		["Pellejo Medio Curtido"] = 40000,
+		["Glifo de Golpe de Escarcha"] = 316900,
 		["Manoplas de Malla Abisal de brujería"] = 390000,
 		["Glifo de Evasión"] = 347000,
-		["Armadura Acolchada Pretoriana de aguante"] = 220320,
-		["Esmeralda del Bosque Deslumbrante"] = 47237,
+		["Fórmula: Encantar Guantes: Minería Avanzada"] = 242475,
+		["Ámbar del Rey Rígido"] = 3447500,
 		["Brazales del Infierno Asfixiante"] = 160000000,
-		["Calzones Uñagrieta del falcón"] = 6283041,
+		["Siete de Caos"] = 1507500,
 		["Cadena de Cordón de Plata del mono"] = 91500,
 		["Guantes de Bucanero del búho"] = 3980000,
-		["Paño de Tejido Abisal"] = 5100,
-		["Joya de Tormenta Luminosa"] = 3500000,
+		["Fórmula: encantar brazales: espíritu superior"] = 499000,
+		["Rodela de Kashala del hechicero"] = 900000,
 		["Hierba Cardenal"] = 23000,
 		["Cercenadora Desgarravil"] = 300000,
-		["Rubí Escarlata Brillante"] = 1000000,
+		["Gracia de Kharmaa"] = 810000,
 		["Brazales de Infiltrado de espíritu"] = 2999999,
 		["Abismo Primigenio"] = 16000,
 		["Ídolo de la Noche"] = 59500,
-		["Anillo de Bronce Sólido"] = 9750,
+		["Guanteletes de Placas Abisales de ataque"] = 2500000,
 		["Glifo de Aliento Inagotable"] = 376868,
-		["Glifo de Atracción Letal"] = 198501,
-		["Bastón de Conocimiento Primigenio de la bestia"] = 500000,
-		["Espada de Masacre de fuerza"] = 4999999,
-		["Fórmula: encantar brazales: fuerza menor"] = 29800,
-		["Espada Magna Abandonada"] = 500000,
+		["Glifo de Bomba Viva"] = 238000,
+		["Glifo de Entereza Ligada al Hielo"] = 194499,
+		["Guantes de Tejido del Alba"] = 200000,
+		["Cinturón Pataescarcha del médico"] = 2200000,
+		["Jade Oscuro Duradero"] = 9900,
 		["Espada Magna Taraceada del hechicero"] = 510000,
-		["Esquema: gafas de maestro ingeniero"] = 225924,
+		["Hacha de Batalla de Torio Enorme"] = 350000,
 		["Leotardos a Rayas del oso"] = 3749999,
-		["Dinamita Densa"] = 1500,
+		["Anillo de Poder de Sombra"] = 550000,
 		["Pretina Glacial"] = 5000000,
 		["Espetadora de Piedra Mácula del jabalí"] = 2999999,
-		["Recuerdo Embrujado"] = 180000000,
-		["Glifo de Toque Helado"] = 296500,
-		["Fórmula: encantar brazales: espíritu excelente"] = 5550000,
-		["Basilisco Ennegrecido"] = 995,
+		["Escarpes Inexorables"] = 189999999,
+		["Armadura Fulgurante de espíritu"] = 3999999,
+		["Patrón: Pantalones de Cuero Maligno"] = 55000,
+		["Faja Sombranoche de defensa"] = 2193615,
 		["Receta: Morcilla"] = 879000,
 		["Receta: Poción de Gran Ira"] = 154500,
-		["Esencia Eterna Superior"] = 358000,
-		["Fórmula: encantar brazales: aguante superior"] = 3227500,
-		["Colmillo Negro"] = 3500000,
-		["Ocho de Furias"] = 49800,
-		["Espada Decapitadora del tigre"] = 3493364,
-		["Palitos de Pez Dorado"] = 12500,
+		["Pergamino de Espíritu"] = 10000,
+		["Gema de las Sombras"] = 70000,
+		["Faja Inductora de Choques"] = 500000,
+		["Patrón: Yelmo de Escórpido Grueso"] = 989000,
+		["Casco Nafsavar de agilidad"] = 645000,
+		["Armamento Vil"] = 107142,
 		["Diamante de Azeroth "] = 398000,
 		["Glifo de Poder Resonante"] = 846900,
-		["Glifo de Sangre Vampírica"] = 249000,
-		["Naipe de la Luna Negra: ¡Rabioso!"] = 9850000,
+		["Fórmula: Encantar Botas: Espíritu Inferior"] = 99500,
+		["Glifo de Dolor Abrasador"] = 358100,
 		["Guardahombros Flechapresta"] = 9929900,
 		["Musleras de Wolvar de poder con hechizos"] = 322000,
-		["Glifo de Cadenas de Hielo"] = 100000,
-		["Cinturón de Cuero Oscuro"] = 89999,
-		["Quijotes Heroicos de poder"] = 5753361,
-		["Pantalones de Sabio de sanación"] = 6999999,
-		["Cinturón Salvedar del lobo"] = 400000,
-		["Amuleto de Proa de Dragón"] = 3300000,
-		["Espaldares de Cresta Oscura del falcón"] = 5000000,
-		["Leotardos de Pretoriano del oso"] = 3314474,
-		["Bengala de Humo Blanco"] = 50999,
-		["Patrón: Jubón de Cuero de Montañero"] = 80820,
-		["Dado Decagonal de Enano"] = 8000000,
-		["Poción de Presteza"] = 399999,
-		["Pluma Ligera"] = 99,
+		["Manto Piel de Cardo del lobo"] = 4968911,
+		["Pulseras de Escamas Gruesas del tigre"] = 26969,
+		["Patrón: Armadura de Seda Verde"] = 108899,
+		["Anillo de Citrino de Sanación Rápida"] = 10530,
+		["Cetro Dogmático del anciano"] = 500000,
+		["Cuatro de Demonios"] = 250000,
+		["Voluntad de Edward El Raro"] = 25550000,
+		["Toga Aborigen de cólera de las Sombras"] = 1950000,
+		["Receta: Tortilla con un Sabor Curioso"] = 9899,
+		["Báculo de paño de ascuas del búho"] = 10000000,
+		["Amuleto de Cainwyn Enjoyado"] = 6500000,
+		["Jubón de Fuego Estelar de protección Arcana"] = 4431715,
+		["Botas de Escarcha letal"] = 40390000,
 		["Pantalones Nochefugaz"] = 49900,
 		["Embozo de Tirahuesos de la ballena"] = 25000000,
-		["Botas de Escarcha letal"] = 40390000,
-		["Poción de Sanación Volátil"] = 18800,
-		["Pantalones Astralaan del águila"] = 16999999,
-		["Brazales de Valor"] = 140000,
-		["Braciles del Anillo Celeste"] = 360000,
-		["Fórmula: encantar pechera: maná menor"] = 2100,
-		["Patrón: Brazales Golpenegro"] = 6000000,
-		["Fragmentos Geodésicos"] = 57692,
-		["Escarpines de Silencio"] = 67000000,
+		["Puñado de Tornillos de Cobre"] = 76000,
+		["Guardahombros Ulduar del anciano"] = 470000,
+		["Cubrehombros de Puño de Roca del mono"] = 40000000,
+		["Saco de Maravillas de Ikfirus"] = 73000000,
+		["Dos de Señores de la Guerra"] = 730000,
+		["Libro de Cocina de Chef"] = 90000,
+		["Péndulo de Fatalidad"] = 999990000,
+		["Pergamino de Encantar arma 2M: impacto inferior"] = 699900,
+		["Pantalones Lindeallá del médico"] = 200000,
 		["Bastón de Esbirro del jabalí"] = 1900000,
-		["Rifle de Asalto Gnomo del águila"] = 1250000,
+		["Glifo de Venas Heladas"] = 220000,
 		["Frasco de la Vermis de Escarcha"] = 1429050,
-		["Ortiga Mortal"] = 34000,
-		["Botas de Sabio de la ballena"] = 3061199,
-		["Pechera Ártica Oscura"] = 1119999,
+		["Baraja de Portales"] = 18000000,
+		["Guanteletes de Kraken de intelecto"] = 1900000,
+		["Espaldares valerosos"] = 50000,
 		["Esporas Extrañas"] = 64499,
-		["Brazales de Templario de poder"] = 1191527,
+		["Paño de Lana"] = 9700,
 		["Esmeralda del Bosque Turbia"] = 350000,
-		["Faja de la Prisión Mística"] = 445000,
+		["Cinturón de Cuero Refinado"] = 30000,
 		["Patrón: Talega de Seda Verde"] = 40000,
 		["Perla de Oro"] = 269000,
-		["Bengala de Humo Verde"] = 141500,
-		["Manto Hechicero del búho"] = 2999999,
-		["Glifo de Orden Oscura"] = 467700,
-		["Pechera Nafsavar del bandido"] = 699000,
-		["Corona de Templario de la ballena"] = 150000,
-		["Baraja de No-muertos"] = 23206000,
-		["Glifo de Aura de Disparo Certero"] = 293000,
-		["Pechera Formidable de espíritu"] = 75000000,
+		["Coraza de Golpe Rápido"] = 10000000,
+		["Yelmo Calavermis del búho"] = 145000,
+		["Faja de Wendigo del bandido"] = 5000000,
+		["Toga de Tejido de Ébano"] = 10190000,
+		["Pergamino de Encantar arma: mangosta"] = 11000000,
+		["Faca de Acero de Titanes"] = 30000000,
+		["Armadura de Cuero Fortalecido"] = 709999,
+		["Fórmula: Encantar Escudo: Protección Inferior"] = 40000,
 		["Armadura de Piel de Serpiente"] = 349999,
-		["Fórmula: encantar arma: oleada de hechizos"] = 385550,
+		["Látigo cerebral"] = 2326500,
 		["Quijotes Heroicos del oso"] = 25000000,
 		["Glifo de Polimorfia"] = 194999,
 		["Guanteletes de Escamas de Sangre de protección de la Naturaleza"] = 10000000,
-		["Botines de Acero de Titanes Luminoso"] = 23349997,
-		["Anillo de Lazulita de fuerza"] = 4142443,
-		["Aro de Jade del jabalí"] = 40000000,
-		["Siete de No-muertos"] = 2905445,
+		["Manoplas Desalentadoras"] = 1784884,
+		["Parche de espadachín de resistencia a las Sombras"] = 40000000,
+		["Colgante de Zafiro de Noche Invernal"] = 107000,
+		["Receta: Elixir de Poder de las Sombras"] = 1882500,
 		["Cinco de Locuras"] = 650000,
 		["Garrote de Conífera del hechicero"] = 240000,
 		["Baluarte de Hoja con Ataduras"] = 7295000,
 		["Camisa Marrón Común"] = 59900,
-		["Boceto: ojo de noche intemporal"] = 1999999,
-		["Capa de Cuero Estampado"] = 9000,
+		["Filete Talbuk"] = 2500,
+		["Cubrehombros de jade de la ballena"] = 40000000,
 		["Manto de Sanguiespora del hechicero"] = 80000,
-		["Guanteletes defensores de la ballena"] = 2999999,
-		["Leotardos de tejido de muerte"] = 68950000,
-		["Arenque Oscuro"] = 254000,
+		["Partecostillas del lobo"] = 3000000,
+		["Bufas de Placas Góticas de defensa"] = 7070334,
+		["Mandoble de Combatiente"] = 3557500,
 		["Bufas de Cabalista de aguante"] = 99999,
-		["Esencia de Tierra"] = 450000,
+		["Guerrera Delicada de cólera Arcana"] = 11643586,
 		["Glifo de Victoria Duradera"] = 554747,
 		["Patrón: Cinturón de Montañero"] = 6500,
-		["Glifo de Misiles Arcanos"] = 285900,
-		["Esencia Cósmica Inferior"] = 65656,
+		["Madera de Estrella"] = 30000,
+		["Leotardos natoespada"] = 94800000,
 		["Máscara de Tejido de Sangre de sanación"] = 19990000,
 		["Brazales de Aparecido del Campeón"] = 12500000,
-		["Esencia de Agua"] = 199500,
-		["Gargantilla de Perlas Tejidas del invocador"] = 1900000,
+		["Bufas de cornopala nudosas"] = 298000,
+		["Loto Negro"] = 199000,
 		["Ballesta Feroz de la bestia"] = 488888,
-		["Botas de Espadachín de la ballena"] = 3114808,
-		["Bastón de Esbirro de la bestia"] = 12500000,
-		["Coraza de Pielférrea del lobo"] = 40000000,
-		["Capa de Cielos Atormentados"] = 500000,
+		["Glifo de Guardia Vil"] = 403283,
+		["Cinturón Despiadado de la ballena"] = 2417603,
+		["Fragmento Resplandeciente Grande"] = 9800,
+		["Glifo de Golpe de Tormenta"] = 229900,
 		["Brazales Frioescollo del médico"] = 120000,
-		["Balista Brutal del Campeón"] = 554010,
+		["Quijotes Exaltados del oso"] = 140000000,
 		["Martillo Pico"] = 10000,
 		["Leotardos Arcanos"] = 250000,
-		["Varita de Potencia Arcana"] = 819000,
-		["Yelmo de Tirano"] = 40000000,
-		["Carcaj Reforzado Nerubiano"] = 5478800,
+		["Superpoción de Sanación"] = 10300,
+		["Ajorcas de la llama vibrante"] = 35000000,
+		["Glifo de Garrote"] = 250000,
 		["Manijas de Resonancia"] = 233330000,
-		["Pergamino de Encantar arma: Rabiar"] = 9650000,
-		["Manto de Brillavalva"] = 5740000,
-		["Boletus Edulis Seco"] = 11300,
-		["Anillo de Roca Volcánica"] = 2487500,
-		["Quijotes Gloriosos del oso"] = 40000000,
+		["Grebas Magníficas de poder"] = 8000000,
+		["Almeja Jaggal"] = 2650,
+		["Glifo de Aullido de Terror"] = 233704,
+		["Escarabajo de Terracota"] = 991953,
+		["Guantes de Pigmeo del médico"] = 300000,
 		["Espada Ancha Desenterrada del tigre"] = 1200000,
-		["Pergamino de Encantar guantes: fuerza sublime"] = 950000,
+		["Pergamino de Encantar guantes: fuerza sublime"] = 850800,
 		["Brazales de Devoto"] = 199500,
 		["Lágrimas de Arthas"] = 15000,
-		["Diamante de Azeroth"] = 499999,
-		["Botas Tralladón del mono"] = 488888,
-		["Pantalones de Infiltrado de la ballena"] = 40000000,
+		["Glifo de Pirofrío"] = 469997,
+		["Patrón: Toga de Lana Gris"] = 119900,
+		["Espaldares Simbólicos"] = 160000000,
 		["Pergamino de Encantar brazales: agilidad menor"] = 4449999,
 		["Brazales de consejero mayor de la ballena"] = 808230,
-		["Marco Indestructible"] = 90000,
+		["Espada de Corrupción"] = 300000,
 		["Anzuelo Afilado"] = 14444,
 		["Botas Sombranoche de aguante"] = 2067125,
-		["MOLL-E"] = 2297500,
-		["Pergamino de intelecto IV"] = 5000,
+		["Baluarte de Placas de intelecto"] = 1500000,
+		["Glifo de Piel de Corteza"] = 398900,
 		["Marra de Roble del gorila"] = 1000000,
 		["Barra de Adamantita Endurecida"] = 935099,
-		["Musleras de Grupo de Anillas"] = 4507899,
-		["Glifo de Sello de Sabiduría"] = 412499,
+		["Receta: Kebab de Lobo Sazonado"] = 508999,
+		["Desgarrador Dimensional: Área 52"] = 32000000,
 		["Espaldares de Brigandina del jabalí"] = 100000,
-		["Furia de Bruja"] = 1999999,
+		["Coraza de Forjavida"] = 250000000,
 		["Cadena de Energías Latentes"] = 320000000,
-		["Fajín de Fuego Estelar de protección de Fuego"] = 2010154,
-		["Cohete Amarillo Grande"] = 25000,
-		["Leotardos Elegantes del águila"] = 8000000,
-		["Fragmentos de Hierro Negro"] = 3124,
-		["Fajín regio de la ballena"] = 6795882,
-		["Seis de Nobles"] = 8570000,
-		["Cristal de Sol"] = 9000,
+		["Guardamuñecas de Arena"] = 40000000,
+		["Pez Coraza de Placas"] = 4899,
+		["Jade Oscuro Fuerte Perfecto"] = 40000,
+		["Guardabrazos Sombra Lunar"] = 64440000,
+		["Receta: Chuleta de Lince"] = 439000,
+		["Glifo de Torbellino"] = 442089,
+		["Diseño: Jubón de Anillas de Cobre"] = 660,
 		["Togas de Cautivador"] = 40000000,
 		["Hombreras Gloriosas de defensa"] = 11000000,
-		["Aro del Ensalmador Oscuro"] = 49980000,
+		["Trabuco Mortal"] = 1500000,
 		["Topacio Monarca Iluminado"] = 1670550,
-		["Cincho de Implorador del mono"] = 4950000,
-		["Daga Excéntrica del búho"] = 799000,
+		["Patrón: Coraza de Escórpido Resistente"] = 3600,
+		["Manoplas de Malla Abisal de restauración"] = 390000,
 		["Madeja de Tejido Mágico"] = 13888,
-		["Esquema: Rifle de Torio"] = 79399,
-		["Gafas de Nieve Mecanizadas de la batalla"] = 217434,
-		["Clava de Fúrbolg del bandido"] = 350000,
-		["Elixir de Poder de Fuego Sublime"] = 550000,
-		["Glifo de Orden"] = 305399,
-		["Moquillo Desagradable"] = 12000000,
-		["Hoja Tigre de Escarcha"] = 7770000,
-		["Pergamino de Encantar capa: agilidad sublime"] = 1215000,
-		["Elixir de Defensa Excelente"] = 91668,
-		["Montaje de Equipo Neodinámico"] = 9800,
-		["Guantes Tejerred del médico"] = 500000,
-		["Lente Verde de cólera Arcana"] = 999000,
-		["Botas Místicas de la ballena"] = 2804010,
-		["Antorcha Incesante"] = 710000,
-		["Glifo de Monzón"] = 273900,
-		["Glándula ígnea"] = 100000,
-		["Patrón: Caperuza de Escamas de Cobra"] = 4999999,
-		["Diseño: Cadena de Adamantita"] = 19800,
-		["Coraza de la Mano Destrozada de protección de Escarcha"] = 18999999,
-		["Rodela de Bosque"] = 499999,
-		["Leotardos de Comandante de intelecto"] = 14999999,
+		["Glifo de Renovar"] = 208850,
+		["Escarpines Lindeallá de protección de la Naturaleza"] = 100000,
+		["Carne de Venado Salada"] = 985,
+		["Ocho de No-muertos"] = 3890000,
+		["Granate de sangre brillante"] = 26600,
+		["Botas de Desgarrador del Viento"] = 24999899,
+		["Rebanadora Esquelética del águila"] = 2390000,
+		["Cardopresto"] = 5000,
+		["Gafas de Nieve Mecanizadas de la bestia"] = 1467798,
+		["Martillo de Herrero"] = 29900,
+		["Draenita dorada rígida"] = 20000,
+		["Draenita dorada gruesa"] = 29800,
+		["Fajín de Ogron"] = 28555500,
+		["Botas de alma terrestre"] = 55660000,
+		["Pergamino de Encantar guantes: agilidad sublime"] = 1429999,
+		["Cinturón Escarlata"] = 687000,
+		["Draenita de Sombras resplandeciente"] = 6900,
+		["Glifo de Control Mental"] = 254333,
+		["Espina de Hielo"] = 50000,
+		["Bolsa Glacial"] = 6050000,
+		["Elixir de ojo de gato"] = 89500,
 		["Arenque Colmillo"] = 500,
-		["Guardahombros Njord del búho"] = 120000,
-		["Rubí Cárdeno Fracturado"] = 3449999,
-		["Pergamino de Agilidad V"] = 29999,
-		["Espaldares Heroicos de aguante"] = 8737975,
-		["Coraza Magnánima del oso"] = 9500000,
-		["Diseño: pantalones de mitril pesado"] = 48400,
-		["Cinturón de garroso de las Sombras"] = 2000000,
-		["Daga Keris Sinuosa del bandido"] = 12500000,
-		["Dinamita para Tontos II"] = 10680,
-		["Espaldares de Cruzado de la ballena"] = 300000,
-		["Colgante del Guerrero de Aguamarina"] = 99900,
-		["Anillo de Revitalización de huargen"] = 200000,
-		["Cinturón de Puño de Roca de protección de Fuego"] = 2000000,
-		["Citrino Enorme"] = 25489,
-		["Agua Elemental"] = 16500,
+		["Botas Místicas de cólera Arcana"] = 2999999,
+		["Topacio Monarca"] = 999999,
+		["Brazales de Escarcha Salvaje"] = 1500000,
+		["Cinco de Caos"] = 950000,
+		["Aguamarina"] = 69500,
+		["Las Verdes Colinas de Tuercespina: Página 18"] = 330000,
+		["Talega de Seda Pequeña"] = 19800,
+		["Cinturón Pie Fantasmal del búho"] = 40000000,
+		["Manteo de Tafetán Teñido del hierofante"] = 2350000,
+		["Sortija Piadosa de protección de la Naturaleza"] = 710000,
+		["Leotardos de Mur'crófago del médico"] = 340000,
+		["Anillo de Tendones Podridos"] = 5690000,
+		["Anillo Espuela de la bestia"] = 9990000,
+		["Escudo con Remaches del hechicero"] = 2000000,
+		["Armadura Fulgurante del águila"] = 2911513,
 		["Guanteletes de Saronita Templada"] = 1190000,
 		["Glifo de Señal de la Luz"] = 309000,
 		["Cerebro de Basilisco"] = 109500,
-		["Puños de Wolvar de defensa"] = 1500000,
-		["Pechera Mascahuesos de la bestia"] = 500000,
+		["Glifo de Eliminar Maldición"] = 774500,
+		["Garfas de Akkarai"] = 35000000,
 		["Patrón: Guantes Terráneos Gruesos"] = 7900,
-		["Cinturón con Puntadas Skom de aguante"] = 500000,
-		["Glifo de Manáfago"] = 2969999,
+		["Pergamino de Encantar capa: agilidad superior"] = 8880000,
+		["Hamburguesa de Distorsión"] = 89500,
 		["Champiñón Fantasma"] = 49200,
-		["Camisote de Hierro Verde"] = 9990000,
-		["Sello de Edward El Extraño"] = 11990000,
+		["Zapatos de Cóndor del águila"] = 170000,
+		["Elixir de Visión Onírica"] = 950550,
 		["Guanteletes de Campeón de la ballena"] = 222327,
 		["Anillo de Roca al Sol"] = 130000,
-		["Guadaña Siniestra del bandido"] = 14880000,
-		["Manifiesto de Prisión"] = 1695000,
+		["Manto del Consorcio del hechicero"] = 2250000,
+		["Patas de Lince"] = 27555500,
 		["Fórmula: Encantar Arma: Maestro de Batalla"] = 27000,
-		["Escama de Vakkiz"] = 990000,
-		["Sobrevesta Primigenia del falcón"] = 8148797,
-		["Manual de Instrucciones de Trituradora: Página 4"] = 999000,
+		["Trozo Draenetista Imperfecto"] = 9800,
+		["Diseño: guanteletes de tormenta"] = 516000,
+		["Pólvora Densa"] = 1145,
 		["Faja valerosa"] = 3000000,
 		["Collar de Choque de Hechizo de Titanio"] = 15820300,
-		["Glifo de Rajar"] = 383492,
-		["Arco Hiriente"] = 539000,
-		["Glifo de Vida Renovada"] = 427499,
-		["Botas Forjabatalla del águila"] = 3007500,
-		["Pergamino de Encantar arma: arma profana"] = 9940000,
+		["Lubina Cruda"] = 9332,
+		["Glifo de Espiral de la Muerte"] = 838196,
+		["Madeja de Paño de Lino"] = 1000,
+		["Especias Festivas"] = 7900,
+		["Pergamino de Encantar brazales: aguante menor"] = 3339800,
 		["Guardahombros de la Milicia de Stratholme"] = 259090,
-		["Patrón: leotardos de dragontina negra"] = 15689,
+		["Glifo de Disparo Explosivo"] = 548900,
 		["Manual de Instrucciones de Trituradora: Página 7"] = 999000,
-		["Cinturón Pie Fantasmal de la ballena"] = 40000000,
+		["Cristal de Sol Rígido"] = 49600,
 		["Manual de Instrucciones de Trituradora: Página 10"] = 999000,
 		["Sello de Aguamarina de concentración"] = 139500,
 		["Vigorpez Lustroso Crudo"] = 9899,
-		["Amito Fulgurante"] = 100000,
-		["Martillo de Batalla Algaz del oso"] = 13270282,
+		["Aceite de Inmolación"] = 33058,
+		["Patrón: Cinturón de Guardián"] = 29800,
 		["Guardamuñecas Triturahuesos de poder con hechizos"] = 999999,
-		["Pergamino de Encantar escudo: Resistencia"] = 12229900,
+		["Botas supremas de la ballena"] = 3990000,
 		["Cinco de Demonios"] = 250000,
 		["Jubón de Discípulo de la ballena"] = 190000,
-		["Glifo de Sello de Luz"] = 485342,
-		["Glifo de Separación"] = 258900,
-		["Guanteletes Sangremar de poder con hechizos"] = 407000,
-		["Brazales de Fuego de Precisión"] = 650000,
+		["Fajín de Visir del águila"] = 1900000,
+		["Grebas Rectas"] = 3499900,
+		["Barra de Veraplata"] = 6200,
+		["Glifo de Armadura de Mago"] = 990000,
 		["Armadura de Vínculo de Huesos de agilidad"] = 66660000,
-		["Halo de Cazador de Almas"] = 1220000,
+		["Musleras de Brisaveloz"] = 3000000,
 		["Sobrehombros Almanegra"] = 15500000,
-		["Rocío de Gloria Matinal"] = 60000,
-		["Botas Aleta Invernal de protección de Escarcha"] = 500000,
-		["Espaldares de Saronita Ornamentada"] = 1890000,
-		["Guanteletes de Saronita Ornamentada"] = 3357000,
-		["Pechera Aleta Invernal del jabalí"] = 150000,
-		["Sobrehombros Nerubianos"] = 150000,
-		["Musleras Ulduar del tigre"] = 11500000,
-		["Muro de los Muertos"] = 9479999,
-		["Guanteletes Njord de espíritu"] = 155424,
-		["Cristal de Sombras destellante perfecto"] = 290000,
+		["Glifo de Lanzamiento Mortal"] = 384797,
+		["Cinturón Ansia de Sangre"] = 8000000,
+		["Las Verdes Colinas de Tuercespina: Página 4"] = 989000,
+		["Vástago oscuro"] = 76000000,
+		["Glifo de Bloque de Hielo"] = 160999,
+		["Guanteletes de jade del gorila"] = 40000000,
+		["Musleras Cantasueños"] = 3870000,
+		["Pergamino de Encantar capa: Perforar con hechizos"] = 1102500,
+		["Sobrehombros Durable del águila"] = 320000,
+		["Pergamino de Intelecto III"] = 10400,
 		["Piedra elunarita"] = 141233,
-		["Frasco de Restauración Poderosa"] = 651428,
+		["Jubón de Tela Lunar"] = 2699000,
 		["Jubón de Tirahuesos de espíritu"] = 999999,
-		["Prole de dracohalcón azul"] = 2500000,
-		["Estrella de Elementalista de espíritu"] = 2499999,
+		["Cohete Rojo Grande"] = 25000,
+		["Pergamino de Encantar bastón: poder con hechizos"] = 1455000,
 		["Patrón: pantalones de tejido mágico rojos"] = 299000,
-		["Coraza de Mazo de Guerra de protección Arcana"] = 2000000,
-		["Corona de Vigilante"] = 390000,
-		["Piedra de Afilar Sólida"] = 17450,
-		["Glifo de Martillo del Honrado"] = 388900,
-		["Coselete de La Garfa"] = 811696,
-		["Glifo de Captar No-muertos"] = 325500,
+		["Liquen Antiguo"] = 507000,
+		["Brazal del Consorcio de intelecto"] = 1250000,
+		["Varita de Fuego"] = 200000,
+		["Piedra Burda"] = 1050,
+		["Glifo de Kilrogg"] = 378292,
+		["Coraza Tosca de aguante"] = 60000000,
 		["Guanteletes de Thorbia"] = 6499999,
 		["Toga de Anciano de intelecto"] = 120000,
 		["Yelmo de La Guardia Oeste de la ballena"] = 150000,
-		["Guanteletes Sangremar de defensa"] = 500000,
-		["Maza con Pinchos Pesada"] = 64500,
-		["Puños de Tormentero"] = 9939900,
+		["Escudo de Gran Jefe de agilidad"] = 11999999,
+		["Madeja de Paño de Seda"] = 17000,
+		["Glifo de Bramido"] = 258899,
 		["Bufas de Tirahuesos de cólera Arcana"] = 1999999,
-		["Botas Brigada del lobo"] = 50000000,
-		["Esencia Mágica Superior"] = 100000,
-		["Glifo de Lluvia de Estrellas"] = 447999,
-		["Casco de Placas Imbuido"] = 2835064,
-		["Fórmula: Aceite de Zahorí Menor"] = 8900,
-		["Poción de Maná"] = 8828,
-		["Adamantita Mercúrica"] = 1000000,
-		["Cinturón de Escarcha Salvaje"] = 1900000,
+		["Maza Demoledora Menor del anciano"] = 1200000,
+		["Botas de agitación regia"] = 66800000,
+		["Guerrera de seda de ascuas del búho"] = 1636026,
+		["Hacha del Bosque Profundo"] = 1267500,
+		["Pergamino de Encantar guantes: armero"] = 1976249,
+		["Daga Arrojadiza Pesada Rota"] = 1109000,
+		["Patrón: Bola de Cuero Pesado"] = 300000,
+		["Glifo de Súcubo"] = 99500,
 		["Manteo de Campeón de agilidad"] = 340000,
 		["Cinturón de la Mano Destrozada del hechicero"] = 5832567,
 		["Cajón de Conejos (Pataneve)"] = 1105000,
-		["Sombrero Taunka del falcón"] = 700000,
+		["Defensor Antiguo del búho"] = 900000,
 		["Zafiro Celestial Sólido"] = 199500,
 		["Brazales Forjados con Sol"] = 22250000,
-		["Machacachanguk"] = 3885007,
+		["Hacha de dos filos del oso"] = 950000,
 		["Guantes de Rastreador del mono"] = 40000000,
-		["Leotardos Haal'eshi del búho"] = 1990000,
+		["Jaula para gatos (Gata tricolor)"] = 815200,
 		["Botas de Tirahuesos de cólera Arcana"] = 3114808,
-		["Yelmo de Torio"] = 173943,
+		["Brazales Skom de protección de la Naturaleza"] = 800000,
 		["Glifo de Encarcelamiento de la Plaga"] = 398500,
 		["Botas de Espadachín de cólera de la Naturaleza"] = 150000,
 		["Casquete Sangreoscura del jabalí"] = 40000000,
-		["Mascahuesos"] = 4987500,
-		["Blasón Simbólico"] = 2999999,
-		["Vórtice Abisal"] = 49600,
+		["Bufas Rectas de la ballena"] = 3975606,
+		["Guanteletes Magnánimos de poder"] = 3000000,
+		["Bomba Altamente Explosiva"] = 1950,
 		["Glifo de Ira rabiosa"] = 282793,
 		["Mochila de Viajero"] = 240000,
-		["Glifo de Última Carga"] = 586849,
+		["Guanteletes de Cuero Rúnico"] = 999999,
 		["Espada de Instrucción de dureza"] = 6990000,
-		["Baraja de Elementales"] = 18000000,
-		["Escudo de Pared de Vínculo de Huesos de cólera ígnea"] = 500000,
-		["Refuerzo para Armadura Pesado"] = 10600,
-		["El Antiguo Cetro de Sue-Min"] = 20000000,
-		["Calzas Cubredaga de defensa"] = 154735,
-		["Guanteletes de Piedra"] = 800000,
-		["Espaldares de Templario de defensa"] = 5000000,
-		["Brazales de Vórtice de Tormenta"] = 69420,
-		["Bastón de Agua Torrencial del tigre"] = 229000,
+		["Musgo de pantano"] = 119500,
+		["Hojasueño"] = 29800,
+		["Glifo de Protección contra las Sombras"] = 594499,
+		["Capucha de Caribú del jabalí"] = 500000,
+		["Brazales de Cuero Verdes"] = 120000,
+		["Cinturón de Buscador de Tesoros"] = 5999999,
+		["Cuchillo de Bronce Grande"] = 690000,
+		["Manual de Instrucciones de Trituradora: Página 12"] = 999000,
+		["Arremetida Mortal"] = 250000,
 		["Varita de Dragón Rúnica de Gwyneth"] = 672750,
-		["Grebas de Wolvar de poder con hechizos"] = 1900000,
+		["Velo Lunar"] = 808000,
 		["Faja Esmeralda del oso"] = 999999,
-		["Brazales de Acero Vil Negros"] = 35000000,
+		["Cinta Nochefugaz"] = 49900,
 		["Dados de Trol Desgastados"] = 9980000,
 		["Hombreras Piedra de Sal del oso"] = 188888888,
 		["Casco de Placas Ligeras"] = 20000,
-		["Fórmula: encantar brazales: espíritu menor"] = 899000,
-		["Toga Tejida con Escarcha Mística"] = 380000,
-		["Orbe de Engaño"] = 22999999,
-		["Mena de Plata"] = 190168,
+		["Patrón: Manto Sanapresto"] = 1829099,
+		["Patrón: Brazales de Zahorí con Joyas"] = 33450000,
+		["Braquiales Golpe de Guerra"] = 251378,
+		["Pergamino de Fuerza VI"] = 29799,
 		["Manto de Colmipala de protección de Fuego"] = 510000,
-		["Coraza de la Mano Destrozada del anciano"] = 40000000,
+		["Trozos de Huesos"] = 8850,
 		["Muñeco de Vudú Agujereado"] = 437775,
 		["Bastón de Canalizador"] = 2000000,
-		["Anillo de Diamante de Enfoque"] = 55569,
-		["La grande"] = 5813750,
+		["Quijotes de Saronita Ornamentada"] = 2398999,
+		["Bastón de Géiser de la bestia"] = 319999,
 		["Huracán"] = 22995000,
 		["Pergamino de Encantar brazales: Desvío menor"] = 4440000,
-		["Grebas de Placas Abisales de ataque"] = 2500000,
-		["Patrón: Toga de Tejido Abisal"] = 999999,
-		["Guanteletes de Cruzado de cólera Arcana"] = 2444206,
-		["Cinturón Njord del tigre"] = 60000,
+		["Musleras Taunka de protección de Fuego"] = 600000,
+		["Boceto: topacio monarca con inscripciones"] = 498000,
+		["Las Verdes Colinas de Tuercespina: Página 26"] = 799000,
+		["Tinte Morado"] = 9900,
 		["Esquema: Gafas de las Sombras"] = 1497599,
-		["Diseño: Placa de Batalla de Korio Duro"] = 400000000,
+		["Faja Deliriohelado"] = 11990000,
 		["Carne de Murciélago"] = 6100,
-		["Toga Bruma de Hielo de protección de la Naturaleza"] = 406177,
-		["Barra de Acero Vil"] = 590000,
-		["Glifo de Piedra de Alma"] = 220000,
-		["Seis de Bendiciones"] = 675000,
-		["Bufas Rectas de agilidad"] = 210000,
+		["Glifo de Falsa Arremetida"] = 549900,
+		["Fajín de Paño Abisal de restauración"] = 390000,
+		["Guerrera Bruñida"] = 1320000,
+		["Glifo de Bola de Fuego"] = 462499,
+		["Brazales Tejeocaso del búho"] = 250000,
 		["Coraza de Escamas de Sangre de protección de Fuego"] = 14900000,
-		["Botas Njord del falcón"] = 100000,
-		["Patrón: Cinturón del Archimago"] = 30000000,
+		["Glifo de Multidisparo"] = 735600,
+		["Espaldares Mercúricos de aguante"] = 15550000,
 		["El Velador de la Noche"] = 24430000,
-		["Jaula para Gatos (atigrado Plateado)"] = 149750,
+		["Taparrabos Salpicado de Sangre del jabalí"] = 2388173,
 		["Musleras de Avanzado de fuerza"] = 500000,
-		["Glifo de Choque de Escarcha"] = 249899,
-		["Chuleta de Oso Grande"] = 69500,
+		["Glifo de Traslación"] = 129500,
+		["Ametrino Resuelto"] = 2780000,
 		["Solea"] = 34800,
-		["Caperuza de Sanguiespora del invocador"] = 250000,
+		["Cinturón de la Ordenación"] = 139900,
 		["Yelmo Flechapresta"] = 5652511,
-		["Pergamino de Encantar pechera: salud excepcional"] = 4195000,
-		["Tratado sobre Resistencia"] = 3412,
+		["Armadura de Comandante del oso"] = 11349639,
+		["Manteo Golpe de Guerra"] = 438750,
 		["Sello Onírico del nigromante"] = 1699999,
-		["Custodiador Candente"] = 40000000,
+		["Glifo de Resguardo de Miedo"] = 324420,
 		["Esencia Eterna Inferior"] = 120000,
-		["Leotardos de Ritual de cólera ígnea"] = 499900,
-		["Esquema: ultragafas ojo de gato"] = 119211,
+		["Leotardos de Bronce Férreos"] = 25000,
+		["Guerrera Delicada de espíritu"] = 9999999,
 		["Pergamino de Agilidad VIII"] = 150000,
 		["Faja Grabada del oso"] = 4275804,
-		["Espada Ancha con Mango de Piel del Campeón"] = 6990000,
-		["Boceto: Rubí Vivo Ostentoso"] = 999999,
-		["Guardamuñecas de Recuperación Verdeante"] = 179500,
-		["Culebra Marrón"] = 288900,
-		["Sobrehombros de Seda Verdes"] = 40000,
+		["Guerrera de Paño de Hiedra de espíritu"] = 4500000,
+		["Manta Incubahuevos del hierofante"] = 9999999,
+		["Venda de Paño Rúnico Gruesa"] = 6100,
+		["Glifo de Veneno Entorpecedor"] = 199999,
+		["Prole de Gundrak"] = 12969999,
 		["Bastón de Flor de Nieve del oso"] = 1205000,
-		["Glifo de Golpe Fantasmal"] = 269899,
+		["Glifo de Renacer Desahogado"] = 396999,
 		["Bocarda Férrea"] = 10000,
-		["Glifo de Enjambre de Insectos"] = 369900,
-		["Toga Runavold de poder con hechizos"] = 500000,
-		["Botas de Placas Estampadas del mono"] = 4999999,
-		["Glifo de Espíritu Feral"] = 408030,
-		["Sortija de Estimulación"] = 280000,
-		["Patrón: Cinturón de Caos Azul"] = 40000000,
-		["Sobrehombros Tejidos con Escarcha Místicos"] = 400000,
-		["Hoja de Hechizo de Saronita"] = 7498495,
+		["Poción de Protección contra lo Arcano Superior"] = 558816,
+		["Manoplas Despiertas"] = 199999,
+		["Anillo Espuela del soldado"] = 2220000,
+		["Patrón: Guantes del Padre Invierno"] = 2200000,
+		["Cuchilla de Peña de agilidad"] = 50000,
+		["Prospector Trol"] = 1770000,
+		["Paño de Lino"] = 150,
+		["Guantes Ennegrecidos Defias"] = 1900000,
 		["Calzones Umbropantano del gorila"] = 1500000,
-		["Rubí Escarlata Rúnico"] = 2547599,
+		["Vara de Hierro Vil"] = 871200,
 		["Estrella de Vigía del águila"] = 200000,
 		["Hoja de Sabiduría Atrapada"] = 350000,
 		["Kang El Decapitador"] = 5489899,
-		["Poción de acción libre"] = 972289,
+		["Coraza Impenetrable de aguante"] = 30000000,
 		["Cardo de Maná"] = 41000,
-		["Glifo de Sello de Orden"] = 1997500,
-		["Glifo de Fuego Lunar"] = 297993,
-		["Tótem de la Tormenta"] = 77980000,
+		["Glifo de Escudo de Relámpagos"] = 500000,
+		["Glifo de Insultos Barbáricos"] = 89000,
+		["Patrón: Caperuza de Tela Vil"] = 77500,
 		["Toga del Consorcio del búho"] = 450000,
-		["Sobrehombros de Montañero"] = 35000,
+		["Mirada Mortal de Ryft"] = 4999999,
 		["Calamar de Invierno"] = 22499,
 		["Botas de Brigandina de agilidad"] = 1999999,
-		["Sello Onírico del bandido"] = 1790000,
-		["Boceto: diamante de llama celeste del trueno"] = 94500,
+		["Esquema: Mira de Precisión"] = 1093455,
+		["Las Verdes Colinas de Tuercespina: Página 8"] = 359999,
 		["Glifo de Elemental de Agua"] = 467121,
-		["Dragontina helada"] = 50000,
-		["Musleras de Dorsacerado del bandido"] = 4990000,
-		["Glifo de Reflejo Exacto"] = 2939898,
+		["Botines de Destino"] = 56000000,
+		["Coraza de Gólem del soldado"] = 11500000,
+		["Hombreras Salpicadas de Sangre"] = 12200,
 		["Fórmula: Encantar Arma: Destripadora de Bestias Menor"] = 9900,
 		["Hoja de las Sombras"] = 2507500,
-		["El Vicio del Verdugo"] = 19990000,
-		["Glifo de Fuerza Poseída"] = 428202,
-		["Pretina Garrasalto del anciano"] = 400000,
-		["Botas de Forestal de protección de Escarcha"] = 1500000,
-		["Pulseras del Oráculo del búho"] = 421292,
-		["Guanteletes de Caballero de fuerza"] = 150000,
-		["Fórmula: Vara Rúnica de Arcanita"] = 391000,
+		["Glifo de Ola de Sanación"] = 343000,
+		["Guardahombros Tejerred del tigre"] = 12500000,
+		["Escudo Triangular de Cobalto"] = 479000,
+		["Patrón: Capa de Paño Brillante"] = 632000,
+		["Guantes de Bucanero del mono"] = 2068135,
+		["Glifo de Destripar"] = 492688,
+		["Puños de Batalla de Korio Duro"] = 200000000,
 		["Receta: Pastel de Araña Pegajosa"] = 448999,
-		["Esencia Astral Inferior"] = 40000,
-		["Anillo de Jade Pesado"] = 9999,
-		["Inyector de Sanación Rúnica"] = 47499,
-		["Togas de Bucanero de espíritu"] = 20000,
-		["Capa de la mente ágil"] = 859000,
-		["Yelmo de Trampero del médico"] = 299999,
+		["Anillo con Perla Sencillo"] = 190000,
+		["Yelmo de Adepto Defensor"] = 99999999,
+		["Glifo de Atronar"] = 473990,
+		["Saronita primordial"] = 5350000,
+		["Leotardos defensores del águila"] = 15655500,
+		["Madeja de Paño de Lana"] = 9900,
 		["Esencia de Alma"] = 72150,
-		["Hacha de Guerra Ardiente"] = 40000000,
-		["Botas del Guardián Terrestre"] = 1251101,
+		["Hilo de hechizo azur"] = 1697500,
+		["Herramientas de Joyero"] = 176600,
 		["Grilletes Rúnicos de Gólems"] = 319999,
-		["Guantes Místicos del búho"] = 396947,
-		["Glifo de Picadura de Serpiente"] = 192500,
-		["Casco de Pielférrea de cólera de la Naturaleza"] = 40000000,
-		["Espada de Verdugo"] = 1007500,
-		["Coraza de Escamas de Tortuga"] = 250000,
-		["Brazales de Velo Lunar Real"] = 26623349,
-		["Yelmo de Saronita Templada"] = 6249699,
-		["Faja Calavermis del búho"] = 150000,
+		["Cuero de Oso de Guerra"] = 19600,
+		["Sobrehombros de Bandido"] = 100000,
+		["Leotardos Mascahuesos del invocador"] = 6999999,
+		["Guanteletes Ornamentados de espíritu"] = 16311043,
+		["Pergamino de Aguante II"] = 15000,
+		["Glifo de Zarpa"] = 159999,
+		["Barra de Bronce"] = 30000,
+		["Guanteletes Descomunales"] = 13999999,
 		["Crujehuesos de hielo infernal"] = 71700000,
-		["Capa de Escamas Luminiscentes"] = 245000,
-		["Calzas Fulgurantes de espíritu"] = 6999999,
-		["Sobrehombros de Forestal del oso"] = 66600,
+		["Arco de Precisión"] = 150000,
+		["Jade Oscuro"] = 110000,
+		["Espaldares Pretorianos de resistencia a la Naturaleza"] = 1999347,
 		["Sobrehombros de Placas Imperiales"] = 4997500,
-		["Cuchilla Mísera del jabalí"] = 149500,
-		["Siluro Mostacherizo"] = 8000,
-		["Espaldares de Placas de Campo del oso"] = 30000,
-		["Faja de Vuelo Incontestable"] = 390000,
-		["Hombreras de Espadachín del águila"] = 3876626,
-		["Botas de Geomántico de aguante"] = 2999999,
-		["Cinturón de Anillas con Pinchos de la ballena"] = 80000,
-		["Estrella Barbada del soldado"] = 200000,
-		["Ojo de Zul Intrincado"] = 1899920,
-		["Aceite de Escama Pétrea"] = 25000,
+		["Brazales Rectos del mono"] = 150000,
+		["Guanteletes de Placas Góticas del gorila"] = 13999999,
+		["Escarpes Exaltados del oso"] = 110000000,
+		["Glifo de halcón"] = 257700,
+		["Glifo de Eviscerar"] = 274999,
+		["Glifo de Desgarrar"] = 397999,
+		["Coraza Falange de fuerza"] = 1999999,
+		["Hilo Burdo"] = 7699,
+		["Encantar escudo: intelecto III"] = 990000,
+		["Huevo de Polilla Azul"] = 1215000,
 		["Botas Flechapresta"] = 9929900,
-		["Brazales Encapotados"] = 1847500,
-		["Fuegos artificiales de Dalaran"] = 67000,
+		["Hiedra de Charlotte"] = 3000000,
+		["Costillas de Cerdo Secas"] = 30000,
 		["Pigmento de zafiro"] = 99999,
-		["Pergamino de Encantar arma: magia negra"] = 9239999,
-		["Circón Majestuoso"] = 1839999,
-		["Fajín de Hilo de Plata"] = 4065356,
-		["Musleras de Brillavalva del lobo"] = 3999999,
+		["Sombrero de Zahorí Regio del águila"] = 40000000,
+		["Boceto: Talasita Radiante"] = 500000,
+		["Falda de crecimiento vivo"] = 1982500,
+		["Elixir de Crecimiento Gigante"] = 292999,
 		["Fuego Primigenio"] = 16800,
-		["Grebas Heroicas de defensa"] = 2499999,
-		["Alianza de oro"] = 5550000,
+		["Almeja Aguaoscura"] = 349000,
+		["Bastón Maldito del bandido"] = 12500000,
 		["Patrón: Guantes de Ratero"] = 8300,
-		["Hueso de Oso Grande"] = 30000,
+		["Escamas de pez lustrosas"] = 139,
 		["Anillo Rompecabezas"] = 238000,
 		["Garrote con Pinchos del mono"] = 50000,
-		["Balas de Mitril de Gran Impacto"] = 990,
-		["Coraza Gloriosa del oso"] = 45000000,
-		["Glifo de Ataque de La Victoria"] = 298000,
-		["Leotardos del Tejepiedra"] = 30000000,
-		["Glifo de Abanico de Cuchillos"] = 463097,
-		["Armadura Forjabatalla del oso"] = 2499998,
-		["Togas Imperiales de Chan"] = 43992515,
-		["Garra Afilada"] = 840,
+		["Coraza ornamentada de agilidad"] = 9500000,
+		["Glifo de Nova de Fuego"] = 409295,
+		["Botas Cielo Nocturno"] = 2550000,
+		["Chaleco Piel de Cardo de espíritu"] = 499999,
+		["Armadura de Brigadier"] = 1499999,
+		["Martillo de Secuoya de poder"] = 3000000,
+		["Glifo de Maldición de Agonía"] = 841500,
+		["Tambores de los Reyes Olvidados"] = 4800000,
 		["Arnés Miedo Lobo"] = 40000000,
 		["Faja Arácnida del lobo"] = 2230000,
-		["Guanteletes Simbólicos"] = 30000000,
-		["Guantes Puñosangre del Campeón"] = 5152846,
-		["Guanteletes de Brigandina de la ballena"] = 1499999,
-		["Cinturón Grandioso del búho"] = 2994831,
+		["Armamentos de Colmillo Torcido"] = 119000,
+		["Espaldares de Señor Orgulloso"] = 990000,
+		["Fórmula: encantar botas: vitalidad"] = 100000,
+		["Guerrera Delicada del búho"] = 9999999,
 		["Braciles de Wendigo del bandido"] = 300000,
-		["Bolsa de Cuero Azul"] = 15400,
-		["Dos de Locuras"] = 50000,
+		["Cristales Vetustos"] = 4900,
+		["Barra de Cobre"] = 30000,
 		["Mitad Inferior de Forja de Armaduras Avanzada: Volumen II"] = 100000,
-		["Bastón Madera Brillante Resplandeciente"] = 2499899,
-		["Bufas Cubredaga de intelecto"] = 159000,
-		["Manto de Devastador"] = 50000000,
-		["Quijotes de Kraken del mono"] = 500000,
-		["Escudo de Hierro Vil del hechicero"] = 2550000,
-		["Leotardos Magníficos del águila"] = 22000000,
-		["Corona de Atracador de Hielo"] = 40000000,
-		["Faltriquera de Gemas"] = 1500000,
-		["Parche de espadachín de la ballena"] = 40000000,
-		["Glifo de Capa de las Sombras"] = 274898,
-		["Glifo de Golpe Sangriento"] = 346500,
-		["Aceite de Bocanegra"] = 700000,
+		["Siete de Bestias"] = 500000,
+		["Leotardos de Hierro Verdes"] = 150000,
+		["Campana de Je'Tze"] = 55009900,
+		["Musleras Grandiosas del águila"] = 3742267,
+		["Estrella de Altonato"] = 1491862,
+		["Glifo de lo Desvaído"] = 593397,
+		["Rama Cortada Brutal de la bestia"] = 1230000,
+		["Cinturón con Puntadas Skom de protección de las Sombras"] = 470000,
+		["Coselete Encapotado"] = 4689900,
+		["Tinta de Marfil"] = 15000,
+		["Glifo de Arma de Vida Terrestre"] = 400000,
+		["Partecostillas del jabalí"] = 23333333,
 		["Botas Presavil del búho"] = 100000,
-		["Bastón de Cono de Conífera del oso"] = 894020,
+		["Pergamino de Encantar escudo: protección inferior"] = 4440000,
 		["Cinturón Brillante"] = 850000,
-		["Cascanueces Goblin del oso"] = 99999,
-		["Quijotes magistrales del falcón"] = 18000000,
-		["Quijotes de acero puro"] = 122800000,
-		["Mutiladora"] = 1495000,
+		["Botas Bruñidas"] = 2000000,
+		["Leotardos Lupinos del oso"] = 799999,
+		["Bolsa de Tejido Mágico Roja"] = 30000,
+		["Grilletes de Hierro de Lanzamiento"] = 3965000,
 		["Cadena Fígaro de protección de la Naturaleza"] = 200000,
-		["Felpa de Brillavalva del mono"] = 1000959,
-		["Guanteletes Piedra de Sal del oso"] = 10000000,
+		["Agua de Manantial Refrescante"] = 14200,
+		["Barra de Korio"] = 1787400,
 		["Glifo de Devastar"] = 454900,
-		["Receta: Elixir de Defensa Sublime"] = 2497499,
-		["Activador de Explosivo Volátil"] = 86500,
+		["Almete Duradero"] = 2990000,
+		["Escarpes Piedra de Sal del oso"] = 100000000,
 		["Pechera de Belicista del lobo"] = 320000,
 		["Glifo de Pestilencia"] = 307929,
 		["Aceite de Fuego"] = 190150,
-		["Poción de Invulnerabilidad Limitada"] = 500150,
-		["Guantes de Celador"] = 2499999,
+		["Leotardos de Visir del invocador"] = 26660000,
+		["Escama de Múrloc Babosa"] = 2000,
 		["Cubrehombros de Fila del Mercado"] = 179000,
-		["Leotardos de Mur'crófago del hechicero"] = 488888,
+		["Anillo Grabado del jabalí"] = 1660000,
 		["Camisa Gris Común"] = 59900,
 		["Carabina del Precipicio de la bestia"] = 299999,
-		["Mira Solar"] = 80000,
-		["Guantes de Cuero de Montañero"] = 70700,
-		["Riendas del Destrero de la Muerte Carmesí"] = 419990000,
-		["Botas de Cruzado de agilidad"] = 2999999,
-		["Escudo de Pielférrea de la ballena"] = 40000000,
-		["Brazales Presavil del bandido"] = 1000000,
-		["Esquema: Caja de Herramientas de Titanio"] = 770000,
-		["Cinturón de Escamas Descarriadas"] = 40000000,
-		["Coselete de Brigandina del lobo"] = 1993634,
-		["Leotardos de Torio Encantado"] = 40000000,
-		["Esquema: Desfibriladores Goblin"] = 248000,
-		["Coraza Ocultabultos"] = 599999,
+		["Rinoceronte Suculento"] = 99500,
+		["Amito Real del búho"] = 1999999,
+		["Maestro de Primeros Auxilios: Doctor en Casa"] = 999999,
+		["Partecostillas del oso"] = 32000000,
+		["Toga de Sanguiespora de espíritu"] = 120000,
+		["Carne de Lobo Tierna"] = 1666,
+		["Ataduras de Anhelo"] = 34990000,
+		["Pantalones de Lego de cólera ígnea"] = 2525070,
+		["Espaldares Celestiales de la ballena"] = 5000000,
+		["Dragontina roja"] = 29700,
+		["Carne de Serpiente"] = 7200,
+		["Caparazón Haltorboll del Campeón"] = 500000,
 		["Circón Majestuoso Tormentoso"] = 2344849,
 		["Leotardos de Mur'crófago de intelecto"] = 60000,
-		["Ballesta Plegable del jabalí"] = 500000,
+		["Paño de las Sombras"] = 682500,
 		["Brillo del Otoño Rápido"] = 1667777,
-		["Mazo de Granito del hechicero"] = 600000,
-		["Fórmula: Aceite de Maná Menor"] = 9900,
-		["Naipe de la Luna Negra: Muerte"] = 35940000,
-		["Pergamino de Intelecto"] = 18800,
-		["Ojo de Zul Intemporal"] = 2259920,
+		["Trituradora Trol del anciano"] = 225000,
+		["Almádena Piedra de Espinas"] = 500000,
+		["Sombrero de Anciano de cólera ígnea"] = 4999999,
+		["Hoja de asesino"] = 90000000,
+		["Bomba de Saronita"] = 7000,
 		["Patrón: Cinturón de Seda Terránea"] = 260000,
 		["Glifo de Maleficio"] = 693900,
 		["Carolina"] = 49600,
-		["Cola de Truenagarto"] = 9108,
-		["Bola de Nieve Enorme"] = 499000,
-		["Sombrero Arcano"] = 9999999,
-		["Guardahombros Mascahuesos de intelecto"] = 3999999,
-		["Espada de Coleccionista de Huesos del tigre"] = 27500000,
-		["Coraza de Mazo de Guerra del anciano"] = 1970000,
-		["Varita Polar de aguante"] = 1200000,
-		["Fragmento Radiante Pequeño"] = 9800,
-		["Faja Brigada del jabalí"] = 2527416,
+		["Balas de Hierro Vil"] = 750,
+		["Barra de Estaño"] = 298,
+		["Espaldares de Caballero de Sangre del jabalí"] = 2300000,
+		["Mazo con Cabeza de Piedra del oso"] = 400000,
+		["Vela de Elune"] = 5899999,
+		["Diseño: Estoque de Adamantita"] = 399900,
+		["Cinturón de Paño Rúnico"] = 39800,
+		["Aro de consejero mayor del falcón"] = 40000000,
+		["Contacto de Plata"] = 1420,
 		["Guantes Fulgurantes de espíritu"] = 6999999,
-		["Ornato Astralaan del invocador"] = 2980000,
+		["Manual de Instrucciones de Trituradora: Página 9"] = 999000,
 		["Guanteletes de jade de la ballena"] = 40000000,
 		["Casco de Inmersión"] = 9850000,
-		["Daga Keris Sinuosa del soldado"] = 2275029,
-		["Cincha de Seda Aguanieve"] = 299000,
-		["Barra de Mitril"] = 127500,
-		["Cuero Boreal Pesado"] = 300000,
+		["Pistola Empobrecida del Campeón"] = 100000,
+		["Glifo de Vigilancia"] = 474792,
+		["Hilo de Hechizo Rúnico"] = 20000000,
+		["Celada de Cóndor del hechicero"] = 355456,
 		["Guantes de Exploración del mono"] = 15686558,
-		["Batería de korio"] = 6619999,
+		["Pantalones de Gran Vudú"] = 100000,
 		["Trucha de Branquias Barbadas"] = 1540,
-		["Garras de Espíritu Élficas"] = 40000000,
-		["Dos de Nobles"] = 9400000,
+		["Diseño: Almófar de Escamas Doradas"] = 2450000,
+		["Cinturón Delicado de cólera ígnea"] = 2914989,
 		["Carne de Araña Crujiente"] = 60,
 		["Glifo de Espíritu Redentor"] = 294900,
-		["Rubí Cárdeno Llamativo"] = 3419999,
-		["Esmeralda Enorme"] = 920000,
+		["Pigmento índigo"] = 25000,
+		["Piedra de Pulir Densa"] = 11000,
 		["Diamante de Asedio de Tierra Flamante"] = 2289999,
-		["Dos de Demonios"] = 100000,
+		["Guantes de Paño Rúnico"] = 30000,
 		["Pechera de Wendigo del hierofante"] = 800000,
-		["Guantes del Oráculo del médico"] = 2502999,
+		["Brazales de Pielférrea del falcón"] = 1500000,
 		["Yelmo de Jarrathol"] = 10000000,
-		["Calabaza Iluminada Pesada"] = 699000,
-		["Guantes de Wendigo del mono"] = 500000,
+		["Guanteletes magistrales del águila"] = 15500000,
+		["Botines de Cuero Abisal del invocador"] = 9980000,
 		["Receta: Frasco de Sabiduría Destilada"] = 25000000,
-		["Amito Tejeocaso de intelecto"] = 1499999,
-		["Glifo de Carrerilla"] = 574499,
+		["Dragontina desgastada"] = 730,
+		["Guantes de Bandido de defensa"] = 3180949,
 		["Botas Forradas de Pellejo de Talbuk de fuerza"] = 500000,
-		["Botas Rectas de espíritu"] = 2499999,
+		["Hoja con Punta de Hielo"] = 50000,
 		["Bolsa de Tejido de Escarcha"] = 1099999,
-		["Espaldares de Campeón del jabalí"] = 4999999,
+		["Guantes de Cabalista de cólera Arcana"] = 109999,
 		["Carne de Rinoceronte"] = 5000,
-		["Diamante de llama celeste caótico"] = 1157499,
+		["Costillas de Jabalí"] = 125000,
 		["Leotardos de Tejido del Alba"] = 255500,
-		["Pergamino de Encantar guantes: Precisión"] = 950000,
+		["Runa de Amparo Inferior"] = 450000,
 		["Espaldares Pretorianos del lobo"] = 1999999,
 		["Cinturón de Devoto"] = 2400000,
-		["Cubrehombros de Mazo de Guerra del tigre"] = 45000000,
-		["Guantes de Paño de Hiedra del mono"] = 950000,
-		["Las Verdes Colinas de Tuercespina: Página 14"] = 139000,
-		["Brazales Frioescollo de la ballena"] = 85500,
-		["Guanteletes de Eviscerador"] = 7879900,
-		["Guanteletes de Señor Supremo del oso"] = 29000000,
-		["Manto de Golpe de Tigre"] = 40000000,
+		["Peto de Ajustador"] = 70000000,
+		["Corona Runavold del médico"] = 500000,
+		["Diseño: Gran Maza de Adamantita"] = 399900,
+		["Corazón de fiera"] = 38900,
+		["Diamante de Llama Celeste de Ascuas"] = 2497299,
+		["Patrón: sobrehombros de cuero oscuro"] = 19800,
+		["Rubí Estrella"] = 340000,
 		["Grebas de Ajustador"] = 50000000,
 		["Patrón: Guantes de Escórpido Resistentes"] = 1810,
-		["Garfas Indómitas del búho"] = 250000,
-		["Carne de Lobo Rojo"] = 324,
-		["Espaldares de Comandante del gorila"] = 5000000,
-		["Diamante de Llama Celeste Incansable"] = 750000,
-		["Extractor de Motas de Zapacelerador"] = 7000000,
-		["Ojo de Zul Deslumbrante"] = 1005869,
-		["Glifo de Seccionar"] = 583984,
-		["Juego de Inyección de Sanación"] = 199999,
-		["Guantes del Alba"] = 15000000,
-		["Tratado sobre Protección"] = 499000,
-		["Patrón: Sobrehombros de Reflejos de Relámpago"] = 20000000,
-		["Escudo de Pielférrea del búho"] = 40000000,
+		["Icor de No-muerto"] = 950,
+		["Glifo de Crecimiento Salvaje"] = 340500,
+		["Yelmo de Acero de Titanes Luminoso"] = 22499997,
+		["Cubrehombros de Puño de Roca de agilidad"] = 40000000,
+		["Pergamino de Encantar capa: agilidad menor"] = 150000,
+		["Jade Oscuro Deslumbrante"] = 44600,
+		["Cuero Basto"] = 43999,
+		["Patrón: Brazales de Escórpido Gruesos"] = 989000,
+		["Escarpes Sangremar del jabalí"] = 188003,
+		["Peto de Aparecido del oso"] = 4500000,
+		["Cuchilla de Verdugo"] = 6000000,
+		["Pechera Escarlata"] = 40000000,
 		["Anillo Grabado de protección de Escarcha"] = 600000,
-		["Glifo de Aluvión de Acero"] = 1249899,
-		["Sobrehombros Esqueléticas"] = 1005000,
-		["Collar de culebras entrelazadas de la bestia"] = 1590000,
-		["Flujo Débil"] = 6900,
-		["Capa Eterna de espíritu"] = 25550000,
-		["Ojo de Basilisco Escama Húmeda"] = 9900,
+		["Cohete de fuegos artificiales rojo"] = 48555,
+		["Aceite de Pescado"] = 66,
+		["Daga de Combustión del anciano"] = 600000,
+		["Coraza de Gólem del médico"] = 1500000,
+		["Glifo de Divinidad"] = 39800,
+		["Prole de ravasaurio"] = 9950000,
 		["Escudo Hiperión del tigre"] = 8000000,
-		["Dos de Elementales"] = 500000,
-		["Leotardos de Placas Góticas del oso"] = 5120494,
-		["Brazales de Muradin del bandido"] = 158800,
-		["Las Verdes Colinas de Tuercespina: Página 20"] = 79000,
+		["Estabilizador de Acero Vil"] = 2200000,
+		["Mineral de Abisalita"] = 16500,
+		["Manteo Vinculado a la Tierra"] = 557833,
+		["Rodela de Guardián"] = 120000,
 		["Mando de máquina voladora"] = 3330300,
-		["Colavil con Manchas"] = 4900,
+		["Patrón: Sombrero de Almirante"] = 2000000,
 		["Glifo de Incinerar"] = 240100,
 		["Grebas Hiperión de defensa"] = 5000000,
-		["Jubón de Oficial"] = 120000,
+		["Pergamino de Encantar brazales: asalto superior"] = 2854999,
 		["Gran Festín"] = 39800,
 		["Mena de Torio"] = 99000,
-		["Cubrehombros de jade del águila"] = 40000000,
-		["Partecostillas de fuerza"] = 40000000,
+		["Espesartita de Llamas"] = 38220,
+		["Puños de Concejal de sanación"] = 25000000,
 		["Ocho de Locuras"] = 89500,
-		["Pechera de arconte"] = 8000000,
-		["Guerrera de ojo de halcón"] = 19999999,
+		["Glifo de Descarga de Escarcha"] = 204699,
+		["Mota de Sombra"] = 419,
 		["Brazales de Errante del mono"] = 150000,
 		["Glifo de Golpe Letal"] = 299899,
 		["Guantes Nocturnos de la ballena"] = 2550000,
-		["Botas Incomparables del falcón"] = 3364231,
-		["Pergamino de Encantar pechera: restaurar maná de primera"] = 5770000,
+		["Ron Rumsey Dorado"] = 80000,
+		["Fórmula: Encantar Capa: Resistencia Superior"] = 4700,
 		["Esquema: Carga de Seforio Potente"] = 457988,
 		["Sacatripas"] = 408000,
-		["Pergamino de Encantar guantes: equitación"] = 1990000,
-		["Códice: Rezo de Protección contra las Sombras"] = 19800,
-		["Pergamino de Encantar arma: poder con hechizos poderoso"] = 11959899,
-		["Pergamino de Encantar brazales: intelecto sublime"] = 4440000,
+		["Toga Tejeocaso de espíritu"] = 999984,
+		["Cimitarra Fina"] = 199999999,
+		["Fórmula: Aceite de Zahorí Inferior"] = 19600,
+		["Pergamino de Encantar brazales: intelecto sublime"] = 400000,
 		["Camisote Forjado Demoníaco del soldado"] = 13780000,
-		["Lágrima de Sirena"] = 50000,
+		["Hombreras de Cadáver Tieso"] = 4480000,
 		["Sobrehombros Durable del lobo"] = 1132201,
-		["Cubremuñecas de Tejido del Alba Negro"] = 1532500,
-		["Toga de La Orden Carmesí"] = 550000,
-		["Polvo Onírico"] = 496,
+		["Pergamino de Encantar botas: asalto superior"] = 1707499,
+		["Guanteletes Gloriosos del gorila"] = 25000000,
+		["Receta: Chuleta de Talbuk"] = 197500,
 		["Cinturón de Pigmeo del tigre"] = 1500000,
-		["Tratado sobre Voracidad"] = 9000,
+		["Receta: Atún Blanco Arco Iris"] = 75400,
 		["Manual de Instrucciones de Trituradora: Página 8"] = 999000,
 		["Coraza magistral del mono"] = 18000000,
-		["Coraza Aterrallamas"] = 17500000,
-		["Receta: Cola de Lagarto Crujiente"] = 199899,
-		["Receta: Estofado Crestagrana"] = 498999,
-		["Grebas Hiperión del oso"] = 40000000,
-		["Receta: Pastel de Hígado de Dentosangre"] = 553999,
+		["Bastón Medicinal del oso"] = 4500000,
+		["Flecha de Hoja de Hielo"] = 149,
+		["Prole obsidiana"] = 999900,
+		["Cinco de Nobles"] = 8889999,
+		["Receta: Estofado de la Selva"] = 15500,
 		["Salmón Escama de Sol Crudo"] = 449,
 		["Patrón: pantalones de paño cenizo"] = 9990000,
 		["Palo de Supervivencia del jabalí"] = 260000,
-		["Ballesta de Cabeza de Carnero del bandido"] = 1999999,
+		["Capa de Saqueador del oso"] = 3980000,
 		["Ballesta Atraviesa Calaveras"] = 600000,
-		["Receta: Siluro Mostacherizo"] = 199900,
-		["Avambrazos de Placas Imbuidos"] = 999999,
+		["Guanteletes Impenetrables del águila"] = 1888888,
+		["Pergamino de Encantar pechera: temple sublime"] = 4213938,
 		["Collar Extraviado del soldado"] = 499999999,
 		["Varita Polar de la ballena"] = 320000,
 		["Mosquete de Cañón del bandido"] = 500000,
 		["Escama Descarriada"] = 10000,
-		["Seda de las Sombras"] = 2000,
-		["Ornato Glorioso del águila"] = 8888888,
-		["Pergamino de Encantar guantes: Detonación"] = 2984999,
-		["Talador Astillado del soldado"] = 2500000,
-		["Sombra Cristalizada"] = 38025,
+		["Espaldares Frioescollo del lobo"] = 200000,
+		["Partículas Arcanas"] = 9498,
+		["Pergamino de Encantar guantes: Detonación"] = 999999,
+		["Diseño: Martillo de Sulfuron"] = 94999999,
+		["Glifo de Maestría en Agua"] = 264900,
 		["Ámbar del Rey Luminoso"] = 3505000,
 		["Tubo de Escape de Placas de Elementium"] = 20000000,
 		["Pergamino de Encantar capa: sigilo"] = 16828400,
 		["Leotardos de Forestal de la ballena"] = 40000000,
-		["Glifo de Exponer Armadura"] = 397699,
+		["Leotardos Grabados del mono"] = 8500886,
 		["Flor Exánime"] = 533000,
-		["Venda de Lana"] = 48,
+		["Vial corrupto"] = 2900,
 		["Capa de Montañero"] = 14000,
 		["Sangre de Escórpido Resplandeciente"] = 4500,
 		["Pellejo Pesado Curtido"] = 274800,
-		["Anillo de guardia de tierra de titanio"] = 17619999,
-		["Cubrehombros de Mazo de Guerra de la ballena"] = 5500000,
-		["Pellejo de Raptor"] = 219,
-		["Draenita dorada reluciente"] = 499000,
-		["Cría de tiburón"] = 900000000,
+		["Bufas Rectas del búho"] = 1590844,
+		["Elixir de Respiración Acuática Superior"] = 29600,
+		["Glifo de Abisario"] = 199500,
+		["Mamut de la Semana Pasada"] = 125000,
+		["Pergamino de Encantar escudo: esquivar"] = 700000,
 		["Ataduras de Tejeoscura"] = 800000,
 		["Glifo de Lava"] = 499289,
 		["Bocanegra Graso"] = 238000,
-		["Receta: Elixir de Poder de Escarcha Sublime"] = 509998,
-		["Garra Robustecida"] = 7425,
+		["Faja Hiperión del tigre"] = 9800000,
+		["Piedra Mercúrica"] = 2807500,
 		["Lentes de enfoque de jade oscuro"] = 40000,
 		["Brazales Maléficos"] = 450000,
 		["Ensamblaje Robótico XP-001"] = 900000000,
-		["Yeti mecánico tranquilo"] = 8835600,
-		["Coraza de Adamantita"] = 5000000,
-		["Agua Eterna"] = 149800,
-		["Petardo Festivo"] = 20000,
-		["Pergamino de Encantar arma: golpear"] = 6660000,
+		["Pergamino de Encantar arma: golpear superior"] = 5000000,
+		["Sobrehombros de Alma de Sangre"] = 15500000,
+		["Espetadora de Piedra Mácula del oso"] = 989900,
+		["Receta: elixir de agilidad menor"] = 4400,
+		["Maza Fulgente del jabalí"] = 3999999,
 		["Bolsa \"gigantesca\""] = 10490000,
 		["Brazales de Escamas Doradas"] = 15000,
 		["Manoplas del Maestro de Filos"] = 7990000,
-		["Brazales Ulduar del médico"] = 219000,
-		["Corona Canto de Cristal del invocador"] = 2220000,
-		["Pergamino de Encantar arma 2M: intelecto sublime"] = 12225000,
-		["Espaldares de Ajustador"] = 2999999,
-		["Prole de dracohalcón dorado"] = 286391,
+		["Pergamino de Encantar botas: agilidad superior"] = 450000,
+		["Anillo de Ascua Encendida"] = 15550000,
+		["Pergamino de Encantar pechera: amortiguación inferior"] = 450000,
+		["Pólvora Burda"] = 1999,
+		["Armadura Hiperión del oso"] = 6507234,
 		["Polvo Infinito"] = 48600,
-		["Residuo de Hierro Negro"] = 100,
-		["Diseño: Vara de Adamantita"] = 800000,
-		["Pergamino de Encantar brazales: espíritu excelente"] = 4440000,
-		["Pergamino de Encantar brazales: restaurar maná de primera"] = 8889999,
-		["Glifo de Levitar"] = 316000,
-		["Gargantilla Carmesí de la Reina de Sangre"] = 169990000,
-		["Pergamino de Encantar brazales: Asalto"] = 557999,
-		["Pergamino de Encantar arma: matanza de demonios"] = 3500000,
+		["Pergamino de Encantar botas: espíritu"] = 6660000,
+		["Guardabrazos Salvedar del gorila"] = 2150000,
+		["Ron Volátil"] = 49800,
+		["Tubo de Acero Gélido Reforzado"] = 589000,
+		["Sangrerregia"] = 15600,
+		["Guanteletes de Púas de Eslabones Oxidados"] = 300000000,
+		["Pergamino de Encantar arma: robo de vida"] = 7777500,
+		["Leotardos Tejidos con Escarcha"] = 125500,
 		["Botas Tejidas con Escarcha"] = 90000,
-		["Tinta del Mar"] = 184500,
-		["Pergamino de Encantar arma: golpear sublime"] = 14440000,
-		["Semilla de Fuego"] = 27000,
-		["Pergamino de Encantar arma: mataelementales inferior"] = 699900,
+		["Pergamino de Encantar escudo: aguante inferior"] = 4440000,
+		["Sello de Aguamarina de fuerza"] = 180000,
+		["Hierba Vil"] = 12100,
+		["Pergamino de Encantar escudo: temple"] = 800000,
 		["Diseño: Hoja Tigre de Escarcha"] = 662800,
-		["Guerrera Celestial del búho"] = 20000000,
+		["Siluro de 10 kilos"] = 211086,
 		["Diente Viejo del anciano"] = 149900,
-		["Pergamino de Encantar botas: aguante"] = 4449000,
-		["Hebilla eterna"] = 1350000,
+		["Pergamino de Encantar brazales: Desvío"] = 5559000,
+		["Pergamino de Encantar guantes: herboristería avanzada"] = 6660000,
 		["Cristal de Sol Liso Perfecto"] = 549000,
-		["Pergamino de Encantar arma: maestro de batalla"] = 20020100,
-		["Pergamino de Encantar pechera: maná excelente"] = 6630000,
-		["Armadura para Pierna de Jormungar"] = 3151999,
+		["Sortija de Técnica de Maestro de Milan"] = 1249999,
+		["Pergamino de Encantar arma: drenador de sangre"] = 20559999,
+		["Cuchilla de Abominación del Sol"] = 1220000,
 		["Libro: Don de lo Salvaje"] = 247000,
-		["Manto de Sabio del búho"] = 1750000,
+		["Pergamino de Encantar brazales: intelecto"] = 4440000,
 		["Machacabatallas del tigre"] = 1000000,
-		["Pergamino de Encantar arma: Destripadora de bestias menor"] = 5550000,
+		["Armadura Caminasueños"] = 850000,
 		["Pastelito Sabroso"] = 6900,
-		["Cristal de Sol Luminoso "] = 40000,
-		["Alforjas de Corcel Vil"] = 12200,
-		["Pergamino de Encantar arma: espíritu poderoso"] = 8778888,
-		["Pergamino de Encantar guantes: Poder de Fuego"] = 14804900,
+		["Pergamino de Encantar arma: intelecto poderoso"] = 8400000,
+		["Bolsa de Lino"] = 20000,
+		["Diamante de Llama Celeste Incansable "] = 330000,
+		["Pergamino de Encantar capa: Perforar con hechizos "] = 958000,
 		["Patrón: Pantalones de Tela Vil"] = 99250,
-		["Pergamino de Encantar guantes: agilidad sublime "] = 1232757,
-		["Boceto: Búho de Esmeralda"] = 400000,
-		["Favor de Muradin"] = 83509999,
-		["Faja Piedra de Sal del oso"] = 18888888,
-		["Boceto: piedra del alba lisa"] = 2900000,
+		["Pergamino de Encantar botas: entereza superior "] = 943941,
+		["Pergamino de Encantar escudo: esquivar "] = 1279983,
+		["Boceto: estrella de Elune sólida"] = 1402184,
+		["Patrón: Madeja de Tejido Abisal Imbuido"] = 999000,
+		["Pergamino de Encantar arma 2M: Salvajismo superior"] = 1192499,
 		["Almete de Meditación"] = 2220000,
 		["Cuchilla Krol"] = 120000000,
-		["Varita Opaca"] = 350000,
-		["Pergamino de Encantar capa: sutileza"] = 7844700,
+		["Fragmentos de plantas sin identificar"] = 5946,
+		["Boceto: Colgante de Jade de Detonación"] = 108500,
 	},
 	["Lordaeron_Horde"] = {
 	},
@@ -6066,6 +6072,8 @@ AUCTIONATOR_PRICE_DATABASE = {
 	},
 }
 AUCTIONATOR_MEAN_PRICE_DATABASE = {
+	["Icecrown_Alliance"] = {
+	},
 	["Frostmourne_Horde"] = {
 	},
 	["Frostmourne_Alliance"] = {
@@ -14057,11 +14065,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Bolsa de Tejido Abisal"] = {
 			236969, -- [1]
 		},
-		["Pergamino de Encantar arma: potencia excelente"] = {
-			7733300, -- [1]
+		["Tablilla Antigua"] = {
+			300000, -- [1]
 		},
-		["Varita Opaca"] = {
-			350000, -- [1]
+		["Fragmentos de plantas sin identificar"] = {
+			5946, -- [1]
 		},
 		["Coraza de dragontina de cruzado"] = {
 			55000000, -- [1]
@@ -14081,8 +14089,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Coraza de Pielférrea del falcón"] = {
 			3100000, -- [1]
 		},
-		["Cubremuñecas de Tejido del Alba"] = {
-			300000, -- [1]
+		["Piedra Cristalizada"] = {
+			13000, -- [1]
 		},
 		["Guerrera de Pigmeo del bandido"] = {
 			1500000, -- [1]
@@ -14090,17 +14098,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Manto de Sanguiespora de poder con hechizos"] = {
 			500000, -- [1]
 		},
-		["Faja Piedra de Sal del oso"] = {
-			18888888, -- [1]
+		["Patrón: Madeja de Tejido Abisal Imbuido"] = {
+			999000, -- [1]
 		},
 		["Pergamino de Encantar capa: armadura de las Sombras"] = {
 			2435000, -- [1]
 		},
-		["Sortija de Técnica de Maestro de Milan"] = {
-			1249999, -- [1]
+		["Garra Robustecida"] = {
+			7425, -- [1]
 		},
-		["Armadura para Pierna de Jormungar"] = {
-			3151999, -- [1]
+		["Maza de Guerra Gélida de fuerza"] = {
+			546351, -- [1]
 		},
 		["Hombreras de Mur'crófago del hechicero"] = {
 			140000, -- [1]
@@ -14108,8 +14116,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Queso de Cabra Ácido"] = {
 			1450, -- [1]
 		},
-		["Sortija Impactante de Titanio"] = {
-			20662000, -- [1]
+		["Fragmentos de Floración"] = {
+			3900, -- [1]
 		},
 		["Fragmento de Piedra Centelleante"] = {
 			270000, -- [1]
@@ -14117,20 +14125,19 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Espada Golpecabeza del tigre"] = {
 			2220000, -- [1]
 		},
-		["Leotardos Tejidos con Escarcha"] = {
-			125500, -- [1]
+		["Estatua de Ballena"] = {
+			4000000, -- [1]
 		},
 		["Espada Bastarda Corta del lobo"] = {
 			413701, -- [1]
 		},
-		["Códice: Rezo de Entereza"] = {
-			29900, -- [1]
+		["Criminosa"] = {
+			199500, -- [1]
 		},
 		["Baluarte del Benefactor"] = {
 			1888888, -- [1]
 		},
-		["Armadura del Vengador"] = {
-			40000000, -- [1]
+		["Colmillo de Jabalí Rajado"] = {
 		},
 		["Prole saltarina"] = {
 			499000, -- [1]
@@ -14150,20 +14157,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Coraza ornamentada de agilidad"] = {
 			9500000, -- [1]
 		},
-		["Caperuza de Wendigo del tigre"] = {
-			11500000, -- [1]
+		["Glifo de Inmolar"] = {
+			335782, -- [1]
 		},
 		["Gran Maza de Roca"] = {
 			90000, -- [1]
 		},
-		["Hacha de doble filo del bandido"] = {
-			2550000, -- [1]
+		["Almófar Superpuesto"] = {
+			46800, -- [1]
 		},
 		["Cinturón de la Ordenación"] = {
 			139900, -- [1]
 		},
-		["Botas de Placas Forradas de Hielo"] = {
-			20000, -- [1]
+		["Sombrero de Tela Gastada"] = {
+			500000, -- [1]
 		},
 		["Armadura de Cuero Fortalecido"] = {
 			709999, -- [1]
@@ -14171,17 +14178,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Sobrehombros Incomparables del mono"] = {
 			510000, -- [1]
 		},
-		["Diseño: Coraza Forjada con Sol"] = {
-			8870000, -- [1]
+		["Maza Aplastahielo"] = {
+			200000, -- [1]
 		},
 		["Botas Elegantes del búho"] = {
 			2556828, -- [1]
 		},
-		["Capa de Gamuza de protección de la Naturaleza"] = {
-			74500, -- [1]
+		["Hoja con Punta de Hielo"] = {
+			50000, -- [1]
 		},
-		["Vitriolo Negro"] = {
-			8500, -- [1]
+		["Yeti mecánico tranquilo"] = {
+			3550000, -- [1]
 		},
 		["Manto Clamalluvias de cólera gélida"] = {
 			3999999, -- [1]
@@ -14189,11 +14196,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Yelmo de El Guardián del Juramento"] = {
 			99999999, -- [1]
 		},
-		["Espaldares Frioescollo del lobo"] = {
-			200000, -- [1]
+		["Glifo de Eviscerar"] = {
+			274999, -- [1]
 		},
-		["Videpluma Salvaje"] = {
-			1500, -- [1]
+		["Vitela de Arma III"] = {
+			348000, -- [1]
 		},
 		["Vida Cristalizada"] = {
 			49800, -- [1]
@@ -14204,20 +14211,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Sortija Viridiana del búho"] = {
 			1950000, -- [1]
 		},
-		["Botines de Cuero Abisal del invocador"] = {
-			9980000, -- [1]
+		["Fuegos artificiales con destellos rojos"] = {
+			38036, -- [1]
 		},
 		["Varita Polar del invocador"] = {
 			240840, -- [1]
 		},
-		["Vestido Elegante"] = {
-			999999, -- [1]
+		["Vid Pesadilla"] = {
+			139500, -- [1]
 		},
-		["Chaleco de Glotón de fuerza"] = {
-			1900000, -- [1]
+		["Vial destrozado"] = {
+			24799, -- [1]
 		},
-		["Vermizo Fulgurante"] = {
-			8990000, -- [1]
+		["Ametrino Diestro"] = {
+			3000000, -- [1]
 		},
 		["Ídolo de Muerte"] = {
 			8500150, -- [1]
@@ -14225,8 +14232,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guantes de La Guardia Oeste del búho"] = {
 			250000, -- [1]
 		},
-		["Cubrehombros de Mazo de Guerra del Campeón"] = {
-			39990000, -- [1]
+		["Vial corrupto"] = {
+			2900, -- [1]
 		},
 		["Guerrera del Consejo de la Sombra de intelecto"] = {
 			4450000, -- [1]
@@ -14237,8 +14244,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Sobrevesta de Celador"] = {
 			40000000, -- [1]
 		},
-		["Fajín del Consorcio del médico"] = {
-			3700732, -- [1]
+		["Venda de Seda"] = {
+			8800, -- [1]
 		},
 		["Ídolo de La Guerra"] = {
 			4017500, -- [1]
@@ -14246,32 +14253,32 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cubrehombros de Kraken de poder"] = {
 			458505, -- [1]
 		},
-		["Manoplas Despiertas"] = {
-			199999, -- [1]
+		["Venda de Lino Gruesa"] = {
+			500, -- [1]
 		},
-		["Trozo de Basilisco"] = {
-			9400, -- [1]
+		["Venda de Lana"] = {
+			48, -- [1]
 		},
-		["Glifo de Levitar"] = {
-			316000, -- [1]
+		["Sangrerregia"] = {
+			15600, -- [1]
 		},
-		["Tres de Demonios"] = {
-			250000, -- [1]
+		["Vástago azur"] = {
+			26990000, -- [1]
 		},
 		["Ametrino Durable"] = {
 			2870000, -- [1]
 		},
-		["Trasto de Torio"] = {
-			9900, -- [1]
+		["Vara de Plata"] = {
+			996600, -- [1]
 		},
-		["Piedra Mercúrica"] = {
-			2807500, -- [1]
+		["Toga del Magi"] = {
+			40000000, -- [1]
 		},
 		["Brazales de Mutilación Gigante"] = {
 			9970000, -- [1]
 		},
-		["Guantes de Acerira"] = {
-			40000000, -- [1]
+		["Espada de Zelote"] = {
+			2000000, -- [1]
 		},
 		["Tubo de Acero Gélido Reforzado"] = {
 			589000, -- [1]
@@ -14282,8 +14289,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Embozo Sagrado"] = {
 			509000, -- [1]
 		},
-		["Elixir de Defensa Excelente"] = {
-			91668, -- [1]
+		["Brazales de Pielférrea del falcón"] = {
+			1500000, -- [1]
 		},
 		["Quijotes Fauceparda del médico"] = {
 			500000, -- [1]
@@ -14297,20 +14304,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Musleras de Dorsacerado del bandido"] = {
 			4990000, -- [1]
 		},
-		["Tierra de Un'Goro"] = {
-			10800, -- [1]
+		["Trozo Inferior de Mapa"] = {
+			13300, -- [1]
 		},
-		["Quijotes magistrales del falcón"] = {
-			18000000, -- [1]
+		["Trozo de Mamut"] = {
+			5000, -- [1]
 		},
-		["Ballesta de Cabeza de Carnero del bandido"] = {
-			1999999, -- [1]
+		["Trozo de Carne de Jabalí"] = {
+			13400, -- [1]
 		},
 		["Esquema: Reflector de Hielo Girohielo"] = {
 			1899969, -- [1]
 		},
-		["Sombrero de Aventurero Maltrecho"] = {
-			699000, -- [1]
+		["Sombra Cristalizada"] = {
+			38025, -- [1]
 		},
 		["Botas de Expedición de intelecto"] = {
 			40000000, -- [1]
@@ -14324,8 +14331,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Caja de Ayudante Verde"] = {
 			250000, -- [1]
 		},
-		["Semilla de Azahar"] = {
-			8000, -- [1]
+		["Tinte Naranja"] = {
+			30000, -- [1]
 		},
 		["Estofado del Norte"] = {
 			18300, -- [1]
@@ -14338,8 +14345,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pergamino de Encantar capa: defensa"] = {
 			168709, -- [1]
 		},
-		["Sello Furia del Sol"] = {
-			895, -- [1]
+		["Tinte Amarillo"] = {
+			19499, -- [1]
 		},
 		["Leotardos Scorpashi"] = {
 			29980000, -- [1]
@@ -14350,17 +14357,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Anochecedor"] = {
 			3999999, -- [1]
 		},
-		["Sello Ala de Fuego"] = {
-			80000, -- [1]
+		["Tinta del Mar"] = {
+			184500, -- [1]
 		},
 		["Sobrehombros de Tormentero"] = {
 			9939900, -- [1]
 		},
-		["Sobrehombros de Alma de Sangre"] = {
-			15500000, -- [1]
+		["Coraza de Adamantita"] = {
+			5000000, -- [1]
 		},
-		["Faja Hiperión del tigre"] = {
-			9800000, -- [1]
+		["Tinta de Medianoche"] = {
+			249000, -- [1]
 		},
 		["Vestimenta Elemental"] = {
 			40000000, -- [1]
@@ -14368,8 +14375,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Yelmo de Brigandina del falcón"] = {
 			320000, -- [1]
 		},
-		["Guanteletes de Kraken del jabalí"] = {
-			906000, -- [1]
+		["Tres de Nobles"] = {
+			10000000, -- [1]
 		},
 		["Toga del Consorcio de protección de la Naturaleza"] = {
 			24500000, -- [1]
@@ -14386,14 +14393,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Espaldares de Altonato"] = {
 			9999999, -- [1]
 		},
-		["Cristales Vetustos"] = {
-			4900, -- [1]
+		["Gafas de Nieve Mecanizadas del invocador"] = {
+			1500000, -- [1]
 		},
 		["Rascador Curvo del Campeón"] = {
 			490000, -- [1]
 		},
-		["Gafas de Nieve Mecanizadas del invocador"] = {
-			1500000, -- [1]
+		["Cristales Vetustos"] = {
+			4900, -- [1]
 		},
 		["Esquema: Carga de Seforio Pequeña"] = {
 			80000, -- [1]
@@ -14401,11 +14408,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Salero"] = {
 			18174, -- [1]
 		},
-		["Runa de Teletransporte"] = {
-			6899, -- [1]
+		["Texto Crepuscular Codificado"] = {
+			970000, -- [1]
 		},
-		["Pulseras Canto de Cristal del búho"] = {
-			309799, -- [1]
+		["Tela de Tejido de Escarcha"] = {
+			10000, -- [1]
 		},
 		["Escarpines Lindeallá de protección de la Naturaleza"] = {
 			100000, -- [1]
@@ -14425,11 +14432,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Dos de Caos"] = {
 			3220000, -- [1]
 		},
-		["Patrón: Pantalones Fénix"] = {
-			118000, -- [1]
+		["Siluro de 16 kilos"] = {
+			13333, -- [1]
 		},
-		["Draenita dorada reluciente"] = {
-			499000, -- [1]
+		["Mamut de la Semana Pasada"] = {
+			125000, -- [1]
 		},
 		["Citrino Enorme Diestro"] = {
 			50000, -- [1]
@@ -14440,17 +14447,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["El Guardián del Juramento"] = {
 			4010000, -- [1]
 		},
-		["Robot de Reparación de Campo 110G"] = {
-			1531000, -- [1]
+		["Setelo"] = {
+			100000, -- [1]
 		},
-		["Cubrehombros de Mazo de Guerra de la ballena"] = {
-			5500000, -- [1]
+		["Elixir de Respiración Acuática Superior"] = {
+			29600, -- [1]
 		},
 		["Garfas Indómitas del búho"] = {
 			250000, -- [1]
 		},
-		["Anillo de guardia de tierra de titanio"] = {
-			17619999, -- [1]
+		["Bufas Rectas del búho"] = {
+			1590844, -- [1]
 		},
 		["Guantes de Cuero de Bosque"] = {
 			33331500, -- [1]
@@ -14464,14 +14471,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guantes de Visir del búho"] = {
 			1900000, -- [1]
 		},
-		["Receta: Transmutar Hierro a Oro"] = {
-			27800, -- [1]
+		["Seda de las Sombras"] = {
+			2000, -- [1]
 		},
 		["Ornato Glorioso del águila"] = {
 			8888888, -- [1]
 		},
-		["Receta: tortilla gigante"] = {
-			59988, -- [1]
+		["Sapo mecánico casi vivo"] = {
+			1770000, -- [1]
 		},
 		["Glifo de Danza de las Sombras"] = {
 			469793, -- [1]
@@ -14491,8 +14498,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Collar de Adamantita Grueso"] = {
 			350000, -- [1]
 		},
-		["Mineral de Abisalita"] = {
-			16500, -- [1]
+		["Musleras de Eviscerador"] = {
+			8479900, -- [1]
 		},
 		["Seis de Locuras"] = {
 			38699, -- [1]
@@ -14512,8 +14519,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glándula de Veneno Grande"] = {
 			2970, -- [1]
 		},
-		["Fórmula: encantar arma: profano"] = {
-			39000, -- [1]
+		["Ropa de Invierno Verde"] = {
+			2250000, -- [1]
 		},
 		["Pulmón de Jabalí Maldito"] = {
 			25500, -- [1]
@@ -14521,17 +14528,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Zuecos de Acero de Sombras"] = {
 			17500000, -- [1]
 		},
-		["Glifo de Enjambre de Insectos"] = {
-			369900, -- [1]
+		["Ron Volátil"] = {
+			49800, -- [1]
 		},
 		["Pergamino de Encantar guantes: Precisión"] = {
 			1482500, -- [1]
 		},
-		["Generador de Agujeros de Gusano: Rasganorte"] = {
-			2969999, -- [1]
+		["Ron Rumsey Dorado"] = {
+			80000, -- [1]
 		},
-		["Guantes Elegantes del falcón"] = {
-			2266556, -- [1]
+		["Roca de Diversión"] = {
+			5000, -- [1]
 		},
 		["Coraza Simbólica"] = {
 			60000000, -- [1]
@@ -14539,8 +14546,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Diamante de llama celeste caótico"] = {
 			1157499, -- [1]
 		},
-		["Esquema: Caja de Herramientas de Titanio"] = {
-			770000, -- [1]
+		["Cinturón Grandioso del búho"] = {
+			2994831, -- [1]
 		},
 		["Diseño: Martillo Rúnico de Mitril"] = {
 			1400000, -- [1]
@@ -14566,20 +14573,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Receta: Uñagrieta Asado"] = {
 			399999, -- [1]
 		},
-		["Avambrazos de Placas Imbuidos"] = {
-			999999, -- [1]
+		["Pergamino de Encantar pechera: temple sublime"] = {
+			9899799, -- [1]
 		},
 		["Espaldares Arácnidos del lobo"] = {
 			2230000, -- [1]
 		},
-		["Faja Heroica del gorila"] = {
-			40000000, -- [1]
+		["Hoja de asesino"] = {
+			90000000, -- [1]
 		},
 		["Receta: Transmutar Arcanita"] = {
 			783000, -- [1]
 		},
-		["Receta: Estofado de la Selva"] = {
-			15500, -- [1]
+		["Receta: Estofado de Crocolisco Pesado"] = {
+			85799, -- [1]
 		},
 		["Guanteletes de Cruzado de espíritu"] = {
 			1999999, -- [1]
@@ -14596,20 +14603,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Brazales Nafsavar del bandido"] = {
 			230000, -- [1]
 		},
-		["Receta: Elixir de Entereza"] = {
-			3366, -- [1]
+		["Receta: Salmón Escama de Sol Pochado"] = {
+			249999, -- [1]
 		},
-		["Receta: costillas de lobo picantes"] = {
+		["Glifo del Pingüino"] = {
 			150000, -- [1]
 		},
-		["Receta: Elixir de Camuflaje"] = {
-			315999, -- [1]
+		["Receta: Potaje de Crocolisco"] = {
+			493999, -- [1]
 		},
-		["Cinturón Celestial de intelecto"] = {
-			40000000, -- [1]
+		["Cinturón de Cuero Rúnico"] = {
+			348000, -- [1]
 		},
-		["Coraza Aterrallamas"] = {
-			17500000, -- [1]
+		["Bastón Medicinal del oso"] = {
+			4500000, -- [1]
 		},
 		["Maza Sacrosanta de intelecto"] = {
 			500000, -- [1]
@@ -14620,23 +14627,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Receta: poción de curación"] = {
 			209900, -- [1]
 		},
-		["Leotardos Mascahuesos del invocador"] = {
-			6999999, -- [1]
+		["Esporas Fértiles"] = {
+			9699, -- [1]
 		},
 		["Receta: Pinza de Cangrejo Cocida"] = {
 			89500, -- [1]
 		},
-		["Receta: Atún Blanco Arco Iris"] = {
-			75400, -- [1]
+		["Receta: Piedra Filosofal"] = {
+			666665, -- [1]
 		},
-		["Escudo de Pielférrea de la ballena"] = {
-			40000000, -- [1]
+		["Fórmula: Encantar Botas: Agilidad Menor"] = {
+			171000, -- [1]
 		},
 		["Pellejo Ligero Curtido"] = {
 			48900, -- [1]
 		},
-		["Raíz de Espina Salvaje"] = {
-			24799, -- [1]
+		["Quitina de Silítido"] = {
+			64213, -- [1]
 		},
 		["Receta: Pastel de Hígado de Dentosangre"] = {
 			553999, -- [1]
@@ -14653,8 +14660,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guantes de pelaje de murcipeste"] = {
 			449999, -- [1]
 		},
-		["Guanteletes Gloriosos del oso"] = {
-			8990000, -- [1]
+		["Las Verdes Colinas de Tuercespina: Página 27"] = {
+			778000, -- [1]
 		},
 		["Botas de Placas Estampadas del tigre"] = {
 			7285493, -- [1]
@@ -14671,23 +14678,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cardo de Sangre"] = {
 			7400, -- [1]
 		},
-		["Celada de Cóndor del hechicero"] = {
-			355456, -- [1]
+		["Receta: Estofado de Zancudo"] = {
+			198900, -- [1]
 		},
-		["Hombreras de Espadachín del águila"] = {
-			3876626, -- [1]
+		["Receta: Estofado de Ratas de Madriguera"] = {
+			52500000, -- [1]
 		},
 		["Brazales Pinocerda del invocador"] = {
 			250000, -- [1]
 		},
-		["Prole de dracohalcón roja"] = {
-			319999, -- [1]
+		["Receta: Estofado de los Páramos de Poniente"] = {
+			249000, -- [1]
 		},
 		["Fajín Runavold del profeta"] = {
 			300000, -- [1]
 		},
-		["Brazales Frioescollo de la ballena"] = {
-			85500, -- [1]
+		["Prole Razzashi"] = {
+			53000000, -- [1]
 		},
 		["Receta: Estofado Crestagrana"] = {
 			498999, -- [1]
@@ -14695,8 +14702,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Botas de Espadachín de la ballena"] = {
 			3114808, -- [1]
 		},
-		["Partecostillas del jabalí"] = {
-			23333333, -- [1]
+		["Circón Majestuoso"] = {
+			1839999, -- [1]
 		},
 		["Salviargenta de Montaña"] = {
 			29600, -- [1]
@@ -14710,8 +14717,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Leotardos Incomparables de resistencia a lo Arcano"] = {
 			2826711, -- [1]
 		},
-		["Espaldares Pretorianos del mono"] = {
-			40000000, -- [1]
+		["Receta: Elixir de Poder de Escarcha Sublime"] = {
+			509998, -- [1]
 		},
 		["Orbe de Embozo de Veneno"] = {
 			1250000, -- [1]
@@ -14725,11 +14732,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pistón de Mecánica Goblin"] = {
 			12500000, -- [1]
 		},
-		["Capucha de Tejido del Alba"] = {
-			250000, -- [1]
+		["Receta: Chuleta de Talbuk"] = {
+			197500, -- [1]
 		},
-		["Receta: Carne de Kodo Asada"] = {
-			350000, -- [1]
+		["Piedra Infernal"] = {
+			49999, -- [1]
 		},
 		["Hoja de hechicería"] = {
 			64000000, -- [1]
@@ -14737,11 +14744,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Arpón Paciente de la bestia"] = {
 			330000, -- [1]
 		},
-		["Pezqueñín Aletacristal"] = {
-			49999, -- [1]
+		["Leotardos de Piedra Mácula del anciano"] = {
+			299999, -- [1]
 		},
-		["Cubrehombros de jade del águila"] = {
-			40000000, -- [1]
+		["Espesartita de Llamas"] = {
+			14200, -- [1]
 		},
 		["Martillo con cabeza de veta del soldado"] = {
 			14500000, -- [1]
@@ -14764,8 +14771,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pezfango de Figluster"] = {
 			9300, -- [1]
 		},
-		["Aro de consejero mayor del falcón"] = {
-			40000000, -- [1]
+		["Machacachanguk"] = {
+			3885007, -- [1]
 		},
 		["Guanteletes Exaltados del mono"] = {
 			40000000, -- [1]
@@ -14788,8 +14795,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pergamino de Encantar arma 2M: Agilidad"] = {
 			6940000, -- [1]
 		},
-		["Prole Tajobuche"] = {
-			11695001, -- [1]
+		["Pergamino de Encantar pechera: salud excepcional"] = {
+			7451849, -- [1]
 		},
 		["Pergamino de Encantar pechera: salud excelente"] = {
 			404910, -- [1]
@@ -14797,14 +14804,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Quijotes de Tirano"] = {
 			46888888, -- [1]
 		},
-		["Manteo Vinculado a la Tierra"] = {
-			557833, -- [1]
+		["Prole obsidiana"] = {
+			1199900, -- [1]
 		},
 		["Diamante de Llama Estelar de Desamparo"] = {
 			400000, -- [1]
 		},
-		["Parche de espadachín del mono"] = {
-			13734098, -- [1]
+		["Brazales de Muradin del bandido"] = {
+			158800, -- [1]
 		},
 		["Guanteletes Gloriosos de la ballena"] = {
 			14999999, -- [1]
@@ -14812,11 +14819,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Escudo Imbuido"] = {
 			1499999, -- [1]
 		},
-		["Sombrero de Fatalidad Invernal"] = {
-			6015500, -- [1]
+		["Prole de ravasaurio"] = {
+			3010000, -- [1]
 		},
-		["Escarpes de Gólem del Campeón"] = {
-			11500000, -- [1]
+		["Pergamino de Encantar pechera: defensa superior"] = {
+			932499, -- [1]
 		},
 		["Glifo de Resguardo contra el Fuego"] = {
 			323000, -- [1]
@@ -14830,44 +14837,44 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pergamino de Encantar guantes: recolector"] = {
 			515799, -- [1]
 		},
-		["Pergamino de Encantar guantes: equitación"] = {
-			3330000, -- [1]
+		["Pólvora Elemental"] = {
+			11100, -- [1]
 		},
-		["Capa Eterna de espíritu"] = {
-			25550000, -- [1]
+		["Glifo de Divinidad"] = {
+			39800, -- [1]
 		},
-		["Dos de Elementales"] = {
-			500000, -- [1]
+		["Pólvora Burda"] = {
+			1999, -- [1]
 		},
-		["Polvo de Visión"] = {
-			10000, -- [1]
+		["Botas Rectas de espíritu"] = {
+			2499999, -- [1]
 		},
 		["El Portador de la Muerte"] = {
 			4000000, -- [1]
 		},
-		["Sobrehombros Esqueléticas"] = {
-			1005000, -- [1]
+		["Aceite de Pescado"] = {
+			66, -- [1]
 		},
-		["Glifo de Aluvión de Acero"] = {
-			1249899, -- [1]
+		["Cohete de fuegos artificiales rojo"] = {
+			48555, -- [1]
 		},
 		["Pergamino de Encantar guantes: agilidad superior"] = {
 			200000, -- [1]
 		},
-		["Pergamino de Encantar guantes: agilidad excelente"] = {
-			14647181, -- [1]
+		["Polvo de Cadáver"] = {
+			2900, -- [1]
 		},
-		["Cinturón de Paño Rúnico"] = {
-			39800, -- [1]
+		["Arenque Embrujado"] = {
+			599000, -- [1]
 		},
-		["Pergamino de Encantar escudo: esquivar"] = {
-			1045000, -- [1]
+		["Trozo Draenetista Imperfecto"] = {
+			9800, -- [1]
 		},
 		["Espaldares de Brigandina del búho"] = {
 			2499999, -- [1]
 		},
-		["Pergamino de Encantar capa: tejido de titán"] = {
-			3486596, -- [1]
+		["Hacha Cuchilla del tigre"] = {
+			24999999, -- [1]
 		},
 		["Guanteletes Exaltados del oso"] = {
 			7979999, -- [1]
@@ -14881,35 +14888,35 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Varita Derretida del invocador"] = {
 			1100000, -- [1]
 		},
-		["Pergamino de Encantar capa: resistencia superior"] = {
-			4500099, -- [1]
+		["Musleras Formidables de la ballena"] = {
+			60000000, -- [1]
 		},
 		["Receta: Pezfango a la Parrilla"] = {
 			196899, -- [1]
 		},
-		["Piedra Densa"] = {
-			2700, -- [1]
+		["Elixir de Poder de Fuego Sublime"] = {
+			550000, -- [1]
 		},
 		["Guantes del Alba"] = {
 			15000000, -- [1]
 		},
-		["Pergamino de Encantar brazales: Pericia"] = {
-			1776749, -- [1]
+		["Piedra de Pulir Burda"] = {
+			6666, -- [1]
 		},
 		["Protectores de Tejido de Sangre de aguante"] = {
 			20000000, -- [1]
 		},
-		["Cubrehombros de Puño de Roca de agilidad"] = {
-			40000000, -- [1]
+		["Diamante de Llama Celeste Incansable"] = {
+			100000, -- [1]
 		},
 		["Herreruelo Aterrabojas"] = {
 			990000, -- [1]
 		},
-		["Yelmo de Acero de Titanes Luminoso"] = {
-			22499997, -- [1]
+		["Espaldares de Comandante del gorila"] = {
+			5000000, -- [1]
 		},
-		["Mena de Sangrita Inferior"] = {
-			19999, -- [1]
+		["Faja de Aparecido del tigre"] = {
+			4000000, -- [1]
 		},
 		["Hiedra de Charlotte"] = {
 			3000000, -- [1]
@@ -14923,8 +14930,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cinturón de Cabecilla del búho"] = {
 			922539, -- [1]
 		},
-		["Pergamino de Protección"] = {
-			42600, -- [1]
+		["Guerrera Delicada del búho"] = {
+			9999999, -- [1]
 		},
 		["Manteo de Consuelo de Zoe"] = {
 			400000, -- [1]
@@ -14938,20 +14945,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Leotardos Njord de defensa"] = {
 			150000, -- [1]
 		},
-		["Manto de Golpe de Tigre"] = {
-			40000000, -- [1]
+		["Rubí Estrella"] = {
+			340000, -- [1]
 		},
 		["Dientes de dragón"] = {
 			24325, -- [1]
 		},
-		["Guanteletes de Señor Supremo del oso"] = {
-			29000000, -- [1]
+		["Patrón: sobrehombros de cuero oscuro"] = {
+			19800, -- [1]
 		},
 		["Medallón de Platino del soldado"] = {
 			12500000, -- [1]
 		},
-		["Pergamino de Encantar botas: caminante del hielo"] = {
-			887099, -- [1]
+		["Reliquia de Ulduar"] = {
+			702, -- [1]
 		},
 		["Elixir de Entereza Poderosa"] = {
 			38700, -- [1]
@@ -14959,8 +14966,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Leotardos del Amor Perdido"] = {
 			400000000, -- [1]
 		},
-		["Patrón: Toga de Gran Vudú"] = {
-			61500, -- [1]
+		["Rifle de balas de plata de Rowan"] = {
+			1237500, -- [1]
 		},
 		["Sangrita"] = {
 			29999, -- [1]
@@ -14968,14 +14975,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Receta: Elixir de Defensa Sublime"] = {
 			2497499, -- [1]
 		},
-		["Brazaletes de Sanguiespora de espíritu"] = {
+		["Cubrehombros de jade de defensa"] = {
+			40000000, -- [1]
+		},
+		["Pergamino de Encantar pechera: restaurar maná de primera"] = {
 			200000, -- [1]
 		},
-		["Espaldares Soldado de Caballería"] = {
-			7500000, -- [1]
-		},
-		["Cubrehombros de Mazo de Guerra del tigre"] = {
-			45000000, -- [1]
+		["Peto de Ajustador"] = {
+			70000000, -- [1]
 		},
 		["Pergamino de Encantar pechera: estadísticas superiores"] = {
 			2790000, -- [1]
@@ -14983,20 +14990,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pergamino de Encantar pechera: estadísticas excelentes"] = {
 			829000, -- [1]
 		},
-		["Patrón: Toga de Adepto Superior"] = {
-			189500, -- [1]
+		["Patrón: Sombrero de Almirante"] = {
+			2000000, -- [1]
 		},
 		["Pergamino de Encantar guantes: triturador"] = {
 			2295000, -- [1]
 		},
-		["Gargantilla Carmesí de la Reina de Sangre"] = {
-			169990000, -- [1]
+		["Corona Runavold del médico"] = {
+			500000, -- [1]
 		},
 		["Pergamino de Encantar guantes: poder con hechizos excepcional"] = {
 			502400, -- [1]
 		},
-		["Armadura de Vínculo de Huesos de espíritu"] = {
-			3713339, -- [1]
+		["Musleras de Wendigo de defensa"] = {
+			170000, -- [1]
 		},
 		["Fajín de Caminante de Viento de la pesadilla"] = {
 			400000, -- [1]
@@ -15007,8 +15014,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Garras de Espíritu Élficas"] = {
 			40000000, -- [1]
 		},
-		["Refuerzo para Armadura Pesado"] = {
-			10600, -- [1]
+		["Pergamino de Encantar guantes: fuerza superior"] = {
+			408609, -- [1]
 		},
 		["Puños de Orca del búho"] = {
 			330000, -- [1]
@@ -15022,11 +15029,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pergamino de Encantar guantes: agilidad sublime"] = {
 			1189999, -- [1]
 		},
-		["Hombreras de Cadáver Tieso"] = {
-			4480000, -- [1]
+		["Pergamino de Encantar guantes: asalto superior"] = {
+			682500, -- [1]
 		},
-		["Partículas Arcanas"] = {
-			9498, -- [1]
+		["Bastón Mal Colocado de Zabra"] = {
+			800000, -- [1]
 		},
 		["Parche de espadachín de la ballena"] = {
 			40000000, -- [1]
@@ -15034,8 +15041,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Espaldares de Campeón del jabalí"] = {
 			4999999, -- [1]
 		},
-		["Balas de Hierro Vil"] = {
-			750, -- [1]
+		["Coraza Forjanegra"] = {
+			10000000, -- [1]
 		},
 		["Escarpes de Gólem de la ballena"] = {
 			433768, -- [1]
@@ -15043,8 +15050,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Esquema: Caja de Ardilla Mecánica"] = {
 			10400, -- [1]
 		},
-		["Guantes de Wendigo del mono"] = {
-			500000, -- [1]
+		["Pergamino de Encantar escudo: Resistencia"] = {
+			24990000, -- [1]
 		},
 		["Musleras de Tormenta Abisal de la ballena"] = {
 			40000000, -- [1]
@@ -15057,8 +15064,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		},
 		["Pulseras Canto de Cristal del invocador"] = {
 		},
-		["Glifo de Bola de Fuego"] = {
-			462499, -- [1]
+		["Prole de Mulgore"] = {
+			10989999, -- [1]
 		},
 		["Zapatos Pinocerda del águila"] = {
 			351798, -- [1]
@@ -15066,17 +15073,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Mota de Sombra"] = {
 			419, -- [1]
 		},
-		["Pergamino de Encantar brazales: intelecto excepcional"] = {
-			806999, -- [1]
+		["Mota de Aire"] = {
+			75000, -- [1]
+		},
+		["Pergamino de Intelecto"] = {
+			18800, -- [1]
 		},
 		["Esmeralda Enorme"] = {
 			920000, -- [1]
 		},
-		["Piedra de Pulir Densa"] = {
-			11000, -- [1]
-		},
-		["Rubí Cárdeno Llamativo"] = {
-			3419999, -- [1]
+		["Pigmento índigo"] = {
+			25000, -- [1]
 		},
 		["Varita de Páramos del águila"] = {
 			200000, -- [1]
@@ -15087,26 +15094,26 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Multidisparo"] = {
 			735600, -- [1]
 		},
-		["Mero Aletarroca"] = {
-			1500, -- [1]
+		["Cuchilla de Verdugo"] = {
+			6000000, -- [1]
 		},
 		["Musleras de Asaltante de fuerza"] = {
 			60000, -- [1]
 		},
-		["Mena de Mitril"] = {
-			90000, -- [1]
+		["Pergamino de Encantar brazales: estadísticas superiores"] = {
+			1959753, -- [1]
 		},
 		["Guanteletes de Placas Góticas del gorila"] = {
 			13999999, -- [1]
 		},
-		["Mena de Adamantita"] = {
-			40000, -- [1]
+		["Pergamino de Encantar botas: vitalidad superior"] = {
+			1294799, -- [1]
 		},
 		["Amito Real del búho"] = {
 			1999999, -- [1]
 		},
-		["Sortija Helada"] = {
-			40000000, -- [1]
+		["Martillo de Herrero"] = {
+			29900, -- [1]
 		},
 		["Fajín de Visir del invocador"] = {
 			1500000, -- [1]
@@ -15120,17 +15127,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Martillo de Secuoya de poder"] = {
 			3000000, -- [1]
 		},
-		["Pergamino de Aguante"] = {
-			200000, -- [1]
+		["Boceto: rubí vivo luminoso"] = {
+			450000, -- [1]
 		},
-		["Cincha de Seda Aguanieve"] = {
-			299000, -- [1]
+		["Glifo de Vigilancia"] = {
+			474792, -- [1]
 		},
 		["Toga Runavold del búho"] = {
 			770000, -- [1]
 		},
-		["Piedra Férrea"] = {
-			100, -- [1]
+		["Hueso de Oso Grande"] = {
+			30000, -- [1]
 		},
 		["Perla Oscura"] = {
 			8400, -- [1]
@@ -15153,8 +15160,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Papiro Pesado"] = {
 			48000, -- [1]
 		},
-		["Ornato Astralaan del invocador"] = {
-			2980000, -- [1]
+		["Manual de Instrucciones de Trituradora: Página 9"] = {
+			999000, -- [1]
 		},
 		["Pergamino de Encantar botas: asalto superior"] = {
 			2129999, -- [1]
@@ -15162,11 +15169,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pergamino de Encantar pechera: restaurar maná superior"] = {
 			439000, -- [1]
 		},
-		["Pellejo Grueso Curtido"] = {
-			81111, -- [1]
+		["Pellejo Medio"] = {
+			4000, -- [1]
 		},
-		["Escarpes Piedra de Sal del oso"] = {
-			100000000, -- [1]
+		["El cuerno de león de Ventormenta"] = {
+			2191313, -- [1]
 		},
 		["Glifo de Transfusión de Vida"] = {
 			419988, -- [1]
@@ -15177,8 +15184,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Braciles Putrefactos"] = {
 			4868434, -- [1]
 		},
-		["Zafiro Celestial Luciente"] = {
-			311000, -- [1]
+		["Pellejo de Raptor"] = {
+			219, -- [1]
 		},
 		["Collar de Trofeos"] = {
 			1004281, -- [1]
@@ -15192,11 +15199,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Leotardos de Talismanes Dudosos"] = {
 			1197500, -- [1]
 		},
-		["Quijotes Fauceparda del jabalí"] = {
-			250000, -- [1]
+		["Pellejo Basto"] = {
+			2100, -- [1]
 		},
-		["Espada de Coleccionista de Huesos del tigre"] = {
-			27500000, -- [1]
+		["Vela de Elune"] = {
+			5899999, -- [1]
 		},
 		["Glifo de Punición"] = {
 			99000, -- [1]
@@ -15204,20 +15211,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hoja curva de Skettis del anciano"] = {
 			29990000, -- [1]
 		},
-		["Glifo de Lluvia de Estrellas"] = {
-			447999, -- [1]
+		["Escrito sobre Resguardo contra la Escarcha"] = {
+			98500, -- [1]
 		},
-		["Espaldares de Caballero de Sangre del jabalí"] = {
-			2300000, -- [1]
+		["Sombrero Arcano"] = {
+			9999999, -- [1]
 		},
-		["Patrón: Guantes Quiméricos"] = {
-			250000, -- [1]
+		["Coraza de Mazo de Guerra del anciano"] = {
+			1970000, -- [1]
 		},
 		["Anillo de Sombras Crepusculares"] = {
 			19900, -- [1]
 		},
-		["Patrón: Camisa Festiva Verde"] = {
-			9999900, -- [1]
+		["Núcleo de Poder de Oro"] = {
+			1490, -- [1]
 		},
 		["Diamante de Llama Celeste Refulgente"] = {
 			1447398, -- [1]
@@ -15240,14 +15247,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Bastón Ajado por los Viajes de la ballena"] = {
 			194986, -- [1]
 		},
-		["Las Verdes Colinas de Tuercespina: Página 26"] = {
-			799000, -- [1]
+		["Patrón: Brazales de Escórpido Gruesos"] = {
+			989000, -- [1]
 		},
-		["Leotardos Brigada de la ballena"] = {
-			60000000, -- [1]
+		["Madeja de Paño de Lino"] = {
+			1000, -- [1]
 		},
-		["Naipe de la Luna Negra: Muerte"] = {
-			35940000, -- [1]
+		["Sombrero de Anciano de cólera ígnea"] = {
+			4999999, -- [1]
 		},
 		["Pico de Minero"] = {
 			29900, -- [1]
@@ -15255,17 +15262,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Brazales de Agua Estancada"] = {
 			4400, -- [1]
 		},
-		["Guantes Lindeallá del invocador"] = {
-			399900, -- [1]
+		["Patrón: Arnés de Oso de Guerra"] = {
+			652000, -- [1]
 		},
 		["Rebanasesos"] = {
 			1999999, -- [1]
 		},
+		["Quijotes de Ajustador"] = {
+			21999905, -- [1]
+		},
 		["Pergamino de Encantar pechera: estadísticas potentes"] = {
 			7850000, -- [1]
-		},
-		["Encantar escudo: intelecto III"] = {
-			990000, -- [1]
 		},
 		["Yelmo de Mitril Ornamentado"] = {
 			5000000, -- [1]
@@ -15273,8 +15280,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Equipo de Construcción de Robot Chatarra"] = {
 			280000, -- [1]
 		},
-		["Bastón de Mago Elemental"] = {
-			2538713, -- [1]
+		["Par de Colmillos de Marfil"] = {
+			19602, -- [1]
 		},
 		["Garrote en Pico del anciano"] = {
 			300000, -- [1]
@@ -15282,41 +15289,41 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Coraza Ocultabultos"] = {
 			599999, -- [1]
 		},
-		["Jaula para Gatos (gatito Blanco)"] = {
-			5000000, -- [1]
+		["Paño de Tejido Abisal"] = {
+			5100, -- [1]
 		},
-		["Espaldares de Placas de Campo del oso"] = {
-			30000, -- [1]
+		["Paño de Lana"] = {
+			2300, -- [1]
 		},
 		["Escarpes Exaltados del oso"] = {
 			110000000, -- [1]
 		},
-		["Jaula para Gatos (atigrado Plateado)"] = {
-			733600, -- [1]
+		["Ortiga Mortal"] = {
+			34000, -- [1]
 		},
 		["Circón Majestuoso Chispeante"] = {
 			2089999, -- [1]
 		},
-		["Sombrero de Zahorí Escapabruma"] = {
-			5462067, -- [1]
+		["Ojo de Basilisco Escama Húmeda"] = {
+			9900, -- [1]
 		},
 		["Engranacerebros de Titanio del pronosticador"] = {
 			18900000, -- [1]
 		},
-		["Pantalones de Lego de cólera ígnea"] = {
-			2525070, -- [1]
+		["Cinturón de Escamas Descarriadas"] = {
+			40000000, -- [1]
 		},
-		["Manto regio del búho"] = {
-			2999999, -- [1]
+		["Núcleo de Elementos"] = {
+			1985, -- [1]
 		},
 		["Grebas Belicutor"] = {
 			4000000, -- [1]
 		},
-		["Moquillo Desagradable"] = {
-			19800000, -- [1]
+		["Carpa de Cloaca"] = {
+			56249, -- [1]
 		},
-		["Montaje de Equipo Neodinámico"] = {
-			9800, -- [1]
+		["Jarra de Bourbon"] = {
+			1000, -- [1]
 		},
 		["Bufas de Tirahuesos de intelecto"] = {
 			2999999, -- [1]
@@ -15324,11 +15331,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Dardo Dorado"] = {
 			18400, -- [1]
 		},
-		["Partecostillas del oso"] = {
-			32000000, -- [1]
+		["Botas de Cruzado de agilidad"] = {
+			2999999, -- [1]
 		},
-		["Riendas del Destrero de la Muerte Carmesí"] = {
-			429998989, -- [1]
+		["Coselete de Brigandina del lobo"] = {
+			1993634, -- [1]
 		},
 		["Hacha de Deforestador del falcón"] = {
 		},
@@ -15344,8 +15351,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hueso de Pierna de Gigante del hechicero"] = {
 			4000000, -- [1]
 		},
-		["Huevo del Norte"] = {
-			1632, -- [1]
+		["Yelmo de Saronita Templada"] = {
+			6249699, -- [1]
 		},
 		["Vestido de Lana Blanco"] = {
 			500000, -- [1]
@@ -15356,8 +15363,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Receta: poción de acción libre"] = {
 			1440000, -- [1]
 		},
-		["Mira Solar"] = {
-			80000, -- [1]
+		["Diseño: Cadena de Adamantita"] = {
+			19800, -- [1]
 		},
 		["Armadura de Brigadier"] = {
 			1499999, -- [1]
@@ -15368,20 +15375,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Camisa de Lana Gris"] = {
 			90000, -- [1]
 		},
-		["Anillo Grabado del jabalí"] = {
-			1660000, -- [1]
+		["Leotardos de Mur'crófago del hechicero"] = {
+			488888, -- [1]
 		},
 		["Sombrero de Zahorí Regio de cólera Arcana"] = {
 			40000000, -- [1]
 		},
-		["Faja Deliriohelado"] = {
-			11990000, -- [1]
+		["Huevo de Polilla Azul"] = {
+			849000, -- [1]
 		},
 		["Musleras Grandiosas del búho"] = {
 			5753361, -- [1]
 		},
-		["Coraza Runaoscura"] = {
-			25000000, -- [1]
+		["Patrón: Caperuza de Escamas de Cobra"] = {
+			4999999, -- [1]
 		},
 		["Bastón Maldito del bandido"] = {
 			12500000, -- [1]
@@ -15398,17 +15405,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Marco Indestructible"] = {
 			90000, -- [1]
 		},
-		["Rémora Pigmea"] = {
-			10000, -- [1]
-		},
 		["Glifo de Drenar Alma"] = {
 			393494, -- [1]
 		},
-		["Guanteletes de Placas Abisales de ataque"] = {
-			2500000, -- [1]
+		["Rémora Pigmea"] = {
+			10000, -- [1]
 		},
-		["Musleras de Brillavalva del lobo"] = {
-			3999999, -- [1]
+		["Mena de Cobalto"] = {
+			28400, -- [1]
+		},
+		["Felpa de Brillavalva del mono"] = {
+			1000959, -- [1]
 		},
 		["Ojo de Basilisco Frío"] = {
 			11950000, -- [1]
@@ -15416,29 +15423,29 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Manto del Centinela Eterno"] = {
 			400000000, -- [1]
 		},
-		["Guanteletes Piedra de Sal del oso"] = {
-			10000000, -- [1]
+		["Glifo de Choque de Escarcha"] = {
+			249899, -- [1]
 		},
-		["Estrella de Altonato"] = {
-			1491862, -- [1]
+		["Guanteletes de Brigandina de la ballena"] = {
+			1499999, -- [1]
 		},
 		["Semilla de Fuego"] = {
 			27000, -- [1]
 		},
-		["Chaleco Piel de Cardo de espíritu"] = {
-			499999, -- [1]
+		["Manto de Brillavalva"] = {
+			5740000, -- [1]
 		},
-		["Guanteletes Gloriosos del gorila"] = {
-			25000000, -- [1]
+		["Marca de Sargeras"] = {
+			8700, -- [1]
 		},
 		["Fórmula: Vara Rúnica de Arcanita"] = {
 			391000, -- [1]
 		},
-		["Fórmula: Aceite de Zahorí Excelente"] = {
-			998500, -- [1]
+		["Manual: Venda de Seda Gruesa"] = {
+			49900, -- [1]
 		},
-		["Fórmula: Aceite de Maná Menor"] = {
-			9900, -- [1]
+		["Frasco de Gran Mojo"] = {
+			1995, -- [1]
 		},
 		["Cinturón de Seda Azur"] = {
 			3999999, -- [1]
@@ -15449,62 +15456,62 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Medusa Azul Picante"] = {
 			150974, -- [1]
 		},
-		["Pechera Garrasalto del bandido"] = {
-			350000, -- [1]
-		},
 		["Leotardos Presavil de aguante"] = {
 			250000, -- [1]
 		},
-		["Faltriquera Negra Pequeña"] = {
-			20000, -- [1]
+		["Pechera Garrasalto del bandido"] = {
+			350000, -- [1]
 		},
-		["Glifo de Golpe Sangriento"] = {
-			346500, -- [1]
+		["Manual de Instrucciones de Trituradora: Página 5"] = {
+			999000, -- [1]
+		},
+		["Glifo de Arma de Vida Terrestre"] = {
+			400000, -- [1]
 		},
 		["Cojín de Flumblub del tirador"] = {
 			5000000, -- [1]
 		},
-		["Glifo de Capa de las Sombras"] = {
-			274898, -- [1]
+		["Tinta de Marfil"] = {
+			15000, -- [1]
 		},
-		["Zapatillas Glaciales"] = {
-			6890000, -- [1]
+		["Manual de Instrucciones de Trituradora: Página 4"] = {
+			999000, -- [1]
 		},
 		["Mando de máquina voladora turboalimentada"] = {
 			67000000, -- [1]
 		},
-		["Dragontina helada"] = {
-			50000, -- [1]
+		["Zapatillas Glaciales"] = {
+			6890000, -- [1]
 		},
-		["Filete de Colmipala Tierno"] = {
-			104999, -- [1]
+		["Pistola Empobrecida del Campeón"] = {
+			100000, -- [1]
 		},
-		["Armadura de Orca del búho"] = {
-			200000, -- [1]
+		["Manual de Instrucciones de Trituradora: Página 1"] = {
+			999000, -- [1]
 		},
-		["Espaldares Pretorianos de resistencia a la Naturaleza"] = {
-			1999347, -- [1]
+		["Siluro de 10 kilos"] = {
+			211086, -- [1]
 		},
 		["Lechuza Gavilana"] = {
 			749000, -- [1]
 		},
-		["Gema de las Sombras"] = {
-			70000, -- [1]
+		["Maestro de Primeros Auxilios: Doctor en Casa"] = {
+			999999, -- [1]
 		},
-		["Capa de Saqueador del oso"] = {
-			3980000, -- [1]
+		["Madera Simple"] = {
+			9700, -- [1]
 		},
-		["Leotardos de Hierro Verdes"] = {
-			150000, -- [1]
+		["Botas de Espadachín de aguante"] = {
+			1257500, -- [1]
 		},
 		["Receta: elixir del ojo escrutador"] = {
 			19200, -- [1]
 		},
-		["Esencia de Agua"] = {
-			199500, -- [1]
+		["Madeja de Tejido Abisal"] = {
+			48800, -- [1]
 		},
-		["Leotardos de Núcleo Oscuro"] = {
-			220000000, -- [1]
+		["Madeja de Paño de Seda"] = {
+			20900, -- [1]
 		},
 		["La grande"] = {
 			5813750, -- [1]
@@ -15512,8 +15519,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Fórmula: Encantar Arma de 2M: Intelecto Inferior"] = {
 			392900, -- [1]
 		},
-		["Esquema: Muñeco-diana Magistral"] = {
-			287988, -- [1]
+		["Madeja de Paño de Alma"] = {
+			1250000, -- [1]
 		},
 		["Catalejo Ornamentado"] = {
 			24000, -- [1]
@@ -15527,14 +15534,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Espaldares valerosos"] = {
 			50000, -- [1]
 		},
-		["Tótem de la Tormenta"] = {
-			77980000, -- [1]
+		["Esquema: Muñeco-diana Magistral"] = {
+			287988, -- [1]
 		},
 		["Escarpes Gloriosos de aguante"] = {
 			15000000, -- [1]
 		},
-		["Escamas de pez lustrosas"] = {
-			139, -- [1]
+		["Loto Cárdeno"] = {
+			50000, -- [1]
 		},
 		["Las Verdes Colinas de Tuercespina: Página 4"] = {
 			989000, -- [1]
@@ -15542,20 +15549,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hombreras de Mur'crófago de la ballena"] = {
 			300000, -- [1]
 		},
-		["Rasgador de Carne del jabalí"] = {
-			300000, -- [1]
+		["Escamas Viles"] = {
+			349999, -- [1]
 		},
-		["Espaldares de Malla de Luz Trémula"] = {
-			3000000, -- [1]
+		["Las Verdes Colinas de Tuercespina: Página 24"] = {
+			50000, -- [1]
 		},
-		["Sobrehombros Incomparables del búho"] = {
-			1439662, -- [1]
+		["Las Verdes Colinas de Tuercespina: Página 20"] = {
+			79000, -- [1]
 		},
 		["Pretina de Colmipala del gorila"] = {
 			1900000, -- [1]
 		},
-		["Escama de Escórpido Gruesa"] = {
-			9600, -- [1]
+		["La más grande"] = {
+			3873125, -- [1]
 		},
 		["Escama Naga"] = {
 			8400, -- [1]
@@ -15563,14 +15570,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guanteletes Grabados del falcón"] = {
 			3716000, -- [1]
 		},
-		["Elixir de Defensa Menor"] = {
-			19101, -- [1]
+		["Anillo de Jade Pesado"] = {
+			9999, -- [1]
 		},
 		["Juego de Inyección de Sanación"] = {
 			199999, -- [1]
 		},
-		["Intestinos de Jabalí"] = {
-			29664, -- [1]
+		["Jaula para Gatos (rex Cornualles)"] = {
+			898000, -- [1]
 		},
 		["Coraza de Pielférrea de espíritu"] = {
 			3500000, -- [1]
@@ -15578,11 +15585,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guantes de Reacciones Rápidas"] = {
 			1320009999, -- [1]
 		},
-		["Togas Imperiales de Chan"] = {
-			43992515, -- [1]
+		["Glifo de Maldición de Agonía"] = {
+			841500, -- [1]
 		},
-		["Huevo pequeño"] = {
-			22000, -- [1]
+		["Dragontina verde"] = {
+			2800, -- [1]
 		},
 		["Mena de Titanio"] = {
 			409000, -- [1]
@@ -15593,26 +15600,26 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cinturón con Puntadas Skom del oso"] = {
 			75500, -- [1]
 		},
-		["Manto de Sabio del búho"] = {
-			1750000, -- [1]
+		["Dragontina roja"] = {
+			29700, -- [1]
 		},
-		["Capa del Oficio"] = {
-			2800000, -- [1]
+		["Jaula para Gatos (bombay)"] = {
+			698000, -- [1]
 		},
 		["Ballesta Feroz del bandido"] = {
 			488888, -- [1]
 		},
-		["Armadura Forjabatalla del oso"] = {
-			2499998, -- [1]
+		["Dragontina desgastada"] = {
+			730, -- [1]
 		},
-		["Hilo Burdo"] = {
-			7699, -- [1]
+		["Suero Acre de Foca"] = {
+			6600, -- [1]
 		},
 		["Ámbar del Rey Liso"] = {
 			3035000, -- [1]
 		},
-		["Icor de No-muerto"] = {
-			950, -- [1]
+		["Encendedor"] = {
+			450000, -- [1]
 		},
 		["Zafiro Empíreo"] = {
 			70000, -- [1]
@@ -15635,8 +15642,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Bastón Madera Brillante Resplandeciente"] = {
 			2499899, -- [1]
 		},
-		["Huevo de Polilla Roja"] = {
-			349899, -- [1]
+		["Huevo Gigante"] = {
+			35500, -- [1]
 		},
 		["Guantes de Cuero de Montañero"] = {
 			70700, -- [1]
@@ -15644,14 +15651,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Manto de Vigilante"] = {
 			4638041, -- [1]
 		},
-		["Tinta Celestial"] = {
-			210000, -- [1]
+		["Camisote Flechapresta"] = {
+			9929899, -- [1]
 		},
 		["Glifo de Toque de Sanación"] = {
 			998500, -- [1]
 		},
-		["Diseño: Estoque de Mitril Deslumbrante"] = {
-			39000, -- [1]
+		["Cubrehombros de Rastreador de Bosque"] = {
+			40000000, -- [1]
 		},
 		["Culebra Marrón"] = {
 			104900, -- [1]
@@ -15662,8 +15669,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cubrehombros de Puño de Roca del anciano"] = {
 			30000000, -- [1]
 		},
-		["Guantes Místicos del búho"] = {
-			396947, -- [1]
+		["Hilo Refinado"] = {
+			6098, -- [1]
 		},
 		["Coraza de Jade de fuerza"] = {
 			19000000, -- [1]
@@ -15671,17 +15678,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Toga de Velo Lunar Real"] = {
 			49940009, -- [1]
 		},
-		["Cuero Encantado"] = {
-			564999, -- [1]
+		["Hilo de Eternio"] = {
+			59499, -- [1]
 		},
-		["Cuero Boreal Pesado"] = {
-			300000, -- [1]
+		["Patrón: Cinturón del Archimago"] = {
+			30000000, -- [1]
 		},
 		["Sobrehombros de Escarcha Salvaje"] = {
 			1699000, -- [1]
 		},
-		["Fajín de Hilo de Plata"] = {
-			4065356, -- [1]
+		["Hierba Vil"] = {
+			12100, -- [1]
 		},
 		["Cinturón de Cuero Curado"] = {
 			20000, -- [1]
@@ -15689,8 +15696,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Sopa de Almejas de Dalaran"] = {
 			10000, -- [1]
 		},
-		["Esquema: ultragafas ojo de gato"] = {
-			119211, -- [1]
+		["Amuleto de Proa de Dragón"] = {
+			3300000, -- [1]
 		},
 		["Pergamino de Encantar pechera: maná superior"] = {
 			164511, -- [1]
@@ -15698,11 +15705,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Diamante de Asedio de Tierra Eterno"] = {
 			2675000, -- [1]
 		},
-		["Manta Raya Imperial"] = {
-			18235, -- [1]
+		["Esquema: ultragafas ojo de gato"] = {
+			119211, -- [1]
 		},
-		["Hacha de Batalla de Bronce"] = {
-			80808, -- [1]
+		["Cría de Protodraco"] = {
+			7749999, -- [1]
 		},
 		["Bastón de Flor de Nieve de fuerza"] = {
 			1500000, -- [1]
@@ -15713,47 +15720,47 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Chal del Gigante Devastado"] = {
 			150000000, -- [1]
 		},
-		["Rodela Excelente de agilidad"] = {
-			200000, -- [1]
+		["Maza de Blanchard"] = {
+			35550000, -- [1]
 		},
-		["Sobrehombros de Montañero"] = {
-			35000, -- [1]
+		["Cristal rojo dentado"] = {
+			60000, -- [1]
 		},
 		["Fajín de Sanguiespora del hechicero"] = {
 			500000, -- [1]
 		},
-		["Contacto de Plata"] = {
-			1420, -- [1]
+		["Gatillo de Pelo"] = {
+			47400, -- [1]
 		},
-		["Armadura Fulgurante del águila"] = {
-			2911513, -- [1]
+		["Fuegos artificiales rojos"] = {
+			9999, -- [1]
 		},
-		["Armadura Fulgurante de intelecto"] = {
-			3999999, -- [1]
+		["Fuegos artificiales de Dalaran"] = {
+			67000, -- [1]
 		},
 		["Pergamino de Protección II"] = {
 			8909, -- [1]
 		},
-		["Dinamita Sólida"] = {
-			349500, -- [1]
+		["Corazón de fuego"] = {
+			1239, -- [1]
 		},
-		["Faja de Vuelo Incontestable"] = {
-			390000, -- [1]
+		["Paño de Lino"] = {
+			17, -- [1]
 		},
 		["Sobrehombros de Cazador del águila"] = {
 			2999999, -- [1]
 		},
-		["Diente Viejo de aguante"] = {
-			287000, -- [1]
+		["Lirio Atigrado"] = {
+			29999, -- [1]
 		},
 		["Receta: Sopa de Pargo Nocturno"] = {
 			249999, -- [1]
 		},
-		["Fórmula: Vara Rúnica de Adamantita"] = {
-			497989, -- [1]
+		["Cilindro de Mitril Taraceado"] = {
+			2000000, -- [1]
 		},
-		["Filete Talbuk"] = {
-			2500, -- [1]
+		["Enseña de Excavador"] = {
+			77777700, -- [1]
 		},
 		["Pergamino de Encantar brazales: golpear"] = {
 			643799, -- [1]
@@ -15761,8 +15768,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Naipe de la Luna Negra: Grandeza"] = {
 			109000000, -- [1]
 		},
-		["Faltriquera marrón pequeña"] = {
-			2400, -- [1]
+		["Fórmula: Fragmento Centelleante Grande"] = {
+			750500, -- [1]
 		},
 		["Ametrino Resplandeciente"] = {
 			2787224, -- [1]
@@ -15770,8 +15777,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Armadura Malaescama del lobo"] = {
 			30000000, -- [1]
 		},
-		["Cinturón de Anillas con Pinchos de la ballena"] = {
-			80000, -- [1]
+		["Chaqueta de Esmoquin"] = {
+			878999, -- [1]
 		},
 		["Mitones Benditos Ligeros"] = {
 			4179700, -- [1]
@@ -15785,8 +15792,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Quijotes de Cobalto"] = {
 			299000, -- [1]
 		},
-		["Martillo de Batalla Pesado de aguante"] = {
-			250000, -- [1]
+		["Fórmula: Aceite de Zahorí Inferior"] = {
+			19600, -- [1]
 		},
 		["Carne de Zancudo"] = {
 			274, -- [1]
@@ -15794,20 +15801,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Sobrehombros de Determinación Férrea de la ballena"] = {
 			2938679, -- [1]
 		},
-		["Botines de Acero de Titanes Templado"] = {
-			24870328, -- [1]
+		["Estabilizador de Acero Vil"] = {
+			2200000, -- [1]
 		},
 		["Nudillo Moldeado con Hierro del soldado"] = {
 			1550000, -- [1]
 		},
-		["Sortija de Estimulación"] = {
-			280000, -- [1]
+		["Flujo Débil"] = {
+			6900, -- [1]
 		},
-		["Guanteletes Impenetrables del águila"] = {
-			1888888, -- [1]
+		["Glifo de Descarga de Caos"] = {
+			291972, -- [1]
 		},
-		["Calzas Fulgurantes de espíritu"] = {
-			6999999, -- [1]
+		["Flor de Paz"] = {
+			3000, -- [1]
 		},
 		["As de Nobles"] = {
 			10450000, -- [1]
@@ -15815,17 +15822,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Leotardos de Tela Lunar"] = {
 			2599000, -- [1]
 		},
-		["Vara de Arcanita"] = {
-			3027499, -- [1]
+		["Espada de Verdugo"] = {
+			1007500, -- [1]
 		},
 		["Humillo"] = {
 			3550000, -- [1]
 		},
-		["Guanteletes de Cruzado de cólera Arcana"] = {
-			2444206, -- [1]
+		["Hombreras de la Soñadora"] = {
+			495702, -- [1]
 		},
-		["Pulseras de Cormorán del búho"] = {
-			512618, -- [1]
+		["Anillo Ovalado de la bestia"] = {
+			500000, -- [1]
 		},
 		["Diseño: Placa de Batalla de Korio Duro"] = {
 			400000000, -- [1]
@@ -15836,14 +15843,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Branquirrojo Crudo"] = {
 			9899, -- [1]
 		},
-		["Capa de Cielos Atormentados"] = {
-			500000, -- [1]
+		["Glifo de Flor de Vida"] = {
+			439000, -- [1]
 		},
 		["Fajín regio de la ballena"] = {
 			6795882, -- [1]
 		},
-		["Huevo de Polilla Blanca"] = {
-			848000, -- [1]
+		["Guantes de La Guardia Oeste del águila"] = {
+			190000, -- [1]
 		},
 		["Guerrera de Lego de cólera gélida"] = {
 			2000000, -- [1]
@@ -15854,17 +15861,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Miedo"] = {
 			498000, -- [1]
 		},
-		["Guantes de La Guardia Oeste del águila"] = {
-			190000, -- [1]
+		["Huevo de Polilla Blanca"] = {
+			848000, -- [1]
+		},
+		["Carne de Gusano"] = {
+			38461, -- [1]
+		},
+		["Hilo de hechizo azur"] = {
+			1697500, -- [1]
 		},
 		["Cubrehombros de Kraken del médico"] = {
 			700700, -- [1]
-		},
-		["Hacha de Guerra Ardiente"] = {
-			40000000, -- [1]
-		},
-		["Patrón: Toga de Tejido Abisal"] = {
-			999999, -- [1]
 		},
 		["Quijotes Calavermis de espíritu"] = {
 			207150, -- [1]
@@ -15878,23 +15885,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Patrón: Botas de Tela Vil"] = {
 			43400, -- [1]
 		},
-		["Yelmo de Trampero del médico"] = {
-			299999, -- [1]
+		["Madeja de Paño de Lana"] = {
+			20800, -- [1]
 		},
-		["Escama Múrloc Gruesa"] = {
-			1695, -- [1]
+		["Extractor de Motas de Zapacelerador"] = {
+			7000000, -- [1]
 		},
-		["Escama de Tortuga"] = {
-			3800, -- [1]
+		["Etiqueta Privada del Señor de la Escarcha"] = {
+			1989999, -- [1]
 		},
-		["Espada Ancha con Mango de Piel del Campeón"] = {
-			6990000, -- [1]
+		["Carne de Devastador"] = {
+			3200, -- [1]
 		},
-		["Musleras de Malla Abisal de restauración"] = {
-			850000, -- [1]
+		["Guanteletes Descomunales"] = {
+			13999999, -- [1]
 		},
-		["Escama de Jormungar"] = {
-			91500, -- [1]
+		["Martillo Ferroso del bandido"] = {
+			800000, -- [1]
 		},
 		["Botas Njord de aguante"] = {
 			590000, -- [1]
@@ -15908,17 +15915,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Escarabajo de Hueso"] = {
 			498000, -- [1]
 		},
-		["Leotardos defensores del águila"] = {
-			15655500, -- [1]
+		["Jubón de Bucanero de la ballena"] = {
+			4999999, -- [1]
 		},
-		["Casco Exaltado del oso"] = {
-			40000000, -- [1]
+		["Diseño: Gran Maza de Adamantita"] = {
+			399900, -- [1]
 		},
 		["Glifo de Salvación"] = {
 			319793, -- [1]
 		},
-		["Pulseras del Oráculo del búho"] = {
-			421292, -- [1]
+		["Guantes de Bucanero del mono"] = {
+			2068135, -- [1]
 		},
 		["Botas Árticas"] = {
 			200000, -- [1]
@@ -15926,8 +15933,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Topacio Monarca Fiero"] = {
 			1232499, -- [1]
 		},
-		["Draco-Incarcinatrix 900"] = {
-			145550000, -- [1]
+		["Pluma Ligera"] = {
+			99, -- [1]
 		},
 		["Guanteletes Fauceparda de poder"] = {
 			100000, -- [1]
@@ -15935,17 +15942,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Esfumarse"] = {
 			287399, -- [1]
 		},
-		["Escudo Triangular de Cobalto"] = {
-			479000, -- [1]
+		["Receta: Cigala Picante"] = {
+			292999, -- [1]
 		},
 		["Escudo de Gran Jefe de agilidad"] = {
 			11999999, -- [1]
 		},
-		["Patrón: Cinturón de Caos Azul"] = {
-			40000000, -- [1]
+		["Boceto: diamante de llama celeste del trueno"] = {
+			205050, -- [1]
 		},
-		["El Vicio del Verdugo"] = {
-			19990000, -- [1]
+		["Glifo de Ola de Sanación"] = {
+			343000, -- [1]
 		},
 		["Escama de Múrloc Babosa"] = {
 			2000, -- [1]
@@ -15953,14 +15960,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Dinamita Férrea"] = {
 			6500, -- [1]
 		},
-		["Glifo de Reflejo Exacto"] = {
-			2939898, -- [1]
+		["Hombreras Salpicadas de Sangre"] = {
+			12200, -- [1]
 		},
-		["Cacharros Zumbones de Bronce"] = {
-			78500, -- [1]
+		["Botas Bruñidas"] = {
+			2000000, -- [1]
 		},
-		["Togas de Bucanero de espíritu"] = {
-			20000, -- [1]
+		["Almete Duradero"] = {
+			2990000, -- [1]
 		},
 		["Bastón Ajado por los Viajes del búho"] = {
 			250000, -- [1]
@@ -15971,8 +15978,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Dos de Demonios"] = {
 			100000, -- [1]
 		},
-		["Botella de Pinot Noir"] = {
-			20000, -- [1]
+		["Diseño: Vara de Adamantita"] = {
+			800000, -- [1]
 		},
 		["Mandoble de Decano"] = {
 			2287648, -- [1]
@@ -15995,14 +16002,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Coraza Ulduar del búho"] = {
 			350000, -- [1]
 		},
-		["Sello Onírico del bandido"] = {
-			1790000, -- [1]
+		["Esquema: Mira de Precisión"] = {
+			1093455, -- [1]
 		},
 		["Capa de Bosque"] = {
 			49800, -- [1]
 		},
-		["Vara de Eternio"] = {
-			699399, -- [1]
+		["Pata de Marrano Salvaje"] = {
+			20000, -- [1]
 		},
 		["Calzas Fulgurantes del mono"] = {
 			1990000, -- [1]
@@ -16010,8 +16017,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Himno de Esperanza"] = {
 			1649797, -- [1]
 		},
-		["Pata de Marrano Salvaje"] = {
-			20000, -- [1]
+		["Vara de Eternio"] = {
+			699399, -- [1]
 		},
 		["Yelmo de Cormorán de agilidad"] = {
 			1909000, -- [1]
@@ -16022,8 +16029,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Caperuza de Lego de la ballena"] = {
 			7999999, -- [1]
 		},
-		["Bomba Grande de Cobre"] = {
-			16500, -- [1]
+		["Diseño: Almófar de Escamas Doradas"] = {
+			2450000, -- [1]
 		},
 		["Espada Golpecabeza del águila"] = {
 			2999999, -- [1]
@@ -16034,20 +16041,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Bolsa de Cuero Azul"] = {
 			11900, -- [1]
 		},
+		["Bolsa de Tejido Mágico"] = {
+			29800, -- [1]
+		},
 		["Diamante de Fuego Celeste"] = {
 			850000, -- [1]
 		},
-		["Liquen Antiguo"] = {
-			507000, -- [1]
-		},
-		["Bolsa de Tejido Mágico Roja"] = {
-			50000, -- [1]
+		["Cuero Basto"] = {
+			43999, -- [1]
 		},
 		["Pergamino de Encantar pechera: maná excepcional"] = {
 			605799, -- [1]
 		},
-		["Glifo de Última Carga"] = {
-			586849, -- [1]
+		["Cristal de Poder Verde"] = {
+			90000, -- [1]
 		},
 		["Gargantilla Impactante de Titanio"] = {
 			20620300, -- [1]
@@ -16058,17 +16065,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guantes Garrafuria de la ballena"] = {
 			3999999, -- [1]
 		},
-		["Pantalones de Bucanero de espíritu"] = {
-			60000000, -- [1]
-		},
-		["Botas de Resortes de Hierro"] = {
-			170000000, -- [1]
-		},
-		["Faja Hiperión de poder"] = {
+		["Grebas Hiperión del oso"] = {
 			40000000, -- [1]
 		},
 		["Pergamino de Encantar arma: poder con hechizos excepcional"] = {
 			1870000, -- [1]
+		},
+		["Faja Hiperión de poder"] = {
+			40000000, -- [1]
+		},
+		["Botas de Resortes de Hierro"] = {
+			170000000, -- [1]
 		},
 		["Botas de Cuero Oscuro"] = {
 			16000, -- [1]
@@ -16082,17 +16089,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Naipe de la Luna Negra: Heroísmo"] = {
 			9624596, -- [1]
 		},
-		["Guantes de Tejemarañas"] = {
-			200000, -- [1]
+		["Mota de Vida"] = {
+			25000, -- [1]
 		},
 		["Fajín de Espadas Silenciosas"] = {
 			509999, -- [1]
 		},
-		["Mota de Vida"] = {
-			25000, -- [1]
+		["Guantes de Tejemarañas"] = {
+			200000, -- [1]
 		},
-		["Rubí Escarlata Rúnico"] = {
-			2547599, -- [1]
+		["Vara de Hierro Vil"] = {
+			871200, -- [1]
 		},
 		["Aplastahuesos de Acero de Titanes"] = {
 			36110000, -- [1]
@@ -16100,11 +16107,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cuero Medio"] = {
 			29400, -- [1]
 		},
-		["Musleras de la Mano Destrozada"] = {
-			499000, -- [1]
+		["Orbe de Engaño"] = {
+			22999999, -- [1]
 		},
-		["Batería de korio"] = {
-			6619999, -- [1]
+		["Jaula para gatos (Gata tricolor)"] = {
+			1158400, -- [1]
 		},
 		["Ojo de Zul Turbio"] = {
 			1499899, -- [1]
@@ -16112,8 +16119,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Bufas de Pellejo de Demonio"] = {
 			700000, -- [1]
 		},
-		["Corazón de fiera"] = {
-			38900, -- [1]
+		["Pantalones Durables del búho"] = {
+			5000000, -- [1]
 		},
 		["Leotardos Flechapresta"] = {
 			5429900, -- [1]
@@ -16124,11 +16131,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Braquiales Piedra de Sal de la ballena"] = {
 			8888888, -- [1]
 		},
-		["Leotardos de Ritual de cólera ígnea"] = {
-			499900, -- [1]
+		["Pechera de Señor de las Arañas del bandido"] = {
+			499999, -- [1]
 		},
-		["Guantes de Tejido de Ébano"] = {
-			8990000, -- [1]
+		["Anillo de Ramillete del bandido"] = {
+			1950000, -- [1]
 		},
 		["Sello de Aguamarina de intelecto"] = {
 			230000, -- [1]
@@ -16139,8 +16146,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Tarja con Pinchos del Campeón"] = {
 			160000, -- [1]
 		},
-		["Pechera de Señor de las Arañas del bandido"] = {
-			499999, -- [1]
+		["Sortija Piadosa de protección de la Naturaleza"] = {
+			710000, -- [1]
 		},
 		["Búho Común"] = {
 			979000, -- [1]
@@ -16148,14 +16155,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cinta de Tejido Mágico Negra"] = {
 			300000, -- [1]
 		},
-		["Anillo Espuela del soldado"] = {
-			2220000, -- [1]
+		["Botas de Placas Estampadas del mono"] = {
+			4999999, -- [1]
 		},
-		["Saronita primordial"] = {
-			5350000, -- [1]
+		["Barra de Mitril"] = {
+			127500, -- [1]
 		},
-		["Barra de Estaño"] = {
-			298, -- [1]
+		["Barra de Hierro Negro"] = {
+			220000, -- [1]
 		},
 		["Gemelos de Plata Solariegos"] = {
 			3999999, -- [1]
@@ -16163,8 +16170,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hombreras de Mur'crófago del médico"] = {
 			290000, -- [1]
 		},
-		["Yelmo de Acero de Titanes Templado"] = {
-			24979999, -- [1]
+		["Espetadora de Piedra Mácula del oso"] = {
+			989900, -- [1]
 		},
 		["Zafiro Celestial Sólido"] = {
 			199500, -- [1]
@@ -16172,14 +16179,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Sello de Rectitud"] = {
 			350000, -- [1]
 		},
-		["Capucha de Caribú del jabalí"] = {
-			500000, -- [1]
+		["Sobrehombros de Seda Verdes"] = {
+			40000, -- [1]
 		},
 		["Runa Oscura"] = {
 			500000, -- [1]
 		},
-		["Caña de Pescar"] = {
-			121002, -- [1]
+		["Yelmo de Acero de Titanes Templado"] = {
+			24979999, -- [1]
 		},
 		["Glifo de Bendición de Sabiduría"] = {
 			299899, -- [1]
@@ -16193,11 +16200,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Poción de Invisibilidad Inferior"] = {
 			69500, -- [1]
 		},
-		["Prole de Gundrak"] = {
-			9499999, -- [1]
+		["Capucha de Caribú del jabalí"] = {
+			500000, -- [1]
 		},
-		["Leotardos de Bronce Férreos"] = {
-			25000, -- [1]
+		["Costillas de Jabalí"] = {
+			125000, -- [1]
 		},
 		["Diamante Negro"] = {
 			5500, -- [1]
@@ -16205,14 +16212,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Báculo de Ámbar de Anciano de la ballena"] = {
 			258000, -- [1]
 		},
-		["Guardamuñecas de Recuperación Verdeante"] = {
-			179500, -- [1]
+		["Venda de Paño Rúnico Gruesa"] = {
+			6100, -- [1]
 		},
-		["Jubón de Oficial"] = {
-			120000, -- [1]
+		["Diseño: Coraza de Cuchillas de Titanio"] = {
+			12290000, -- [1]
 		},
-		["Colavil con Manchas"] = {
-			4900, -- [1]
+		["Anillo Rúnico de intelecto"] = {
+			40000000, -- [1]
 		},
 		["Arremetida Mortal"] = {
 			250000, -- [1]
@@ -16220,11 +16227,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Agua Eterna"] = {
 			149800, -- [1]
 		},
-		["Carne Misteriosa"] = {
-			12261, -- [1]
+		["Grebas de Placas Abisales de ataque"] = {
+			2500000, -- [1]
 		},
-		["Cimitarra Fina"] = {
-			199999999, -- [1]
+		["Cola de Truenagarto"] = {
+			9108, -- [1]
 		},
 		["Alianza de oro"] = {
 			5550000, -- [1]
@@ -16232,8 +16239,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Musleras de Brillavalva del águila"] = {
 			2999999, -- [1]
 		},
-		["Dos de Bendiciones"] = {
-			505500, -- [1]
+		["Aguijón de escórpido"] = {
+			765, -- [1]
 		},
 		["Toga de Garrida del invocador"] = {
 			140000, -- [1]
@@ -16244,8 +16251,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Carne de Tigre"] = {
 			2300, -- [1]
 		},
-		["Manteo Golpe de Guerra"] = {
-			438750, -- [1]
+		["Tratado sobre Resistencia"] = {
+			3412, -- [1]
 		},
 		["Botas de Wendigo del bandido"] = {
 			2550000, -- [1]
@@ -16256,8 +16263,7 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Quijotes de Jormungar de poder con hechizos"] = {
 			190000, -- [1]
 		},
-		["Cartera de Cuero Marrón"] = {
-			9400, -- [1]
+		["Toga de Sanguiespora del médico"] = {
 		},
 		["Agua de Manantial Refrescante"] = {
 			14200, -- [1]
@@ -16268,8 +16274,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Sortija de Hueso de Presagista"] = {
 			3200000, -- [1]
 		},
-		["Jubón Aborigen de cólera gélida"] = {
-			4999999, -- [1]
+		["Carta Doblada"] = {
+			1779962, -- [1]
 		},
 		["Faja Puñosangre del búho"] = {
 			2250000, -- [1]
@@ -16277,32 +16283,32 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Vidarraíz"] = {
 			22200, -- [1]
 		},
-		["Carne de Lobo Rojo"] = {
-			324, -- [1]
+		["Espaldares de Placas Estampadas de la ballena"] = {
+			40000000, -- [1]
 		},
-		["Boceto: topacio monarca con inscripciones"] = {
-			488000, -- [1]
+		["Aceite de Bocanegra"] = {
+			700000, -- [1]
 		},
 		["Arco para Flechas Abrasadoras"] = {
 			39980000, -- [1]
 		},
-		["Estrella de Elementalista de espíritu"] = {
-			2499999, -- [1]
-		},
 		["Guantes de Sauce del águila"] = {
 			599999, -- [1]
 		},
-		["Togas Elegantes del búho"] = {
-			15000000, -- [1]
+		["Estrella de Elementalista de espíritu"] = {
+			2499999, -- [1]
+		},
+		["Brazales Heráldicos"] = {
+			2999999, -- [1]
 		},
 		["Carne de Araña Blanca"] = {
 			47400, -- [1]
 		},
-		["Poción de Maná"] = {
-			8828, -- [1]
+		["Pergamino de Fuerza II"] = {
+			7400, -- [1]
 		},
-		["Carne de Serpiente"] = {
-			7200, -- [1]
+		["Receta: Poción de Escabullida"] = {
+			409998, -- [1]
 		},
 		["Leotardos Conchaplata"] = {
 			350000, -- [1]
@@ -16316,11 +16322,10 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Fajín de Prospector"] = {
 			9990000, -- [1]
 		},
-		["Musleras Taunka de protección de Fuego"] = {
-			600000, -- [1]
+		["Carne de Oso"] = {
+			1090, -- [1]
 		},
-		["Bastón de Agua Torrencial del tigre"] = {
-			229000, -- [1]
+		["Rodela de Pionero"] = {
 		},
 		["Sobrehombros Vivos"] = {
 			40000000, -- [1]
@@ -16331,67 +16336,67 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cinturón de garroso de la arboleda"] = {
 			2000000, -- [1]
 		},
-		["Pergamino de Encantar arma: Precisión"] = {
-			14400000, -- [1]
+		["Carne de Lobo Tierna"] = {
+			1666, -- [1]
 		},
-		["Camisa Blanca Común"] = {
-			59900, -- [1]
+		["Cuchilla Mísera del lobo"] = {
+			150000, -- [1]
 		},
 		["Casco de Pielférrea del lobo"] = {
 			3253750, -- [1]
 		},
-		["Tinta del Cielo"] = {
-			49800, -- [1]
+		["Rubí Cárdeno Brillante"] = {
+			3299900, -- [1]
 		},
 		["Manto de seda de ascuas de intelecto"] = {
 		},
 		["Carne de Crocolisco Tierna"] = {
 			70000, -- [1]
 		},
-		["Bufas Rectas de la ballena"] = {
-			3975606, -- [1]
+		["Leotardos Lupinos del oso"] = {
+			799999, -- [1]
 		},
 		["Parche de espadachín de intelecto"] = {
 			40000000, -- [1]
 		},
-		["Cinturón Njord del tigre"] = {
-			60000, -- [1]
+		["Tinte Morado"] = {
+			9900, -- [1]
 		},
-		["Tratado sobre Protección"] = {
-			499000, -- [1]
+		["Coraza de Gólem del médico"] = {
+			1500000, -- [1]
 		},
-		["Seis de Bendiciones"] = {
-			675000, -- [1]
+		["Carne de Almeja Suculenta"] = {
+			10600, -- [1]
 		},
-		["Hacha del Bosque Profundo"] = {
-			1267500, -- [1]
+		["Toga de Tejido de Ébano"] = {
+			10190000, -- [1]
 		},
 		["Yelmo de Placas Imperiales"] = {
 			5000000, -- [1]
 		},
-		["Draenita dorada gruesa"] = {
-			9800, -- [1]
-		},
-		["Tierra Primigenia"] = {
-			148750, -- [1]
-		},
-		["Glifo de Disparo de Dispersión"] = {
-			181250, -- [1]
+		["Glifo de Palabra de Poder: Escudo"] = {
+			318500, -- [1]
 		},
 		["Mira Buscacorazones"] = {
 			130000, -- [1]
 		},
-		["Glifo de Golpe de Raptor"] = {
-			846500, -- [1]
+		["Glifo de Disparo de Dispersión"] = {
+			181250, -- [1]
 		},
-		["Camisa de Tejido Mágico Rosa"] = {
-			250000, -- [1]
+		["Tierra Primigenia"] = {
+			148750, -- [1]
 		},
-		["Glifo de Cadena de Relámpagos"] = {
-			358698, -- [1]
+		["Guantes Ennegrecidos Defias"] = {
+			1900000, -- [1]
+		},
+		["Mantón de Guardia de Escarcha"] = {
+			4172500, -- [1]
 		},
 		["Receta: Venado Magro"] = {
 			6500000, -- [1]
+		},
+		["Glifo de Cadena de Relámpagos"] = {
+			358698, -- [1]
 		},
 		["Foco de cristal mermado"] = {
 			10100, -- [1]
@@ -16399,11 +16404,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Tres de Prismas"] = {
 			3597500, -- [1]
 		},
+		["Botas Taunka de fuerza"] = {
+			200000, -- [1]
+		},
 		["Trozos de Huesos"] = {
 			8850, -- [1]
-		},
-		["Coraza de la Mano Destrozada del anciano"] = {
-			40000000, -- [1]
 		},
 		["Glifo de Sanación Relámpago"] = {
 			290900, -- [1]
@@ -16420,11 +16425,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pisoteadores Arcánicos"] = {
 			550000000, -- [1]
 		},
-		["Patrón: Brazales de Zahorí con Joyas"] = {
-			33450000, -- [1]
+		["Las Verdes Colinas de Tuercespina: Página 21"] = {
+			189000, -- [1]
 		},
-		["Capa de Cuero Estampado"] = {
-			9000, -- [1]
+		["Chafarote Mate"] = {
+			302030, -- [1]
 		},
 		["Receta: perrito de devastador"] = {
 			399999, -- [1]
@@ -16441,8 +16446,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Musleras de Escamas de Quimera del águila"] = {
 			6400000, -- [1]
 		},
-		["Glifo de lo Desvaído"] = {
-			593397, -- [1]
+		["Receta: Ala de Murciélago Crujiente"] = {
+			308900, -- [1]
 		},
 		["Sortija de Coral del oso"] = {
 			50000, -- [1]
@@ -16450,8 +16455,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hacha de Guerra Gigante del lobo"] = {
 			550000, -- [1]
 		},
-		["Bomba de Hierro Vil"] = {
-			3900, -- [1]
+		["Calabaza Iluminada Pesada"] = {
+			699000, -- [1]
 		},
 		["Bomba de Saronita"] = {
 			7000, -- [1]
@@ -16477,17 +16482,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Golpe Heroico"] = {
 			236800, -- [1]
 		},
+		["Braquiales Golpe de Guerra"] = {
+			251378, -- [1]
+		},
 		["Brazales Presavil de agilidad"] = {
 			2650000, -- [1]
 		},
-		["Guanteletes de Espuma de Mar"] = {
-			5000000, -- [1]
+		["Velo Lunar"] = {
+			808000, -- [1]
 		},
 		["Camisote de Hierro Verde"] = {
 			9990000, -- [1]
-		},
-		["Grebas de Wolvar de poder con hechizos"] = {
-			1900000, -- [1]
 		},
 		["Barra de Cobalto"] = {
 			25000, -- [1]
@@ -16495,17 +16500,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cohete abisal X-51 X-TREMO"] = {
 			850000000, -- [1]
 		},
-		["Glifo de Fuerza Poseída"] = {
-			428202, -- [1]
+		["Cinturón de Cuero Oscuro"] = {
+			89999, -- [1]
 		},
-		["Brazales de Vórtice de Tormenta"] = {
-			69420, -- [1]
+		["Manual de Instrucciones de Trituradora: Página 12"] = {
+			999000, -- [1]
 		},
-		["Espaldares de Templario de defensa"] = {
-			5000000, -- [1]
+		["Cuchillo de Bronce Grande"] = {
+			690000, -- [1]
 		},
-		["Armamentos de Colmillo Torcido"] = {
-			119000, -- [1]
+		["Anillo de Diamante de Enfoque"] = {
+			55569, -- [1]
 		},
 		["Paño Rúnico"] = {
 			1135, -- [1]
@@ -16519,14 +16524,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Escudo Despiadado de la ballena"] = {
 			250000, -- [1]
 		},
-		["Guardamuñecas con Pinchos de Titanio"] = {
-			50900000, -- [1]
+		["Bolsa de Cuero Verde"] = {
+			14800, -- [1]
 		},
-		["Glifo de Ataque de La Victoria"] = {
-			298000, -- [1]
+		["Toga Tejida con Escarcha Mística"] = {
+			380000, -- [1]
 		},
-		["Armadura de Comandante de aguante"] = {
-			14999999, -- [1]
+		["Bola de Nieve Enorme"] = {
+			199499, -- [1]
 		},
 		["Arco de ojo de halcón de la ballena"] = {
 			999999, -- [1]
@@ -16537,32 +16542,32 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Sello Onírico del invocador"] = {
 			1789999, -- [1]
 		},
-		["Escudo de Pared de Vínculo de Huesos de cólera ígnea"] = {
-			500000, -- [1]
+		["Hojasueño"] = {
+			29800, -- [1]
 		},
-		["Baraja de Elementales"] = {
-			18000000, -- [1]
-		},
-		["Puños de Wolvar de defensa"] = {
-			1500000, -- [1]
-		},
-		["Escudo de Bayeaux de protección de Escarcha"] = {
-			4000000, -- [1]
+		["Musgo de pantano"] = {
+			119500, -- [1]
 		},
 		["Cinturón de Orca de protección de las Sombras"] = {
 			250000, -- [1]
 		},
+		["Escudo de Bayeaux de protección de Escarcha"] = {
+			4000000, -- [1]
+		},
+		["Armadura de Comandante de aguante"] = {
+			14999999, -- [1]
+		},
 		["Manto Rúnico Oscuro"] = {
 			488800, -- [1]
 		},
-		["Ametrino Potenciado"] = {
-			2447439, -- [1]
+		["Almeja Jaggal"] = {
+			2650, -- [1]
 		},
 		["Almeja Aguaoscura"] = {
 			349000, -- [1]
 		},
-		["Glifo de Eliminar Maldición"] = {
-			774500, -- [1]
+		["Carne de Almeja"] = {
+			49799, -- [1]
 		},
 		["Escarpes de Rabioso"] = {
 			5690000, -- [1]
@@ -16570,26 +16575,26 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Ballesta Certera"] = {
 			1500000, -- [1]
 		},
-		["Vórtice Abisal"] = {
-			49600, -- [1]
+		["Bomba Altamente Explosiva"] = {
+			1950, -- [1]
 		},
 		["Guanteletes Antiguos del lobo"] = {
 			1000000, -- [1]
 		},
-		["Carne de Almeja"] = {
-			49799, -- [1]
+		["Glifo de Eliminar Maldición"] = {
+			774500, -- [1]
 		},
 		["Espaldares Grabados de cólera de la Naturaleza"] = {
 			2120963, -- [1]
 		},
-		["Glifo de Desgarrar"] = {
-			397999, -- [1]
+		["Bastón con Punta de Diamante"] = {
+			19299, -- [1]
 		},
 		["Musleras Impenetrables de poder"] = {
 			3007420, -- [1]
 		},
-		["Barra de Cobre"] = {
-			38000, -- [1]
+		["El Antiguo Cetro de Sue-Min"] = {
+			20000000, -- [1]
 		},
 		["Almádena Engorrosa del águila"] = {
 			1109000, -- [1]
@@ -16603,8 +16608,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Deflagración Arcana"] = {
 			132000, -- [1]
 		},
-		["Halo de Cazador de Almas"] = {
-			1220000, -- [1]
+		["Toga de Discípulo del búho"] = {
+			4000000, -- [1]
 		},
 		["Glifo de Caída Lenta"] = {
 			446499, -- [1]
@@ -16612,8 +16617,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Colmillo Escabechado"] = {
 			62000, -- [1]
 		},
-		["Glifo de Armadura de Escarcha"] = {
-			463900, -- [1]
+		["Calzones de Cuero Quemado"] = {
+			52500, -- [1]
 		},
 		["Aguardiente Nevada"] = {
 			80000, -- [1]
@@ -16621,8 +16626,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Activador de Explosivo Volátil"] = {
 			86500, -- [1]
 		},
-		["Aceite de Escama Pétrea"] = {
-			25000, -- [1]
+		["Varita de Fuego"] = {
+			200000, -- [1]
 		},
 		["Cinturón de Puño de Roca de protección de Fuego"] = {
 			2000000, -- [1]
@@ -16633,11 +16638,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pantalones de Anillas de Cobre"] = {
 			10000, -- [1]
 		},
-		["Polvo Onírico"] = {
-			487, -- [1]
+		["Costillas de Cerdo Secas"] = {
+			30000, -- [1]
 		},
-		["Sombrero Taunka del falcón"] = {
-			700000, -- [1]
+		["Defensor Antiguo del búho"] = {
+			900000, -- [1]
 		},
 		["Agujero Portátil"] = {
 			37817699, -- [1]
@@ -16648,38 +16653,38 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Sobrevesta Primigenia del falcón"] = {
 			8148797, -- [1]
 		},
-		["Glifo de Abisario"] = {
-			199500, -- [1]
+		["Patrón: Bola de Cuero Pesado"] = {
+			300000, -- [1]
 		},
-		["Guantes Delicados de la ballena"] = {
-			2499999, -- [1]
+		["Adamantita Mercúrica"] = {
+			1000000, -- [1]
 		},
-		["Pergamino de Encantar guantes: armero"] = {
-			3883650, -- [1]
+		["Poción de Sanación Inferior"] = {
+			77, -- [1]
 		},
-		["Fórmula: Aceite de Zahorí Menor"] = {
-			8900, -- [1]
+		["Hamburguesa de Distorsión"] = {
+			89500, -- [1]
 		},
-		["Leotardos Primigenios de la ballena"] = {
-			159000, -- [1]
-		},
-		["Casco de Skettis del soldado"] = {
-			994356, -- [1]
-		},
-		["Boceto: ópalo crepuscular destellante"] = {
-			87750, -- [1]
-		},
-		["Cinturón Pie Fantasmal del búho"] = {
-			40000000, -- [1]
+		["Elixir de Sabiduría"] = {
+			40000, -- [1]
 		},
 		["Cadena Serpenteante del hechicero"] = {
 			1500000, -- [1]
 		},
+		["Acérita Salvaje"] = {
+			26200, -- [1]
+		},
+		["Casco de Skettis del soldado"] = {
+			994356, -- [1]
+		},
+		["Daga Keris Sinuosa del bandido"] = {
+			12500000, -- [1]
+		},
 		["Toga de Escarcha Salvaje"] = {
 			1886999, -- [1]
 		},
-		["Aguamarina"] = {
-			69500, -- [1]
+		["Esquema: Aparato de Invisibilidad Gnómico"] = {
+			281775, -- [1]
 		},
 		["Brazales de Torio"] = {
 			20900, -- [1]
@@ -16690,8 +16695,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Las Verdes Colinas de Tuercespina: Página 18"] = {
 			330000, -- [1]
 		},
-		["Cristal de Sol Luminoso"] = {
-			29400, -- [1]
+		["Coraza Magnánima del oso"] = {
+			9500000, -- [1]
 		},
 		["Casco Haltorboll del lobo"] = {
 			500000, -- [1]
@@ -16702,23 +16707,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cinturón Escarlata"] = {
 			687000, -- [1]
 		},
-		["Puños de Tormentero"] = {
-			9939900, -- [1]
+		["Glifo de Bramido"] = {
+			258899, -- [1]
 		},
 		["Brazales de Orca del búho"] = {
 			2150000, -- [1]
 		},
-		["Coraza Magnánima del oso"] = {
-			9500000, -- [1]
+		["Cristal de Sol Luminoso"] = {
+			29400, -- [1]
 		},
-		["Elixir de Respiración Acuática"] = {
-			500000, -- [1]
+		["Diseño: guanteletes de tormenta"] = {
+			516000, -- [1]
 		},
 		["Yelmo de Puño de Roca de protección de las Sombras"] = {
 			40000000, -- [1]
 		},
-		["Elixir de Crecimiento Gigante"] = {
-			292999, -- [1]
+		["Pergamino de Aguante II"] = {
+			15000, -- [1]
 		},
 		["Retales de Ropas de Pelaje"] = {
 			1485, -- [1]
@@ -16726,20 +16731,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Mapa del tesoro del capitán Sanders"] = {
 			500000, -- [1]
 		},
-		["Leotardos de Placas de Alabastro"] = {
-			4797500, -- [1]
-		},
 		["Guardahombros Njord del búho"] = {
 			120000, -- [1]
 		},
-		["Cebos Explosivos Helados"] = {
-			14800, -- [1]
+		["Leotardos de Placas de Alabastro"] = {
+			4797500, -- [1]
+		},
+		["Cinturón Rúnico de Cobre"] = {
+			70000, -- [1]
 		},
 		["Bolsa Glacial"] = {
 			10990000, -- [1]
 		},
-		["Cinturón Rúnico de Cobre"] = {
-			70000, -- [1]
+		["Cebos Explosivos Helados"] = {
+			14800, -- [1]
 		},
 		["Fragmento Superior del Mapa"] = {
 			14300, -- [1]
@@ -16750,20 +16755,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Jubón de Tela Lunar"] = {
 			2699000, -- [1]
 		},
-		["Pantalones de Oficial"] = {
+		["Botas Aleta Invernal de protección de Escarcha"] = {
 			500000, -- [1]
 		},
-		["Glifo de Martillo del Honrado"] = {
-			388900, -- [1]
+		["Piedra Burda"] = {
+			1050, -- [1]
 		},
-		["Hombreras de Espadachín de resistencia a la Naturaleza"] = {
-			886712, -- [1]
+		["Siluro Mostacherizo"] = {
+			8000, -- [1]
 		},
-		["Corona de Vigilante"] = {
-			390000, -- [1]
+		["Brazal del Consorcio de intelecto"] = {
+			1250000, -- [1]
 		},
-		["Sello de Edward El Extraño"] = {
-			11990000, -- [1]
+		["Glándula ígnea"] = {
+			100000, -- [1]
 		},
 		["Gran Bastón con Colmillos de fuerza"] = {
 			600000, -- [1]
@@ -16774,23 +16779,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cristal de sombras cambiante"] = {
 			87750, -- [1]
 		},
-		["Cohete Rojo Grande"] = {
-			25000, -- [1]
+		["Toga de Lino Blanca"] = {
+			74500, -- [1]
 		},
-		["Prole de dracohalcón azul"] = {
-			286673, -- [1]
+		["Botas supremas de la ballena"] = {
+			3990000, -- [1]
 		},
 		["Guantes de Cabalista del búho"] = {
 			250000, -- [1]
 		},
-		["Glifo de Puñalada"] = {
-			378900, -- [1]
+		["Glifo de Nova de Fuego"] = {
+			409295, -- [1]
 		},
 		["Manual de Instrucciones de Trituradora: Página 2"] = {
 			990000, -- [1]
 		},
-		["Pergamino de Encantar arma: espíritu excepcional"] = {
-			2297500, -- [1]
+		["Gafas de Nieve Mecanizadas de la bestia"] = {
+			1467798, -- [1]
 		},
 		["Glifo de Ola de Choque"] = {
 			434899, -- [1]
@@ -16801,71 +16806,71 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Jubón de la Luna Negra del mono"] = {
 			90000, -- [1]
 		},
-		["Gafas de Nieve Mecanizadas de la bestia"] = {
-			1467798, -- [1]
+		["Pergamino de Encantar arma: espíritu excepcional"] = {
+			2297500, -- [1]
 		},
-		["Barra de Arcanita"] = {
-			1050000, -- [1]
+		["Glifo de Porrazo"] = {
+			349500, -- [1]
 		},
-		["Amito Tejeocaso de cólera Arcana"] = {
-			1499999, -- [1]
+		["Ojo de Zul Resistente"] = {
+			889999, -- [1]
 		},
 		["Comida de Megamamut"] = {
 			140000, -- [1]
 		},
-		["Faja de Wendigo del bandido"] = {
-			5000000, -- [1]
+		["Amito Tejeocaso de cólera Arcana"] = {
+			1499999, -- [1]
 		},
 		["Aletadragón Ennegrecido"] = {
 			182750, -- [1]
 		},
-		["Muro de los Muertos"] = {
-			9479999, -- [1]
+		["Pergamino de Encantar capa: Perforar con hechizos"] = {
+			1118800, -- [1]
 		},
 		["Botas de Templario del tigre"] = {
 			2499999, -- [1]
 		},
-		["Barra de Korio"] = {
-			1787400, -- [1]
+		["Anillo de Tendones Podridos"] = {
+			5690000, -- [1]
 		},
 		["Guantes de Mitril Ornamentado"] = {
 			5000000, -- [1]
 		},
-		["Pechera Aleta Invernal del jabalí"] = {
-			150000, -- [1]
+		["Glifo de Picadura de Serpiente"] = {
+			192500, -- [1]
 		},
 		["Leotardos Encapotados"] = {
 			9829900, -- [1]
 		},
-		["Guanteletes Exaltados de la ballena"] = {
-			40000000, -- [1]
+		["Calcedonia rígida perfecta"] = {
+			543000, -- [1]
 		},
-		["Guanteletes de Saronita Ornamentada"] = {
-			3357000, -- [1]
+		["Vástago oscuro"] = {
+			36999932, -- [1]
 		},
 		["Brazales de Kodo Encantados"] = {
 			5000000, -- [1]
 		},
-		["Cinturón de Ogro Enigma"] = {
-			3500000, -- [1]
+		["Glifo de Exponer Armadura"] = {
+			397699, -- [1]
 		},
-		["Yelmo de Tirano"] = {
-			40000000, -- [1]
+		["Glifo de Nova de Escarcha"] = {
+			2999999, -- [1]
 		},
 		["Guantes Ghrino de intelecto"] = {
 			300000, -- [1]
 		},
-		["Guanteletes Njord de espíritu"] = {
-			155424, -- [1]
+		["Glifo de Fuego Lunar"] = {
+			297993, -- [1]
 		},
 		["Apisonadoras de Tormentero"] = {
 			9939900, -- [1]
 		},
-		["Daga Excéntrica del búho"] = {
-			799000, -- [1]
-		},
 		["Pergamino de Encantar arma: arma ígnea"] = {
 			1999899, -- [1]
+		},
+		["Daga Excéntrica del búho"] = {
+			799000, -- [1]
 		},
 		["Anillo de Dragón Dorado"] = {
 			10800, -- [1]
@@ -16873,29 +16878,29 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Patrón: Chaleco de Cuero Blanco"] = {
 			1295, -- [1]
 		},
-		["Glifo de Maestría en Agua"] = {
-			264900, -- [1]
+		["Anillo con Perla Sencillo"] = {
+			190000, -- [1]
 		},
 		["Cinta Nochefugaz"] = {
 			49900, -- [1]
 		},
-		["Glifo de Escudo de Relámpagos"] = {
-			500000, -- [1]
+		["Prole de dracohalcón dorado"] = {
+			249999, -- [1]
 		},
-		["Guanteletes Sangremar de poder con hechizos"] = {
-			407000, -- [1]
+		["Barra de Veraplata"] = {
+			19500, -- [1]
 		},
 		["Mena de Estaño"] = {
 			5000, -- [1]
 		},
-		["Patrón: leotardos de dragontina negra"] = {
-			15689, -- [1]
+		["Glifo de halcón"] = {
+			257700, -- [1]
 		},
-		["Botas Caminalodo"] = {
-			4500000, -- [1]
+		["Hacha de Cristal Canto"] = {
+			15000000, -- [1]
 		},
-		["Glifo de Destripar"] = {
-			492688, -- [1]
+		["Toga de Tejido Verde de la ballena"] = {
+			60000, -- [1]
 		},
 		["Glifo de Golpe con Runa"] = {
 			479899, -- [1]
@@ -16903,44 +16908,44 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Receta: Chuleta de Lince"] = {
 			439000, -- [1]
 		},
-		["Corona Celestial del búho"] = {
-			40000000, -- [1]
-		},
 		["Seis de Nobles"] = {
 			8570000, -- [1]
+		},
+		["Corona Celestial del búho"] = {
+			40000000, -- [1]
 		},
 		["Pergamino de Encantar arma 2M: masacre"] = {
 			12190000, -- [1]
 		},
-		["Glifo de Consagración"] = {
-			299988, -- [1]
+		["Anillo Espuela de la bestia"] = {
+			9990000, -- [1]
 		},
 		["Anillo de Salvadores"] = {
 			2875000, -- [1]
 		},
-		["Tizona Llameante de Teebu"] = {
-			160000000, -- [1]
+		["Fragmentos de Hierro Negro"] = {
+			3124, -- [1]
 		},
 		["Estrella Regia de intelecto"] = {
 			2999999, -- [1]
 		},
-		["Fragmentos de Hierro Negro"] = {
-			3124, -- [1]
+		["Tizona Llameante de Teebu"] = {
+			160000000, -- [1]
 		},
-		["Martillo de Batalla Algaz del oso"] = {
-			13270282, -- [1]
+		["Patrón: Cinturón de Guardián"] = {
+			29800, -- [1]
 		},
 		["Equipo de Muñeco de Nieve"] = {
 			3699900, -- [1]
 		},
-		["Coraza Brigada del águila"] = {
-			50000000, -- [1]
+		["Costillas de Raptor"] = {
+			7400, -- [1]
 		},
 		["Manto de Tejido Verde del lobo"] = {
 			1000000, -- [1]
 		},
-		["Botas de alma terrestre"] = {
-			55660000, -- [1]
+		["Anguila Relámpago"] = {
+			8899, -- [1]
 		},
 		["Botas de Desgarrador del Viento"] = {
 			24999899, -- [1]
@@ -16948,17 +16953,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Atronar"] = {
 			473990, -- [1]
 		},
-		["Varita de Potencia Arcana"] = {
-			819000, -- [1]
-		},
-		["Toga de Tejido Abisal Imbuido"] = {
-			3120000, -- [1]
+		["Glifo de Entereza"] = {
+			384811, -- [1]
 		},
 		["Quijotes Gloriosos del oso"] = {
 			40000000, -- [1]
 		},
-		["Guanteletes de Zeliek"] = {
-			880000000, -- [1]
+		["Toga de Tejido Abisal Imbuido"] = {
+			3120000, -- [1]
+		},
+		["Glifo de Resguardo contra la Escarcha"] = {
+			249899, -- [1]
 		},
 		["Glifo de Kilrogg"] = {
 			378292, -- [1]
@@ -16975,8 +16980,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Rosa Roja"] = {
 			50000, -- [1]
 		},
-		["Elixir de sangre de trol sublime"] = {
-			99500, -- [1]
+		["Piedra de Afilar Sólida"] = {
+			17450, -- [1]
 		},
 		["Bastón del Fraile"] = {
 			4500000, -- [1]
@@ -16984,11 +16989,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Elixir de Golpes Mortales"] = {
 			443000, -- [1]
 		},
-		["Bufas de Piel de Foca del hechicero"] = {
-			3000000, -- [1]
+		["Glifo de Súcubo"] = {
+			99500, -- [1]
 		},
-		["Chuleta de Oso Grande"] = {
-			69500, -- [1]
+		["Fórmula: encantar brazales: fuerza menor"] = {
+			29800, -- [1]
 		},
 		["Esquema: Desfibriladores Goblin"] = {
 			248000, -- [1]
@@ -16999,17 +17004,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Insultos Barbáricos"] = {
 			89000, -- [1]
 		},
-		["Escudo de Pielférrea del búho"] = {
-			40000000, -- [1]
+		["Aro del Ensalmador Oscuro"] = {
+			49980000, -- [1]
 		},
-		["Glifo de Lobo Fantasmal"] = {
-			339793, -- [1]
+		["Cristal de Sol Rígido"] = {
+			49600, -- [1]
 		},
 		["Bufas de Tejido de Trol"] = {
 			19730000, -- [1]
 		},
-		["Espada de Corrupción"] = {
-			300000, -- [1]
+		["Cristal de Sombras destellante perfecto"] = {
+			290000, -- [1]
 		},
 		["Fragmento Centelleante Grande"] = {
 			330000, -- [1]
@@ -17020,11 +17025,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guantes de Uñagrieta del falcón"] = {
 			3990000, -- [1]
 		},
-		["Espaldares de Mazmorras"] = {
-			23000000, -- [1]
+		["Receta: Carne de Oso Ahumada"] = {
+			199899, -- [1]
 		},
-		["Manto del Consorcio del hechicero"] = {
-			2250000, -- [1]
+		["Guadaña Siniestra del bandido"] = {
+			14880000, -- [1]
 		},
 		["Hombreras de Espadachín de intelecto"] = {
 			3999999, -- [1]
@@ -17044,14 +17049,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Machacacaras"] = {
 			40000000, -- [1]
 		},
-		["Glifo de Falsa Arremetida"] = {
-			549900, -- [1]
+		["Leotardos Nerubianos Oscuros"] = {
+			1700000, -- [1]
 		},
-		["Palo de Nguni del anciano"] = {
-			40000000, -- [1]
+		["Garrote de Conífera del invocador"] = {
+			400000, -- [1]
 		},
-		["Ataduras de Orca de protección de las Sombras"] = {
-			150000, -- [1]
+		["Ametrino de Precisión"] = {
+			3449999, -- [1]
 		},
 		["Poción de Sanación Menor"] = {
 			280, -- [1]
@@ -17059,11 +17064,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Leotardos de Belicista del búho"] = {
 			10000000, -- [1]
 		},
-		["Ametrino de Precisión"] = {
-			3449999, -- [1]
+		["Pantalones de Infiltrado de la ballena"] = {
+			40000000, -- [1]
 		},
-		["Cohete Amarillo Grande"] = {
-			25000, -- [1]
+		["Cinturón con Puntadas Skom de aguante"] = {
+			500000, -- [1]
 		},
 		["Mitad Superior de Forja de Armaduras Avanzada: Volumen II"] = {
 			39999, -- [1]
@@ -17077,8 +17082,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Armadura Arcana"] = {
 			1999999, -- [1]
 		},
-		["Bombachos de Seda Carmesíes"] = {
-			40000, -- [1]
+		["Faja Mercúrica de la ballena"] = {
+			750000, -- [1]
 		},
 		["Mantón Hechicero de cólera Arcana"] = {
 			2506978, -- [1]
@@ -17086,22 +17091,22 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Gran Bastón con Pinchos del bandido"] = {
 			7990000, -- [1]
 		},
-		["Garfas de Akkarai"] = {
-			35000000, -- [1]
+		["Pechera Mascahuesos de la bestia"] = {
+			500000, -- [1]
 		},
 		["Agua Cristalizada"] = {
 			8700, -- [1]
 		},
-		["Faja Mercúrica de la ballena"] = {
-			750000, -- [1]
+		["Ataduras de Orca de protección de las Sombras"] = {
+			150000, -- [1]
 		},
-		["Cristal de Sombras Soberano Perfecto"] = {
-			300000, -- [1]
+		["Glifo de Carrerilla"] = {
+			574499, -- [1]
+		},
+		["Té de Mentamiel"] = {
 		},
 		["Cubrehombros de jade de aguante"] = {
 			40000000, -- [1]
-		},
-		["Té de Mentamiel"] = {
 		},
 		["Glifo de Sello de Orden"] = {
 			1997500, -- [1]
@@ -17109,14 +17114,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Sobrehombros de Bandido"] = {
 			100000, -- [1]
 		},
-		["Patrón: guerrera de paño rúnico"] = {
-			6550, -- [1]
+		["Glifo de Explosión de Fuego"] = {
+			219898, -- [1]
 		},
 		["Diseño: Guanteletes de Cobre con Gemas"] = {
 			1985, -- [1]
 		},
-		["Balista Brutal del Campeón"] = {
-			554010, -- [1]
+		["Glifo de Piedra de Alma"] = {
+			220000, -- [1]
 		},
 		["Quijotes Exaltados del oso"] = {
 			140000000, -- [1]
@@ -17124,59 +17129,59 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Sortija Guardapiedra"] = {
 			175500, -- [1]
 		},
-		["Botas Tralladón del mono"] = {
-			488888, -- [1]
+		["Glifo de Disipar Magia"] = {
+			273298, -- [1]
 		},
-		["Fórmula: Encantar Guantes: Minería Avanzada"] = {
-			242475, -- [1]
+		["Amito Fulgurante"] = {
+			100000, -- [1]
 		},
-		["Manteo de Tafetán Teñido del hierofante"] = {
-			2350000, -- [1]
+		["Poción de acción libre"] = {
+			972289, -- [1]
 		},
 		["Pargo de Lodo Boquilargo"] = {
 			8000, -- [1]
 		},
-		["Botas Místicas de cólera Arcana"] = {
-			2999999, -- [1]
+		["Glifo de Zarpa"] = {
+			159999, -- [1]
 		},
 		["Grebas de Puño de Roca del gorila"] = {
 			40000000, -- [1]
 		},
-		["Dinamita para Tontos II"] = {
-			10680, -- [1]
+		["Glifo de Veneno Entorpecedor"] = {
+			199999, -- [1]
 		},
-		["Aceite de Inmolación"] = {
-			33058, -- [1]
+		["Glifo de Traslación"] = {
+			129500, -- [1]
 		},
-		["Glifo de Armadura de Mago"] = {
-			990000, -- [1]
+		["Glifo de Trampa Congelante"] = {
+			346000, -- [1]
 		},
-		["Ojo de Contemplador Ígneo del invocador"] = {
-			19500000, -- [1]
+		["Faltriquera Azul Pequeña"] = {
+			25800, -- [1]
 		},
-		["Leotardos Grabados del mono"] = {
-			8500886, -- [1]
+		["Antorcha Incesante"] = {
+			710000, -- [1]
 		},
-		["Espaldares Heroicos de aguante"] = {
-			8737975, -- [1]
+		["Cinco de Caos"] = {
+			950000, -- [1]
 		},
 		["Camisote de Guardia de El Aviario"] = {
 			499000, -- [1]
 		},
-		["Glifo de Resguardo de Miedo"] = {
-			324420, -- [1]
+		["Rubí Cárdeno Fracturado"] = {
+			3449999, -- [1]
 		},
-		["Cinturón de Cruzado del búho"] = {
-			19999999, -- [1]
+		["Topacio Monarca"] = {
+			999999, -- [1]
 		},
-		["Lubina Cruda"] = {
-			9332, -- [1]
+		["Glifo de Ruptura"] = {
+			389899, -- [1]
 		},
 		["Glifo de Renacer Desahogado"] = {
 			396999, -- [1]
 		},
-		["Girotiro de Mitril"] = {
-			100, -- [1]
+		["Armadura incomparable del mono"] = {
+			300000, -- [1]
 		},
 		["Pantalones Durables del águila"] = {
 			7000000, -- [1]
@@ -17187,20 +17192,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Ocaso"] = {
 			55550000, -- [1]
 		},
-		["Guantes Tejerred del médico"] = {
-			500000, -- [1]
+		["Glifo de Quemadura de las Sombras"] = {
+			664700, -- [1]
 		},
-		["Coraza de la Mano Destrozada de protección de Escarcha"] = {
-			18999999, -- [1]
+		["Espina de Hielo"] = {
+			50000, -- [1]
 		},
-		["Glifo de Respiración Acuática"] = {
-			219000, -- [1]
+		["Elixir de Caminar sobre el agua"] = {
+			29400, -- [1]
+		},
+		["Glifo de Golpe Fantasmal"] = {
+			269899, -- [1]
 		},
 		["Guanteletes defensores de la ballena"] = {
 			2999999, -- [1]
-		},
-		["Brazales de Bucanero del búho"] = {
-			1000000, -- [1]
 		},
 		["Cubretesta de Terror Eterno"] = {
 			1282500, -- [1]
@@ -17214,41 +17219,41 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Topacio Monarca Diestro"] = {
 			1497500, -- [1]
 		},
-		["Glifo de Arañazo"] = {
-			198102, -- [1]
+		["Glifo de Exorcismo"] = {
+			349800, -- [1]
 		},
-		["Glifo de Torbellino"] = {
-			442089, -- [1]
+		["Lente Verde de cólera Arcana"] = {
+			999000, -- [1]
 		},
 		["Anillo de Lágrimas del Norte"] = {
 			6555537, -- [1]
 		},
-		["Caña de Pescar de Hierro Grande"] = {
-			3550000, -- [1]
+		["Glifo de Encadenar No-muerto"] = {
+			280000, -- [1]
 		},
-		["Elixir de Agilidad Superior"] = {
-			11200, -- [1]
+		["Glifo de Sello de Sabiduría"] = {
+			412499, -- [1]
 		},
-		["Diseño: Jubón de Anillas de Cobre"] = {
-			660, -- [1]
+		["Espetadora de la Noche"] = {
+			6100000, -- [1]
 		},
-		["Quijotes de cobalto claveteados"] = {
-			490000, -- [1]
+		["Medusa"] = {
+			78000, -- [1]
 		},
 		["Cristal de sol liso perfecto"] = {
 			780000, -- [1]
 		},
-		["Leotardos Elegantes del águila"] = {
-			8000000, -- [1]
+		["Glifo de Captar No-muertos"] = {
+			325500, -- [1]
 		},
 		["Espada de Costilla de Dragón del mono"] = {
 			500000, -- [1]
 		},
-		["Pergamino de Intelecto III"] = {
-			10400, -- [1]
+		["Cardopresto"] = {
+			5000, -- [1]
 		},
-		["Boceto: ojo de noche intemporal"] = {
-			500000, -- [1]
+		["Pergamino de Encantar capa: agilidad sublime"] = {
+			1449900, -- [1]
 		},
 		["Coraza de Cresta Oscura del falcón"] = {
 			44999999, -- [1]
@@ -17256,17 +17261,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Patrón: Toga del Vacío"] = {
 			1500000, -- [1]
 		},
-		["Glifo de Aullido de Terror"] = {
-			233704, -- [1]
+		["Boletus Edulis Seco"] = {
+			11300, -- [1]
 		},
-		["Leotardos del Tejepiedra"] = {
-			30000000, -- [1]
+		["Glifo de Agostar"] = {
+			139500, -- [1]
 		},
 		["Cinturón de Cabecilla de la ballena"] = {
 			2999999, -- [1]
 		},
-		["Poción de Maná Excelente"] = {
-			9799, -- [1]
+		["Parche de espadachín del águila"] = {
+			22226500, -- [1]
 		},
 		["Látigo cerebral"] = {
 			2326500, -- [1]
@@ -17277,8 +17282,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Brazales Frioescollo de fuerza"] = {
 			300000, -- [1]
 		},
-		["Glifo de Aura de Disparo Certero"] = {
-			293000, -- [1]
+		["Parche de espadachín de resistencia a las Sombras"] = {
+			40000000, -- [1]
 		},
 		["Pantalones Forrados de Pieles"] = {
 			20000, -- [1]
@@ -17286,11 +17291,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Anillo de Truenedera"] = {
 			40000000, -- [1]
 		},
-		["Clava de Fúrbolg del bandido"] = {
-			350000, -- [1]
+		["Carne de Venado Salada"] = {
+			985, -- [1]
 		},
-		["Lentes de Enfoque de Cristal de Sombras"] = {
-			40000, -- [1]
+		["Draenita de Sombras resplandeciente"] = {
+			6900, -- [1]
 		},
 		["Coraza Magnífica de resistencia a las Sombras"] = {
 			9900000, -- [1]
@@ -17298,17 +17303,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Brea Ardiente"] = {
 			19600, -- [1]
 		},
-		["Esquema: Rifle de Torio"] = {
-			79399, -- [1]
+		["Glifo de Renovar"] = {
+			208850, -- [1]
 		},
 		["Refuerzo para Armadura de Pellejo Nudoso"] = {
 			86000, -- [1]
 		},
-		["Glifo de Piel de Corteza"] = {
-			398900, -- [1]
+		["Brazales de Fuego de Precisión"] = {
+			650000, -- [1]
 		},
-		["Pergamino de Agilidad V"] = {
-			29999, -- [1]
+		["Capa de Cuero Oscuro"] = {
+			59999, -- [1]
 		},
 		["Espada de Coleccionista de Huesos del bandido"] = {
 			24990000, -- [1]
@@ -17316,8 +17321,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hacha de Hueso Barbada"] = {
 			40000000, -- [1]
 		},
-		["Glifo de Bloque de Hielo"] = {
-			160999, -- [1]
+		["Manto de Acechador Abisal del invocador"] = {
+			6000000, -- [1]
 		},
 		["Glifo de Bloqueo"] = {
 			463090, -- [1]
@@ -17328,11 +17333,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Elixir de Agilidad"] = {
 			7400, -- [1]
 		},
-		["Glifo de Protección contra las Sombras"] = {
-			594499, -- [1]
+		["Draenita dorada rígida"] = {
+			20000, -- [1]
 		},
-		["Glifo de Manáfago"] = {
-			2969999, -- [1]
+		["Bengala de Humo Verde"] = {
+			141500, -- [1]
 		},
 		["Prole de Estornino"] = {
 			44800, -- [1]
@@ -17340,8 +17345,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Bastón de Jordan"] = {
 			40000000, -- [1]
 		},
-		["Toga de Paño de Piedra"] = {
-			1499999, -- [1]
+		["Sabiola Cruda Superior"] = {
+			349000, -- [1]
 		},
 		["Fragmento Helado"] = {
 			300000, -- [1]
@@ -17352,32 +17357,32 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cordón de Bucanero del búho"] = {
 			1000000, -- [1]
 		},
-		["Botas Incomparables del falcón"] = {
-			3364231, -- [1]
+		["Rama Tejeocaso de intelecto"] = {
+			3980000, -- [1]
 		},
-		["Glifo de Control Mental"] = {
-			254333, -- [1]
+		["Fajín de Fuego Estelar de protección de Fuego"] = {
+			2010154, -- [1]
 		},
 		["Guanteletes de Cobalto"] = {
 			210000, -- [1]
 		},
-		["Poción de Sanación Excelente"] = {
-			428, -- [1]
+		["Fragmento Resplandeciente Grande"] = {
+			9800, -- [1]
 		},
-		["Siete de No-muertos"] = {
-			2905445, -- [1]
+		["Glifo de Sello de Luz"] = {
+			485342, -- [1]
 		},
 		["Quijotes de Jormungar de defensa"] = {
 			250000, -- [1]
 		},
-		["Coraza de Forjavida"] = {
-			250000000, -- [1]
+		["Furia de Bruja"] = {
+			1999999, -- [1]
 		},
 		["Diamante de Llama Celeste de Ascuas"] = {
 			2497299, -- [1]
 		},
-		["Elixir de ojo de gato"] = {
-			89500, -- [1]
+		["Botines de Acero de Titanes Luminoso"] = {
+			23349997, -- [1]
 		},
 		["Casco de Pielférrea de aguante"] = {
 			40000000, -- [1]
@@ -17388,8 +17393,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Collar Extraviado del invocador"] = {
 			299999999, -- [1]
 		},
-		["Musleras de Grupo de Anillas"] = {
-			4507899, -- [1]
+		["Receta: Kebab de Lobo Sazonado"] = {
+			508999, -- [1]
 		},
 		["Pergamino de Encantar capa: agilidad excelente"] = {
 			398000, -- [1]
@@ -17397,14 +17402,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cinturón de Escarcha Salvaje"] = {
 			1900000, -- [1]
 		},
-		["Perla Azul"] = {
-			80, -- [1]
-		},
 		["Diseño: Botas de Escamas Doradas"] = {
 			440000, -- [1]
 		},
-		["Runa de Amparo Inferior"] = {
-			450000, -- [1]
+		["Perla Azul"] = {
+			80, -- [1]
+		},
+		["Esencia Cósmica Inferior"] = {
+			65656, -- [1]
 		},
 		["Cinturón de Jade del oso"] = {
 			22000000, -- [1]
@@ -17412,14 +17417,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Daga Mermada"] = {
 			15000000, -- [1]
 		},
-		["Baluarte de Placas de intelecto"] = {
-			1500000, -- [1]
-		},
-		["Patrón: Brazales Golpenegro"] = {
-			6000000, -- [1]
+		["MOLL-E"] = {
+			2297500, -- [1]
 		},
 		["Dragontina azul"] = {
 			41890, -- [1]
+		},
+		["Patrón: Brazales Golpenegro"] = {
+			6000000, -- [1]
 		},
 		["Topacio Monarca Destellante"] = {
 			1651250, -- [1]
@@ -17427,11 +17432,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Arma de Asta Cubierta de Herrumbre de fuerza"] = {
 			1890000, -- [1]
 		},
-		["Saco de Maravillas de Ikfirus"] = {
-			73000000, -- [1]
+		["Ametrino Velado"] = {
+			5545000, -- [1]
 		},
-		["Pantalones Astralaan del águila"] = {
-			16999999, -- [1]
+		["Tubo de Bronce"] = {
+			49800, -- [1]
 		},
 		["Cinturón Caldeado de Muerte"] = {
 			39500000, -- [1]
@@ -17439,23 +17444,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Libro de Cocina de Chef"] = {
 			90000, -- [1]
 		},
-		["Guardahombros Ulduar del anciano"] = {
-			470000, -- [1]
+		["Puñado de Tornillos de Cobre"] = {
+			76000, -- [1]
 		},
 		["Ametrino Luminoso"] = {
 			3899999, -- [1]
 		},
-		["Corazón de huargo descolorido"] = {
-			1550, -- [1]
+		["Saco de Maravillas de Ikfirus"] = {
+			73000000, -- [1]
 		},
-		["Tubo de Bronce"] = {
-			49800, -- [1]
+		["Pantalones Astralaan del águila"] = {
+			16999999, -- [1]
 		},
-		["Cubrehombros de Puño de Roca del lobo"] = {
-			40000000, -- [1]
+		["Botas de Escarcha letal"] = {
+			40390000, -- [1]
 		},
-		["Fajín Invernal"] = {
-			39500, -- [1]
+		["Guardahombros Ulduar del anciano"] = {
+			470000, -- [1]
 		},
 		["Uña de Araña del lobo"] = {
 			200000, -- [1]
@@ -17472,16 +17477,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Gloria de Ensueño"] = {
 			19000, -- [1]
 		},
-		["Mandoble Bendito"] = {
-			209000, -- [1]
+		["Las Verdes Colinas de Tuercespina: Página 6"] = {
+			238000, -- [1]
 		},
-		["Diamante de Azeroth"] = {
-			647000, -- [1]
+		["Glifo de Pirofrío"] = {
+			469997, -- [1]
 		},
-		["Shuriken con Garras del águila"] = {
+		["Lágrimas de Arthas"] = {
+			15000, -- [1]
 		},
-		["Puñado de Tornillos de Cobre"] = {
-			76000, -- [1]
+		["Cubrehombros de Puño de Roca del mono"] = {
+			40000000, -- [1]
 		},
 		["Meca-jarly"] = {
 			188009999, -- [1]
@@ -17489,8 +17495,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Capa de Avizor"] = {
 			14499999, -- [1]
 		},
-		["Pergamino de Encantar pechera: maná sublime"] = {
-			200000, -- [1]
+		["Cristal Nexo"] = {
+			53200, -- [1]
 		},
 		["Botas de Tejido Abisal"] = {
 			520000, -- [1]
@@ -17501,8 +17507,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Leotardos de Nigromante"] = {
 			25655500, -- [1]
 		},
-		["Malicia Negra"] = {
-			1499999, -- [1]
+		["Mandoble Bendito"] = {
+			209000, -- [1]
 		},
 		["Botas de Viajero"] = {
 			290000, -- [1]
@@ -17510,8 +17516,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Taparrabos Salpicado de Sangre de la ballena"] = {
 			2386250, -- [1]
 		},
-		["Cristal Nexo"] = {
-			53200, -- [1]
+		["Pergamino de Encantar pechera: maná sublime"] = {
+			200000, -- [1]
 		},
 		["Faja defensora del jabalí"] = {
 			1414358, -- [1]
@@ -17519,23 +17525,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Caperuza Tejerred del médico"] = {
 			30000000, -- [1]
 		},
-		["Yelmo de Torio Encantado"] = {
-			35000000, -- [1]
+		["Pretina Garrasalto del anciano"] = {
+			400000, -- [1]
 		},
 		["Tela Vil"] = {
 			119500, -- [1]
 		},
-		["Aro Bruma de Hielo del hechicero"] = {
-			250000, -- [1]
+		["Poción de Presteza"] = {
+			399999, -- [1]
 		},
 		["Cuchilla para Huesos de la ballena"] = {
 			150000, -- [1]
 		},
-		["Poción de Presteza"] = {
-			399999, -- [1]
+		["Aro Bruma de Hielo del hechicero"] = {
+			250000, -- [1]
 		},
-		["Talasita"] = {
-			118500, -- [1]
+		["Jubón de Fuego Estelar de protección Arcana"] = {
+			4431715, -- [1]
 		},
 		["Flor de Fuego"] = {
 			12000, -- [1]
@@ -17543,11 +17549,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Frío Hambriento"] = {
 			288900, -- [1]
 		},
-		["Dado Decagonal de Enano"] = {
-			8000000, -- [1]
+		["Talasita"] = {
+			118500, -- [1]
 		},
-		["Anillo de Roca Volcánica"] = {
-			2487500, -- [1]
+		["Escarabajo de Terracota"] = {
+			991953, -- [1]
 		},
 		["Sobrehombros de Cabecilla del búho"] = {
 			920000, -- [1]
@@ -17555,11 +17561,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pergamino de Encantar brazales: espíritu sublime"] = {
 			3727546, -- [1]
 		},
-		["Guantes Runavold del invocador"] = {
-			210000, -- [1]
+		["Brazales de Templario de poder"] = {
+			1191527, -- [1]
 		},
-		["Voluntad de Edward El Raro"] = {
-			25550000, -- [1]
+		["Dos de No-muertos"] = {
+			1860000, -- [1]
 		},
 		["Amuleto de Cainwyn Enjoyado"] = {
 			6500000, -- [1]
@@ -17573,11 +17579,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Anillo Extraviado del hierofante"] = {
 			249999999, -- [1]
 		},
-		["Pretina Cubredaga del mono"] = {
-			488888, -- [1]
+		["Voluntad de Edward El Raro"] = {
+			25550000, -- [1]
 		},
-		["Vigorpez Lustroso Crudo"] = {
-			9899, -- [1]
+		["Diamante Negro Prístino"] = {
+			864500, -- [1]
 		},
 		["Ágata Musgosa"] = {
 			99500, -- [1]
@@ -17585,8 +17591,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Círculo de Doncella"] = {
 			1000000, -- [1]
 		},
-		["Cuero de Uñagrieta Grueso"] = {
-			790, -- [1]
+		["Patrón: Armadura de Seda Verde"] = {
+			108899, -- [1]
 		},
 		["Patrón: botas de sable de hielo"] = {
 			79999, -- [1]
@@ -17603,14 +17609,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Calcedonia Brillante"] = {
 			10000, -- [1]
 		},
-		["Carcaj Reforzado Nerubiano"] = {
-			5478800, -- [1]
+		["Glifo de Garrote"] = {
+			250000, -- [1]
 		},
 		["Anillo de Citrino de Sanación Rápida"] = {
 			10530, -- [1]
 		},
-		["Patrón: Armadura de Seda Verde"] = {
-			108899, -- [1]
+		["Cuero de Uñagrieta Grueso"] = {
+			790, -- [1]
 		},
 		["Pulseras de Escamas Gruesas del tigre"] = {
 			26969, -- [1]
@@ -17624,14 +17630,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Zapatillas de Paño Abisal de brujería"] = {
 			390000, -- [1]
 		},
-		["Pergamino de intelecto IV"] = {
-			5000, -- [1]
+		["Faca de Acero de Titanes"] = {
+			30000000, -- [1]
+		},
+		["Sortija de Dominio"] = {
+			660000, -- [1]
 		},
 		["Cinturón de Bruto del oso"] = {
 			1999999, -- [1]
-		},
-		["Quijotes Heroicos de poder"] = {
-			5753361, -- [1]
 		},
 		["Filete de Jamón Curado"] = {
 			1150, -- [1]
@@ -17642,8 +17648,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Esencia de Tierra"] = {
 			450000, -- [1]
 		},
-		["Glifo de Sangre Vampírica"] = {
-			249000, -- [1]
+		["Sepia Resplandor Lunar"] = {
+			2300, -- [1]
 		},
 		["Cristal de Sol Grueso"] = {
 			117499, -- [1]
@@ -17654,14 +17660,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guanteletes de Cruzado del águila"] = {
 			3118198, -- [1]
 		},
-		["Lente Verde de regeneración"] = {
-			900000, -- [1]
+		["Glifo de Toque Helado"] = {
+			296500, -- [1]
 		},
-		["Patrón: pantalones de tejido de Escarcha"] = {
-			145000, -- [1]
+		["Cinturón Impenetrable de la ballena"] = {
+			30000000, -- [1]
 		},
-		["Receta: Caballa de Piel Escurridiza"] = {
-			308900, -- [1]
+		["Arenque Oscuro"] = {
+			254000, -- [1]
 		},
 		["Corazón de oscuridad"] = {
 			1000000, -- [1]
@@ -17669,8 +17675,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Sobrehombros de Tejido del Alba"] = {
 			550000, -- [1]
 		},
-		["Pergamino de Encantar brazales: asalto superior"] = {
-			2307500, -- [1]
+		["Glifo de Orden Oscura"] = {
+			467700, -- [1]
 		},
 		["Elixir de Visión Onírica"] = {
 			950550, -- [1]
@@ -17681,8 +17687,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Piedra de Terror Enjundiosa"] = {
 			1938800, -- [1]
 		},
-		["Cartera de Encantador"] = {
-			1500000, -- [1]
+		["Palitos de Pez Dorado"] = {
+			12500, -- [1]
 		},
 		["Flujo Concentrado"] = {
 			6900, -- [1]
@@ -17690,17 +17696,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cinturón Ghrino del bandido"] = {
 			1500000, -- [1]
 		},
-		["Espada Decapitadora del tigre"] = {
-			3493364, -- [1]
+		["Cartera de Encantador"] = {
+			1500000, -- [1]
 		},
-		["Glifo de Cuerno de Invierno"] = {
-			254999, -- [1]
-		},
-		["Kris de Sacrificio del oso"] = {
-			100000, -- [1]
-		},
-		["Avambrazos de Mazo de Guerra del Campeón"] = {
-			2250000, -- [1]
+		["Manoplas Desalentadoras"] = {
+			1784884, -- [1]
 		},
 		["Coraza Brigada de espíritu"] = {
 			50000000, -- [1]
@@ -17708,14 +17708,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Aguja del Tallapiedras"] = {
 			770000, -- [1]
 		},
+		["Kris de Sacrificio del oso"] = {
+			100000, -- [1]
+		},
+		["Avambrazos de Mazo de Guerra del Campeón"] = {
+			2250000, -- [1]
+		},
 		["Anillo de Frente de Acero"] = {
 			40000000, -- [1]
 		},
 		["Varita de Hielo Sólida del hechicero"] = {
 			371500, -- [1]
 		},
-		["Glifo de Golpe de Tormenta"] = {
-			229900, -- [1]
+		["Espina de Karrog"] = {
+			990000, -- [1]
 		},
 		["Pergamino de Encantar guantes: celeridad menor"] = {
 			990000, -- [1]
@@ -17723,8 +17729,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Chafarote de Saronita"] = {
 			1509998, -- [1]
 		},
-		["Glifo de Misiles Arcanos"] = {
-			285900, -- [1]
+		["Madera de Estrella"] = {
+			30000, -- [1]
 		},
 		["Espuelas de Mitril"] = {
 			498000, -- [1]
@@ -17735,8 +17741,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Poción de Celeridad"] = {
 			629999, -- [1]
 		},
-		["Glifo de Espiral de la Muerte"] = {
-			838196, -- [1]
+		["Patrón: Pantalones de Gran Vudú"] = {
+			59500, -- [1]
 		},
 		["Glifo de Aflicción Inestable"] = {
 			438391, -- [1]
@@ -17747,29 +17753,29 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Rocío de Gloria Matinal"] = {
 			60000, -- [1]
 		},
-		["Poción de Ira Poderosa"] = {
-			190750, -- [1]
+		["Escarpes Inexorables"] = {
+			189999999, -- [1]
 		},
 		["Yelmo Sangremar de la ballena"] = {
 			150000, -- [1]
 		},
-		["Recuerdo Embrujado"] = {
-			180000000, -- [1]
+		["Anillo de Sutarn"] = {
+			2557500, -- [1]
 		},
-		["Libro de Cocina para Expertos"] = {
-			100001, -- [1]
+		["Botas de Mitril Pesado"] = {
+			5000000, -- [1]
 		},
 		["Anillo de Sabana del lobo"] = {
 			249999, -- [1]
 		},
-		["Anillo de Sutarn"] = {
-			2557500, -- [1]
+		["Leotardos de Escamas de Tortuga"] = {
+			150000, -- [1]
 		},
 		["Receta: Poción de Resistencia a la Magia Menor"] = {
 			206910, -- [1]
 		},
-		["Botas de Mitril Pesado"] = {
-			5000000, -- [1]
+		["Barra de Titanio"] = {
+			758000, -- [1]
 		},
 		["Patrón: pantalones de tejido fantasmal"] = {
 			20000, -- [1]
@@ -17780,11 +17786,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Faja Inductora de Choques"] = {
 			500000, -- [1]
 		},
-		["Fragmento Radiante Pequeño"] = {
-			9800, -- [1]
+		["Esquema: Bengala de Humo Morado"] = {
+			1499999, -- [1]
 		},
-		["Toga de Sanguiespora de la ballena"] = {
-			100000, -- [1]
+		["Glifo de Monzón"] = {
+			273900, -- [1]
 		},
 		["Esquema: Mina Terrestre Goblin"] = {
 			1237500, -- [1]
@@ -17798,23 +17804,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cinturón Pataescarcha del médico"] = {
 			2200000, -- [1]
 		},
-		["Espada Magna Abandonada"] = {
-			500000, -- [1]
+		["Hoja de Cíngaro del anciano"] = {
+			159999, -- [1]
 		},
 		["Capucha de Cultor Crepuscular"] = {
 			150000, -- [1]
 		},
-		["Hoja de Cíngaro del anciano"] = {
-			159999, -- [1]
+		["Espada Magna Abandonada"] = {
+			500000, -- [1]
 		},
 		["Guanteletes de Brigandina de defensa"] = {
 			999999, -- [1]
 		},
-		["Brazales de Escamas de Escarcha"] = {
-			150000, -- [1]
+		["Glifo de Sello de Venganza"] = {
+			485499, -- [1]
 		},
-		["Aro de Jade del jabalí"] = {
-			40000000, -- [1]
+		["Colgante de Zafiro de Noche Invernal"] = {
+			107000, -- [1]
 		},
 		["Cinturón de Pellejo de Cría de Ley"] = {
 			1000000, -- [1]
@@ -17825,14 +17831,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Siete de Señores de la Guerra"] = {
 			1977500, -- [1]
 		},
-		["Quijotes de Kraken de protección de las Sombras"] = {
-			1100000, -- [1]
+		["Colgante de Daga de Jade"] = {
+			780000, -- [1]
 		},
 		["Garfas Indómitas de la bestia"] = {
 			219000, -- [1]
 		},
-		["Glifo de Guardia Vil"] = {
-			403283, -- [1]
+		["Brazales Rectos del mono"] = {
+			150000, -- [1]
 		},
 		["Grebas de Puño de Roca del hechicero"] = {
 			100000000, -- [1]
@@ -17849,14 +17855,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Poción de Sanación Volátil"] = {
 			18800, -- [1]
 		},
-		["Gracia de Kharmaa"] = {
-			810000, -- [1]
+		["Pergamino de Fuerza VI"] = {
+			29799, -- [1]
 		},
 		["Guanteletes de Solescama"] = {
 			2116542, -- [1]
 		},
-		["Elixir de Defensa Superior"] = {
-			9262, -- [1]
+		["Gracia de Kharmaa"] = {
+			810000, -- [1]
 		},
 		["Ataduras de Eviscerador"] = {
 			7869900, -- [1]
@@ -17864,8 +17870,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pergamino de Runas de Entereza"] = {
 			74625, -- [1]
 		},
-		["Guerrera Bruñida"] = {
-			1320000, -- [1]
+		["Leotardos Rectos de la ballena"] = {
+			35206662, -- [1]
 		},
 		["Fajín de Jordan"] = {
 			40000000, -- [1]
@@ -17882,17 +17888,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Toga Pinocerda del búho"] = {
 			1000000, -- [1]
 		},
-		["Barra de torio encantado"] = {
-			50000, -- [1]
+		["Pantalones humeantes"] = {
+			3000000, -- [1]
 		},
-		["Leotardos Elegantes del falcón"] = {
-			7000000, -- [1]
+		["Draenita de Sombras Soberana"] = {
+			2535, -- [1]
 		},
 		["Hacha de Tratante de Esclavos del gorila"] = {
 			9999999, -- [1]
 		},
-		["Vara de Veraplata"] = {
-			299000, -- [1]
+		["Leotardos Elegantes del falcón"] = {
+			7000000, -- [1]
 		},
 		["Sello de Aguamarina del lobo"] = {
 			140000, -- [1]
@@ -17903,14 +17909,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Blasón de la familia Garrett"] = {
 			6660000, -- [1]
 		},
-		["Fórmula: Encantar Botas: Espíritu Inferior"] = {
-			99500, -- [1]
+		["Guantes de Cuero Estampado"] = {
+			10200, -- [1]
 		},
-		["Cristal de Vacío"] = {
-			998999, -- [1]
+		["Superpoción de Sanación"] = {
+			10300, -- [1]
 		},
-		["Libranza del Artesano: Aro Radiante"] = {
-			199999, -- [1]
+		["Fórmula: encantar arma: oleada de hechizos"] = {
+			385550, -- [1]
 		},
 		["Carne de Gusano de Arena"] = {
 			18600, -- [1]
@@ -17918,14 +17924,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Brazales de Muradin de defensa"] = {
 			158800, -- [1]
 		},
-		["Manto Hechicero del búho"] = {
-			2999999, -- [1]
+		["Yelmo Calavermis del búho"] = {
+			145000, -- [1]
 		},
 		["Patrón: guantes de fe verdadera"] = {
 			40000, -- [1]
 		},
-		["Amito Tejeocaso de intelecto"] = {
-			1499999, -- [1]
+		["Abismo Primigenio"] = {
+			16000, -- [1]
 		},
 		["Hocinos Preciados del soldado"] = {
 			488888, -- [1]
@@ -17936,8 +17942,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Rabia"] = {
 			175013, -- [1]
 		},
-		["Guanteletes de Kraken de intelecto"] = {
-			1900000, -- [1]
+		["Glifo de Reflejo de Hechizos"] = {
+			346500, -- [1]
 		},
 		["Patrón: Guardabrazos Sombra Lunar"] = {
 			14500000, -- [1]
@@ -17948,8 +17954,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Carabina con Bayoneta"] = {
 			1600000000, -- [1]
 		},
-		["Collar de la Luna Negra"] = {
-			12330826, -- [1]
+		["Diamante de Asedio de Tierra Vigorizador"] = {
+			3497500, -- [1]
 		},
 		["Mostacho de Khadgar"] = {
 			29800, -- [1]
@@ -17963,14 +17969,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Anillo Grabado del falcón"] = {
 			435553, -- [1]
 		},
+		["Cinturón Delicado de cólera ígnea"] = {
+			2914989, -- [1]
+		},
 		["Citrino Enorme Velado"] = {
 			49600, -- [1]
 		},
-		["Zafiro Celestial"] = {
-			154500, -- [1]
-		},
-		["Glifo de Golpe de Escarcha"] = {
-			316900, -- [1]
+		["Fórmula: encantar botas: vitalidad"] = {
+			100000, -- [1]
 		},
 		["Botas de Relámpagos con Toma de Tierra"] = {
 			60000000, -- [1]
@@ -17978,8 +17984,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guanteletes Bendecidos por El Sol"] = {
 			200000000, -- [1]
 		},
-		["Fórmula: encantar brazales: espíritu superior"] = {
-			499000, -- [1]
+		["Fórmula: encantar brazales: aguante superior"] = {
+			3227500, -- [1]
 		},
 		["Rifle de Barbalarga del bandido"] = {
 			450000, -- [1]
@@ -17990,8 +17996,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pretina Umbropantano del mono"] = {
 			1200000, -- [1]
 		},
-		["Rifle de Asalto Gnomo del águila"] = {
-			1250000, -- [1]
+		["Glifo de Venas Heladas"] = {
+			220000, -- [1]
 		},
 		["Diseño: Rompepuntas de Saronita"] = {
 			4800000, -- [1]
@@ -18002,35 +18008,35 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Coraza de Pielférrea del mono"] = {
 			40000000, -- [1]
 		},
-		["Brazales de Valor"] = {
-			140000, -- [1]
+		["Mena de Korio"] = {
+			800000, -- [1]
 		},
 		["Escudo de Cráneo Negro"] = {
 			5550000, -- [1]
 		},
-		["Punta de Escudo de Titanio"] = {
-			1240000, -- [1]
+		["Glifo de Caparazón Antimagia"] = {
+			439183, -- [1]
 		},
-		["Patrón: Guanteletes de Cuero Rúnico"] = {
-			18200, -- [1]
+		["Cristal de Sol Místico Perfecto"] = {
+			560000, -- [1]
 		},
 		["Espaldares de Brigadier"] = {
 			1409688, -- [1]
 		},
-		["Braciles del Anillo Celeste"] = {
-			360000, -- [1]
+		["Dos de Señores de la Guerra"] = {
+			730000, -- [1]
 		},
-		["Fórmula: Encantar Capa: Resistencia a las Sombras Excelente"] = {
-			9999999, -- [1]
+		["Bufas Pino Ámbar del anciano"] = {
+			1000000, -- [1]
 		},
-		["Glifo de Disparo de Quimera"] = {
-			501488, -- [1]
+		["Glifo de Cadenas de Hielo"] = {
+			100000, -- [1]
 		},
-		["Glifo de Congelación Profunda"] = {
-			1163750, -- [1]
+		["Glifo de Atracción Letal"] = {
+			198501, -- [1]
 		},
-		["Glifo de Armadura Inquebrantable"] = {
-			99500, -- [1]
+		["Siete de Elementales"] = {
+			430000, -- [1]
 		},
 		["Sobrehombros de Cobalto"] = {
 			1500000, -- [1]
@@ -18044,44 +18050,44 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Vestimenta Cabeza de la Muerte"] = {
 			2000000, -- [1]
 		},
-		["Fórmula: Encantar Capa: Resistencia Superior"] = {
-			4700, -- [1]
+		["Patrón: Toga de Merlín"] = {
+			89999999, -- [1]
 		},
-		["Manto Piel de Cardo del lobo"] = {
-			4968911, -- [1]
+		["Manta Raya al Horno"] = {
+			140000, -- [1]
 		},
-		["Leotardos Tethys del profeta"] = {
-			150618, -- [1]
+		["Pulseras de Visir del médico"] = {
+			220000, -- [1]
 		},
 		["Arco Largo Honorable del lobo"] = {
 			2200000, -- [1]
 		},
-		["Poción de Maná Helada"] = {
-			45692, -- [1]
+		["Manijas de Mur'crófago del profeta"] = {
+			400000, -- [1]
 		},
-		["Bengala de Humo Blanco"] = {
-			50999, -- [1]
+		["Receta: Tortilla con un Sabor Curioso"] = {
+			9899, -- [1]
 		},
-		["Leotardos de Pretoriano del oso"] = {
-			3314474, -- [1]
+		["Toga Aborigen de cólera de las Sombras"] = {
+			1950000, -- [1]
 		},
 		["Prendas de Lana de Místico"] = {
 			5296876, -- [1]
 		},
-		["Manto de Lego de aguante"] = {
-			2999999, -- [1]
+		["Receta: Poción de Protección contra el Fuego Superior"] = {
+			1227499, -- [1]
 		},
 		["Pan Ácimo Crujiente"] = {
 			1101, -- [1]
 		},
-		["Malla de Placas de Torio Encantado"] = {
-			49800, -- [1]
+		["Fórmula: Encantar Escudo: Protección Inferior"] = {
+			40000, -- [1]
 		},
 		["Varita de Ascuas del gorila"] = {
 			850000, -- [1]
 		},
-		["Anillo de Poder Terráneo"] = {
-			6922837, -- [1]
+		["Esmeralda del Bosque Deslumbrante"] = {
+			47237, -- [1]
 		},
 		["Manijas Lupinas del mono"] = {
 			494949, -- [1]
@@ -18089,62 +18095,62 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Botas de Láminas Pesadas de la ballena"] = {
 			1576014, -- [1]
 		},
-		["Derramasangre"] = {
-			40000000, -- [1]
+		["Basilisco Ennegrecido"] = {
+			995, -- [1]
 		},
 		["Tinta de Fuego de Jade"] = {
 			420000, -- [1]
 		},
-		["Leotardos de Glotón del águila"] = {
-			180529, -- [1]
+		["Aceite de Zahorí Excelente"] = {
+			389999, -- [1]
 		},
-		["Citrino Enorme Diestro Perfecto"] = {
-			150000, -- [1]
+		["Poción de Sanación Resurgente"] = {
+			9000, -- [1]
 		},
 		["Glifo de Aspecto de La Víbora"] = {
 			739900, -- [1]
 		},
-		["Esmeralda del Bosque Destrozada"] = {
-			420099, -- [1]
+		["Anillo de Poder de Sombra"] = {
+			550000, -- [1]
 		},
-		["Dirk Temerario"] = {
-			750000, -- [1]
-		},
-		["Brezospina"] = {
-			73684, -- [1]
-		},
-		["Yelmo de Escamas de Sangre del búho"] = {
-			25500000, -- [1]
+		["Citrino Enorme Diestro Perfecto"] = {
+			150000, -- [1]
 		},
 		["Jubón de Sauce de la ballena"] = {
 			20000, -- [1]
 		},
+		["Yelmo de Escamas de Sangre del búho"] = {
+			25500000, -- [1]
+		},
+		["Esmeralda del Bosque Destrozada"] = {
+			420099, -- [1]
+		},
 		["Caperuza de Acero Brillante"] = {
 			1000000, -- [1]
 		},
-		["Naipe de la Luna Negra: ¡Rabioso!"] = {
-			9850000, -- [1]
+		["Glifo de Dolor Abrasador"] = {
+			358100, -- [1]
 		},
-		["Musleras de Pielférrea de cólera Arcana"] = {
-			40000000, -- [1]
-		},
-		["Guantes de Lino Gruesos"] = {
-			50000, -- [1]
-		},
-		["Leotardos Canto de Cristal del profeta"] = {
-			11500000, -- [1]
+		["Guanteletes de Nidada de Rhie-ay"] = {
+			399000, -- [1]
 		},
 		["Especias Suaves"] = {
 			9200, -- [1]
 		},
-		["Glifo de Renacer"] = {
-			100000, -- [1]
+		["Leotardos Canto de Cristal del profeta"] = {
+			11500000, -- [1]
 		},
-		["Fórmula: encantar pechera: maná menor"] = {
-			2100, -- [1]
+		["Musleras de Pielférrea de cólera Arcana"] = {
+			40000000, -- [1]
 		},
-		["Frasco de Restauración Poderosa"] = {
-			651428, -- [1]
+		["Glifo de Tormenta Divina"] = {
+			545693, -- [1]
+		},
+		["Espaldares de Lord del búho"] = {
+			2999999, -- [1]
+		},
+		["Vial rajado"] = {
+			2900, -- [1]
 		},
 		["Huargo Asado"] = {
 			12400, -- [1]
@@ -18152,11 +18158,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Toga de Vicario"] = {
 			60000, -- [1]
 		},
-		["Ocho de Furias"] = {
-			49800, -- [1]
+		["Patrón: Yelmo de Escórpido Grueso"] = {
+			989000, -- [1]
 		},
-		["Desgarrantrañas"] = {
-			1000000, -- [1]
+		["Belicista"] = {
+			500000, -- [1]
 		},
 		["Boceto: topacio noble temerario"] = {
 			120000, -- [1]
@@ -18167,11 +18173,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Serviola Moteada Cruda"] = {
 			498, -- [1]
 		},
-		["Belicista"] = {
-			500000, -- [1]
+		["Manto Místico de cólera Arcana"] = {
+			2999999, -- [1]
 		},
-		["Proyectiles de Torio"] = {
-			96, -- [1]
+		["Quiebraespadas Afilada de Lydia"] = {
+			589999, -- [1]
 		},
 		["Símbolo de Divinidad"] = {
 			29999, -- [1]
@@ -18179,8 +18185,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Piedra Sólida"] = {
 			1152, -- [1]
 		},
-		["Esencia Eterna Superior"] = {
-			358000, -- [1]
+		["Pergamino de Espíritu"] = {
+			10000, -- [1]
 		},
 		["Leotardos de Golpes Viscerales"] = {
 			2800497, -- [1]
@@ -18194,16 +18200,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Patrón: Coraza Nerubiana Embrujada"] = {
 			3995000, -- [1]
 		},
-		["Calzones Uñagrieta del falcón"] = {
-			6283041, -- [1]
+		["Barra de Plata"] = {
+			220000, -- [1]
 		},
-		["Faja de Paño Brillante"] = {
+		["Patrón: Sobrehombros de Cuero Rúnico"] = {
+			15790, -- [1]
 		},
-		["Rubí Escarlata Brillante"] = {
-			1000000, -- [1]
+		["Gafas Tintadas de Verde"] = {
+			50000, -- [1]
 		},
-		["Guantes de Celador"] = {
-			2499999, -- [1]
+		["Glifo de Abrazo de la Muerte"] = {
+			479000, -- [1]
 		},
 		["Punzón de Sabiduría del águila"] = {
 			1500000, -- [1]
@@ -18220,8 +18227,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Envoltorio de Telaraña Roto"] = {
 			780000000, -- [1]
 		},
-		["Glifo de Orden"] = {
-			305399, -- [1]
+		["Glifo de Añublo Profano"] = {
+			301500, -- [1]
 		},
 		["Cinturón de Escalador Liviano"] = {
 			57152700, -- [1]
@@ -18238,32 +18245,32 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Máscara Rocasol del invocador"] = {
 			29999999, -- [1]
 		},
-		["Esquema: gafas de maestro ingeniero"] = {
-			225924, -- [1]
+		["Hacha de Batalla de Torio Enorme"] = {
+			350000, -- [1]
 		},
 		["Glifo de Aliviar"] = {
 			110000, -- [1]
 		},
-		["Jade"] = {
-			170000, -- [1]
+		["Glifo de Disparo Explosivo"] = {
+			548900, -- [1]
 		},
-		["Guantes de Tejido del Alba"] = {
-			200000, -- [1]
+		["Anillo Rúnico del búho"] = {
+			40000000, -- [1]
 		},
-		["Jade Oscuro"] = {
-			110000, -- [1]
+		["Celada Pinocerda de protección de Fuego"] = {
+			100000, -- [1]
 		},
-		["Bastón de Conocimiento Primigenio de la bestia"] = {
-			500000, -- [1]
+		["Glifo de Entereza Ligada al Hielo"] = {
+			194499, -- [1]
 		},
-		["Guantes de Wendigo de espíritu"] = {
-			1900000, -- [1]
+		["Cohete Verde Grande"] = {
+			25000, -- [1]
 		},
 		["Carne de Águila Ratonera"] = {
 			204, -- [1]
 		},
-		["Celada Pinocerda de protección de Fuego"] = {
-			100000, -- [1]
+		["Glifo de Trueno"] = {
+			338000, -- [1]
 		},
 		["Bufas Skom del vidente"] = {
 			290000, -- [1]
@@ -18271,23 +18278,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Granate de Sangre Llamativo"] = {
 			8800, -- [1]
 		},
-		["Capacete Heroico de defensa"] = {
-			40000000, -- [1]
+		["Daga Excéntrica del anciano"] = {
+			150000, -- [1]
 		},
 		["Faja Puñosangre de la bestia"] = {
 			9999999, -- [1]
 		},
-		["Jade Oscuro Duradero"] = {
-			9900, -- [1]
+		["Salmón Ahumado"] = {
+			29055, -- [1]
 		},
 		["Bastón de Celador"] = {
 			5000000, -- [1]
 		},
-		["Poción de Maná Inferior"] = {
-			11600, -- [1]
-		},
 		["Guardia de Escarcha"] = {
 			53808629, -- [1]
+		},
+		["Glifo de Imposición de Manos"] = {
+			398949, -- [1]
 		},
 		["Ojo de Zul vidente"] = {
 			939997, -- [1]
@@ -18295,11 +18302,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Lágrima de granate de sangre"] = {
 			6728, -- [1]
 		},
-		["Rodela de Kashala del hechicero"] = {
-			900000, -- [1]
+		["Joya de Tormenta Luminosa"] = {
+			3500000, -- [1]
 		},
-		["Runaespada del tigre"] = {
-			14848753, -- [1]
+		["Colmillo Negro"] = {
+			3500000, -- [1]
 		},
 		["Cinturón de Cuero Refinado"] = {
 			30000, -- [1]
@@ -18307,8 +18314,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Poción de Magia Salvaje"] = {
 			1008525, -- [1]
 		},
-		["Poción de Pesadillas"] = {
-			138000, -- [1]
+		["Pistola Empobrecida de la ballena"] = {
+			500000, -- [1]
 		},
 		["Sobrehombros de Concejal del lobo"] = {
 			4999999, -- [1]
@@ -18319,20 +18326,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hilo Rúnico"] = {
 			8899, -- [1]
 		},
-		["Sombrero de corazón de fuego de poder con hechizos"] = {
-			600000, -- [1]
-		},
 		["Martillo de Ambrosía de aguante"] = {
 			197729, -- [1]
 		},
-		["Libro sobre maestría en glifos"] = {
-			97500, -- [1]
+		["Sombrero de corazón de fuego de poder con hechizos"] = {
+			600000, -- [1]
+		},
+		["Patrón: Botas Prestas"] = {
+			14587, -- [1]
 		},
 		["Loto de Escarcha"] = {
 			49800, -- [1]
 		},
-		["Poción de Alquimista Demente"] = {
-			201000, -- [1]
+		["Pergamino de Encantar arma: magia negra"] = {
+			22919999, -- [1]
 		},
 		["Orbe de Calavera de Demonio del médico"] = {
 			500000, -- [1]
@@ -18343,14 +18350,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Empolvatoria"] = {
 			696969696, -- [1]
 		},
-		["Colmillo Oscuro"] = {
-			77980500, -- [1]
+		["Escamas Cromáticas Luminosas"] = {
+			65554, -- [1]
 		},
 		["Guantes de Escarcha Salvaje"] = {
 			1900000, -- [1]
 		},
-		["Grebas de Puño de Roca de la ballena"] = {
-			40000000, -- [1]
+		["Pellejo Medio Curtido"] = {
+			40000, -- [1]
 		},
 		["Draenita dorada luminosa"] = {
 			48750, -- [1]
@@ -18361,14 +18368,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Capa de Tejido de Sangre del águila"] = {
 			40000000, -- [1]
 		},
-		["Perritos de Rinoceronte"] = {
-			10000, -- [1]
+		["Almádena Piedra de Espinas"] = {
+			500000, -- [1]
 		},
 		["Casco Fuerte Ébano"] = {
 			350000, -- [1]
 		},
-		["Glifo de Invisibilidad"] = {
-			539697, -- [1]
+		["Loto Negro"] = {
+			199000, -- [1]
 		},
 		["Citrino Enorme con Inscripciones Perfecto"] = {
 			290000, -- [1]
@@ -18382,8 +18389,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Varita Fría del invocador"] = {
 			1259999, -- [1]
 		},
-		["Esencia Astral Inferior"] = {
-			40000, -- [1]
+		["Loto Vil"] = {
+			7600, -- [1]
 		},
 		["Brazales de Señor de las Arañas del anciano"] = {
 			1500000, -- [1]
@@ -18403,44 +18410,44 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Flor Vil"] = {
 			4350, -- [1]
 		},
-		["Maná Primigenio"] = {
-			500000, -- [1]
+		["Corona de Gran Jefe de defensa"] = {
+			4999999, -- [1]
 		},
-		["Receta con Marcas de Agua"] = {
-			6290000, -- [1]
+		["Diseño: pantalones de mitril pesado"] = {
+			48400, -- [1]
 		},
-		["Mena de Veraplata"] = {
-			24800, -- [1]
+		["Gargantilla de Esmeraldas"] = {
+			848000, -- [1]
 		},
 		["Manto de consejero mayor de la ballena"] = {
 			19999999, -- [1]
 		},
-		["Casco Pataescarcha del tigre"] = {
-			299999, -- [1]
-		},
-		["Yelmo Cabeza de Lobo"] = {
-			9990000, -- [1]
+		["Sello Onírico del tirador"] = {
+			1689999, -- [1]
 		},
 		["Soldador Láser Goblin"] = {
 			30000, -- [1]
 		},
-		["Lágrima encantada"] = {
-			428888, -- [1]
+		["Yelmo Cabeza de Lobo"] = {
+			9990000, -- [1]
+		},
+		["Espada Corta de Venganza"] = {
+			30000000, -- [1]
+		},
+		["Rinoceronte Suculento"] = {
+			99500, -- [1]
 		},
 		["Bocarda Calibrada Milimétricamente"] = {
 			1980000, -- [1]
 		},
-		["Medallón de Platino de la bestia"] = {
-			50000000, -- [1]
-		},
-		["Brazales Presavil del gorila"] = {
-			100000, -- [1]
+		["Jubón de Eslabones Pino Ámbar del tigre"] = {
+			900000, -- [1]
 		},
 		["Coraza Ulduar del falcón"] = {
 			500000, -- [1]
 		},
-		["Glifo de Magullar"] = {
-			195000, -- [1]
+		["Yelmo de Acerira"] = {
+			40000000, -- [1]
 		},
 		["Glifo de Descarga de Relámpagos"] = {
 			298700, -- [1]
@@ -18451,11 +18458,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Maestría Elemental"] = {
 			548273, -- [1]
 		},
-		["Guantes de Caribú de poder con hechizos"] = {
-			60000, -- [1]
+		["Glifo de Magullar"] = {
+			195000, -- [1]
 		},
-		["Sombrero de Zahorí Regio del búho"] = {
-			50000000, -- [1]
+		["Cinturón Flechapresta"] = {
+			9929900, -- [1]
 		},
 		["Colgante del Guerrero de Aguamarina"] = {
 			99900, -- [1]
@@ -18466,20 +18473,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Emboscada"] = {
 			20200, -- [1]
 		},
-		["Partículas de titanio"] = {
-			376100, -- [1]
+		["Pez Escorpión del Norte Pochado"] = {
+			97013, -- [1]
 		},
-		["Cubrehombros Haltorboll de intelecto"] = {
-			100000, -- [1]
+		["Quijotes Haltorboll del Campeón"] = {
+			990000, -- [1]
 		},
 		["Glifo de Nova Sagrada"] = {
 			198600, -- [1]
 		},
-		["Patrón: Leotardos de Escórpido Resistentes"] = {
-			2300, -- [1]
+		["Pez Escorpión a la Brasa"] = {
+			20000, -- [1]
 		},
-		["Guanteletes Flechapresta"] = {
-			9929900, -- [1]
+		["Bufas Pino Ámbar del vidente"] = {
+			250000, -- [1]
 		},
 		["Diseño: Yelmo de Torio"] = {
 			228400, -- [1]
@@ -18490,14 +18497,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Ojo de Zul Brillante"] = {
 			1005920, -- [1]
 		},
-		["Grebas de Jade de defensa"] = {
-			40000000, -- [1]
+		["Glifo de Dispersión"] = {
+			385000, -- [1]
 		},
 		["Espaldares de Cruzado del jabalí"] = {
 			1917128, -- [1]
 		},
-		["Boceto: topacio monarca de adepto"] = {
-			350000, -- [1]
+		["Bufas Pino Ámbar de la ballena"] = {
+			100000, -- [1]
 		},
 		["Botas del Exterminador"] = {
 			555555, -- [1]
@@ -18505,8 +18512,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guanteletes de jade de poder"] = {
 			40000000, -- [1]
 		},
-		["Arco Largo Macizo"] = {
-			220000, -- [1]
+		["Elixir de Camuflaje"] = {
+			295999, -- [1]
 		},
 		["Esmeralda del Bosque Brumosa"] = {
 			168500, -- [1]
@@ -18514,8 +18521,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Quijotes de Saronita Salvaje"] = {
 			2895000, -- [1]
 		},
-		["Casquete Cubredaga del lobo"] = {
-			500000, -- [1]
+		["Glifo de Evocación"] = {
+			220000, -- [1]
 		},
 		["Topacio Monarca Temerario"] = {
 			2360000, -- [1]
@@ -18523,8 +18530,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Botas de Fragmento de Hielo Sedosas"] = {
 			6412177, -- [1]
 		},
-		["Botas de Geomántico de aguante"] = {
-			2999999, -- [1]
+		["Anillo Retorcido de Oro del búho"] = {
+			109590, -- [1]
 		},
 		["Glifo de Transfusión de Sangre"] = {
 			358892, -- [1]
@@ -18532,10 +18539,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Fingir Muerte"] = {
 			274900, -- [1]
 		},
-		["Cinturón de Lágrimas Cristalinas"] = {
-			299000, -- [1]
+		["Guardahombros Tejerred del águila"] = {
+			348129, -- [1]
 		},
-		["Bolsa de Tejido Abisal Imbuido"] = {
+		["Hombreras Aborígenes"] = {
+			100000, -- [1]
 		},
 		["Guanteletes Forjaluz"] = {
 			500000, -- [1]
@@ -18546,35 +18554,35 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hombreras Lindeallá del invocador"] = {
 			500000, -- [1]
 		},
-		["Ametrino Mortal"] = {
-			3120000, -- [1]
+		["Escalpelo de Flebotomista"] = {
+			1527318, -- [1]
 		},
-		["Espaldares Simbólicos"] = {
-			160000000, -- [1]
+		["Ídolo de Ámbar"] = {
+			749500, -- [1]
 		},
-		["Escrito Arcano"] = {
-			13800, -- [1]
-		},
-		["Brazales Frioescollo del lobo"] = {
-			85500, -- [1]
-		},
-		["Símbolo de Reyes"] = {
-			50000, -- [1]
-		},
-		["Hombreras Astralaan de protección de Fuego"] = {
-			5500000, -- [1]
-		},
-		["Glifo de Succionar Vida"] = {
-			468699, -- [1]
+		["Carne de Almeja Jaggal"] = {
+			654, -- [1]
 		},
 		["Zapatillas de Visir del búho"] = {
 			200000, -- [1]
 		},
-		["Botas de Cobalto"] = {
-			110000, -- [1]
+		["Escrito Arcano"] = {
+			13800, -- [1]
 		},
 		["Sangrita luminosa perfecta"] = {
 			338999, -- [1]
+		},
+		["Glifo de Succionar Vida"] = {
+			468699, -- [1]
+		},
+		["Brazales Frioescollo del lobo"] = {
+			85500, -- [1]
+		},
+		["Botas de Cobalto"] = {
+			110000, -- [1]
+		},
+		["Hombreras Astralaan de protección de Fuego"] = {
+			5500000, -- [1]
 		},
 		["Pargo Extremo"] = {
 			72000, -- [1]
@@ -18582,50 +18590,50 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hoja de Agua del águila"] = {
 			510000, -- [1]
 		},
-		["Chanclos de Ogro Negros"] = {
-			70000000, -- [1]
+		["Combustible de Cohete Goblin"] = {
+			795562, -- [1]
 		},
 		["Pellejo Ligero"] = {
 			3300, -- [1]
 		},
-		["Combustible de Cohete Goblin"] = {
-			795562, -- [1]
+		["Chanclos de Ogro Negros"] = {
+			70000000, -- [1]
 		},
-		["Receta: Poción de Fuerza Demente"] = {
-			499000, -- [1]
+		["Patrón: Faltriquera de Tejido Mágico Encantada"] = {
+			15500, -- [1]
 		},
-		["Patrón: Botas de Cuero Refinado"] = {
-			70000, -- [1]
+		["Calcedonia"] = {
+			259999, -- [1]
 		},
 		["Botas Cubredaga del gorila"] = {
 			250000, -- [1]
 		},
-		["Sobrehombros de Lana Reforzada"] = {
-			500000, -- [1]
+		["Tejido de Ébano"] = {
+			991000, -- [1]
 		},
-		["Inyector de Sanación Rúnica"] = {
-			47499, -- [1]
+		["Ataduras de Caverna de Brillogusano"] = {
+			120000, -- [1]
 		},
 		["Botas Salvedar del jabalí"] = {
 			350000, -- [1]
 		},
-		["Guardabrazos Sombra Lunar"] = {
-			64440000, -- [1]
+		["Glifo de Disipación en Masa"] = {
+			235000, -- [1]
 		},
 		["Diseño: guardamuñecas con pinchos de titanio"] = {
 			4430000, -- [1]
 		},
-		["Baraja de Prismas"] = {
-			20879999, -- [1]
+		["Hombreras de Cóndor del hechicero"] = {
+			279761, -- [1]
 		},
 		["Pergamino de Aguante VII"] = {
 			7900, -- [1]
 		},
-		["Carne de Uñagrieta"] = {
-			7450, -- [1]
+		["Pergamino de Encantar botas: velocidad de jabalí"] = {
+			13000000, -- [1]
 		},
-		["Anillo Extraviado del tirador"] = {
-			263429798, -- [1]
+		["Baraja de Prismas"] = {
+			20879999, -- [1]
 		},
 		["Esmeralda del Bosque Intemporal"] = {
 			99000, -- [1]
@@ -18636,17 +18644,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Jaula de Loro (carolina)"] = {
 			809999, -- [1]
 		},
-		["Hoja de Hechizo de Saronita"] = {
-			7498495, -- [1]
+		["Hoja de Hierro Afilada del hechicero"] = {
+			160000, -- [1]
 		},
 		["Fórmula: Vara Rúnica de Eternio"] = {
 			148500, -- [1]
 		},
-		["Elixir de Perforar Armadura"] = {
-			140000, -- [1]
+		["Filete Tártaro de Huargo"] = {
+			184999, -- [1]
 		},
-		["Máscara Facial de Eviscerador"] = {
-			8279900, -- [1]
+		["Tres de Tormentas"] = {
+			120000, -- [1]
 		},
 		["Garona: Un Estudio sobre el Sigilo y la Traición"] = {
 			90000, -- [1]
@@ -18654,20 +18662,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Patrón: Cinta de Tejido Mágico Roja"] = {
 			20000, -- [1]
 		},
+		["Patrón: Cinturón de Cuero Rúnico"] = {
+			39800, -- [1]
+		},
+		["Manual: Contraveneno Fuerte"] = {
+			494000, -- [1]
+		},
 		["Guanteletes de Pielférrea de defensa"] = {
 			31110000, -- [1]
 		},
+		["Jubón de la Luna Negra de agilidad"] = {
+			90000, -- [1]
+		},
 		["Arrancaojos"] = {
 			2999999, -- [1]
-		},
-		["Toga Arcana"] = {
-			2505875, -- [1]
-		},
-		["Glifo de Forzar Cerradura"] = {
-			439698, -- [1]
-		},
-		["Guanteletes Pataescarcha de protección de las Sombras"] = {
-			250000, -- [1]
 		},
 		["Espaldares Hiperión del tigre"] = {
 			5500000, -- [1]
@@ -18681,8 +18689,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Asediador Demente"] = {
 			400000, -- [1]
 		},
-		["Guantes de Garrida del búho"] = {
-			250000, -- [1]
+		["Rodela de Rebanacabezas de la ballena"] = {
+			101120757, -- [1]
 		},
 		["Glifo de Ola Explosiva"] = {
 			629000, -- [1]
@@ -18690,34 +18698,35 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["As de No-muertos"] = {
 			1990000, -- [1]
 		},
-		["Leotardos de Sanguiespora del hechicero"] = {
-			290000, -- [1]
+		["Ojo de Adaegus"] = {
+			880000, -- [1]
 		},
 		["Varita de Allistarj"] = {
 			150000, -- [1]
 		},
-		["Espaldares Ghrino de protección de la Naturaleza"] = {
-			1900000, -- [1]
+		["Vestimentas de Pira Funeraria"] = {
+			550000, -- [1]
 		},
-		["Casco de Pielférrea de cólera Arcana"] = {
-			40000000, -- [1]
+		["Madeja de Paño Rúnico"] = {
+			5900, -- [1]
 		},
 		["Toga de Sanguiespora del hechicero"] = {
 			500000, -- [1]
 		},
-		["Balista Brutal del bandido"] = {
+		["Caperuza de Wendigo de espíritu"] = {
+			500000, -- [1]
 		},
-		["Brazales Nerubianos"] = {
-			800000, -- [1]
+		["Guardamuñecas Tralladón del bandido"] = {
+			500000, -- [1]
 		},
-		["Diseño: Cinturón Radiante"] = {
-			9899, -- [1]
+		["Puños de Concejal del búho"] = {
+			190000, -- [1]
+		},
+		["Huevo de Polilla Amarilla"] = {
+			336000, -- [1]
 		},
 		["Cristal de Sol Místico"] = {
 			220000, -- [1]
-		},
-		["Piedra de Terror Imbuida"] = {
-			2439999, -- [1]
 		},
 		["Yelmo de Cuero Imperial"] = {
 			40000000, -- [1]
@@ -18728,14 +18737,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guantes de Camorrista"] = {
 			990000, -- [1]
 		},
-		["Guardahombros de Trampero de protección de la Naturaleza"] = {
-			500000, -- [1]
+		["Locura de Mojo Gurubashi"] = {
+			1060000, -- [1]
 		},
 		["Festín de Pescado"] = {
 			329000, -- [1]
 		},
-		["Filete de Gusano Rinolicioso"] = {
-			99500, -- [1]
+		["Filete de Huargo Ennegrecido"] = {
+			189000, -- [1]
 		},
 		["Yelmo Corazón de León"] = {
 			99999999, -- [1]
@@ -18743,29 +18752,29 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Esmeralda del Bosque Resistente"] = {
 			80000, -- [1]
 		},
-		["Fuerza de Uther"] = {
-			888000, -- [1]
+		["Guantes Tralladón de poder con hechizos"] = {
+			170000, -- [1]
 		},
-		["Patrón: guantes de sable de hielo"] = {
-			145888, -- [1]
+		["Grebas Haltorboll del soldado"] = {
+			755000, -- [1]
 		},
 		["Fórmula: encantar escudo: Resistencia a la Escarcha"] = {
 			370000, -- [1]
 		},
-		["Espada Golpecabeza de aguante"] = {
-			2999999, -- [1]
+		["Ametrino Destellante"] = {
+			3029920, -- [1]
 		},
 		["Brazales Presavil del bandido"] = {
 			1000000, -- [1]
 		},
-		["Leotardos de Pellejo de Quimera de protección de la Naturaleza"] = {
-			2500000, -- [1]
+		["Coraza de Saronita Luminosa"] = {
+			2099399, -- [1]
 		},
-		["Clamacielos"] = {
-			1250000, -- [1]
+		["Alabarda del águila"] = {
+			700000, -- [1]
 		},
-		["Guanteletes de jade del jabalí"] = {
-			40000000, -- [1]
+		["Cubrehombros Rutilantes del búho"] = {
+			39990000, -- [1]
 		},
 		["Elixir de Fuerza Sublime"] = {
 			99000, -- [1]
@@ -18773,17 +18782,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Patrón: Guantes de Escamas de Tortuga"] = {
 			56200, -- [1]
 		},
-		["Manto de Devastador"] = {
-			50000000, -- [1]
+		["Puño de Luchador del jabalí"] = {
+			300000, -- [1]
 		},
-		["Gran Hoja de Gladiador del lobo"] = {
-			1550000, -- [1]
+		["Patrón: guantes de tejido de Escarcha"] = {
+			19206, -- [1]
 		},
 		["Inyector de Maná Rúnico"] = {
 			199999, -- [1]
 		},
-		["Diamante Rompeterra Incansable"] = {
-			300000, -- [1]
+		["Patrón: Guantes del Padre Invierno"] = {
+			2200000, -- [1]
 		},
 		["Pico de Hierro Frío"] = {
 			2997500, -- [1]
@@ -18791,26 +18800,26 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Elixir de Consistencia Inferior"] = {
 			448000, -- [1]
 		},
+		["Casco de Orca del bandido"] = {
+			500000, -- [1]
+		},
 		["Elixir de Adepto"] = {
 			150000, -- [1]
-		},
-		["Llave de Tuerca Arcoluz"] = {
-			50000, -- [1]
 		},
 		["Elixir de Defensa Poderosa"] = {
 			88500, -- [1]
 		},
-		["Aro de Jade de la ballena"] = {
-			40000000, -- [1]
+		["Jaula para Gatos (atigrado Negro)"] = {
+			14517750, -- [1]
+		},
+		["Estofado de Orca Suculento"] = {
+			61875, -- [1]
 		},
 		["Chaleco de Forestal del bandido"] = {
 			350000, -- [1]
 		},
-		["Aceite de Zahorí Luminoso"] = {
-			305800, -- [1]
-		},
-		["Fajín de Paño Abisal de brujería"] = {
-			390000, -- [1]
+		["Elixir de Gurú"] = {
+			32000, -- [1]
 		},
 		["Capa del Depredador Indomado"] = {
 			118880000, -- [1]
@@ -18818,11 +18827,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Ala de Águila Ratonera"] = {
 			8000, -- [1]
 		},
-		["Diamante de Llama Celeste Destructor"] = {
-			2799999, -- [1]
-		},
 		["Bolsa de Lana Roja"] = {
 			30000, -- [1]
+		},
+		["Diamante de Llama Celeste Destructor"] = {
+			2799999, -- [1]
 		},
 		["Sandalias de Consagración"] = {
 			42989999, -- [1]
@@ -18830,14 +18839,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Disco Reactivo a la Fuerza"] = {
 			29900000, -- [1]
 		},
-		["Manoplas de Malla Abisal de restauración"] = {
-			390000, -- [1]
-		},
-		["Ocho de Bestias"] = {
-			180000, -- [1]
+		["Patrón: Manos de Oscuridad"] = {
+			99500, -- [1]
 		},
 		["Diseño: Botas de Torio"] = {
 			98751, -- [1]
+		},
+		["Ocho de Bestias"] = {
+			180000, -- [1]
 		},
 		["Guantes de Rastreador del falcón"] = {
 			40000000, -- [1]
@@ -18851,17 +18860,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Rubí Cárdeno Ostentoso"] = {
 			4482499, -- [1]
 		},
+		["Caperuza de Sanguiespora del hechicero"] = {
+			488888, -- [1]
+		},
 		["Glifo de Gubia"] = {
 			100000, -- [1]
-		},
-		["Armadura de Pierna de Escama de Hielo"] = {
-			9179999, -- [1]
 		},
 		["Leotardos Almanegra"] = {
 			15500000, -- [1]
 		},
-		["Elixir de Espíritu"] = {
-			79499, -- [1]
+		["Elixir de Fuerza Poderosa"] = {
+			77000, -- [1]
 		},
 		["Caja de Herramientas Pesada"] = {
 			1500000, -- [1]
@@ -18869,11 +18878,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Espaldares Brigada de intelecto"] = {
 			50000000, -- [1]
 		},
+		["Cinco de Furias"] = {
+			399999, -- [1]
+		},
 		["Guanteletes de Malla de Grifo de la ballena"] = {
 			10000000, -- [1]
-		},
-		["Cinturón Magnánimo del mono"] = {
-			4400000, -- [1]
 		},
 		["Ataduras de acechabestias"] = {
 			180000, -- [1]
@@ -18887,17 +18896,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Esquirla de Sangre"] = {
 			396, -- [1]
 		},
-		["Patrón: Pantalones de Cuero Maligno"] = {
-			55000, -- [1]
+		["Blusa Real de la ballena"] = {
+			3000000, -- [1]
 		},
-		["Elixir de Cólera"] = {
-			29250, -- [1]
+		["Yema Vieja"] = {
+			1600, -- [1]
 		},
 		["Blasón de Lord del mono"] = {
 			350000, -- [1]
 		},
-		["Rubí Escarlata Llamativo"] = {
-			2140000, -- [1]
+		["Elixir de Agilidad Poderosa"] = {
+			449000, -- [1]
 		},
 		["Patrón: Manto Sanapresto"] = {
 			1829099, -- [1]
@@ -18905,11 +18914,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Anillo Ovalado del médico"] = {
 			500000, -- [1]
 		},
-		["Capucha Cielo Nocturno"] = {
-			1500000, -- [1]
-		},
 		["Gafas de Nieve Mecanizadas de agilidad"] = {
 			750000, -- [1]
+		},
+		["Capucha Cielo Nocturno"] = {
+			1500000, -- [1]
 		},
 		["Collar de Cuentas de Jaspe del invocador"] = {
 			170000, -- [1]
@@ -18917,35 +18926,35 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Armadura de Hilo de Plata"] = {
 			6999999, -- [1]
 		},
-		["Cinturón de Escamas de Sangre del falcón"] = {
-			50000000, -- [1]
+		["As de Prismas"] = {
+			3890000, -- [1]
 		},
 		["Aguijón Supernumerario de Namlak"] = {
 			26900000, -- [1]
 		},
-		["Glifo de Escudo de Rectitud"] = {
-			229500, -- [1]
+		["Toga Tethys del médico"] = {
+			210000, -- [1]
 		},
-		["Cetro Dogmático del águila"] = {
-			1507500, -- [1]
+		["Leotardos de Cormorán del mono"] = {
+			500000, -- [1]
 		},
 		["Partecostillas del águila"] = {
 			40000000, -- [1]
 		},
-		["Rama Tejeocaso del búho"] = {
-			150000, -- [1]
+		["Hacha de Placa Ósea del hechicero"] = {
+			750000, -- [1]
 		},
 		["Brazales de Mamut del anciano"] = {
 			208758, -- [1]
 		},
-		["Botines del Purificador"] = {
-			299000, -- [1]
+		["Frasco de Sangrepiedra"] = {
+			1960000, -- [1]
 		},
 		["Lente Verde de cólera de la Naturaleza"] = {
 			2000000, -- [1]
 		},
-		["Dije de Piedra Verde del oso"] = {
-			1000000, -- [1]
+		["Botines del Purificador"] = {
+			299000, -- [1]
 		},
 		["Fajín de Sanguiespora de poder con hechizos"] = {
 			220000, -- [1]
@@ -18956,8 +18965,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Espada de Instrucción del tigre"] = {
 			209000, -- [1]
 		},
-		["Hoja de Asesinato"] = {
-			6000000, -- [1]
+		["Calzas Zarrapucha del águila"] = {
+			900000, -- [1]
 		},
 		["Guantes Sedarena"] = {
 			4990344, -- [1]
@@ -18968,14 +18977,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo del Sabio"] = {
 			323500, -- [1]
 		},
-		["Toga Tejeocaso de espíritu"] = {
-			999984, -- [1]
+		["Glifo de Secretos del Oficio"] = {
+			299500, -- [1]
 		},
 		["Grebas de Mirmidón"] = {
 			3331282, -- [1]
 		},
-		["Glifo de Rugido Salvaje"] = {
-			582999, -- [1]
+		["Balas Mordedura de Escarcha"] = {
+			250, -- [1]
 		},
 		["Glifo de Sentencia"] = {
 			320000, -- [1]
@@ -18986,20 +18995,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Ciruela de Nieve Sabrosa"] = {
 			49999, -- [1]
 		},
-		["Sombrero de Errante del mono"] = {
-			4999999, -- [1]
+		["Poción de Maná Rúnica"] = {
+			109000, -- [1]
 		},
 		["Musleras de Malla Abisal de brujería"] = {
 			850000, -- [1]
 		},
-		["Guantes de Cóndor de poder con hechizos"] = {
-			210000, -- [1]
+		["Ojo de Contemplador Amatista de espíritu"] = {
+			37730929, -- [1]
 		},
 		["Leotardos de Cormorán de defensa"] = {
 			290000, -- [1]
 		},
-		["Rama Cortada Brutal de la bestia"] = {
-			1230000, -- [1]
+		["Glifo de Llama de las Sombras"] = {
+			217000, -- [1]
 		},
 		["Estrella Regia del lobo"] = {
 			3999999, -- [1]
@@ -19013,20 +19022,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pigmento de Ébano"] = {
 			50000, -- [1]
 		},
-		["Cristal de Hielo del invocador"] = {
-			12500000, -- [1]
+		["Sandalias del Insurgente"] = {
+			110000, -- [1]
 		},
 		["Piedra de Vida"] = {
 			3159000, -- [1]
 		},
-		["Seis de Caos"] = {
-			3400000, -- [1]
+		["Patrón: Talega de Seda Negra"] = {
+			27400, -- [1]
 		},
-		["Sombrero Hechicero de intelecto"] = {
-			250000, -- [1]
+		["Armadura Fulgurante de espíritu"] = {
+			3999999, -- [1]
 		},
-		["Espaldares de Saronita Salvaje"] = {
-			1997500, -- [1]
+		["Ojo de Dragón"] = {
+			1147499, -- [1]
 		},
 		["Musgo de Tumba"] = {
 			210900, -- [1]
@@ -19034,11 +19043,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Espaldares de Héroe"] = {
 			3327500, -- [1]
 		},
-		["Escudo de Placas Estampadas de aguante"] = {
-			800000, -- [1]
-		},
 		["Ataduras de Gigantes Rúnicas"] = {
 			419999, -- [1]
+		},
+		["Escudo de Placas Estampadas de aguante"] = {
+			800000, -- [1]
 		},
 		["Tambores de lo Salvaje"] = {
 			4647500, -- [1]
@@ -19046,23 +19055,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Tambores de los Reyes Olvidados"] = {
 			4800000, -- [1]
 		},
-		["Vela Sacra"] = {
-			10000, -- [1]
+		["Pólvora Potente"] = {
+			77000, -- [1]
 		},
 		["Guantes Hechicero de la ballena"] = {
 			220000, -- [1]
 		},
-		["Yelmo Hiperión de defensa"] = {
-			40000000, -- [1]
+		["Casco de Cuero Forrado de Pieles"] = {
+			107431, -- [1]
 		},
-		["Cubrehombros de Piedra Mácula del jabalí"] = {
-			13780000, -- [1]
+		["Vela Sacra"] = {
+			10000, -- [1]
 		},
 		["Murfestar del tigre"] = {
 			990000, -- [1]
 		},
-		["Casco de Cuero Forrado de Pieles"] = {
-			107431, -- [1]
+		["Yelmo Hiperión de defensa"] = {
+			40000000, -- [1]
 		},
 		["Cubrehombros de jade del jabalí"] = {
 			40000000, -- [1]
@@ -19070,38 +19079,38 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guantes de Poderío Sagrado"] = {
 			40000000, -- [1]
 		},
-		["Pergamino de Fuerza VIII"] = {
-			300000, -- [1]
+		["Botas de Escarcha Salvaje"] = {
+			1983500, -- [1]
 		},
 		["Pantalones de cuero cosidos a mano"] = {
 			139500, -- [1]
 		},
-		["Escudo Rompechizos del hechicero"] = {
-			32500000, -- [1]
+		["Bastón de Furia Natural"] = {
+			3600000, -- [1]
 		},
 		["Patrón: Toga de Lino Rojo"] = {
 			1200, -- [1]
 		},
-		["Patrón: Cinturón de Escamas de Múrloc"] = {
-			12500, -- [1]
+		["Delicia de Pez Descarriado Sabrosa"] = {
+			49999, -- [1]
 		},
 		["Botas de Templario del oso"] = {
 			124600, -- [1]
 		},
-		["Delicia de Pez Descarriado Sabrosa"] = {
-			49999, -- [1]
+		["Siete de Furias"] = {
+			965250, -- [1]
 		},
 		["Patrón: Toga de Paño Brillante"] = {
 			83655, -- [1]
 		},
-		["Patrón: Togas de Arcana"] = {
-			2500000, -- [1]
+		["Leotardos del Señor del Anillo"] = {
+			1250000, -- [1]
 		},
-		["Guantes Haltorboll de espíritu"] = {
+		["Diamante Rompeterra Persistente"] = {
 			500000, -- [1]
 		},
-		["Vida Primigenia"] = {
-			334444, -- [1]
+		["Mascahuesos"] = {
+			4987500, -- [1]
 		},
 		["Vestiduras de Tejido de Draco del águila"] = {
 			4107500, -- [1]
@@ -19109,65 +19118,65 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Colgante de Calavera Ardiente"] = {
 			1995000, -- [1]
 		},
-		["Patrón: Yelmo de Escórpido Resistente"] = {
-			68500, -- [1]
+		["Transportador Ultraseguro: Gadgetzan"] = {
+			9000000, -- [1]
 		},
 		["Vida Eterna"] = {
 			526666, -- [1]
 		},
-		["Ojo de Zul Irregular"] = {
-			1001499, -- [1]
+		["Leotardos de Choque de Hechizo"] = {
+			9800000, -- [1]
 		},
 		["Topacio Monarca Resuelto"] = {
 			699000, -- [1]
 		},
-		["Leotardos de can de peste"] = {
-			250000, -- [1]
+		["Garrote con púas de cólera de la Naturaleza"] = {
+			1500000, -- [1]
 		},
 		["Peridoto intenso Radiante"] = {
 			4600, -- [1]
 		},
-		["Coselete de Solescama"] = {
-			3397499, -- [1]
+		["Martillo Digno del águila"] = {
+			4990000, -- [1]
 		},
 		["Peto de Aparecido de resistencia a las Sombras"] = {
 			5000000, -- [1]
 		},
-		["Pergamino de Encantar botas: agilidad inferior"] = {
-			165831, -- [1]
-		},
-		["Glifo de Poder Arcano"] = {
-			237600, -- [1]
+		["Venda de seda gruesa"] = {
+			4800, -- [1]
 		},
 		["Guanteletes Forjabatalla de sanación"] = {
 			5520000, -- [1]
 		},
-		["Vid de Sangre"] = {
-			31125, -- [1]
+		["Glifo de Poder Arcano"] = {
+			237600, -- [1]
+		},
+		["Elixir de Pensamientos Poderosos"] = {
+			250000, -- [1]
 		},
 		["Glifo de Círculo de Sanación"] = {
 			229600, -- [1]
 		},
-		["Glifo de Cólera Vengativa"] = {
-			288400, -- [1]
+		["Glifo de Recrecimiento"] = {
+			1521847, -- [1]
 		},
 		["Manto Canto de Cristal del invocador"] = {
 			645248, -- [1]
 		},
-		["Glifo de Recrecimiento"] = {
-			1521847, -- [1]
+		["Piedra Lunar Azur Chispeante"] = {
+			6728, -- [1]
 		},
 		["Pergamino de Encantar arma: Agilidad"] = {
 			4747500, -- [1]
 		},
-		["Rubí Escarlata Preciso"] = {
-			2420000, -- [1]
+		["Varita Derretida del águila"] = {
+			150000, -- [1]
 		},
-		["Tinta Real"] = {
-			20000, -- [1]
+		["Estrella Barbada de la ballena"] = {
+			210000, -- [1]
 		},
-		["Diamante de Llama Celeste Impasible"] = {
-			2997500, -- [1]
+		["Zarpa de Seis Dedos del bandido"] = {
+			230419, -- [1]
 		},
 		["Pulseras de Visir del invocador"] = {
 			12500000, -- [1]
@@ -19190,11 +19199,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Arco Ligero Astral de la bestia"] = {
 			710101, -- [1]
 		},
-		["Botas de Mur'crófago del médico"] = {
-			350000, -- [1]
+		["Cascahuesos"] = {
+			990000, -- [1]
 		},
-		["Glifo de Huracán"] = {
-			750000, -- [1]
+		["Pelambre de Oso Rasgada"] = {
+			2900, -- [1]
 		},
 		["Guardabrazos Salvedar del profeta"] = {
 			950000, -- [1]
@@ -19202,17 +19211,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cubrehombros de Hierro de Señor de la Guerra del búho"] = {
 			8780000, -- [1]
 		},
+		["Esquema: Modulador de Amplificación de Voz"] = {
+			25007500, -- [1]
+		},
+		["Receta: Hamburguesa de Oso Jugosa"] = {
+			197999, -- [1]
+		},
 		["Coraza de Magnatauro del vidente"] = {
 			1500000, -- [1]
 		},
-		["Mazo de Granito del tigre"] = {
-			206900, -- [1]
-		},
-		["Poción Indestructible"] = {
-			80000, -- [1]
-		},
-		["Cinturón de Pigmeo del bandido"] = {
-			1500000, -- [1]
+		["Perla Lustrosa Pequeña"] = {
+			9600, -- [1]
 		},
 		["Perla Negra"] = {
 			600000, -- [1]
@@ -19220,26 +19229,26 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pluma de Arakkoa"] = {
 			70500, -- [1]
 		},
-		["Perla Iridiscente"] = {
-			9900, -- [1]
+		["Faja de Placas Góticas del jabalí"] = {
+			12999999, -- [1]
 		},
 		["Sangrita Brillante"] = {
 			79500, -- [1]
 		},
-		["Zapatillas Celestiales del falcón"] = {
-			40000000, -- [1]
+		["Sombra Primigenia"] = {
+			6630, -- [1]
 		},
-		["Envoltura del Viajero Astral"] = {
-			18500000, -- [1]
-		},
-		["Destripador de Ballenas del bandido"] = {
-			710000, -- [1]
-		},
-		["Sangrita Ostentosa Perfecta"] = {
-			530000, -- [1]
+		["Cinturón de extiendetormentas"] = {
+			1499999, -- [1]
 		},
 		["Toga de Sanguiespora de aguante"] = {
 			150000, -- [1]
+		},
+		["Tinte Rojo"] = {
+			50000, -- [1]
+		},
+		["Anillo de Defensa"] = {
+			1499999, -- [1]
 		},
 		["Prole de dracohalcón plateado"] = {
 			189898, -- [1]
@@ -19253,23 +19262,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hacha de Guerra Brutal de la ballena"] = {
 			3999999, -- [1]
 		},
-		["Guantes de Contrahielo"] = {
-			400000, -- [1]
+		["Botas Escapabruma"] = {
+			390000, -- [1]
 		},
 		["Cuatro de Bestias"] = {
 			500000, -- [1]
 		},
-		["Sangrita Llamativa Perfecta"] = {
-			398999, -- [1]
+		["Sobrehombros Nerubianos"] = {
+			150000, -- [1]
 		},
-		["Sangrita Llamativa"] = {
-			39900, -- [1]
+		["Guardabrazos Salvedar del gorila"] = {
+			2150000, -- [1]
 		},
 		["Jubón Elunarita"] = {
 			9992489, -- [1]
 		},
-		["Sangrita Fracturada"] = {
-			99000, -- [1]
+		["Botas de Zelote"] = {
+			499000, -- [1]
 		},
 		["Calzones Tejeoscuro"] = {
 			15550000, -- [1]
@@ -19283,11 +19292,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Piedra Lunar Azur"] = {
 			34884, -- [1]
 		},
+		["Sombrero de ganchillo"] = {
+			19800, -- [1]
+		},
 		["Casco de Pielférrea del oso"] = {
 			40000000, -- [1]
-		},
-		["Receta: Sorpresa de Carroña"] = {
-			388799, -- [1]
 		},
 		["Pellejo del rey vacuno"] = {
 			3581210, -- [1]
@@ -19295,11 +19304,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guerrera de Bardo del mono"] = {
 			3181715, -- [1]
 		},
+		["Armadura Terránea para Pierna"] = {
+			8800000, -- [1]
+		},
 		["Guantes de Rastreador del águila"] = {
 			6008371, -- [1]
-		},
-		["Pechera Formidable de la ballena"] = {
-			1999999, -- [1]
 		},
 		["Patrón: Toga de Lana Gris"] = {
 			119900, -- [1]
@@ -19307,8 +19316,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Sangrita delicada perfecta"] = {
 			433999, -- [1]
 		},
-		["Manto Canto de Cristal de intelecto"] = {
-			180000, -- [1]
+		["Paño de Tejido Mágico"] = {
+			4997, -- [1]
 		},
 		["Yelmo Aterrallamas"] = {
 			17500000, -- [1]
@@ -19316,32 +19325,32 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Muro de Escudo"] = {
 			498989, -- [1]
 		},
-		["Piedra Lunar Azur Maciza"] = {
-			6728, -- [1]
+		["Pergamino de Encantar arma: cruzado"] = {
+			1927500, -- [1]
 		},
-		["Piedra Lunar Azur Tormentosa"] = {
-			9999, -- [1]
+		["Coraza de Pielférrea de resistencia al Fuego"] = {
+			40000000, -- [1]
 		},
 		["Citrino Enorme Temerario"] = {
 			148000, -- [1]
 		},
-		["Botas del Aparecido"] = {
-			10000000, -- [1]
+		["Saco de Minero"] = {
+			1500000, -- [1]
 		},
 		["Yelmo de Escamas de Sangre del anciano"] = {
 			25500000, -- [1]
 		},
-		["Pigmento de Rubí"] = {
-			20000, -- [1]
+		["Pezazul Aleta Helada"] = {
+			14910, -- [1]
+		},
+		["Robot Triturador"] = {
+			1400000, -- [1]
+		},
+		["Glifo de Sombra"] = {
+			284000, -- [1]
 		},
 		["Yelmo Skom del médico"] = {
 			100000, -- [1]
-		},
-		["Glifo de Tótem Marea de Maná"] = {
-			486063, -- [1]
-		},
-		["Glifo de Regeneración Iracunda"] = {
-			336079, -- [1]
 		},
 		["Pergamino de Encantar pechera: salud poderosa"] = {
 			800000, -- [1]
@@ -19349,8 +19358,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Ataduras Gloriosas del mono"] = {
 			8888888, -- [1]
 		},
-		["Receta: Poción de Purificación"] = {
-			18914, -- [1]
+		["Leotardos Brigada del oso"] = {
+			5000000, -- [1]
 		},
 		["Cristal de Sol Rápido"] = {
 			48850, -- [1]
@@ -19358,11 +19367,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Caja de Ardilla Mecánica"] = {
 			1555555, -- [1]
 		},
+		["Toga de Oráculo del hechicero"] = {
+			1903000, -- [1]
+		},
 		["Martillo con el borde hendido de la bestia"] = {
 			749820, -- [1]
-		},
-		["Coraza de conquistador del anciano"] = {
-			19900000, -- [1]
 		},
 		["Yelmo Nerubiano"] = {
 			750000, -- [1]
@@ -19373,8 +19382,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Receta: Poción de Protección contra la Naturaleza Superior"] = {
 			2094999, -- [1]
 		},
-		["Coraza Protectora"] = {
-			3331250, -- [1]
+		["Faja Arácnida de la ballena"] = {
+			2230000, -- [1]
 		},
 		["Morral Grande"] = {
 			105750, -- [1]
@@ -19385,8 +19394,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Toga Bruma de Hielo de protección de la Naturaleza"] = {
 			406177, -- [1]
 		},
-		["Guanteletes de Bronce Bañados en Plata"] = {
-			209900, -- [1]
+		["Receta: Poción de Protección contra la Escarcha Superior"] = {
+			350000, -- [1]
 		},
 		["Cristal de Sombras cambiante perfecto"] = {
 			79500, -- [1]
@@ -19394,17 +19403,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hacha de dos filos del oso"] = {
 			950000, -- [1]
 		},
-		["Coraza Ansia de Sangre"] = {
-			9990000, -- [1]
+		["Receta: Poción de Invulnerabilidad Limitada"] = {
+			550000, -- [1]
 		},
 		["Cristal de Sombras"] = {
 			9200, -- [1]
 		},
+		["Receta: Poción de Heroicidad"] = {
+			38800, -- [1]
+		},
 		["Patrón: Pantalones de Cuero Rúnico"] = {
 			480000, -- [1]
-		},
-		["Hombreras Delicadas de la ballena"] = {
-			12999999, -- [1]
 		},
 		["Daga de Combustión del anciano"] = {
 			600000, -- [1]
@@ -19412,14 +19421,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guerrera Celestial del búho"] = {
 			20000000, -- [1]
 		},
-		["Elixir de Detección de Demonios"] = {
-			40245, -- [1]
-		},
 		["Navaja Gnómica"] = {
 			30000, -- [1]
 		},
-		["Receta: elixir de agilidad menor"] = {
-			4400, -- [1]
+		["Elixir de Detección de Demonios"] = {
+			40245, -- [1]
+		},
+		["Receta: Elixir de Visión Onírica"] = {
+			598899, -- [1]
 		},
 		["Receta: Elixir de Sangre de Mago Sublime"] = {
 			49800, -- [1]
@@ -19427,26 +19436,26 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Baluarte Resonante de Zom"] = {
 			62000000, -- [1]
 		},
-		["Receta: Elixir de Detección de Invisibilidad Inferior"] = {
-			484000, -- [1]
-		},
-		["Receta: Elixir de Gigantes"] = {
-			197505, -- [1]
-		},
-		["Zapatillas de Salvador"] = {
-			45900000, -- [1]
+		["Receta: Elixir de los Sabios"] = {
+			39006, -- [1]
 		},
 		["Pergamino de Encantar arma 2M: Salvajismo superior"] = {
 			1260000, -- [1]
 		},
-		["Receta: Elixir de los Sabios"] = {
-			39006, -- [1]
+		["Zapatillas de Salvador"] = {
+			45900000, -- [1]
+		},
+		["Receta: Elixir de Gigantes"] = {
+			197505, -- [1]
+		},
+		["Receta: Elixir de Detección de Invisibilidad Inferior"] = {
+			484000, -- [1]
 		},
 		["Leotardos Forjanegra"] = {
 			37550000, -- [1]
 		},
-		["Receta: Elixir de Visión Onírica"] = {
-			598899, -- [1]
+		["Receta: elixir de agilidad menor"] = {
+			4400, -- [1]
 		},
 		["Muñeco-diana"] = {
 			230000, -- [1]
@@ -19457,11 +19466,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guantes Aterrallamas"] = {
 			17500000, -- [1]
 		},
-		["Receta: Poción de Heroicidad"] = {
-			38800, -- [1]
+		["Hombreras Delicadas de la ballena"] = {
+			12999999, -- [1]
 		},
-		["Receta: Poción de Invulnerabilidad Limitada"] = {
-			550000, -- [1]
+		["Coraza Ansia de Sangre"] = {
+			9990000, -- [1]
 		},
 		["Guanteletes de jade de fuerza"] = {
 			40000000, -- [1]
@@ -19469,47 +19478,47 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Bolsa de Cuero Draénica"] = {
 			328500, -- [1]
 		},
-		["Receta: Poción de Protección contra la Escarcha Superior"] = {
-			350000, -- [1]
+		["Guanteletes de Bronce Bañados en Plata"] = {
+			209900, -- [1]
 		},
 		["Glifo de Forma Acuática"] = {
 			389000, -- [1]
 		},
-		["Faja Arácnida de la ballena"] = {
-			2230000, -- [1]
+		["Coraza Protectora"] = {
+			3331250, -- [1]
 		},
 		["Guardabrazos de Devastador"] = {
 			4999999, -- [1]
 		},
-		["Toga de Oráculo del hechicero"] = {
-			1903000, -- [1]
+		["Coraza de conquistador del anciano"] = {
+			19900000, -- [1]
 		},
-		["Leotardos Brigada del oso"] = {
-			5000000, -- [1]
+		["Receta: Poción de Purificación"] = {
+			18914, -- [1]
 		},
-		["Glifo de Sombra"] = {
-			284000, -- [1]
+		["Glifo de Tótem Marea de Maná"] = {
+			486063, -- [1]
 		},
-		["Robot Triturador"] = {
-			1400000, -- [1]
+		["Glifo de Regeneración Iracunda"] = {
+			336079, -- [1]
 		},
-		["Pezazul Aleta Helada"] = {
-			14910, -- [1]
+		["Pigmento de Rubí"] = {
+			20000, -- [1]
 		},
-		["Saco de Minero"] = {
-			1500000, -- [1]
+		["Botas del Aparecido"] = {
+			10000000, -- [1]
 		},
 		["Pergamino de Encantar arma: amparo de hojas"] = {
 			14970000, -- [1]
 		},
-		["Coraza de Pielférrea de resistencia al Fuego"] = {
-			40000000, -- [1]
+		["Piedra Lunar Azur Tormentosa"] = {
+			9999, -- [1]
 		},
-		["Pergamino de Encantar arma: cruzado"] = {
-			1927500, -- [1]
+		["Piedra Lunar Azur Maciza"] = {
+			6728, -- [1]
 		},
-		["Paño de Tejido Mágico"] = {
-			4997, -- [1]
+		["Manto Canto de Cristal de intelecto"] = {
+			180000, -- [1]
 		},
 		["Bastón Ajado por los Viajes de la bestia"] = {
 			488000, -- [1]
@@ -19517,14 +19526,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Escarpines Lindeallá del águila"] = {
 			500000, -- [1]
 		},
-		["Armadura Terránea para Pierna"] = {
-			8800000, -- [1]
+		["Pechera Formidable de la ballena"] = {
+			1999999, -- [1]
 		},
 		["Brazales Tejerred del bandido"] = {
 			12500000, -- [1]
 		},
-		["Sombrero de ganchillo"] = {
-			19800, -- [1]
+		["Receta: Sorpresa de Carroña"] = {
+			388799, -- [1]
 		},
 		["Botas magistrales del águila"] = {
 			25000000, -- [1]
@@ -19532,53 +19541,53 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guadaña de Pueblo del búho"] = {
 			900000, -- [1]
 		},
-		["Botas de Zelote"] = {
-			499000, -- [1]
+		["Sangrita Fracturada"] = {
+			99000, -- [1]
 		},
-		["Guardabrazos Salvedar del gorila"] = {
-			2150000, -- [1]
+		["Sangrita Llamativa"] = {
+			39900, -- [1]
 		},
-		["Sobrehombros Nerubianos"] = {
-			150000, -- [1]
+		["Sangrita Llamativa Perfecta"] = {
+			398999, -- [1]
 		},
-		["Botas Escapabruma"] = {
-			390000, -- [1]
+		["Guantes de Contrahielo"] = {
+			400000, -- [1]
 		},
-		["Anillo de Defensa"] = {
-			1499999, -- [1]
+		["Sangrita Ostentosa Perfecta"] = {
+			530000, -- [1]
 		},
-		["Tinte Rojo"] = {
-			50000, -- [1]
+		["Destripador de Ballenas del bandido"] = {
+			710000, -- [1]
 		},
-		["Cinturón de extiendetormentas"] = {
-			1499999, -- [1]
+		["Envoltura del Viajero Astral"] = {
+			18500000, -- [1]
 		},
-		["Sombra Primigenia"] = {
-			6630, -- [1]
+		["Zapatillas Celestiales del falcón"] = {
+			40000000, -- [1]
 		},
 		["Musleras Alafunesta"] = {
 			6999999, -- [1]
 		},
-		["Faja de Placas Góticas del jabalí"] = {
-			12999999, -- [1]
+		["Perla Iridiscente"] = {
+			9900, -- [1]
 		},
 		["Tinta de Avalancha"] = {
 			109500, -- [1]
 		},
-		["Perla Lustrosa Pequeña"] = {
-			9600, -- [1]
+		["Cinturón de Pigmeo del bandido"] = {
+			1500000, -- [1]
 		},
-		["Receta: Hamburguesa de Oso Jugosa"] = {
-			197999, -- [1]
+		["Glifo de Huracán"] = {
+			750000, -- [1]
 		},
-		["Esquema: Modulador de Amplificación de Voz"] = {
-			25007500, -- [1]
+		["Poción Indestructible"] = {
+			80000, -- [1]
 		},
-		["Pelambre de Oso Rasgada"] = {
-			2900, -- [1]
+		["Mazo de Granito del tigre"] = {
+			206900, -- [1]
 		},
-		["Cascahuesos"] = {
-			990000, -- [1]
+		["Botas de Mur'crófago del médico"] = {
+			350000, -- [1]
 		},
 		["Semilla de Pesadilla"] = {
 			224000, -- [1]
@@ -19586,71 +19595,71 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Refuerzo para Armadura Boreal Pesado"] = {
 			2192455, -- [1]
 		},
-		["Zarpa de Seis Dedos del bandido"] = {
-			230419, -- [1]
+		["Diamante de Llama Celeste Impasible"] = {
+			2997500, -- [1]
 		},
-		["Estrella Barbada de la ballena"] = {
-			210000, -- [1]
+		["Tinta Real"] = {
+			20000, -- [1]
 		},
-		["Varita Derretida del águila"] = {
-			150000, -- [1]
+		["Rubí Escarlata Preciso"] = {
+			2420000, -- [1]
 		},
-		["Piedra Lunar Azur Chispeante"] = {
-			6728, -- [1]
+		["Glifo de Cólera Vengativa"] = {
+			288400, -- [1]
 		},
 		["Estrella del Norte de protección de las Sombras"] = {
 			1550000, -- [1]
 		},
-		["Elixir de Pensamientos Poderosos"] = {
-			250000, -- [1]
+		["Vid de Sangre"] = {
+			31125, -- [1]
 		},
 		["Guanteletes del Hogar Alegre"] = {
 			139000, -- [1]
 		},
-		["Venda de seda gruesa"] = {
-			4800, -- [1]
+		["Pergamino de Encantar botas: agilidad inferior"] = {
+			165831, -- [1]
 		},
-		["Martillo Digno del águila"] = {
-			4990000, -- [1]
+		["Coselete de Solescama"] = {
+			3397499, -- [1]
 		},
 		["Ametrino de Adepto"] = {
 			1986499, -- [1]
 		},
-		["Garrote con púas de cólera de la Naturaleza"] = {
-			1500000, -- [1]
+		["Leotardos de can de peste"] = {
+			250000, -- [1]
 		},
-		["Leotardos de Choque de Hechizo"] = {
-			9800000, -- [1]
+		["Ojo de Zul Irregular"] = {
+			1001499, -- [1]
 		},
 		["Sobrehombros de Mitril Ornamentado"] = {
 			5000000, -- [1]
 		},
-		["Transportador Ultraseguro: Gadgetzan"] = {
-			9000000, -- [1]
+		["Patrón: Yelmo de Escórpido Resistente"] = {
+			68500, -- [1]
 		},
-		["Mascahuesos"] = {
-			4987500, -- [1]
+		["Vida Primigenia"] = {
+			334444, -- [1]
 		},
-		["Diamante Rompeterra Persistente"] = {
+		["Guantes Haltorboll de espíritu"] = {
 			500000, -- [1]
 		},
-		["Leotardos del Señor del Anillo"] = {
-			1250000, -- [1]
+		["Patrón: Togas de Arcana"] = {
+			2500000, -- [1]
 		},
 		["Bufas Cubredaga del búho"] = {
 			153671, -- [1]
 		},
-		["Siete de Furias"] = {
-			965250, -- [1]
+		["Patrón: Cinturón de Escamas de Múrloc"] = {
+			12500, -- [1]
 		},
 		["Botas de Mitril Ornamentado"] = {
 			6000000, -- [1]
 		},
-		["Bastón de Furia Natural"] = {
-			3600000, -- [1]
+		["Escudo Rompechizos del hechicero"] = {
+			32500000, -- [1]
 		},
-		["Botas de Escarcha Salvaje"] = {
-			1983500, -- [1]
+		["Pergamino de Fuerza VIII"] = {
+			300000, -- [1]
 		},
 		["Glifo de Lanza de Hielo"] = {
 			30600, -- [1]
@@ -19661,8 +19670,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Robot de Reparación de Campo 74A"] = {
 			8006600, -- [1]
 		},
-		["Pólvora Potente"] = {
-			77000, -- [1]
+		["Cubrehombros de Piedra Mácula del jabalí"] = {
+			13780000, -- [1]
 		},
 		["Esencia Mística Inferior"] = {
 			29000, -- [1]
@@ -19673,35 +19682,35 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Vara de Alma en Pena del Sol"] = {
 			15655500, -- [1]
 		},
-		["Ojo de Dragón"] = {
-			1147499, -- [1]
+		["Espaldares de Saronita Salvaje"] = {
+			1997500, -- [1]
 		},
-		["Armadura Fulgurante de espíritu"] = {
-			3999999, -- [1]
+		["Sombrero Hechicero de intelecto"] = {
+			250000, -- [1]
 		},
-		["Patrón: Talega de Seda Negra"] = {
-			27400, -- [1]
+		["Seis de Caos"] = {
+			3400000, -- [1]
 		},
 		["Pantalones Tejeocaso del falcón"] = {
 			310000, -- [1]
 		},
-		["Sandalias del Insurgente"] = {
-			110000, -- [1]
+		["Cristal de Hielo del invocador"] = {
+			12500000, -- [1]
 		},
 		["Pantalones de esmoquin negro"] = {
 			760000, -- [1]
 		},
-		["Glifo de Llama de las Sombras"] = {
-			217000, -- [1]
+		["Rama Cortada Brutal de la bestia"] = {
+			1230000, -- [1]
 		},
 		["Guardahombros de Capitán de la ballena"] = {
 			2337676, -- [1]
 		},
-		["Ojo de Contemplador Amatista de espíritu"] = {
-			37730929, -- [1]
+		["Guantes de Cóndor de poder con hechizos"] = {
+			210000, -- [1]
 		},
-		["Poción de Maná Rúnica"] = {
-			109000, -- [1]
+		["Sombrero de Errante del mono"] = {
+			4999999, -- [1]
 		},
 		["Diamante de Llama Celeste del Trueno"] = {
 			999000, -- [1]
@@ -19709,38 +19718,38 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Conflagrar"] = {
 			375553, -- [1]
 		},
-		["Balas Mordedura de Escarcha"] = {
-			250, -- [1]
+		["Glifo de Rugido Salvaje"] = {
+			582999, -- [1]
 		},
-		["Glifo de Secretos del Oficio"] = {
-			299500, -- [1]
+		["Toga Tejeocaso de espíritu"] = {
+			999984, -- [1]
 		},
-		["Calzas Zarrapucha del águila"] = {
-			900000, -- [1]
+		["Hoja de Asesinato"] = {
+			6000000, -- [1]
 		},
 		["Leotardos de Contrahielo Oscuros"] = {
 			1111111, -- [1]
 		},
-		["Frasco de Sangrepiedra"] = {
-			1960000, -- [1]
+		["Dije de Piedra Verde del oso"] = {
+			1000000, -- [1]
 		},
-		["Hacha de Placa Ósea del hechicero"] = {
-			750000, -- [1]
+		["Rama Tejeocaso del búho"] = {
+			150000, -- [1]
 		},
 		["Caparazón de Reyes Olvidados"] = {
 			19000000, -- [1]
 		},
-		["Leotardos de Cormorán del mono"] = {
-			500000, -- [1]
+		["Cetro Dogmático del águila"] = {
+			1507500, -- [1]
 		},
-		["Toga Tethys del médico"] = {
-			210000, -- [1]
+		["Glifo de Escudo de Rectitud"] = {
+			229500, -- [1]
 		},
 		["Venda de Tejido Abisal Gruesa"] = {
 			7400, -- [1]
 		},
-		["As de Prismas"] = {
-			3890000, -- [1]
+		["Cinturón de Escamas de Sangre del falcón"] = {
+			50000000, -- [1]
 		},
 		["Piedra de Terror Soberana"] = {
 			1257500, -- [1]
@@ -19751,14 +19760,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Círculo Iridio de concentración"] = {
 			40000000, -- [1]
 		},
-		["Elixir de Agilidad Poderosa"] = {
-			449000, -- [1]
+		["Rubí Escarlata Llamativo"] = {
+			2140000, -- [1]
 		},
-		["Yema Vieja"] = {
-			1600, -- [1]
+		["Elixir de Cólera"] = {
+			29250, -- [1]
 		},
-		["Blusa Real de la ballena"] = {
-			3000000, -- [1]
+		["Patrón: Pantalones de Cuero Maligno"] = {
+			55000, -- [1]
 		},
 		["Cinturón de La Guardia Oeste del búho"] = {
 			200000, -- [1]
@@ -19766,14 +19775,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Escarpes Gloriosos del gorila"] = {
 			25000000, -- [1]
 		},
-		["Cinco de Furias"] = {
-			399999, -- [1]
+		["Cinturón Magnánimo del mono"] = {
+			4400000, -- [1]
 		},
-		["Elixir de Fuerza Poderosa"] = {
-			77000, -- [1]
+		["Elixir de Espíritu"] = {
+			79499, -- [1]
 		},
-		["Caperuza de Sanguiespora del hechicero"] = {
-			488888, -- [1]
+		["Armadura de Pierna de Escama de Hielo"] = {
+			9179999, -- [1]
 		},
 		["Fajín Cielo Nocturno"] = {
 			1990000, -- [1]
@@ -19790,8 +19799,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Collar de Dientes de Tiburón del Campeón"] = {
 			450000, -- [1]
 		},
-		["Patrón: Manos de Oscuridad"] = {
-			99500, -- [1]
+		["Manoplas de Malla Abisal de restauración"] = {
+			390000, -- [1]
 		},
 		["Partecostillas del tigre"] = {
 			40000000, -- [1]
@@ -19799,143 +19808,142 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hoja del Basilisco"] = {
 			555555, -- [1]
 		},
-		["Elixir de Gurú"] = {
-			32000, -- [1]
+		["Fajín de Paño Abisal de brujería"] = {
+			390000, -- [1]
 		},
-		["Estofado de Orca Suculento"] = {
-			61875, -- [1]
+		["Aceite de Zahorí Luminoso"] = {
+			305800, -- [1]
 		},
-		["Jaula para Gatos (atigrado Negro)"] = {
-			14517750, -- [1]
+		["Aro de Jade de la ballena"] = {
+			40000000, -- [1]
 		},
 		["Pergamino de Encantar capa: Velocidad"] = {
 			388050, -- [1]
 		},
-		["Casco de Orca del bandido"] = {
-			500000, -- [1]
+		["Llave de Tuerca Arcoluz"] = {
+			50000, -- [1]
 		},
 		["Hacha de Batalla Devastadora de la ballena"] = {
 			2120000, -- [1]
 		},
-		["Patrón: Guantes del Padre Invierno"] = {
-			2200000, -- [1]
-		},
-		["Patrón: guantes de tejido de Escarcha"] = {
-			19206, -- [1]
-		},
-		["Puño de Luchador del jabalí"] = {
+		["Diamante Rompeterra Incansable"] = {
 			300000, -- [1]
 		},
-		["Cubrehombros Rutilantes del búho"] = {
-			39990000, -- [1]
+		["Gran Hoja de Gladiador del lobo"] = {
+			1550000, -- [1]
 		},
-		["Alabarda del águila"] = {
-			700000, -- [1]
+		["Manto de Devastador"] = {
+			50000000, -- [1]
 		},
-		["Coraza de Saronita Luminosa"] = {
-			2099399, -- [1]
+		["Guanteletes de jade del jabalí"] = {
+			40000000, -- [1]
+		},
+		["Clamacielos"] = {
+			1250000, -- [1]
+		},
+		["Leotardos de Pellejo de Quimera de protección de la Naturaleza"] = {
+			2500000, -- [1]
 		},
 		["Vela Sagrada"] = {
 			10000, -- [1]
 		},
-		["Ametrino Destellante"] = {
-			3029920, -- [1]
+		["Espada Golpecabeza de aguante"] = {
+			2999999, -- [1]
 		},
-		["Grebas Haltorboll del soldado"] = {
-			755000, -- [1]
+		["Patrón: guantes de sable de hielo"] = {
+			145888, -- [1]
 		},
-		["Guantes Tralladón de poder con hechizos"] = {
-			170000, -- [1]
+		["Fuerza de Uther"] = {
+			888000, -- [1]
 		},
 		["Brazales de dragontina de cruzado"] = {
 			43300000, -- [1]
 		},
-		["Filete de Huargo Ennegrecido"] = {
-			189000, -- [1]
+		["Filete de Gusano Rinolicioso"] = {
+			99500, -- [1]
 		},
 		["Faltriquera de Munición de Cuero Pequeña"] = {
 			49500, -- [1]
 		},
-		["Locura de Mojo Gurubashi"] = {
-			1060000, -- [1]
-		},
-		["Huevo de Polilla Amarilla"] = {
-			336000, -- [1]
-		},
-		["Puños de Concejal del búho"] = {
-			190000, -- [1]
-		},
-		["Guardamuñecas Tralladón del bandido"] = {
+		["Guardahombros de Trampero de protección de la Naturaleza"] = {
 			500000, -- [1]
 		},
-		["Caperuza de Wendigo de espíritu"] = {
-			500000, -- [1]
+		["Piedra de Terror Imbuida"] = {
+			2439999, -- [1]
+		},
+		["Diseño: Cinturón Radiante"] = {
+			9899, -- [1]
+		},
+		["Brazales Nerubianos"] = {
+			800000, -- [1]
+		},
+		["Balista Brutal del bandido"] = {
 		},
 		["Pica Apestada del lobo"] = {
 			250000, -- [1]
 		},
-		["Madeja de Paño Rúnico"] = {
-			5900, -- [1]
+		["Casco de Pielférrea de cólera Arcana"] = {
+			40000000, -- [1]
 		},
-		["Vestimentas de Pira Funeraria"] = {
-			550000, -- [1]
+		["Espaldares Ghrino de protección de la Naturaleza"] = {
+			1900000, -- [1]
 		},
-		["Ojo de Adaegus"] = {
-			880000, -- [1]
+		["Leotardos de Sanguiespora del hechicero"] = {
+			290000, -- [1]
 		},
 		["Fajín Supremo del jabalí"] = {
 			3364454, -- [1]
 		},
-		["Rodela de Rebanacabezas de la ballena"] = {
-			101120757, -- [1]
+		["Guantes de Garrida del búho"] = {
+			250000, -- [1]
 		},
 		["Escarpes Frioescollo de protección de la Naturaleza"] = {
 			70000, -- [1]
 		},
-		["Jubón de la Luna Negra de agilidad"] = {
-			90000, -- [1]
+		["Guanteletes Pataescarcha de protección de las Sombras"] = {
+			250000, -- [1]
 		},
-		["Manual: Contraveneno Fuerte"] = {
-			494000, -- [1]
+		["Glifo de Forzar Cerradura"] = {
+			439698, -- [1]
 		},
-		["Patrón: Cinturón de Cuero Rúnico"] = {
-			39800, -- [1]
+		["Toga Arcana"] = {
+			2505875, -- [1]
 		},
 		["Quijotes de Observador Eterno de la bestia"] = {
 			15000000, -- [1]
 		},
-		["Tres de Tormentas"] = {
-			120000, -- [1]
+		["Máscara Facial de Eviscerador"] = {
+			8279900, -- [1]
 		},
-		["Filete Tártaro de Huargo"] = {
-			184999, -- [1]
+		["Elixir de Perforar Armadura"] = {
+			140000, -- [1]
 		},
-		["Hoja de Hierro Afilada del hechicero"] = {
-			160000, -- [1]
+		["Hoja de Hechizo de Saronita"] = {
+			7498495, -- [1]
 		},
-		["Pergamino de Encantar botas: velocidad de jabalí"] = {
-			13000000, -- [1]
+		["Carne de Uñagrieta"] = {
+			7450, -- [1]
 		},
-		["Hombreras de Cóndor del hechicero"] = {
-			279761, -- [1]
+		["Anillo Extraviado del tirador"] = {
+			263429798, -- [1]
 		},
 		["Sobrehombros Magníficos del mono"] = {
 			209999, -- [1]
 		},
-		["Glifo de Disipación en Masa"] = {
-			235000, -- [1]
+		["Guardabrazos Sombra Lunar"] = {
+			64440000, -- [1]
 		},
-		["Ataduras de Caverna de Brillogusano"] = {
-			120000, -- [1]
+		["Inyector de Sanación Rúnica"] = {
+			47499, -- [1]
 		},
-		["Tejido de Ébano"] = {
-			991000, -- [1]
+		["Sobrehombros de Lana Reforzada"] = {
+			500000, -- [1]
 		},
-		["Calcedonia"] = {
-			259999, -- [1]
+		["Patrón: Botas de Cuero Refinado"] = {
+			70000, -- [1]
 		},
-		["Patrón: Faltriquera de Tejido Mágico Encantada"] = {
-			15500, -- [1]
+		["Receta: Poción de Fuerza Demente"] = {
+			499000, -- [1]
 		},
 		["Fórmula: Encantar Pechera: Salud Sublime"] = {
 			90000, -- [1]
@@ -19949,8 +19957,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cinturón de linterna con borla"] = {
 			1600000, -- [1]
 		},
-		["Carne de Almeja Jaggal"] = {
-			654, -- [1]
+		["Símbolo de Reyes"] = {
+			50000, -- [1]
 		},
 		["Pez Ángel Aletadragón"] = {
 			99999, -- [1]
@@ -19958,38 +19966,37 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pantalones de Cargador del oso"] = {
 			1174221, -- [1]
 		},
-		["Ídolo de Ámbar"] = {
-			749500, -- [1]
+		["Espaldares Simbólicos"] = {
+			160000000, -- [1]
 		},
-		["Escalpelo de Flebotomista"] = {
-			1527318, -- [1]
+		["Ametrino Mortal"] = {
+			3120000, -- [1]
 		},
-		["Hombreras Aborígenes"] = {
-			100000, -- [1]
+		["Bolsa de Tejido Abisal Imbuido"] = {
 		},
-		["Guardahombros Tejerred del águila"] = {
-			348129, -- [1]
+		["Cinturón de Lágrimas Cristalinas"] = {
+			299000, -- [1]
 		},
-		["Anillo Retorcido de Oro del búho"] = {
-			109590, -- [1]
+		["Botas de Geomántico de aguante"] = {
+			2999999, -- [1]
 		},
-		["Glifo de Evocación"] = {
-			220000, -- [1]
+		["Casquete Cubredaga del lobo"] = {
+			500000, -- [1]
 		},
 		["Mota de Tierra"] = {
 			14000, -- [1]
 		},
-		["Elixir de Camuflaje"] = {
-			295999, -- [1]
+		["Arco Largo Macizo"] = {
+			220000, -- [1]
 		},
-		["Bufas Pino Ámbar de la ballena"] = {
-			100000, -- [1]
+		["Boceto: topacio monarca de adepto"] = {
+			350000, -- [1]
 		},
 		["Corona de Lord de la ballena"] = {
 			110000, -- [1]
 		},
-		["Glifo de Dispersión"] = {
-			385000, -- [1]
+		["Grebas de Jade de defensa"] = {
+			40000000, -- [1]
 		},
 		["Triturador de Cobalto"] = {
 			14980000, -- [1]
@@ -19997,53 +20004,53 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Elixir de Velocidad Relámpago"] = {
 			99999, -- [1]
 		},
-		["Bufas Pino Ámbar del vidente"] = {
-			250000, -- [1]
+		["Guanteletes Flechapresta"] = {
+			9929900, -- [1]
 		},
-		["Pez Escorpión a la Brasa"] = {
-			20000, -- [1]
+		["Patrón: Leotardos de Escórpido Resistentes"] = {
+			2300, -- [1]
 		},
-		["Quijotes Haltorboll del Campeón"] = {
-			990000, -- [1]
+		["Cubrehombros Haltorboll de intelecto"] = {
+			100000, -- [1]
 		},
-		["Pez Escorpión del Norte Pochado"] = {
-			97013, -- [1]
+		["Partículas de titanio"] = {
+			376100, -- [1]
 		},
 		["Vial derretido"] = {
 			9900, -- [1]
 		},
-		["Cinturón Flechapresta"] = {
-			9929900, -- [1]
+		["Sombrero de Zahorí Regio del búho"] = {
+			50000000, -- [1]
 		},
-		["Yelmo de Acerira"] = {
-			40000000, -- [1]
+		["Guantes de Caribú de poder con hechizos"] = {
+			60000, -- [1]
 		},
 		["Lengua de Víboris"] = {
 			639000, -- [1]
 		},
-		["Jubón de Eslabones Pino Ámbar del tigre"] = {
-			900000, -- [1]
+		["Brazales Presavil del gorila"] = {
+			100000, -- [1]
 		},
-		["Rinoceronte Suculento"] = {
-			99500, -- [1]
+		["Medallón de Platino de la bestia"] = {
+			50000000, -- [1]
 		},
-		["Espada Corta de Venganza"] = {
-			30000000, -- [1]
+		["Lágrima encantada"] = {
+			428888, -- [1]
 		},
 		["Capa de Reanimador"] = {
 			2050000, -- [1]
 		},
-		["Sello Onírico del tirador"] = {
-			1689999, -- [1]
+		["Casco Pataescarcha del tigre"] = {
+			299999, -- [1]
 		},
-		["Gargantilla de Esmeraldas"] = {
-			848000, -- [1]
+		["Mena de Veraplata"] = {
+			24800, -- [1]
 		},
-		["Diseño: pantalones de mitril pesado"] = {
-			48400, -- [1]
+		["Receta con Marcas de Agua"] = {
+			6290000, -- [1]
 		},
-		["Corona de Gran Jefe de defensa"] = {
-			4999999, -- [1]
+		["Maná Primigenio"] = {
+			500000, -- [1]
 		},
 		["Malaquita"] = {
 			8000, -- [1]
@@ -20054,8 +20061,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Manteo de Lino Reforzado"] = {
 			15000, -- [1]
 		},
-		["Loto Vil"] = {
-			7600, -- [1]
+		["Esencia Astral Inferior"] = {
+			40000, -- [1]
 		},
 		["Brazales de Combustión"] = {
 			9990000, -- [1]
@@ -20063,20 +20070,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hombreras Astralaan del invocador"] = {
 			10896085, -- [1]
 		},
-		["Loto Negro"] = {
-			199000, -- [1]
+		["Glifo de Invisibilidad"] = {
+			539697, -- [1]
 		},
-		["Almádena Piedra de Espinas"] = {
-			500000, -- [1]
+		["Perritos de Rinoceronte"] = {
+			10000, -- [1]
 		},
 		["Destripador de Ballenas del falcón"] = {
 			2450000, -- [1]
 		},
-		["Pellejo Medio Curtido"] = {
-			40000, -- [1]
+		["Grebas de Puño de Roca de la ballena"] = {
+			40000000, -- [1]
 		},
-		["Escamas Cromáticas Luminosas"] = {
-			65554, -- [1]
+		["Colmillo Oscuro"] = {
+			77980500, -- [1]
 		},
 		["Manoplas de Malla Abisal de brujería"] = {
 			390000, -- [1]
@@ -20084,17 +20091,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Evasión"] = {
 			347000, -- [1]
 		},
-		["Pergamino de Encantar arma: magia negra"] = {
-			22919999, -- [1]
+		["Poción de Alquimista Demente"] = {
+			201000, -- [1]
 		},
-		["Patrón: Botas Prestas"] = {
-			14587, -- [1]
+		["Libro sobre maestría en glifos"] = {
+			97500, -- [1]
 		},
 		["Brazales del Infierno Asfixiante"] = {
 			160000000, -- [1]
 		},
-		["Pistola Empobrecida de la ballena"] = {
-			500000, -- [1]
+		["Poción de Pesadillas"] = {
+			138000, -- [1]
 		},
 		["Cadena de Cordón de Plata del mono"] = {
 			91500, -- [1]
@@ -20102,11 +20109,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guantes de Bucanero del búho"] = {
 			3980000, -- [1]
 		},
-		["Colmillo Negro"] = {
-			3500000, -- [1]
+		["Runaespada del tigre"] = {
+			14848753, -- [1]
 		},
-		["Joya de Tormenta Luminosa"] = {
-			3500000, -- [1]
+		["Rodela de Kashala del hechicero"] = {
+			900000, -- [1]
 		},
 		["Hierba Cardenal"] = {
 			23000, -- [1]
@@ -20114,50 +20121,50 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cercenadora Desgarravil"] = {
 			300000, -- [1]
 		},
-		["Glifo de Imposición de Manos"] = {
-			398949, -- [1]
+		["Poción de Maná Inferior"] = {
+			11600, -- [1]
 		},
 		["Brazales de Infiltrado de espíritu"] = {
 			2999999, -- [1]
 		},
-		["Salmón Ahumado"] = {
-			29055, -- [1]
+		["Jade Oscuro Duradero"] = {
+			9900, -- [1]
 		},
 		["Ídolo de la Noche"] = {
 			59500, -- [1]
 		},
-		["Daga Excéntrica del anciano"] = {
-			150000, -- [1]
+		["Capacete Heroico de defensa"] = {
+			40000000, -- [1]
 		},
 		["Glifo de Aliento Inagotable"] = {
 			376868, -- [1]
 		},
-		["Cohete Verde Grande"] = {
-			25000, -- [1]
+		["Guantes de Wendigo de espíritu"] = {
+			1900000, -- [1]
 		},
-		["Glifo de Entereza Ligada al Hielo"] = {
-			194499, -- [1]
+		["Bastón de Conocimiento Primigenio de la bestia"] = {
+			500000, -- [1]
 		},
-		["Glifo de Trueno"] = {
-			338000, -- [1]
+		["Jade Oscuro"] = {
+			110000, -- [1]
 		},
-		["Anillo Rúnico del búho"] = {
-			40000000, -- [1]
+		["Guantes de Tejido del Alba"] = {
+			200000, -- [1]
 		},
-		["Glifo de Disparo Explosivo"] = {
-			548900, -- [1]
+		["Jade"] = {
+			170000, -- [1]
 		},
 		["Espada Magna Taraceada del hechicero"] = {
 			510000, -- [1]
 		},
-		["Hacha de Batalla de Torio Enorme"] = {
-			350000, -- [1]
+		["Esquema: gafas de maestro ingeniero"] = {
+			225924, -- [1]
 		},
 		["Leotardos a Rayas del oso"] = {
 			3749999, -- [1]
 		},
-		["Glifo de Añublo Profano"] = {
-			301500, -- [1]
+		["Glifo de Orden"] = {
+			305399, -- [1]
 		},
 		["Pretina Glacial"] = {
 			5000000, -- [1]
@@ -20165,17 +20172,16 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Espetadora de Piedra Mácula del jabalí"] = {
 			2999999, -- [1]
 		},
-		["Glifo de Abrazo de la Muerte"] = {
-			479000, -- [1]
+		["Guantes de Celador"] = {
+			2499999, -- [1]
 		},
-		["Gafas Tintadas de Verde"] = {
-			50000, -- [1]
+		["Rubí Escarlata Brillante"] = {
+			1000000, -- [1]
 		},
-		["Patrón: Sobrehombros de Cuero Rúnico"] = {
-			15790, -- [1]
+		["Faja de Paño Brillante"] = {
 		},
-		["Barra de Plata"] = {
-			220000, -- [1]
+		["Calzones Uñagrieta del falcón"] = {
+			6283041, -- [1]
 		},
 		["Receta: Morcilla"] = {
 			879000, -- [1]
@@ -20183,35 +20189,35 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Receta: Poción de Gran Ira"] = {
 			154500, -- [1]
 		},
-		["Pergamino de Espíritu"] = {
-			10000, -- [1]
+		["Esencia Eterna Superior"] = {
+			358000, -- [1]
 		},
-		["Quiebraespadas Afilada de Lydia"] = {
-			589999, -- [1]
+		["Proyectiles de Torio"] = {
+			96, -- [1]
 		},
-		["Manto Místico de cólera Arcana"] = {
-			2999999, -- [1]
+		["Desgarrantrañas"] = {
+			1000000, -- [1]
 		},
-		["Patrón: Yelmo de Escórpido Grueso"] = {
-			989000, -- [1]
+		["Ocho de Furias"] = {
+			49800, -- [1]
 		},
-		["Vial rajado"] = {
-			2900, -- [1]
+		["Frasco de Restauración Poderosa"] = {
+			651428, -- [1]
 		},
-		["Espaldares de Lord del búho"] = {
-			2999999, -- [1]
+		["Fórmula: encantar pechera: maná menor"] = {
+			2100, -- [1]
 		},
-		["Glifo de Tormenta Divina"] = {
-			545693, -- [1]
+		["Glifo de Renacer"] = {
+			100000, -- [1]
 		},
 		["Glifo de Poder Resonante"] = {
 			846900, -- [1]
 		},
-		["Guanteletes de Nidada de Rhie-ay"] = {
-			399000, -- [1]
+		["Guantes de Lino Gruesos"] = {
+			50000, -- [1]
 		},
-		["Glifo de Dolor Abrasador"] = {
-			358100, -- [1]
+		["Naipe de la Luna Negra: ¡Rabioso!"] = {
+			9850000, -- [1]
 		},
 		["Guardahombros Flechapresta"] = {
 			9929900, -- [1]
@@ -20219,44 +20225,44 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Musleras de Wolvar de poder con hechizos"] = {
 			322000, -- [1]
 		},
-		["Anillo de Poder de Sombra"] = {
-			550000, -- [1]
+		["Brezospina"] = {
+			73684, -- [1]
 		},
-		["Poción de Sanación Resurgente"] = {
-			9000, -- [1]
+		["Dirk Temerario"] = {
+			750000, -- [1]
 		},
-		["Aceite de Zahorí Excelente"] = {
-			389999, -- [1]
+		["Leotardos de Glotón del águila"] = {
+			180529, -- [1]
 		},
-		["Basilisco Ennegrecido"] = {
-			995, -- [1]
+		["Derramasangre"] = {
+			40000000, -- [1]
 		},
-		["Esmeralda del Bosque Deslumbrante"] = {
-			47237, -- [1]
+		["Anillo de Poder Terráneo"] = {
+			6922837, -- [1]
 		},
-		["Fórmula: Encantar Escudo: Protección Inferior"] = {
-			40000, -- [1]
+		["Malla de Placas de Torio Encantado"] = {
+			49800, -- [1]
 		},
-		["Receta: Poción de Protección contra el Fuego Superior"] = {
-			1227499, -- [1]
+		["Manto de Lego de aguante"] = {
+			2999999, -- [1]
 		},
-		["Toga Aborigen de cólera de las Sombras"] = {
-			1950000, -- [1]
+		["Leotardos de Pretoriano del oso"] = {
+			3314474, -- [1]
 		},
-		["Receta: Tortilla con un Sabor Curioso"] = {
-			9899, -- [1]
+		["Bengala de Humo Blanco"] = {
+			50999, -- [1]
 		},
-		["Manijas de Mur'crófago del profeta"] = {
-			400000, -- [1]
+		["Poción de Maná Helada"] = {
+			45692, -- [1]
 		},
-		["Pulseras de Visir del médico"] = {
-			220000, -- [1]
+		["Leotardos Tethys del profeta"] = {
+			150618, -- [1]
 		},
-		["Manta Raya al Horno"] = {
-			140000, -- [1]
+		["Manto Piel de Cardo del lobo"] = {
+			4968911, -- [1]
 		},
-		["Patrón: Toga de Merlín"] = {
-			89999999, -- [1]
+		["Fórmula: Encantar Capa: Resistencia Superior"] = {
+			4700, -- [1]
 		},
 		["Pantalones Nochefugaz"] = {
 			49900, -- [1]
@@ -20264,62 +20270,62 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Embozo de Tirahuesos de la ballena"] = {
 			25000000, -- [1]
 		},
-		["Siete de Elementales"] = {
-			430000, -- [1]
+		["Glifo de Armadura Inquebrantable"] = {
+			99500, -- [1]
 		},
-		["Glifo de Atracción Letal"] = {
-			198501, -- [1]
+		["Glifo de Congelación Profunda"] = {
+			1163750, -- [1]
 		},
-		["Glifo de Cadenas de Hielo"] = {
-			100000, -- [1]
+		["Glifo de Disparo de Quimera"] = {
+			501488, -- [1]
 		},
-		["Bufas Pino Ámbar del anciano"] = {
-			1000000, -- [1]
+		["Fórmula: Encantar Capa: Resistencia a las Sombras Excelente"] = {
+			9999999, -- [1]
 		},
-		["Dos de Señores de la Guerra"] = {
-			730000, -- [1]
+		["Braciles del Anillo Celeste"] = {
+			360000, -- [1]
 		},
-		["Cristal de Sol Místico Perfecto"] = {
-			560000, -- [1]
+		["Patrón: Guanteletes de Cuero Rúnico"] = {
+			18200, -- [1]
 		},
-		["Glifo de Caparazón Antimagia"] = {
-			439183, -- [1]
+		["Punta de Escudo de Titanio"] = {
+			1240000, -- [1]
 		},
 		["Fragmentos Geodésicos"] = {
 			57692, -- [1]
 		},
-		["Mena de Korio"] = {
-			800000, -- [1]
+		["Brazales de Valor"] = {
+			140000, -- [1]
 		},
 		["Bastón de Esbirro del jabalí"] = {
 			1900000, -- [1]
 		},
-		["Glifo de Venas Heladas"] = {
-			220000, -- [1]
+		["Rifle de Asalto Gnomo del águila"] = {
+			1250000, -- [1]
 		},
 		["Frasco de la Vermis de Escarcha"] = {
 			1429050, -- [1]
 		},
-		["Fórmula: encantar brazales: aguante superior"] = {
-			3227500, -- [1]
+		["Fórmula: encantar brazales: espíritu superior"] = {
+			499000, -- [1]
 		},
-		["Fórmula: encantar botas: vitalidad"] = {
-			100000, -- [1]
+		["Glifo de Golpe de Escarcha"] = {
+			316900, -- [1]
 		},
-		["Cinturón Delicado de cólera ígnea"] = {
-			2914989, -- [1]
+		["Zafiro Celestial"] = {
+			154500, -- [1]
 		},
 		["Esporas Extrañas"] = {
 			64499, -- [1]
 		},
-		["Diamante de Asedio de Tierra Vigorizador"] = {
-			3497500, -- [1]
+		["Collar de la Luna Negra"] = {
+			12330826, -- [1]
 		},
 		["Esmeralda del Bosque Turbia"] = {
 			350000, -- [1]
 		},
-		["Glifo de Reflejo de Hechizos"] = {
-			346500, -- [1]
+		["Guanteletes de Kraken de intelecto"] = {
+			1900000, -- [1]
 		},
 		["Patrón: Talega de Seda Verde"] = {
 			40000, -- [1]
@@ -20327,35 +20333,35 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Perla de Oro"] = {
 			269000, -- [1]
 		},
-		["Abismo Primigenio"] = {
-			16000, -- [1]
+		["Amito Tejeocaso de intelecto"] = {
+			1499999, -- [1]
 		},
-		["Yelmo Calavermis del búho"] = {
-			145000, -- [1]
+		["Manto Hechicero del búho"] = {
+			2999999, -- [1]
 		},
-		["Fórmula: encantar arma: oleada de hechizos"] = {
-			385550, -- [1]
+		["Libranza del Artesano: Aro Radiante"] = {
+			199999, -- [1]
 		},
-		["Superpoción de Sanación"] = {
-			10300, -- [1]
+		["Cristal de Vacío"] = {
+			998999, -- [1]
 		},
-		["Guantes de Cuero Estampado"] = {
-			10200, -- [1]
+		["Fórmula: Encantar Botas: Espíritu Inferior"] = {
+			99500, -- [1]
 		},
-		["Draenita de Sombras Soberana"] = {
-			2535, -- [1]
+		["Vara de Veraplata"] = {
+			299000, -- [1]
 		},
-		["Pantalones humeantes"] = {
-			3000000, -- [1]
+		["Barra de torio encantado"] = {
+			50000, -- [1]
 		},
-		["Leotardos Rectos de la ballena"] = {
-			35206662, -- [1]
+		["Guerrera Bruñida"] = {
+			1320000, -- [1]
 		},
 		["Armadura de Piel de Serpiente"] = {
 			349999, -- [1]
 		},
-		["Pergamino de Fuerza VI"] = {
-			29799, -- [1]
+		["Elixir de Defensa Superior"] = {
+			9262, -- [1]
 		},
 		["Quijotes Heroicos del oso"] = {
 			25000000, -- [1]
@@ -20366,17 +20372,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guanteletes de Escamas de Sangre de protección de la Naturaleza"] = {
 			10000000, -- [1]
 		},
-		["Brazales Rectos del mono"] = {
+		["Glifo de Guardia Vil"] = {
+			403283, -- [1]
+		},
+		["Quijotes de Kraken de protección de las Sombras"] = {
+			1100000, -- [1]
+		},
+		["Aro de Jade del jabalí"] = {
+			40000000, -- [1]
+		},
+		["Brazales de Escamas de Escarcha"] = {
 			150000, -- [1]
-		},
-		["Colgante de Daga de Jade"] = {
-			780000, -- [1]
-		},
-		["Colgante de Zafiro de Noche Invernal"] = {
-			107000, -- [1]
-		},
-		["Glifo de Sello de Venganza"] = {
-			485499, -- [1]
 		},
 		["Cinco de Locuras"] = {
 			650000, -- [1]
@@ -20390,29 +20396,29 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Camisa Marrón Común"] = {
 			59900, -- [1]
 		},
-		["Glifo de Monzón"] = {
-			273900, -- [1]
+		["Toga de Sanguiespora de la ballena"] = {
+			100000, -- [1]
 		},
-		["Esquema: Bengala de Humo Morado"] = {
-			1499999, -- [1]
+		["Fragmento Radiante Pequeño"] = {
+			9800, -- [1]
 		},
 		["Manto de Sanguiespora del hechicero"] = {
 			80000, -- [1]
 		},
-		["Barra de Titanio"] = {
-			758000, -- [1]
+		["Libro de Cocina para Expertos"] = {
+			100001, -- [1]
 		},
-		["Leotardos de Escamas de Tortuga"] = {
-			150000, -- [1]
+		["Recuerdo Embrujado"] = {
+			180000000, -- [1]
 		},
-		["Escarpes Inexorables"] = {
-			189999999, -- [1]
+		["Poción de Ira Poderosa"] = {
+			190750, -- [1]
 		},
 		["Bufas de Cabalista de aguante"] = {
 			99999, -- [1]
 		},
-		["Patrón: Pantalones de Gran Vudú"] = {
-			59500, -- [1]
+		["Glifo de Espiral de la Muerte"] = {
+			838196, -- [1]
 		},
 		["Glifo de Victoria Duradera"] = {
 			554747, -- [1]
@@ -20420,11 +20426,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Patrón: Cinturón de Montañero"] = {
 			6500, -- [1]
 		},
-		["Madera de Estrella"] = {
-			30000, -- [1]
+		["Glifo de Misiles Arcanos"] = {
+			285900, -- [1]
 		},
-		["Espina de Karrog"] = {
-			990000, -- [1]
+		["Glifo de Golpe de Tormenta"] = {
+			229900, -- [1]
 		},
 		["Máscara de Tejido de Sangre de sanación"] = {
 			19990000, -- [1]
@@ -20432,32 +20438,32 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Brazales de Aparecido del Campeón"] = {
 			12500000, -- [1]
 		},
-		["Manoplas Desalentadoras"] = {
-			1784884, -- [1]
+		["Glifo de Cuerno de Invierno"] = {
+			254999, -- [1]
 		},
-		["Palitos de Pez Dorado"] = {
-			12500, -- [1]
+		["Espada Decapitadora del tigre"] = {
+			3493364, -- [1]
 		},
 		["Ballesta Feroz de la bestia"] = {
 			488888, -- [1]
 		},
-		["Glifo de Orden Oscura"] = {
-			467700, -- [1]
+		["Pergamino de Encantar brazales: asalto superior"] = {
+			2307500, -- [1]
 		},
-		["Arenque Oscuro"] = {
-			254000, -- [1]
+		["Receta: Caballa de Piel Escurridiza"] = {
+			308900, -- [1]
 		},
-		["Cinturón Impenetrable de la ballena"] = {
-			30000000, -- [1]
+		["Patrón: pantalones de tejido de Escarcha"] = {
+			145000, -- [1]
 		},
-		["Glifo de Toque Helado"] = {
-			296500, -- [1]
+		["Lente Verde de regeneración"] = {
+			900000, -- [1]
 		},
 		["Brazales Frioescollo del médico"] = {
 			120000, -- [1]
 		},
-		["Sepia Resplandor Lunar"] = {
-			2300, -- [1]
+		["Glifo de Sangre Vampírica"] = {
+			249000, -- [1]
 		},
 		["Martillo Pico"] = {
 			10000, -- [1]
@@ -20465,62 +20471,61 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Leotardos Arcanos"] = {
 			250000, -- [1]
 		},
-		["Sortija de Dominio"] = {
-			660000, -- [1]
+		["Quijotes Heroicos de poder"] = {
+			5753361, -- [1]
 		},
-		["Faca de Acero de Titanes"] = {
-			30000000, -- [1]
+		["Pergamino de intelecto IV"] = {
+			5000, -- [1]
 		},
-		["Glifo de Garrote"] = {
-			250000, -- [1]
+		["Carcaj Reforzado Nerubiano"] = {
+			5478800, -- [1]
 		},
 		["Manijas de Resonancia"] = {
 			233330000, -- [1]
 		},
-		["Diamante Negro Prístino"] = {
-			864500, -- [1]
+		["Vigorpez Lustroso Crudo"] = {
+			9899, -- [1]
 		},
-		["Dos de No-muertos"] = {
-			1860000, -- [1]
+		["Pretina Cubredaga del mono"] = {
+			488888, -- [1]
 		},
-		["Brazales de Templario de poder"] = {
-			1191527, -- [1]
+		["Guantes Runavold del invocador"] = {
+			210000, -- [1]
 		},
-		["Escarabajo de Terracota"] = {
-			991953, -- [1]
+		["Anillo de Roca Volcánica"] = {
+			2487500, -- [1]
 		},
-		["Jubón de Fuego Estelar de protección Arcana"] = {
-			4431715, -- [1]
+		["Dado Decagonal de Enano"] = {
+			8000000, -- [1]
 		},
 		["Espada Ancha Desenterrada del tigre"] = {
 			1200000, -- [1]
 		},
-		["Pretina Garrasalto del anciano"] = {
-			400000, -- [1]
+		["Yelmo de Torio Encantado"] = {
+			35000000, -- [1]
 		},
 		["Brazales de Devoto"] = {
 			199500, -- [1]
 		},
-		["Lágrimas de Arthas"] = {
-			15000, -- [1]
+		["Shuriken con Garras del águila"] = {
 		},
-		["Glifo de Pirofrío"] = {
-			469997, -- [1]
+		["Diamante de Azeroth"] = {
+			647000, -- [1]
 		},
-		["Las Verdes Colinas de Tuercespina: Página 6"] = {
-			238000, -- [1]
+		["Malicia Negra"] = {
+			1499999, -- [1]
 		},
-		["Botas de Escarcha letal"] = {
-			40390000, -- [1]
-		},
-		["Cubrehombros de Puño de Roca del mono"] = {
+		["Cubrehombros de Puño de Roca del lobo"] = {
 			40000000, -- [1]
+		},
+		["Fajín Invernal"] = {
+			39500, -- [1]
 		},
 		["Brazales de consejero mayor de la ballena"] = {
 			808230, -- [1]
 		},
-		["Ametrino Velado"] = {
-			5545000, -- [1]
+		["Corazón de huargo descolorido"] = {
+			1550, -- [1]
 		},
 		["Anzuelo Afilado"] = {
 			14444, -- [1]
@@ -20528,11 +20533,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Botas Sombranoche de aguante"] = {
 			2067125, -- [1]
 		},
-		["MOLL-E"] = {
-			2297500, -- [1]
+		["Baluarte de Placas de intelecto"] = {
+			1500000, -- [1]
 		},
-		["Esencia Cósmica Inferior"] = {
-			65656, -- [1]
+		["Runa de Amparo Inferior"] = {
+			450000, -- [1]
 		},
 		["Marra de Roble del gorila"] = {
 			1000000, -- [1]
@@ -20540,41 +20545,41 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Barra de Adamantita Endurecida"] = {
 			935099, -- [1]
 		},
-		["Receta: Kebab de Lobo Sazonado"] = {
-			508999, -- [1]
+		["Musleras de Grupo de Anillas"] = {
+			4507899, -- [1]
 		},
-		["Botines de Acero de Titanes Luminoso"] = {
-			23349997, -- [1]
+		["Elixir de ojo de gato"] = {
+			89500, -- [1]
 		},
 		["Espaldares de Brigandina del jabalí"] = {
 			100000, -- [1]
 		},
-		["Furia de Bruja"] = {
-			1999999, -- [1]
+		["Coraza de Forjavida"] = {
+			250000000, -- [1]
 		},
 		["Cadena de Energías Latentes"] = {
 			320000000, -- [1]
 		},
-		["Glifo de Sello de Luz"] = {
-			485342, -- [1]
+		["Siete de No-muertos"] = {
+			2905445, -- [1]
 		},
-		["Fragmento Resplandeciente Grande"] = {
-			9800, -- [1]
+		["Poción de Sanación Excelente"] = {
+			428, -- [1]
 		},
-		["Fajín de Fuego Estelar de protección de Fuego"] = {
-			2010154, -- [1]
+		["Glifo de Control Mental"] = {
+			254333, -- [1]
 		},
-		["Rama Tejeocaso de intelecto"] = {
-			3980000, -- [1]
+		["Botas Incomparables del falcón"] = {
+			3364231, -- [1]
 		},
-		["Sabiola Cruda Superior"] = {
-			349000, -- [1]
+		["Toga de Paño de Piedra"] = {
+			1499999, -- [1]
 		},
-		["Bengala de Humo Verde"] = {
-			141500, -- [1]
+		["Glifo de Manáfago"] = {
+			2969999, -- [1]
 		},
-		["Draenita dorada rígida"] = {
-			20000, -- [1]
+		["Glifo de Protección contra las Sombras"] = {
+			594499, -- [1]
 		},
 		["Togas de Cautivador"] = {
 			40000000, -- [1]
@@ -20582,131 +20587,131 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hombreras Gloriosas de defensa"] = {
 			11000000, -- [1]
 		},
-		["Manto de Acechador Abisal del invocador"] = {
-			6000000, -- [1]
+		["Glifo de Bloque de Hielo"] = {
+			160999, -- [1]
 		},
 		["Topacio Monarca Iluminado"] = {
 			1670550, -- [1]
 		},
-		["Capa de Cuero Oscuro"] = {
-			59999, -- [1]
+		["Pergamino de Agilidad V"] = {
+			29999, -- [1]
 		},
-		["Brazales de Fuego de Precisión"] = {
-			650000, -- [1]
+		["Glifo de Piel de Corteza"] = {
+			398900, -- [1]
 		},
 		["Madeja de Tejido Mágico"] = {
 			39500, -- [1]
 		},
-		["Glifo de Renovar"] = {
-			208850, -- [1]
+		["Esquema: Rifle de Torio"] = {
+			79399, -- [1]
 		},
-		["Draenita de Sombras resplandeciente"] = {
-			6900, -- [1]
+		["Lentes de Enfoque de Cristal de Sombras"] = {
+			40000, -- [1]
 		},
-		["Carne de Venado Salada"] = {
-			985, -- [1]
+		["Clava de Fúrbolg del bandido"] = {
+			350000, -- [1]
 		},
-		["Parche de espadachín de resistencia a las Sombras"] = {
-			40000000, -- [1]
+		["Glifo de Aura de Disparo Certero"] = {
+			293000, -- [1]
 		},
-		["Parche de espadachín del águila"] = {
-			22226500, -- [1]
+		["Poción de Maná Excelente"] = {
+			9799, -- [1]
 		},
-		["Glifo de Agostar"] = {
-			139500, -- [1]
+		["Leotardos del Tejepiedra"] = {
+			30000000, -- [1]
 		},
-		["Boletus Edulis Seco"] = {
-			11300, -- [1]
+		["Glifo de Aullido de Terror"] = {
+			233704, -- [1]
 		},
-		["Pergamino de Encantar capa: agilidad sublime"] = {
-			1449900, -- [1]
+		["Boceto: ojo de noche intemporal"] = {
+			500000, -- [1]
 		},
-		["Cardopresto"] = {
-			5000, -- [1]
+		["Pergamino de Intelecto III"] = {
+			10400, -- [1]
 		},
-		["Glifo de Captar No-muertos"] = {
-			325500, -- [1]
+		["Leotardos Elegantes del águila"] = {
+			8000000, -- [1]
 		},
-		["Medusa"] = {
-			78000, -- [1]
+		["Quijotes de cobalto claveteados"] = {
+			490000, -- [1]
 		},
-		["Espetadora de la Noche"] = {
-			6100000, -- [1]
+		["Diseño: Jubón de Anillas de Cobre"] = {
+			660, -- [1]
 		},
-		["Glifo de Sello de Sabiduría"] = {
-			412499, -- [1]
+		["Elixir de Agilidad Superior"] = {
+			11200, -- [1]
 		},
-		["Glifo de Encadenar No-muerto"] = {
-			280000, -- [1]
+		["Caña de Pescar de Hierro Grande"] = {
+			3550000, -- [1]
 		},
-		["Lente Verde de cólera Arcana"] = {
-			999000, -- [1]
+		["Glifo de Torbellino"] = {
+			442089, -- [1]
 		},
-		["Glifo de Exorcismo"] = {
-			349800, -- [1]
+		["Glifo de Arañazo"] = {
+			198102, -- [1]
 		},
-		["Glifo de Golpe Fantasmal"] = {
-			269899, -- [1]
+		["Brazales de Bucanero del búho"] = {
+			1000000, -- [1]
 		},
-		["Elixir de Caminar sobre el agua"] = {
-			29400, -- [1]
+		["Glifo de Respiración Acuática"] = {
+			219000, -- [1]
 		},
-		["Espina de Hielo"] = {
-			50000, -- [1]
+		["Coraza de la Mano Destrozada de protección de Escarcha"] = {
+			18999999, -- [1]
 		},
-		["Glifo de Quemadura de las Sombras"] = {
-			664700, -- [1]
+		["Guantes Tejerred del médico"] = {
+			500000, -- [1]
 		},
-		["Armadura incomparable del mono"] = {
-			300000, -- [1]
+		["Girotiro de Mitril"] = {
+			100, -- [1]
 		},
 		["Arenque Colmillo"] = {
 			500, -- [1]
 		},
-		["Glifo de Ruptura"] = {
-			389899, -- [1]
+		["Lubina Cruda"] = {
+			9332, -- [1]
 		},
-		["Antorcha Incesante"] = {
-			710000, -- [1]
+		["Cinturón de Cruzado del búho"] = {
+			19999999, -- [1]
 		},
-		["Topacio Monarca"] = {
-			999999, -- [1]
+		["Glifo de Resguardo de Miedo"] = {
+			324420, -- [1]
 		},
-		["Cinco de Caos"] = {
-			950000, -- [1]
+		["Espaldares Heroicos de aguante"] = {
+			8737975, -- [1]
 		},
-		["Rubí Cárdeno Fracturado"] = {
-			3449999, -- [1]
+		["Leotardos Grabados del mono"] = {
+			8500886, -- [1]
 		},
-		["Faltriquera Azul Pequeña"] = {
-			25800, -- [1]
+		["Ojo de Contemplador Ígneo del invocador"] = {
+			19500000, -- [1]
 		},
-		["Glifo de Trampa Congelante"] = {
-			346000, -- [1]
+		["Glifo de Armadura de Mago"] = {
+			990000, -- [1]
 		},
-		["Glifo de Traslación"] = {
-			129500, -- [1]
+		["Aceite de Inmolación"] = {
+			33058, -- [1]
 		},
-		["Glifo de Veneno Entorpecedor"] = {
-			199999, -- [1]
+		["Dinamita para Tontos II"] = {
+			10680, -- [1]
 		},
-		["Glifo de Zarpa"] = {
-			159999, -- [1]
+		["Botas Místicas de cólera Arcana"] = {
+			2999999, -- [1]
 		},
-		["Poción de acción libre"] = {
-			972289, -- [1]
+		["Manteo de Tafetán Teñido del hierofante"] = {
+			2350000, -- [1]
 		},
-		["Amito Fulgurante"] = {
-			100000, -- [1]
+		["Fórmula: Encantar Guantes: Minería Avanzada"] = {
+			242475, -- [1]
 		},
-		["Glifo de Disipar Magia"] = {
-			273298, -- [1]
+		["Botas Tralladón del mono"] = {
+			488888, -- [1]
 		},
-		["Glifo de Piedra de Alma"] = {
-			220000, -- [1]
+		["Balista Brutal del Campeón"] = {
+			554010, -- [1]
 		},
-		["Glifo de Explosión de Fuego"] = {
-			219898, -- [1]
+		["Patrón: guerrera de paño rúnico"] = {
+			6550, -- [1]
 		},
 		["Guanteletes de Saronita Templada"] = {
 			1190000, -- [1]
@@ -20717,29 +20722,29 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cerebro de Basilisco"] = {
 			109500, -- [1]
 		},
-		["Glifo de Carrerilla"] = {
-			574499, -- [1]
+		["Cristal de Sombras Soberano Perfecto"] = {
+			300000, -- [1]
 		},
-		["Pechera Mascahuesos de la bestia"] = {
-			500000, -- [1]
+		["Garfas de Akkarai"] = {
+			35000000, -- [1]
 		},
 		["Patrón: Guantes Terráneos Gruesos"] = {
 			7900, -- [1]
 		},
-		["Cinturón con Puntadas Skom de aguante"] = {
-			500000, -- [1]
+		["Cohete Amarillo Grande"] = {
+			25000, -- [1]
 		},
-		["Pantalones de Infiltrado de la ballena"] = {
-			40000000, -- [1]
+		["Bombachos de Seda Carmesíes"] = {
+			40000, -- [1]
 		},
 		["Champiñón Fantasma"] = {
 			49200, -- [1]
 		},
-		["Garrote de Conífera del invocador"] = {
-			400000, -- [1]
+		["Palo de Nguni del anciano"] = {
+			40000000, -- [1]
 		},
-		["Leotardos Nerubianos Oscuros"] = {
-			1700000, -- [1]
+		["Glifo de Falsa Arremetida"] = {
+			549900, -- [1]
 		},
 		["Guanteletes de Campeón de la ballena"] = {
 			222327, -- [1]
@@ -20747,23 +20752,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Anillo de Roca al Sol"] = {
 			130000, -- [1]
 		},
-		["Guadaña Siniestra del bandido"] = {
-			14880000, -- [1]
+		["Manto del Consorcio del hechicero"] = {
+			2250000, -- [1]
 		},
-		["Receta: Carne de Oso Ahumada"] = {
-			199899, -- [1]
+		["Espaldares de Mazmorras"] = {
+			23000000, -- [1]
 		},
 		["Fórmula: Encantar Arma: Maestro de Batalla"] = {
 			27000, -- [1]
 		},
-		["Cristal de Sombras destellante perfecto"] = {
-			290000, -- [1]
+		["Espada de Corrupción"] = {
+			300000, -- [1]
 		},
-		["Cristal de Sol Rígido"] = {
-			49600, -- [1]
+		["Glifo de Lobo Fantasmal"] = {
+			339793, -- [1]
 		},
-		["Aro del Ensalmador Oscuro"] = {
-			49980000, -- [1]
+		["Escudo de Pielférrea del búho"] = {
+			40000000, -- [1]
 		},
 		["Faja valerosa"] = {
 			3000000, -- [1]
@@ -20771,14 +20776,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Collar de Choque de Hechizo de Titanio"] = {
 			15820300, -- [1]
 		},
-		["Fórmula: encantar brazales: fuerza menor"] = {
-			29800, -- [1]
+		["Chuleta de Oso Grande"] = {
+			69500, -- [1]
 		},
-		["Glifo de Súcubo"] = {
+		["Bufas de Piel de Foca del hechicero"] = {
+			3000000, -- [1]
+		},
+		["Elixir de sangre de trol sublime"] = {
 			99500, -- [1]
-		},
-		["Piedra de Afilar Sólida"] = {
-			17450, -- [1]
 		},
 		["Botas Forjabatalla del águila"] = {
 			3007500, -- [1]
@@ -20789,14 +20794,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guardahombros de la Milicia de Stratholme"] = {
 			259090, -- [1]
 		},
-		["Glifo de Resguardo contra la Escarcha"] = {
-			249899, -- [1]
+		["Guanteletes de Zeliek"] = {
+			880000000, -- [1]
 		},
 		["Manual de Instrucciones de Trituradora: Página 7"] = {
 			999000, -- [1]
 		},
-		["Glifo de Entereza"] = {
-			384811, -- [1]
+		["Varita de Potencia Arcana"] = {
+			819000, -- [1]
 		},
 		["Manual de Instrucciones de Trituradora: Página 10"] = {
 			999000, -- [1]
@@ -20804,109 +20809,109 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Sello de Aguamarina de concentración"] = {
 			139500, -- [1]
 		},
-		["Anguila Relámpago"] = {
-			8899, -- [1]
+		["Botas de alma terrestre"] = {
+			55660000, -- [1]
 		},
-		["Costillas de Raptor"] = {
-			7400, -- [1]
+		["Coraza Brigada del águila"] = {
+			50000000, -- [1]
 		},
-		["Patrón: Cinturón de Guardián"] = {
-			29800, -- [1]
+		["Martillo de Batalla Algaz del oso"] = {
+			13270282, -- [1]
 		},
 		["Guardamuñecas Triturahuesos de poder con hechizos"] = {
 			999999, -- [1]
 		},
-		["Anillo Espuela de la bestia"] = {
-			9990000, -- [1]
+		["Glifo de Consagración"] = {
+			299988, -- [1]
 		},
 		["Cinco de Demonios"] = {
 			250000, -- [1]
 		},
-		["Toga de Tejido Verde de la ballena"] = {
-			60000, -- [1]
+		["Glifo de Destripar"] = {
+			492688, -- [1]
 		},
-		["Hacha de Cristal Canto"] = {
-			15000000, -- [1]
+		["Botas Caminalodo"] = {
+			4500000, -- [1]
 		},
-		["Glifo de halcón"] = {
-			257700, -- [1]
+		["Patrón: leotardos de dragontina negra"] = {
+			15689, -- [1]
 		},
-		["Barra de Veraplata"] = {
-			19500, -- [1]
+		["Guanteletes Sangremar de poder con hechizos"] = {
+			407000, -- [1]
 		},
-		["Prole de dracohalcón dorado"] = {
-			249999, -- [1]
+		["Glifo de Escudo de Relámpagos"] = {
+			500000, -- [1]
 		},
 		["Armadura de Vínculo de Huesos de agilidad"] = {
 			66660000, -- [1]
 		},
-		["Anillo con Perla Sencillo"] = {
-			190000, -- [1]
+		["Glifo de Maestría en Agua"] = {
+			264900, -- [1]
 		},
 		["Sobrehombros Almanegra"] = {
 			15500000, -- [1]
 		},
-		["Glifo de Fuego Lunar"] = {
-			297993, -- [1]
+		["Guanteletes Njord de espíritu"] = {
+			155424, -- [1]
 		},
-		["Glifo de Nova de Escarcha"] = {
-			2999999, -- [1]
+		["Yelmo de Tirano"] = {
+			40000000, -- [1]
 		},
-		["Glifo de Exponer Armadura"] = {
-			397699, -- [1]
+		["Cinturón de Ogro Enigma"] = {
+			3500000, -- [1]
 		},
-		["Vástago oscuro"] = {
-			36999932, -- [1]
+		["Guanteletes de Saronita Ornamentada"] = {
+			3357000, -- [1]
 		},
-		["Calcedonia rígida perfecta"] = {
-			543000, -- [1]
+		["Guanteletes Exaltados de la ballena"] = {
+			40000000, -- [1]
 		},
-		["Glifo de Picadura de Serpiente"] = {
-			192500, -- [1]
+		["Pechera Aleta Invernal del jabalí"] = {
+			150000, -- [1]
 		},
-		["Anillo de Tendones Podridos"] = {
-			5690000, -- [1]
+		["Barra de Korio"] = {
+			1787400, -- [1]
 		},
-		["Pergamino de Encantar capa: Perforar con hechizos"] = {
-			1118800, -- [1]
+		["Muro de los Muertos"] = {
+			9479999, -- [1]
 		},
-		["Ojo de Zul Resistente"] = {
-			889999, -- [1]
+		["Faja de Wendigo del bandido"] = {
+			5000000, -- [1]
 		},
-		["Glifo de Porrazo"] = {
-			349500, -- [1]
+		["Barra de Arcanita"] = {
+			1050000, -- [1]
 		},
 		["Piedra elunarita"] = {
 			139000, -- [1]
 		},
-		["Glifo de Nova de Fuego"] = {
-			409295, -- [1]
+		["Glifo de Puñalada"] = {
+			378900, -- [1]
 		},
 		["Jubón de Tirahuesos de espíritu"] = {
 			999999, -- [1]
 		},
-		["Botas supremas de la ballena"] = {
-			3990000, -- [1]
+		["Cohete Rojo Grande"] = {
+			25000, -- [1]
 		},
-		["Toga de Lino Blanca"] = {
-			74500, -- [1]
+		["Prole de dracohalcón azul"] = {
+			286673, -- [1]
 		},
 		["Patrón: pantalones de tejido mágico rojos"] = {
 			299000, -- [1]
 		},
-		["Glándula ígnea"] = {
-			100000, -- [1]
+		["Sello de Edward El Extraño"] = {
+			11990000, -- [1]
 		},
-		["Brazal del Consorcio de intelecto"] = {
-			1250000, -- [1]
+		["Corona de Vigilante"] = {
+			390000, -- [1]
 		},
-		["Siluro Mostacherizo"] = {
-			8000, -- [1]
+		["Hombreras de Espadachín de resistencia a la Naturaleza"] = {
+			886712, -- [1]
 		},
-		["Piedra Burda"] = {
-			1050, -- [1]
+		["Glifo de Martillo del Honrado"] = {
+			388900, -- [1]
 		},
-		["Botas Aleta Invernal de protección de Escarcha"] = {
+		["Pantalones de Oficial"] = {
 			500000, -- [1]
 		},
 		["Espaldares Frioescollo de intelecto"] = {
@@ -20920,41 +20925,41 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Yelmo de La Guardia Oeste de la ballena"] = {
 			150000, -- [1]
 		},
-		["Pergamino de Aguante II"] = {
-			15000, -- [1]
+		["Elixir de Crecimiento Gigante"] = {
+			292999, -- [1]
 		},
-		["Diseño: guanteletes de tormenta"] = {
-			516000, -- [1]
+		["Elixir de Respiración Acuática"] = {
+			500000, -- [1]
 		},
-		["Glifo de Bramido"] = {
-			258899, -- [1]
+		["Puños de Tormentero"] = {
+			9939900, -- [1]
 		},
 		["Bufas de Tirahuesos de cólera Arcana"] = {
 			1999999, -- [1]
 		},
-		["Esquema: Aparato de Invisibilidad Gnómico"] = {
-			281775, -- [1]
+		["Aguamarina"] = {
+			69500, -- [1]
 		},
-		["Acérita Salvaje"] = {
-			26200, -- [1]
+		["Boceto: ópalo crepuscular destellante"] = {
+			87750, -- [1]
 		},
-		["Daga Keris Sinuosa del bandido"] = {
-			12500000, -- [1]
+		["Cinturón Pie Fantasmal del búho"] = {
+			40000000, -- [1]
 		},
-		["Elixir de Sabiduría"] = {
-			40000, -- [1]
+		["Leotardos Primigenios de la ballena"] = {
+			159000, -- [1]
 		},
-		["Hamburguesa de Distorsión"] = {
-			89500, -- [1]
+		["Pergamino de Encantar guantes: armero"] = {
+			3883650, -- [1]
 		},
-		["Poción de Sanación Inferior"] = {
-			77, -- [1]
+		["Fórmula: Aceite de Zahorí Menor"] = {
+			8900, -- [1]
 		},
-		["Adamantita Mercúrica"] = {
-			1000000, -- [1]
+		["Guantes Delicados de la ballena"] = {
+			2499999, -- [1]
 		},
-		["Patrón: Bola de Cuero Pesado"] = {
-			300000, -- [1]
+		["Glifo de Abisario"] = {
+			199500, -- [1]
 		},
 		["Manteo de Campeón de agilidad"] = {
 			340000, -- [1]
@@ -20965,29 +20970,29 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cajón de Conejos (Pataneve)"] = {
 			849000, -- [1]
 		},
-		["Defensor Antiguo del búho"] = {
-			900000, -- [1]
+		["Sombrero Taunka del falcón"] = {
+			700000, -- [1]
 		},
-		["Costillas de Cerdo Secas"] = {
-			30000, -- [1]
+		["Polvo Onírico"] = {
+			487, -- [1]
 		},
 		["Brazales Forjados con Sol"] = {
 			22250000, -- [1]
 		},
-		["Varita de Fuego"] = {
-			200000, -- [1]
+		["Aceite de Escama Pétrea"] = {
+			25000, -- [1]
 		},
 		["Guantes de Rastreador del mono"] = {
 			40000000, -- [1]
 		},
-		["Calzones de Cuero Quemado"] = {
-			52500, -- [1]
+		["Glifo de Armadura de Escarcha"] = {
+			463900, -- [1]
 		},
 		["Botas de Tirahuesos de cólera Arcana"] = {
 			3114808, -- [1]
 		},
-		["Toga de Discípulo del búho"] = {
-			4000000, -- [1]
+		["Halo de Cazador de Almas"] = {
+			1220000, -- [1]
 		},
 		["Glifo de Encarcelamiento de la Plaga"] = {
 			398500, -- [1]
@@ -20998,14 +21003,14 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Casquete Sangreoscura del jabalí"] = {
 			40000000, -- [1]
 		},
-		["El Antiguo Cetro de Sue-Min"] = {
-			20000000, -- [1]
+		["Barra de Cobre"] = {
+			38000, -- [1]
 		},
-		["Bastón con Punta de Diamante"] = {
-			19299, -- [1]
+		["Glifo de Desgarrar"] = {
+			397999, -- [1]
 		},
-		["Bomba Altamente Explosiva"] = {
-			1950, -- [1]
+		["Vórtice Abisal"] = {
+			49600, -- [1]
 		},
 		["Glifo de Ira rabiosa"] = {
 			282793, -- [1]
@@ -21013,50 +21018,50 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Mochila de Viajero"] = {
 			200000, -- [1]
 		},
-		["Almeja Jaggal"] = {
-			2650, -- [1]
+		["Ametrino Potenciado"] = {
+			2447439, -- [1]
 		},
 		["Espada de Instrucción de dureza"] = {
 			6990000, -- [1]
 		},
-		["Musgo de pantano"] = {
-			119500, -- [1]
+		["Baraja de Elementales"] = {
+			18000000, -- [1]
 		},
-		["Hojasueño"] = {
-			29800, -- [1]
+		["Escudo de Pared de Vínculo de Huesos de cólera ígnea"] = {
+			500000, -- [1]
 		},
-		["Bola de Nieve Enorme"] = {
-			199499, -- [1]
+		["Puños de Wolvar de defensa"] = {
+			1500000, -- [1]
 		},
-		["Toga Tejida con Escarcha Mística"] = {
-			380000, -- [1]
+		["Glifo de Ataque de La Victoria"] = {
+			298000, -- [1]
 		},
-		["Bolsa de Cuero Verde"] = {
-			14800, -- [1]
+		["Guardamuñecas con Pinchos de Titanio"] = {
+			50900000, -- [1]
 		},
-		["Anillo de Diamante de Enfoque"] = {
-			55569, -- [1]
+		["Armamentos de Colmillo Torcido"] = {
+			119000, -- [1]
 		},
-		["Cuchillo de Bronce Grande"] = {
-			690000, -- [1]
+		["Espaldares de Templario de defensa"] = {
+			5000000, -- [1]
 		},
-		["Manual de Instrucciones de Trituradora: Página 12"] = {
-			999000, -- [1]
+		["Brazales de Vórtice de Tormenta"] = {
+			69420, -- [1]
 		},
-		["Cinturón de Cuero Oscuro"] = {
-			89999, -- [1]
+		["Glifo de Fuerza Poseída"] = {
+			428202, -- [1]
 		},
 		["Varita de Dragón Rúnica de Gwyneth"] = {
 			672750, -- [1]
 		},
-		["Velo Lunar"] = {
-			808000, -- [1]
+		["Grebas de Wolvar de poder con hechizos"] = {
+			1900000, -- [1]
 		},
 		["Faja Esmeralda del oso"] = {
 			999999, -- [1]
 		},
-		["Braquiales Golpe de Guerra"] = {
-			251378, -- [1]
+		["Guanteletes de Espuma de Mar"] = {
+			5000000, -- [1]
 		},
 		["Dados de Trol Desgastados"] = {
 			9980000, -- [1]
@@ -21067,23 +21072,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Casco de Placas Ligeras"] = {
 			20000, -- [1]
 		},
-		["Calabaza Iluminada Pesada"] = {
-			699000, -- [1]
+		["Bomba de Hierro Vil"] = {
+			3900, -- [1]
 		},
-		["Receta: Ala de Murciélago Crujiente"] = {
-			308900, -- [1]
+		["Glifo de lo Desvaído"] = {
+			593397, -- [1]
 		},
-		["Chafarote Mate"] = {
-			302030, -- [1]
+		["Capa de Cuero Estampado"] = {
+			9000, -- [1]
 		},
-		["Las Verdes Colinas de Tuercespina: Página 21"] = {
-			189000, -- [1]
+		["Patrón: Brazales de Zahorí con Joyas"] = {
+			33450000, -- [1]
 		},
 		["Manto de Colmipala de protección de Fuego"] = {
 			510000, -- [1]
 		},
-		["Botas Taunka de fuerza"] = {
-			200000, -- [1]
+		["Coraza de la Mano Destrozada del anciano"] = {
+			40000000, -- [1]
 		},
 		["Muñeco de Vudú Agujereado"] = {
 			437775, -- [1]
@@ -21091,105 +21096,107 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Bastón de Canalizador"] = {
 			2000000, -- [1]
 		},
-		["Mantón de Guardia de Escarcha"] = {
-			4172500, -- [1]
+		["Camisa de Tejido Mágico Rosa"] = {
+			250000, -- [1]
 		},
-		["Guantes Ennegrecidos Defias"] = {
-			1900000, -- [1]
+		["Glifo de Golpe de Raptor"] = {
+			846500, -- [1]
 		},
 		["Huracán"] = {
 			22995000, -- [1]
 		},
-		["Glifo de Palabra de Poder: Escudo"] = {
-			318500, -- [1]
+		["Draenita dorada gruesa"] = {
+			9800, -- [1]
 		},
-		["Toga de Tejido de Ébano"] = {
-			10190000, -- [1]
+		["Hacha del Bosque Profundo"] = {
+			1267500, -- [1]
 		},
-		["Carne de Almeja Suculenta"] = {
-			10600, -- [1]
+		["Seis de Bendiciones"] = {
+			675000, -- [1]
 		},
-		["Coraza de Gólem del médico"] = {
-			1500000, -- [1]
+		["Tratado sobre Protección"] = {
+			499000, -- [1]
 		},
-		["Tinte Morado"] = {
-			9900, -- [1]
+		["Cinturón Njord del tigre"] = {
+			60000, -- [1]
 		},
 		["Esquema: Gafas de las Sombras"] = {
 			1497599, -- [1]
 		},
-		["Leotardos Lupinos del oso"] = {
-			799999, -- [1]
+		["Bufas Rectas de la ballena"] = {
+			3975606, -- [1]
 		},
 		["Carne de Murciélago"] = {
 			100000, -- [1]
 		},
-		["Rubí Cárdeno Brillante"] = {
-			3299900, -- [1]
+		["Tinta del Cielo"] = {
+			49800, -- [1]
 		},
-		["Cuchilla Mísera del lobo"] = {
-			150000, -- [1]
+		["Camisa Blanca Común"] = {
+			59900, -- [1]
 		},
-		["Carne de Lobo Tierna"] = {
-			1666, -- [1]
+		["Pergamino de Encantar arma: Precisión"] = {
+			14400000, -- [1]
 		},
-		["Rodela de Pionero"] = {
+		["Bastón de Agua Torrencial del tigre"] = {
+			229000, -- [1]
 		},
-		["Carne de Oso"] = {
-			1090, -- [1]
+		["Musleras Taunka de protección de Fuego"] = {
+			600000, -- [1]
 		},
 		["Coraza de Escamas de Sangre de protección de Fuego"] = {
 			14900000, -- [1]
 		},
-		["Receta: Poción de Escabullida"] = {
-			409998, -- [1]
+		["Carne de Serpiente"] = {
+			7200, -- [1]
 		},
-		["Pergamino de Fuerza II"] = {
-			7400, -- [1]
+		["Poción de Maná"] = {
+			8828, -- [1]
 		},
 		["El Velador de la Noche"] = {
 			24430000, -- [1]
 		},
-		["Brazales Heráldicos"] = {
-			2999999, -- [1]
+		["Togas Elegantes del búho"] = {
+			15000000, -- [1]
 		},
 		["Musleras de Avanzado de fuerza"] = {
 			500000, -- [1]
 		},
-		["Aceite de Bocanegra"] = {
-			700000, -- [1]
+		["Boceto: topacio monarca con inscripciones"] = {
+			488000, -- [1]
 		},
-		["Espaldares de Placas Estampadas de la ballena"] = {
-			40000000, -- [1]
+		["Carne de Lobo Rojo"] = {
+			324, -- [1]
 		},
 		["Solea"] = {
 			34800, -- [1]
 		},
-		["Carta Doblada"] = {
-			1779962, -- [1]
+		["Jubón Aborigen de cólera gélida"] = {
+			4999999, -- [1]
 		},
 		["Yelmo Flechapresta"] = {
 			5652511, -- [1]
 		},
-		["Toga de Sanguiespora del médico"] = {
+		["Cartera de Cuero Marrón"] = {
+			9400, -- [1]
 		},
-		["Tratado sobre Resistencia"] = {
-			3412, -- [1]
+		["Manteo Golpe de Guerra"] = {
+			438750, -- [1]
 		},
 		["Sello Onírico del nigromante"] = {
 			1699999, -- [1]
 		},
-		["Aguijón de escórpido"] = {
-			765, -- [1]
+		["Dos de Bendiciones"] = {
+			505500, -- [1]
 		},
 		["Esencia Eterna Inferior"] = {
 			120000, -- [1]
 		},
-		["Cola de Truenagarto"] = {
-			9108, -- [1]
+		["Cimitarra Fina"] = {
+			199999999, -- [1]
 		},
-		["Grebas de Placas Abisales de ataque"] = {
-			2500000, -- [1]
+		["Carne Misteriosa"] = {
+			12261, -- [1]
 		},
 		["Pergamino de Agilidad VIII"] = {
 			150000, -- [1]
@@ -21197,59 +21204,59 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Faja Grabada del oso"] = {
 			4275804, -- [1]
 		},
-		["Anillo Rúnico de intelecto"] = {
-			40000000, -- [1]
+		["Colavil con Manchas"] = {
+			4900, -- [1]
 		},
-		["Diseño: Coraza de Cuchillas de Titanio"] = {
-			12290000, -- [1]
+		["Jubón de Oficial"] = {
+			120000, -- [1]
 		},
-		["Venda de Paño Rúnico Gruesa"] = {
-			6100, -- [1]
+		["Guardamuñecas de Recuperación Verdeante"] = {
+			179500, -- [1]
 		},
-		["Costillas de Jabalí"] = {
-			125000, -- [1]
+		["Leotardos de Bronce Férreos"] = {
+			25000, -- [1]
 		},
-		["Sobrehombros de Seda Verdes"] = {
-			40000, -- [1]
+		["Prole de Gundrak"] = {
+			9499999, -- [1]
 		},
 		["Bastón de Flor de Nieve del oso"] = {
 			1205000, -- [1]
 		},
-		["Espetadora de Piedra Mácula del oso"] = {
-			989900, -- [1]
+		["Caña de Pescar"] = {
+			121002, -- [1]
 		},
 		["Bocarda Férrea"] = {
 			10000, -- [1]
 		},
-		["Barra de Hierro Negro"] = {
-			220000, -- [1]
+		["Barra de Estaño"] = {
+			298, -- [1]
 		},
-		["Barra de Mitril"] = {
-			127500, -- [1]
+		["Saronita primordial"] = {
+			5350000, -- [1]
 		},
-		["Botas de Placas Estampadas del mono"] = {
-			4999999, -- [1]
+		["Anillo Espuela del soldado"] = {
+			2220000, -- [1]
 		},
-		["Anillo de Ramillete del bandido"] = {
-			1950000, -- [1]
+		["Guantes de Tejido de Ébano"] = {
+			8990000, -- [1]
 		},
-		["Sortija Piadosa de protección de la Naturaleza"] = {
-			710000, -- [1]
+		["Leotardos de Ritual de cólera ígnea"] = {
+			499900, -- [1]
 		},
-		["Pantalones Durables del búho"] = {
-			5000000, -- [1]
+		["Corazón de fiera"] = {
+			38900, -- [1]
 		},
-		["Jaula para gatos (Gata tricolor)"] = {
-			1158400, -- [1]
+		["Batería de korio"] = {
+			6619999, -- [1]
 		},
-		["Orbe de Engaño"] = {
-			22999999, -- [1]
+		["Musleras de la Mano Destrozada"] = {
+			499000, -- [1]
 		},
 		["Calzones Umbropantano del gorila"] = {
 			1500000, -- [1]
 		},
-		["Vara de Hierro Vil"] = {
-			871200, -- [1]
+		["Rubí Escarlata Rúnico"] = {
+			2547599, -- [1]
 		},
 		["Estrella de Vigía del águila"] = {
 			200000, -- [1]
@@ -21260,26 +21267,26 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Kang El Decapitador"] = {
 			5489899, -- [1]
 		},
-		["Grebas Hiperión del oso"] = {
-			40000000, -- [1]
+		["Pantalones de Bucanero de espíritu"] = {
+			60000000, -- [1]
 		},
 		["Cardo de Maná"] = {
 			41000, -- [1]
 		},
-		["Cristal de Poder Verde"] = {
-			90000, -- [1]
+		["Glifo de Última Carga"] = {
+			586849, -- [1]
 		},
-		["Cuero Basto"] = {
-			43999, -- [1]
+		["Bolsa de Tejido Mágico Roja"] = {
+			50000, -- [1]
 		},
-		["Bolsa de Tejido Mágico"] = {
-			29800, -- [1]
+		["Liquen Antiguo"] = {
+			507000, -- [1]
 		},
 		["Toga del Consorcio del búho"] = {
 			450000, -- [1]
 		},
-		["Diseño: Almófar de Escamas Doradas"] = {
-			2450000, -- [1]
+		["Bomba Grande de Cobre"] = {
+			16500, -- [1]
 		},
 		["Calamar de Invierno"] = {
 			22499, -- [1]
@@ -21287,23 +21294,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Botas de Brigandina de agilidad"] = {
 			1999999, -- [1]
 		},
-		["Esquema: Mira de Precisión"] = {
-			1093455, -- [1]
+		["Sello Onírico del bandido"] = {
+			1790000, -- [1]
 		},
-		["Diseño: Vara de Adamantita"] = {
-			800000, -- [1]
+		["Botella de Pinot Noir"] = {
+			20000, -- [1]
 		},
 		["Glifo de Elemental de Agua"] = {
 			467121, -- [1]
 		},
-		["Almete Duradero"] = {
-			2990000, -- [1]
+		["Togas de Bucanero de espíritu"] = {
+			20000, -- [1]
 		},
-		["Botas Bruñidas"] = {
-			2000000, -- [1]
+		["Cacharros Zumbones de Bronce"] = {
+			78500, -- [1]
 		},
-		["Hombreras Salpicadas de Sangre"] = {
-			12200, -- [1]
+		["Glifo de Reflejo Exacto"] = {
+			2939898, -- [1]
 		},
 		["Fórmula: Encantar Arma: Destripadora de Bestias Menor"] = {
 			9900, -- [1]
@@ -21311,167 +21318,167 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Hoja de las Sombras"] = {
 			2507500, -- [1]
 		},
-		["Glifo de Ola de Sanación"] = {
-			343000, -- [1]
+		["El Vicio del Verdugo"] = {
+			19990000, -- [1]
 		},
-		["Boceto: diamante de llama celeste del trueno"] = {
-			205050, -- [1]
+		["Patrón: Cinturón de Caos Azul"] = {
+			40000000, -- [1]
 		},
-		["Receta: Cigala Picante"] = {
-			292999, -- [1]
+		["Escudo Triangular de Cobalto"] = {
+			479000, -- [1]
 		},
-		["Pluma Ligera"] = {
-			99, -- [1]
+		["Draco-Incarcinatrix 900"] = {
+			145550000, -- [1]
 		},
-		["Guantes de Bucanero del mono"] = {
-			2068135, -- [1]
+		["Pulseras del Oráculo del búho"] = {
+			421292, -- [1]
 		},
-		["Diseño: Gran Maza de Adamantita"] = {
-			399900, -- [1]
+		["Casco Exaltado del oso"] = {
+			40000000, -- [1]
 		},
-		["Jubón de Bucanero de la ballena"] = {
-			4999999, -- [1]
+		["Leotardos defensores del águila"] = {
+			15655500, -- [1]
 		},
 		["Receta: Pastel de Araña Pegajosa"] = {
 			448999, -- [1]
 		},
-		["Martillo Ferroso del bandido"] = {
-			800000, -- [1]
+		["Escama de Jormungar"] = {
+			91500, -- [1]
 		},
-		["Guanteletes Descomunales"] = {
-			13999999, -- [1]
+		["Musleras de Malla Abisal de restauración"] = {
+			850000, -- [1]
 		},
-		["Carne de Devastador"] = {
-			3200, -- [1]
+		["Espada Ancha con Mango de Piel del Campeón"] = {
+			6990000, -- [1]
 		},
-		["Etiqueta Privada del Señor de la Escarcha"] = {
-			1989999, -- [1]
+		["Escama de Tortuga"] = {
+			3800, -- [1]
 		},
-		["Extractor de Motas de Zapacelerador"] = {
-			7000000, -- [1]
+		["Escama Múrloc Gruesa"] = {
+			1695, -- [1]
 		},
-		["Madeja de Paño de Lana"] = {
-			20800, -- [1]
+		["Yelmo de Trampero del médico"] = {
+			299999, -- [1]
 		},
 		["Esencia de Alma"] = {
 			72150, -- [1]
 		},
-		["Hilo de hechizo azur"] = {
-			1697500, -- [1]
+		["Hacha de Guerra Ardiente"] = {
+			40000000, -- [1]
 		},
-		["Carne de Gusano"] = {
-			38461, -- [1]
+		["Patrón: Toga de Tejido Abisal"] = {
+			999999, -- [1]
 		},
 		["Grilletes Rúnicos de Gólems"] = {
 			319999, -- [1]
 		},
-		["Glifo de Flor de Vida"] = {
-			439000, -- [1]
-		},
-		["Anillo Ovalado de la bestia"] = {
+		["Capa de Cielos Atormentados"] = {
 			500000, -- [1]
 		},
-		["Hombreras de la Soñadora"] = {
-			495702, -- [1]
+		["Pulseras de Cormorán del búho"] = {
+			512618, -- [1]
 		},
-		["Espada de Verdugo"] = {
-			1007500, -- [1]
+		["Guanteletes de Cruzado de cólera Arcana"] = {
+			2444206, -- [1]
 		},
-		["Flor de Paz"] = {
-			3000, -- [1]
+		["Vara de Arcanita"] = {
+			3027499, -- [1]
 		},
-		["Glifo de Descarga de Caos"] = {
-			291972, -- [1]
+		["Calzas Fulgurantes de espíritu"] = {
+			6999999, -- [1]
 		},
-		["Flujo Débil"] = {
-			6900, -- [1]
+		["Guanteletes Impenetrables del águila"] = {
+			1888888, -- [1]
 		},
-		["Estabilizador de Acero Vil"] = {
-			2200000, -- [1]
+		["Sortija de Estimulación"] = {
+			280000, -- [1]
+		},
+		["Botines de Acero de Titanes Templado"] = {
+			24870328, -- [1]
 		},
 		["Crujehuesos de hielo infernal"] = {
 			71700000, -- [1]
 		},
-		["Fórmula: Aceite de Zahorí Inferior"] = {
-			19600, -- [1]
+		["Martillo de Batalla Pesado de aguante"] = {
+			250000, -- [1]
 		},
-		["Chaqueta de Esmoquin"] = {
-			878999, -- [1]
+		["Cinturón de Anillas con Pinchos de la ballena"] = {
+			80000, -- [1]
 		},
-		["Fórmula: Fragmento Centelleante Grande"] = {
-			750500, -- [1]
+		["Faltriquera marrón pequeña"] = {
+			2400, -- [1]
 		},
 		["Sobrehombros de Placas Imperiales"] = {
 			4997500, -- [1]
 		},
-		["Enseña de Excavador"] = {
-			77777700, -- [1]
+		["Filete Talbuk"] = {
+			2500, -- [1]
 		},
-		["Cilindro de Mitril Taraceado"] = {
-			2000000, -- [1]
+		["Fórmula: Vara Rúnica de Adamantita"] = {
+			497989, -- [1]
 		},
-		["Lirio Atigrado"] = {
-			29999, -- [1]
+		["Diente Viejo de aguante"] = {
+			287000, -- [1]
 		},
-		["Paño de Lino"] = {
-			17, -- [1]
+		["Faja de Vuelo Incontestable"] = {
+			390000, -- [1]
 		},
-		["Corazón de fuego"] = {
-			1239, -- [1]
+		["Dinamita Sólida"] = {
+			349500, -- [1]
 		},
-		["Fuegos artificiales de Dalaran"] = {
-			67000, -- [1]
+		["Armadura Fulgurante de intelecto"] = {
+			3999999, -- [1]
 		},
-		["Fuegos artificiales rojos"] = {
-			9999, -- [1]
+		["Armadura Fulgurante del águila"] = {
+			2911513, -- [1]
 		},
-		["Gatillo de Pelo"] = {
-			47400, -- [1]
+		["Contacto de Plata"] = {
+			1420, -- [1]
 		},
-		["Cristal rojo dentado"] = {
-			60000, -- [1]
+		["Sobrehombros de Montañero"] = {
+			35000, -- [1]
 		},
-		["Maza de Blanchard"] = {
-			35550000, -- [1]
+		["Rodela Excelente de agilidad"] = {
+			200000, -- [1]
 		},
 		["Botas Flechapresta"] = {
 			9929900, -- [1]
 		},
-		["Cría de Protodraco"] = {
-			7749999, -- [1]
+		["Hacha de Batalla de Bronce"] = {
+			80808, -- [1]
 		},
-		["Amuleto de Proa de Dragón"] = {
-			3300000, -- [1]
+		["Manta Raya Imperial"] = {
+			18235, -- [1]
 		},
 		["Pigmento de zafiro"] = {
 			99999, -- [1]
 		},
-		["Hierba Vil"] = {
-			12100, -- [1]
+		["Fajín de Hilo de Plata"] = {
+			4065356, -- [1]
 		},
-		["Patrón: Cinturón del Archimago"] = {
-			30000000, -- [1]
+		["Cuero Boreal Pesado"] = {
+			300000, -- [1]
 		},
-		["Hilo de Eternio"] = {
-			59499, -- [1]
+		["Cuero Encantado"] = {
+			564999, -- [1]
 		},
-		["Hilo Refinado"] = {
-			6098, -- [1]
+		["Guantes Místicos del búho"] = {
+			396947, -- [1]
 		},
 		["Fuego Primigenio"] = {
 			16800, -- [1]
 		},
-		["Cubrehombros de Rastreador de Bosque"] = {
-			40000000, -- [1]
+		["Diseño: Estoque de Mitril Deslumbrante"] = {
+			39000, -- [1]
 		},
-		["Camisote Flechapresta"] = {
-			9929899, -- [1]
+		["Tinta Celestial"] = {
+			210000, -- [1]
 		},
 		["Patrón: Guantes de Ratero"] = {
 			8300, -- [1]
 		},
-		["Huevo Gigante"] = {
-			35500, -- [1]
+		["Huevo de Polilla Roja"] = {
+			349899, -- [1]
 		},
 		["Anillo Rompecabezas"] = {
 			238000, -- [1]
@@ -21479,95 +21486,95 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Garrote con Pinchos del mono"] = {
 			50000, -- [1]
 		},
-		["Encendedor"] = {
-			450000, -- [1]
+		["Icor de No-muerto"] = {
+			950, -- [1]
 		},
-		["Suero Acre de Foca"] = {
-			6600, -- [1]
+		["Hilo Burdo"] = {
+			7699, -- [1]
 		},
-		["Dragontina desgastada"] = {
-			730, -- [1]
+		["Armadura Forjabatalla del oso"] = {
+			2499998, -- [1]
 		},
-		["Jaula para Gatos (bombay)"] = {
-			698000, -- [1]
+		["Capa del Oficio"] = {
+			2800000, -- [1]
 		},
-		["Dragontina roja"] = {
-			29700, -- [1]
+		["Manto de Sabio del búho"] = {
+			1750000, -- [1]
 		},
-		["Dragontina verde"] = {
-			2800, -- [1]
+		["Huevo pequeño"] = {
+			22000, -- [1]
 		},
-		["Glifo de Maldición de Agonía"] = {
-			841500, -- [1]
+		["Togas Imperiales de Chan"] = {
+			43992515, -- [1]
 		},
-		["Jaula para Gatos (rex Cornualles)"] = {
-			898000, -- [1]
+		["Intestinos de Jabalí"] = {
+			29664, -- [1]
 		},
 		["Arnés Miedo Lobo"] = {
 			40000000, -- [1]
 		},
-		["Anillo de Jade Pesado"] = {
-			9999, -- [1]
+		["Elixir de Defensa Menor"] = {
+			19101, -- [1]
 		},
-		["La más grande"] = {
-			3873125, -- [1]
+		["Escama de Escórpido Gruesa"] = {
+			9600, -- [1]
 		},
-		["Las Verdes Colinas de Tuercespina: Página 20"] = {
-			79000, -- [1]
+		["Sobrehombros Incomparables del búho"] = {
+			1439662, -- [1]
 		},
-		["Las Verdes Colinas de Tuercespina: Página 24"] = {
-			50000, -- [1]
+		["Espaldares de Malla de Luz Trémula"] = {
+			3000000, -- [1]
 		},
-		["Escamas Viles"] = {
-			349999, -- [1]
+		["Rasgador de Carne del jabalí"] = {
+			300000, -- [1]
 		},
 		["Braciles de Wendigo del bandido"] = {
 			300000, -- [1]
 		},
-		["Loto Cárdeno"] = {
-			50000, -- [1]
+		["Escamas de pez lustrosas"] = {
+			139, -- [1]
 		},
-		["Madeja de Paño de Alma"] = {
-			1250000, -- [1]
+		["Tótem de la Tormenta"] = {
+			77980000, -- [1]
 		},
 		["Mitad Inferior de Forja de Armaduras Avanzada: Volumen II"] = {
 			100000, -- [1]
 		},
-		["Madeja de Paño de Seda"] = {
-			20900, -- [1]
+		["Leotardos de Núcleo Oscuro"] = {
+			220000000, -- [1]
 		},
-		["Madeja de Tejido Abisal"] = {
-			48800, -- [1]
+		["Esencia de Agua"] = {
+			199500, -- [1]
 		},
-		["Botas de Espadachín de aguante"] = {
-			1257500, -- [1]
+		["Leotardos de Hierro Verdes"] = {
+			150000, -- [1]
 		},
-		["Madera Simple"] = {
-			9700, -- [1]
+		["Capa de Saqueador del oso"] = {
+			3980000, -- [1]
 		},
-		["Maestro de Primeros Auxilios: Doctor en Casa"] = {
-			999999, -- [1]
+		["Gema de las Sombras"] = {
+			70000, -- [1]
 		},
-		["Siluro de 10 kilos"] = {
-			211086, -- [1]
+		["Espaldares Pretorianos de resistencia a la Naturaleza"] = {
+			1999347, -- [1]
 		},
-		["Manual de Instrucciones de Trituradora: Página 1"] = {
-			999000, -- [1]
+		["Armadura de Orca del búho"] = {
+			200000, -- [1]
 		},
-		["Pistola Empobrecida del Campeón"] = {
-			100000, -- [1]
+		["Filete de Colmipala Tierno"] = {
+			104999, -- [1]
 		},
-		["Manual de Instrucciones de Trituradora: Página 4"] = {
-			999000, -- [1]
+		["Dragontina helada"] = {
+			50000, -- [1]
 		},
-		["Tinta de Marfil"] = {
-			15000, -- [1]
+		["Glifo de Capa de las Sombras"] = {
+			274898, -- [1]
 		},
-		["Glifo de Arma de Vida Terrestre"] = {
-			400000, -- [1]
+		["Glifo de Golpe Sangriento"] = {
+			346500, -- [1]
 		},
-		["Manual de Instrucciones de Trituradora: Página 5"] = {
-			999000, -- [1]
+		["Faltriquera Negra Pequeña"] = {
+			20000, -- [1]
 		},
 		["Botas Presavil del búho"] = {
 			100000, -- [1]
@@ -21578,35 +21585,35 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cinturón Brillante"] = {
 			850000, -- [1]
 		},
-		["Frasco de Gran Mojo"] = {
-			1995, -- [1]
+		["Fórmula: Aceite de Maná Menor"] = {
+			9900, -- [1]
 		},
-		["Manual: Venda de Seda Gruesa"] = {
-			49900, -- [1]
+		["Fórmula: Aceite de Zahorí Excelente"] = {
+			998500, -- [1]
 		},
-		["Marca de Sargeras"] = {
-			8700, -- [1]
+		["Guanteletes Gloriosos del gorila"] = {
+			25000000, -- [1]
 		},
-		["Manto de Brillavalva"] = {
-			5740000, -- [1]
+		["Chaleco Piel de Cardo de espíritu"] = {
+			499999, -- [1]
 		},
 		["Cadena Fígaro de protección de la Naturaleza"] = {
 			200000, -- [1]
 		},
-		["Guanteletes de Brigandina de la ballena"] = {
-			1499999, -- [1]
+		["Estrella de Altonato"] = {
+			1491862, -- [1]
 		},
-		["Glifo de Choque de Escarcha"] = {
-			249899, -- [1]
+		["Guanteletes Piedra de Sal del oso"] = {
+			10000000, -- [1]
 		},
 		["Glifo de Devastar"] = {
 			454900, -- [1]
 		},
-		["Felpa de Brillavalva del mono"] = {
-			1000959, -- [1]
+		["Musleras de Brillavalva del lobo"] = {
+			3999999, -- [1]
 		},
-		["Mena de Cobalto"] = {
-			28400, -- [1]
+		["Guanteletes de Placas Abisales de ataque"] = {
+			2500000, -- [1]
 		},
 		["Pechera de Belicista del lobo"] = {
 			320000, -- [1]
@@ -21617,17 +21624,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Aceite de Fuego"] = {
 			190150, -- [1]
 		},
-		["Patrón: Caperuza de Escamas de Cobra"] = {
-			4999999, -- [1]
+		["Coraza Runaoscura"] = {
+			25000000, -- [1]
 		},
-		["Huevo de Polilla Azul"] = {
-			849000, -- [1]
+		["Faja Deliriohelado"] = {
+			11990000, -- [1]
 		},
 		["Cubrehombros de Fila del Mercado"] = {
 			179000, -- [1]
 		},
-		["Leotardos de Mur'crófago del hechicero"] = {
-			488888, -- [1]
+		["Anillo Grabado del jabalí"] = {
+			1660000, -- [1]
 		},
 		["Camisa Gris Común"] = {
 			59900, -- [1]
@@ -21635,41 +21642,41 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Carabina del Precipicio de la bestia"] = {
 			299999, -- [1]
 		},
-		["Diseño: Cadena de Adamantita"] = {
-			19800, -- [1]
+		["Mira Solar"] = {
+			80000, -- [1]
 		},
-		["Yelmo de Saronita Templada"] = {
-			6249699, -- [1]
+		["Huevo del Norte"] = {
+			1632, -- [1]
 		},
-		["Coselete de Brigandina del lobo"] = {
-			1993634, -- [1]
+		["Riendas del Destrero de la Muerte Carmesí"] = {
+			429998989, -- [1]
 		},
-		["Botas de Cruzado de agilidad"] = {
+		["Partecostillas del oso"] = {
+			32000000, -- [1]
+		},
+		["Montaje de Equipo Neodinámico"] = {
+			9800, -- [1]
+		},
+		["Moquillo Desagradable"] = {
+			19800000, -- [1]
+		},
+		["Manto regio del búho"] = {
 			2999999, -- [1]
 		},
-		["Jarra de Bourbon"] = {
-			1000, -- [1]
+		["Pantalones de Lego de cólera ígnea"] = {
+			2525070, -- [1]
 		},
-		["Carpa de Cloaca"] = {
-			56249, -- [1]
+		["Sombrero de Zahorí Escapabruma"] = {
+			5462067, -- [1]
 		},
-		["Núcleo de Elementos"] = {
-			1985, -- [1]
+		["Jaula para Gatos (atigrado Plateado)"] = {
+			733600, -- [1]
 		},
-		["Cinturón de Escamas Descarriadas"] = {
-			40000000, -- [1]
+		["Espaldares de Placas de Campo del oso"] = {
+			30000, -- [1]
 		},
-		["Ojo de Basilisco Escama Húmeda"] = {
-			9900, -- [1]
-		},
-		["Ortiga Mortal"] = {
-			34000, -- [1]
-		},
-		["Paño de Lana"] = {
-			2300, -- [1]
-		},
-		["Paño de Tejido Abisal"] = {
-			5100, -- [1]
+		["Jaula para Gatos (gatito Blanco)"] = {
+			5000000, -- [1]
 		},
 		["Circón Majestuoso Tormentoso"] = {
 			2344849, -- [1]
@@ -21677,26 +21684,26 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Leotardos de Mur'crófago de intelecto"] = {
 			60000, -- [1]
 		},
-		["Par de Colmillos de Marfil"] = {
-			19602, -- [1]
+		["Bastón de Mago Elemental"] = {
+			2538713, -- [1]
 		},
 		["Brillo del Otoño Rápido"] = {
 			1667777, -- [1]
 		},
-		["Quijotes de Ajustador"] = {
-			21999905, -- [1]
+		["Encantar escudo: intelecto III"] = {
+			990000, -- [1]
 		},
-		["Patrón: Arnés de Oso de Guerra"] = {
-			652000, -- [1]
+		["Guantes Lindeallá del invocador"] = {
+			399900, -- [1]
 		},
-		["Sombrero de Anciano de cólera ígnea"] = {
-			4999999, -- [1]
+		["Naipe de la Luna Negra: Muerte"] = {
+			35940000, -- [1]
 		},
-		["Madeja de Paño de Lino"] = {
-			1000, -- [1]
+		["Leotardos Brigada de la ballena"] = {
+			60000000, -- [1]
 		},
-		["Patrón: Brazales de Escórpido Gruesos"] = {
-			989000, -- [1]
+		["Las Verdes Colinas de Tuercespina: Página 26"] = {
+			799000, -- [1]
 		},
 		["Patrón: Cinturón de Seda Terránea"] = {
 			260000, -- [1]
@@ -21707,38 +21714,38 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Carolina"] = {
 			49600, -- [1]
 		},
-		["Núcleo de Poder de Oro"] = {
-			1490, -- [1]
+		["Patrón: Camisa Festiva Verde"] = {
+			9999900, -- [1]
 		},
-		["Coraza de Mazo de Guerra del anciano"] = {
-			1970000, -- [1]
+		["Patrón: Guantes Quiméricos"] = {
+			250000, -- [1]
 		},
-		["Sombrero Arcano"] = {
-			9999999, -- [1]
+		["Espaldares de Caballero de Sangre del jabalí"] = {
+			2300000, -- [1]
 		},
-		["Escrito sobre Resguardo contra la Escarcha"] = {
-			98500, -- [1]
+		["Glifo de Lluvia de Estrellas"] = {
+			447999, -- [1]
 		},
-		["Vela de Elune"] = {
-			5899999, -- [1]
+		["Espada de Coleccionista de Huesos del tigre"] = {
+			27500000, -- [1]
 		},
-		["Pellejo Basto"] = {
-			2100, -- [1]
+		["Quijotes Fauceparda del jabalí"] = {
+			250000, -- [1]
 		},
-		["Pellejo de Raptor"] = {
-			219, -- [1]
+		["Zafiro Celestial Luciente"] = {
+			311000, -- [1]
 		},
-		["El cuerno de león de Ventormenta"] = {
-			2191313, -- [1]
+		["Escarpes Piedra de Sal del oso"] = {
+			100000000, -- [1]
 		},
-		["Pellejo Medio"] = {
-			4000, -- [1]
+		["Pellejo Grueso Curtido"] = {
+			81111, -- [1]
 		},
 		["Guantes Fulgurantes de espíritu"] = {
 			6999999, -- [1]
 		},
-		["Manual de Instrucciones de Trituradora: Página 9"] = {
-			999000, -- [1]
+		["Ornato Astralaan del invocador"] = {
+			2980000, -- [1]
 		},
 		["Guanteletes de jade de la ballena"] = {
 			40000000, -- [1]
@@ -21746,32 +21753,32 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Casco de Inmersión"] = {
 			9850000, -- [1]
 		},
-		["Hueso de Oso Grande"] = {
-			30000, -- [1]
+		["Piedra Férrea"] = {
+			100, -- [1]
 		},
-		["Glifo de Vigilancia"] = {
-			474792, -- [1]
+		["Cincha de Seda Aguanieve"] = {
+			299000, -- [1]
 		},
-		["Boceto: rubí vivo luminoso"] = {
-			450000, -- [1]
+		["Pergamino de Aguante"] = {
+			200000, -- [1]
 		},
-		["Martillo de Herrero"] = {
-			29900, -- [1]
+		["Sortija Helada"] = {
+			40000000, -- [1]
 		},
 		["Guantes de Exploración del mono"] = {
 			15686558, -- [1]
 		},
-		["Pergamino de Encantar botas: vitalidad superior"] = {
-			1294799, -- [1]
+		["Mena de Adamantita"] = {
+			40000, -- [1]
 		},
 		["Trucha de Branquias Barbadas"] = {
 			1540, -- [1]
 		},
-		["Pergamino de Encantar brazales: estadísticas superiores"] = {
-			1959753, -- [1]
+		["Mena de Mitril"] = {
+			90000, -- [1]
 		},
-		["Cuchilla de Verdugo"] = {
-			6000000, -- [1]
+		["Mero Aletarroca"] = {
+			1500, -- [1]
 		},
 		["Carne de Araña Crujiente"] = {
 			60, -- [1]
@@ -21779,65 +21786,65 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Glifo de Espíritu Redentor"] = {
 			294900, -- [1]
 		},
-		["Pigmento índigo"] = {
-			25000, -- [1]
+		["Rubí Cárdeno Llamativo"] = {
+			3419999, -- [1]
 		},
-		["Pergamino de Intelecto"] = {
-			18800, -- [1]
+		["Piedra de Pulir Densa"] = {
+			11000, -- [1]
 		},
 		["Diamante de Asedio de Tierra Flamante"] = {
 			2289999, -- [1]
 		},
-		["Mota de Aire"] = {
-			75000, -- [1]
+		["Pergamino de Encantar brazales: intelecto excepcional"] = {
+			806999, -- [1]
 		},
 		["Pechera de Wendigo del hierofante"] = {
 			800000, -- [1]
 		},
-		["Prole de Mulgore"] = {
-			10989999, -- [1]
+		["Glifo de Bola de Fuego"] = {
+			462499, -- [1]
 		},
 		["Yelmo de Jarrathol"] = {
 			10000000, -- [1]
 		},
-		["Pergamino de Encantar escudo: Resistencia"] = {
-			24990000, -- [1]
+		["Guantes de Wendigo del mono"] = {
+			500000, -- [1]
 		},
-		["Coraza Forjanegra"] = {
-			10000000, -- [1]
+		["Balas de Hierro Vil"] = {
+			750, -- [1]
 		},
 		["Receta: Frasco de Sabiduría Destilada"] = {
 			25000000, -- [1]
 		},
-		["Bastón Mal Colocado de Zabra"] = {
-			800000, -- [1]
+		["Partículas Arcanas"] = {
+			9498, -- [1]
 		},
-		["Pergamino de Encantar guantes: asalto superior"] = {
-			682500, -- [1]
+		["Hombreras de Cadáver Tieso"] = {
+			4480000, -- [1]
 		},
 		["Botas Forradas de Pellejo de Talbuk de fuerza"] = {
 			500000, -- [1]
 		},
-		["Pergamino de Encantar guantes: fuerza superior"] = {
-			408609, -- [1]
+		["Refuerzo para Armadura Pesado"] = {
+			10600, -- [1]
 		},
 		["Bolsa de Tejido de Escarcha"] = {
 			1000000, -- [1]
 		},
-		["Musleras de Wendigo de defensa"] = {
-			170000, -- [1]
+		["Armadura de Vínculo de Huesos de espíritu"] = {
+			3713339, -- [1]
 		},
 		["Carne de Rinoceronte"] = {
 			5000, -- [1]
 		},
-		["Corona Runavold del médico"] = {
-			500000, -- [1]
+		["Gargantilla Carmesí de la Reina de Sangre"] = {
+			169990000, -- [1]
 		},
 		["Leotardos de Tejido del Alba"] = {
 			255500, -- [1]
 		},
-		["Patrón: Sombrero de Almirante"] = {
-			2000000, -- [1]
+		["Patrón: Toga de Adepto Superior"] = {
+			189500, -- [1]
 		},
 		["Espaldares Pretorianos del lobo"] = {
 			1999999, -- [1]
@@ -21845,26 +21852,26 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cinturón de Devoto"] = {
 			2400000, -- [1]
 		},
-		["Peto de Ajustador"] = {
-			70000000, -- [1]
+		["Cubrehombros de Mazo de Guerra del tigre"] = {
+			45000000, -- [1]
 		},
-		["Pergamino de Encantar pechera: restaurar maná de primera"] = {
+		["Espaldares Soldado de Caballería"] = {
+			7500000, -- [1]
+		},
+		["Brazaletes de Sanguiespora de espíritu"] = {
 			200000, -- [1]
 		},
-		["Cubrehombros de jade de defensa"] = {
+		["Patrón: Toga de Gran Vudú"] = {
+			61500, -- [1]
+		},
+		["Pergamino de Encantar botas: caminante del hielo"] = {
+			887099, -- [1]
+		},
+		["Guanteletes de Señor Supremo del oso"] = {
+			29000000, -- [1]
+		},
+		["Manto de Golpe de Tigre"] = {
 			40000000, -- [1]
-		},
-		["Rifle de balas de plata de Rowan"] = {
-			1237500, -- [1]
-		},
-		["Reliquia de Ulduar"] = {
-			702, -- [1]
-		},
-		["Patrón: sobrehombros de cuero oscuro"] = {
-			19800, -- [1]
-		},
-		["Rubí Estrella"] = {
-			340000, -- [1]
 		},
 		["Grebas de Ajustador"] = {
 			50000000, -- [1]
@@ -21872,83 +21879,83 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Patrón: Guantes de Escórpido Resistentes"] = {
 			1810, -- [1]
 		},
-		["Guerrera Delicada del búho"] = {
-			9999999, -- [1]
+		["Pergamino de Protección"] = {
+			42600, -- [1]
 		},
-		["Faja de Aparecido del tigre"] = {
-			4000000, -- [1]
+		["Mena de Sangrita Inferior"] = {
+			19999, -- [1]
 		},
-		["Espaldares de Comandante del gorila"] = {
-			5000000, -- [1]
+		["Yelmo de Acero de Titanes Luminoso"] = {
+			22499997, -- [1]
 		},
-		["Diamante de Llama Celeste Incansable"] = {
-			100000, -- [1]
+		["Cubrehombros de Puño de Roca de agilidad"] = {
+			40000000, -- [1]
 		},
-		["Piedra de Pulir Burda"] = {
-			6666, -- [1]
+		["Pergamino de Encantar brazales: Pericia"] = {
+			1776749, -- [1]
 		},
 		["Ojo de Zul Deslumbrante"] = {
 			1005869, -- [1]
 		},
-		["Elixir de Poder de Fuego Sublime"] = {
-			550000, -- [1]
+		["Piedra Densa"] = {
+			2700, -- [1]
 		},
-		["Musleras Formidables de la ballena"] = {
-			60000000, -- [1]
+		["Pergamino de Encantar capa: resistencia superior"] = {
+			4500099, -- [1]
 		},
-		["Hacha Cuchilla del tigre"] = {
-			24999999, -- [1]
+		["Pergamino de Encantar capa: tejido de titán"] = {
+			3486596, -- [1]
 		},
-		["Trozo Draenetista Imperfecto"] = {
-			9800, -- [1]
+		["Pergamino de Encantar escudo: esquivar"] = {
+			1045000, -- [1]
 		},
-		["Arenque Embrujado"] = {
-			599000, -- [1]
+		["Cinturón de Paño Rúnico"] = {
+			39800, -- [1]
 		},
-		["Polvo de Cadáver"] = {
-			2900, -- [1]
+		["Pergamino de Encantar guantes: agilidad excelente"] = {
+			14647181, -- [1]
 		},
 		["Anillo Grabado de protección de Escarcha"] = {
 			600000, -- [1]
 		},
-		["Cohete de fuegos artificiales rojo"] = {
-			48555, -- [1]
+		["Glifo de Aluvión de Acero"] = {
+			1249899, -- [1]
 		},
-		["Aceite de Pescado"] = {
-			66, -- [1]
+		["Sobrehombros Esqueléticas"] = {
+			1005000, -- [1]
 		},
-		["Botas Rectas de espíritu"] = {
-			2499999, -- [1]
+		["Polvo de Visión"] = {
+			10000, -- [1]
 		},
-		["Pólvora Burda"] = {
-			1999, -- [1]
+		["Dos de Elementales"] = {
+			500000, -- [1]
 		},
-		["Glifo de Divinidad"] = {
-			39800, -- [1]
+		["Capa Eterna de espíritu"] = {
+			25550000, -- [1]
 		},
-		["Pólvora Elemental"] = {
-			11100, -- [1]
+		["Pergamino de Encantar guantes: equitación"] = {
+			3330000, -- [1]
 		},
 		["Escudo Hiperión del tigre"] = {
 			8000000, -- [1]
 		},
-		["Pergamino de Encantar pechera: defensa superior"] = {
-			932499, -- [1]
+		["Escarpes de Gólem del Campeón"] = {
+			11500000, -- [1]
 		},
-		["Prole de ravasaurio"] = {
-			3010000, -- [1]
+		["Sombrero de Fatalidad Invernal"] = {
+			6015500, -- [1]
 		},
-		["Brazales de Muradin del bandido"] = {
-			158800, -- [1]
+		["Manteo Vinculado a la Tierra"] = {
+			557833, -- [1]
 		},
-		["Prole obsidiana"] = {
-			1199900, -- [1]
+		["Parche de espadachín del mono"] = {
+			13734098, -- [1]
 		},
 		["Mando de máquina voladora"] = {
 			4000000, -- [1]
 		},
-		["Pergamino de Encantar pechera: salud excepcional"] = {
-			7451849, -- [1]
+		["Prole Tajobuche"] = {
+			11695001, -- [1]
 		},
 		["Glifo de Incinerar"] = {
 			240100, -- [1]
@@ -21956,8 +21963,8 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Grebas Hiperión de defensa"] = {
 			5000000, -- [1]
 		},
-		["Machacachanguk"] = {
-			3885007, -- [1]
+		["Aro de consejero mayor del falcón"] = {
+			40000000, -- [1]
 		},
 		["Gran Festín"] = {
 			39800, -- [1]
@@ -21965,20 +21972,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Mena de Torio"] = {
 			99000, -- [1]
 		},
-		["Espesartita de Llamas"] = {
-			14200, -- [1]
+		["Cubrehombros de jade del águila"] = {
+			40000000, -- [1]
 		},
-		["Leotardos de Piedra Mácula del anciano"] = {
-			299999, -- [1]
+		["Pezqueñín Aletacristal"] = {
+			49999, -- [1]
 		},
 		["Ocho de Locuras"] = {
 			89500, -- [1]
 		},
-		["Piedra Infernal"] = {
-			49999, -- [1]
+		["Receta: Carne de Kodo Asada"] = {
+			350000, -- [1]
 		},
-		["Receta: Chuleta de Talbuk"] = {
-			197500, -- [1]
+		["Capucha de Tejido del Alba"] = {
+			250000, -- [1]
 		},
 		["Brazales de Errante del mono"] = {
 			150000, -- [1]
@@ -21989,11 +21996,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Guantes Nocturnos de la ballena"] = {
 			2550000, -- [1]
 		},
-		["Receta: Elixir de Poder de Escarcha Sublime"] = {
-			509998, -- [1]
+		["Espaldares Pretorianos del mono"] = {
+			40000000, -- [1]
 		},
-		["Circón Majestuoso"] = {
-			1839999, -- [1]
+		["Partecostillas del jabalí"] = {
+			23333333, -- [1]
 		},
 		["Esquema: Carga de Seforio Potente"] = {
 			457988, -- [1]
@@ -22001,41 +22008,41 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Sacatripas"] = {
 			408000, -- [1]
 		},
-		["Prole Razzashi"] = {
-			53000000, -- [1]
+		["Brazales Frioescollo de la ballena"] = {
+			85500, -- [1]
 		},
-		["Receta: Estofado de los Páramos de Poniente"] = {
-			249000, -- [1]
+		["Prole de dracohalcón roja"] = {
+			319999, -- [1]
 		},
-		["Receta: Estofado de Ratas de Madriguera"] = {
-			52500000, -- [1]
+		["Hombreras de Espadachín del águila"] = {
+			3876626, -- [1]
 		},
-		["Receta: Estofado de Zancudo"] = {
-			198900, -- [1]
+		["Celada de Cóndor del hechicero"] = {
+			355456, -- [1]
 		},
 		["Camisote Forjado Demoníaco del soldado"] = {
 			13780000, -- [1]
 		},
-		["Las Verdes Colinas de Tuercespina: Página 27"] = {
-			778000, -- [1]
+		["Guanteletes Gloriosos del oso"] = {
+			8990000, -- [1]
 		},
 		["Sobrehombros Durable del lobo"] = {
 			1132201, -- [1]
 		},
-		["Quitina de Silítido"] = {
-			64213, -- [1]
+		["Raíz de Espina Salvaje"] = {
+			24799, -- [1]
 		},
-		["Fórmula: Encantar Botas: Agilidad Menor"] = {
-			171000, -- [1]
+		["Escudo de Pielférrea de la ballena"] = {
+			40000000, -- [1]
 		},
-		["Receta: Piedra Filosofal"] = {
-			666665, -- [1]
+		["Receta: Atún Blanco Arco Iris"] = {
+			75400, -- [1]
 		},
 		["Cinturón de Pigmeo del tigre"] = {
 			1500000, -- [1]
 		},
-		["Esporas Fértiles"] = {
-			9699, -- [1]
+		["Leotardos Mascahuesos del invocador"] = {
+			6999999, -- [1]
 		},
 		["Manual de Instrucciones de Trituradora: Página 8"] = {
 			999000, -- [1]
@@ -22043,20 +22050,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Coraza magistral del mono"] = {
 			18000000, -- [1]
 		},
-		["Bastón Medicinal del oso"] = {
-			4500000, -- [1]
+		["Coraza Aterrallamas"] = {
+			17500000, -- [1]
 		},
-		["Cinturón de Cuero Rúnico"] = {
-			348000, -- [1]
+		["Cinturón Celestial de intelecto"] = {
+			40000000, -- [1]
 		},
-		["Receta: Potaje de Crocolisco"] = {
-			493999, -- [1]
+		["Receta: Elixir de Camuflaje"] = {
+			315999, -- [1]
 		},
-		["Glifo del Pingüino"] = {
+		["Receta: costillas de lobo picantes"] = {
 			150000, -- [1]
 		},
-		["Receta: Salmón Escama de Sol Pochado"] = {
-			249999, -- [1]
+		["Receta: Elixir de Entereza"] = {
+			3366, -- [1]
 		},
 		["Salmón Escama de Sol Crudo"] = {
 			449, -- [1]
@@ -22067,17 +22074,17 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Palo de Supervivencia del jabalí"] = {
 			260000, -- [1]
 		},
-		["Receta: Estofado de Crocolisco Pesado"] = {
-			85799, -- [1]
+		["Receta: Estofado de la Selva"] = {
+			15500, -- [1]
 		},
 		["Ballesta Atraviesa Calaveras"] = {
 			600000, -- [1]
 		},
-		["Hoja de asesino"] = {
-			90000000, -- [1]
+		["Faja Heroica del gorila"] = {
+			40000000, -- [1]
 		},
-		["Pergamino de Encantar pechera: temple sublime"] = {
-			9899799, -- [1]
+		["Avambrazos de Placas Imbuidos"] = {
+			999999, -- [1]
 		},
 		["Collar Extraviado del soldado"] = {
 			499999999, -- [1]
@@ -22091,20 +22098,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Escama Descarriada"] = {
 			10000, -- [1]
 		},
-		["Cinturón Grandioso del búho"] = {
-			2994831, -- [1]
+		["Esquema: Caja de Herramientas de Titanio"] = {
+			770000, -- [1]
 		},
-		["Roca de Diversión"] = {
-			5000, -- [1]
+		["Guantes Elegantes del falcón"] = {
+			2266556, -- [1]
 		},
-		["Ron Rumsey Dorado"] = {
-			80000, -- [1]
+		["Generador de Agujeros de Gusano: Rasganorte"] = {
+			2969999, -- [1]
 		},
-		["Ron Volátil"] = {
-			49800, -- [1]
+		["Glifo de Enjambre de Insectos"] = {
+			369900, -- [1]
 		},
-		["Ropa de Invierno Verde"] = {
-			2250000, -- [1]
+		["Fórmula: encantar arma: profano"] = {
+			39000, -- [1]
 		},
 		["Ámbar del Rey Luminoso"] = {
 			3505000, -- [1]
@@ -22112,20 +22119,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Tubo de Escape de Placas de Elementium"] = {
 			20000000, -- [1]
 		},
-		["Musleras de Eviscerador"] = {
-			8479900, -- [1]
+		["Mineral de Abisalita"] = {
+			16500, -- [1]
 		},
 		["Leotardos de Forestal de la ballena"] = {
 			40000000, -- [1]
 		},
-		["Sapo mecánico casi vivo"] = {
-			1770000, -- [1]
+		["Receta: tortilla gigante"] = {
+			59988, -- [1]
 		},
 		["Flor Exánime"] = {
 			533000, -- [1]
 		},
-		["Seda de las Sombras"] = {
-			2000, -- [1]
+		["Receta: Transmutar Hierro a Oro"] = {
+			27800, -- [1]
 		},
 		["Capa de Montañero"] = {
 			14000, -- [1]
@@ -22136,20 +22143,20 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Pellejo Pesado Curtido"] = {
 			274800, -- [1]
 		},
-		["Bufas Rectas del búho"] = {
-			1590844, -- [1]
+		["Anillo de guardia de tierra de titanio"] = {
+			17619999, -- [1]
 		},
-		["Elixir de Respiración Acuática Superior"] = {
-			29600, -- [1]
+		["Cubrehombros de Mazo de Guerra de la ballena"] = {
+			5500000, -- [1]
 		},
-		["Setelo"] = {
-			100000, -- [1]
+		["Robot de Reparación de Campo 110G"] = {
+			1531000, -- [1]
 		},
-		["Mamut de la Semana Pasada"] = {
-			125000, -- [1]
+		["Draenita dorada reluciente"] = {
+			499000, -- [1]
 		},
-		["Siluro de 16 kilos"] = {
-			13333, -- [1]
+		["Patrón: Pantalones Fénix"] = {
+			118000, -- [1]
 		},
 		["Ataduras de Tejeoscura"] = {
 			800000, -- [1]
@@ -22160,11 +22167,11 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Bocanegra Graso"] = {
 			200099, -- [1]
 		},
-		["Tela de Tejido de Escarcha"] = {
-			10000, -- [1]
+		["Pulseras Canto de Cristal del búho"] = {
+			309799, -- [1]
 		},
-		["Texto Crepuscular Codificado"] = {
-			970000, -- [1]
+		["Runa de Teletransporte"] = {
+			6899, -- [1]
 		},
 		["Lentes de enfoque de jade oscuro"] = {
 			40000, -- [1]
@@ -22172,23 +22179,23 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Brazales Maléficos"] = {
 			450000, -- [1]
 		},
-		["Tres de Nobles"] = {
-			10000000, -- [1]
+		["Guanteletes de Kraken del jabalí"] = {
+			906000, -- [1]
 		},
-		["Tinta de Medianoche"] = {
-			249000, -- [1]
+		["Faja Hiperión del tigre"] = {
+			9800000, -- [1]
 		},
-		["Coraza de Adamantita"] = {
-			5000000, -- [1]
+		["Sobrehombros de Alma de Sangre"] = {
+			15500000, -- [1]
 		},
-		["Tinta del Mar"] = {
-			184500, -- [1]
+		["Sello Ala de Fuego"] = {
+			80000, -- [1]
 		},
-		["Tinte Amarillo"] = {
-			19499, -- [1]
+		["Sello Furia del Sol"] = {
+			895, -- [1]
 		},
-		["Tinte Naranja"] = {
-			30000, -- [1]
+		["Semilla de Azahar"] = {
+			8000, -- [1]
 		},
 		["Bolsa \"gigantesca\""] = {
 			28500000, -- [1]
@@ -22199,133 +22206,134 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Manoplas del Maestro de Filos"] = {
 			7990000, -- [1]
 		},
-		["Sombra Cristalizada"] = {
-			38025, -- [1]
+		["Sombrero de Aventurero Maltrecho"] = {
+			699000, -- [1]
 		},
-		["Trozo de Carne de Jabalí"] = {
-			13400, -- [1]
+		["Ballesta de Cabeza de Carnero del bandido"] = {
+			1999999, -- [1]
 		},
-		["Trozo de Mamut"] = {
-			5000, -- [1]
+		["Quijotes magistrales del falcón"] = {
+			18000000, -- [1]
 		},
-		["Trozo Inferior de Mapa"] = {
-			13300, -- [1]
+		["Tierra de Un'Goro"] = {
+			10800, -- [1]
 		},
-		["Brazales de Pielférrea del falcón"] = {
-			1500000, -- [1]
+		["Elixir de Defensa Excelente"] = {
+			91668, -- [1]
 		},
 		["Polvo Infinito"] = {
 			38400, -- [1]
 		},
-		["Espada de Zelote"] = {
-			2000000, -- [1]
-		},
-		["Toga del Magi"] = {
+		["Guantes de Acerira"] = {
 			40000000, -- [1]
 		},
-		["Vara de Plata"] = {
-			996600, -- [1]
+		["Piedra Mercúrica"] = {
+			2807500, -- [1]
 		},
-		["Vástago azur"] = {
-			26990000, -- [1]
+		["Trasto de Torio"] = {
+			9900, -- [1]
 		},
-		["Sangrerregia"] = {
-			15600, -- [1]
+		["Tres de Demonios"] = {
+			250000, -- [1]
 		},
-		["Venda de Lana"] = {
-			48, -- [1]
+		["Glifo de Levitar"] = {
+			316000, -- [1]
 		},
-		["Venda de Lino Gruesa"] = {
-			500, -- [1]
+		["Trozo de Basilisco"] = {
+			9400, -- [1]
 		},
-		["Venda de Seda"] = {
-			8800, -- [1]
+		["Manoplas Despiertas"] = {
+			199999, -- [1]
+		},
+		["Fajín del Consorcio del médico"] = {
+			3700732, -- [1]
 		},
 		["Botas Tejidas con Escarcha"] = {
 			90000, -- [1]
 		},
-		["Vial corrupto"] = {
-			2900, -- [1]
+		["Cubrehombros de Mazo de Guerra del Campeón"] = {
+			39990000, -- [1]
 		},
-		["Ametrino Diestro"] = {
-			3000000, -- [1]
+		["Vermizo Fulgurante"] = {
+			8990000, -- [1]
 		},
-		["Vial destrozado"] = {
-			24799, -- [1]
+		["Chaleco de Glotón de fuerza"] = {
+			1900000, -- [1]
 		},
-		["Vid Pesadilla"] = {
-			139500, -- [1]
+		["Vestido Elegante"] = {
+			999999, -- [1]
 		},
 		["Diseño: Hoja Tigre de Escarcha"] = {
 			662800, -- [1]
 		},
-		["Fuegos artificiales con destellos rojos"] = {
-			38036, -- [1]
+		["Botines de Cuero Abisal del invocador"] = {
+			9980000, -- [1]
 		},
 		["Diente Viejo del anciano"] = {
 			149900, -- [1]
 		},
-		["Vitela de Arma III"] = {
-			348000, -- [1]
+		["Videpluma Salvaje"] = {
+			1500, -- [1]
 		},
-		["Glifo de Eviscerar"] = {
-			274999, -- [1]
+		["Espaldares Frioescollo del lobo"] = {
+			200000, -- [1]
 		},
 		["Cristal de Sol Liso Perfecto"] = {
 			549000, -- [1]
 		},
-		["Yeti mecánico tranquilo"] = {
-			3550000, -- [1]
+		["Vitriolo Negro"] = {
+			8500, -- [1]
 		},
-		["Hoja con Punta de Hielo"] = {
-			50000, -- [1]
+		["Capa de Gamuza de protección de la Naturaleza"] = {
+			74500, -- [1]
 		},
-		["Maza Aplastahielo"] = {
-			200000, -- [1]
+		["Diseño: Coraza Forjada con Sol"] = {
+			8870000, -- [1]
 		},
 		["Libro: Don de lo Salvaje"] = {
 			247000, -- [1]
 		},
-		["Sombrero de Tela Gastada"] = {
-			500000, -- [1]
+		["Botas de Placas Forradas de Hielo"] = {
+			20000, -- [1]
 		},
 		["Machacabatallas del tigre"] = {
 			1000000, -- [1]
 		},
-		["Almófar Superpuesto"] = {
-			46800, -- [1]
+		["Hacha de doble filo del bandido"] = {
+			2550000, -- [1]
 		},
 		["Pastelito Sabroso"] = {
 			6900, -- [1]
 		},
-		["Glifo de Inmolar"] = {
-			335782, -- [1]
+		["Caperuza de Wendigo del tigre"] = {
+			11500000, -- [1]
 		},
-		["Colmillo de Jabalí Rajado"] = {
+		["Armadura del Vengador"] = {
+			40000000, -- [1]
 		},
-		["Criminosa"] = {
-			199500, -- [1]
+		["Códice: Rezo de Entereza"] = {
+			29900, -- [1]
 		},
-		["Estatua de Ballena"] = {
-			4000000, -- [1]
+		["Leotardos Tejidos con Escarcha"] = {
+			125500, -- [1]
 		},
 		["Patrón: Pantalones de Tela Vil"] = {
 			99250, -- [1]
 		},
-		["Fragmentos de Floración"] = {
-			3900, -- [1]
+		["Sortija Impactante de Titanio"] = {
+			20662000, -- [1]
 		},
-		["Maza de Guerra Gélida de fuerza"] = {
-			546351, -- [1]
+		["Armadura para Pierna de Jormungar"] = {
+			3151999, -- [1]
 		},
-		["Garra Robustecida"] = {
-			7425, -- [1]
+		["Sortija de Técnica de Maestro de Milan"] = {
+			1249999, -- [1]
 		},
-		["Patrón: Madeja de Tejido Abisal Imbuido"] = {
-			999000, -- [1]
+		["Faja Piedra de Sal del oso"] = {
+			18888888, -- [1]
 		},
-		["Piedra Cristalizada"] = {
-			13000, -- [1]
+		["Cubremuñecas de Tejido del Alba"] = {
+			300000, -- [1]
 		},
 		["Almete de Meditación"] = {
 			2220000, -- [1]
@@ -22333,20 +22341,16 @@ AUCTIONATOR_MEAN_PRICE_DATABASE = {
 		["Cuchilla Krol"] = {
 			120000000, -- [1]
 		},
-		["Fragmentos de plantas sin identificar"] = {
-			5946, -- [1]
+		["Varita Opaca"] = {
+			350000, -- [1]
 		},
-		["Tablilla Antigua"] = {
-			300000, -- [1]
+		["Pergamino de Encantar arma: potencia excelente"] = {
+			7733300, -- [1]
 		},
 	},
 }
 AUCTIONATOR_LAST_SCAN_TIME = 1668832542
 AUCTIONATOR_TOONS = {
-	["Katy"] = {
-		["firstSeen"] = 1666143906,
-		["firstVersion"] = "2.6.8",
-	},
 	["Yeni"] = {
 		["firstSeen"] = 1667271847,
 		["firstVersion"] = "2.6.8",
@@ -22357,14 +22361,23 @@ AUCTIONATOR_TOONS = {
 	},
 	["Kati"] = {
 		["firstSeen"] = 1667013467,
-		["guid"] = "0x07000000003FF456",
+		["firstVersion"] = "2.6.8",
+	},
+	["Katy"] = {
+		["firstSeen"] = 1666143906,
+		["guid"] = "0x07000000006904D5",
+		["firstVersion"] = "2.6.8",
+	},
+	["Dyxo"] = {
+		["firstSeen"] = 1678321650,
+		["guid"] = "0x07000000007D2E64",
 		["firstVersion"] = "2.6.8",
 	},
 }
 AUCTIONATOR_STACKING_PREFS = {
 	["poción de maná menor"] = {
-		["numstacks"] = 0,
 		["stacksize"] = 1,
+		["numstacks"] = 0,
 	},
 }
 AUCTIONATOR_SCAN_MINLEVEL = 1

@@ -41,7 +41,7 @@ FixGroups: disabled
 !!!GarbageProtector: disabled
 GatherMate: disabled
 GatherMate_Data: disabled
-GearScoreLite: disabled
+GearScoreLite: enabled
 HandyNotes: disabled
 HandyNotes_FlightMasters: disabled
 Informant: disabled

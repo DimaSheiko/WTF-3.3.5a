@@ -1,8 +1,8 @@
 
 TomTomDB = {
 	["profileKeys"] = {
-		["Kati - Lordaeron"] = "Default",
 		["Katy - Icecrown"] = "Default",
+		["Kati - Lordaeron"] = "Default",
 		["Doxy - Frostmourne"] = "Default",
 		["Kati - Blackrock [PvP only]"] = "Default",
 	},
@@ -13,15 +13,15 @@ TomTomDB = {
 }
 TomTomWaypoints = {
 	["profileKeys"] = {
-		["Kati - Lordaeron"] = "Kati - Lordaeron",
 		["Katy - Icecrown"] = "Katy - Icecrown",
+		["Kati - Lordaeron"] = "Kati - Lordaeron",
 		["Doxy - Frostmourne"] = "Doxy - Frostmourne",
 		["Kati - Blackrock [PvP only]"] = "Kati - Blackrock [PvP only]",
 	},
 	["profiles"] = {
-		["Kati - Lordaeron"] = {
-		},
 		["Katy - Icecrown"] = {
+		},
+		["Kati - Lordaeron"] = {
 		},
 		["Doxy - Frostmourne"] = {
 		},

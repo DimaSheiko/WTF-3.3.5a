@@ -2037,11 +2037,244 @@ RaidRoll_DB = {
 				["ITEMLEVEL"] = 258,
 			},
 		}, -- [61]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51171:0:0:0:0:0:0:0:80|h[Musleras Juraluz Santificadas]|h|r",
+				["LOOTNAME"] = "Sanctified Lightsworn Legguards",
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_33",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["MOB NAME"] = "Toravon el Vigía de Hielo",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51350:0:0:0:0:0:0:0:80|h[Guardarrenes de Triunfo de Gladiador Colérico]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Waistguard of Triumph",
+				["ICON"] = "Interface\\Icons\\inv_belt_72",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51416:0:0:0:0:0:0:0:80|h[Musleras de Placas de Tinieblas de Gladiador Colérico]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Dreadplate Legguards",
+				["ICON"] = "Interface\\Icons\\INV_PANTS_PLATE_27",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 270,
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51171:0:0:0:0:0:0:0:80|h[Musleras Juraluz Santificadas]|h|r",
+				["LOOTNAME"] = "Musleras Juraluz Santificadas",
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_33",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51358:0:0:0:0:0:0:0:80|h[Sortija de triunfo de Gladiador colérico]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Band of Triumph",
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Ring_60",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["LOOTER NAME"] = "Kati",
+			["ITEM_8"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51350:0:0:0:0:0:0:0:80|h[Guardarrenes de Triunfo de Gladiador Colérico]|h|r",
+				["LOOTNAME"] = "Guardarrenes de Triunfo de Gladiador Colérico",
+				["ICON"] = "Interface\\Icons\\inv_belt_72",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["TOTAL ITEMS"] = 8,
+			["ITEM_7"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51358:0:0:0:0:0:0:0:80|h[Sortija de triunfo de Gladiador colérico]|h|r",
+				["LOOTNAME"] = "Sortija de triunfo de Gladiador colérico",
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Ring_60",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51416:0:0:0:0:0:0:0:80|h[Musleras de Placas de Tinieblas de Gladiador Colérico]|h|r",
+				["LOOTNAME"] = "Musleras de Placas de Tinieblas de Gladiador Colérico",
+				["ICON"] = "Interface\\Icons\\INV_PANTS_PLATE_27",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 270,
+			},
+		}, -- [62]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51466:0:0:0:0:0:0:0:80|h[Calzas de Seda de Gladiador Colérico]|h|r",
+				["LOOTNAME"] = "Calzas de Seda de Gladiador Colérico",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 270,
+				["ICON"] = "Interface\\Icons\\inv_pants_cloth_36",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Peluda",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51346:0:0:0:0:0:0:0:80|h[Capa de Salvación de Gladiador Colérico]|h|r",
+				["LOOTNAME"] = "Capa de Salvación de Gladiador Colérico",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_misc_cape_16",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51191:0:0:0:0:0:0:0:80|h[Manoplas de Bruja de Escarcha Santificadas]|h|r",
+				["LOOTNAME"] = "Manoplas de Bruja de Escarcha Santificadas",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_104",
+			},
+			["MOB NAME"] = "Toravon el Vigía de Hielo",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51466:0:0:0:0:0:0:0:80|h[Calzas de Seda de Gladiador Colérico]|h|r",
+				["LOOTNAME"] = "Calzas de Seda de Gladiador Colérico1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 270,
+				["ICON"] = "Interface\\Icons\\inv_pants_cloth_36",
+			},
+		}, -- [63]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50709:0:0:0:0:0:0:0:80|h[Bryntrol, la mediadora de hueso]|h|r",
+				["LOOTNAME"] = "Bryntrol, la mediadora de hueso",
+				["ICON"] = "Interface\\Icons\\inv_axe_120",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 277,
+			},
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50609:0:0:0:0:0:0:0:80|h[Amuleto de Centinela Osario]|h|r",
+				["LOOTNAME"] = "Amuleto de Centinela Osario",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_necklace_53",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 277,
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Katy",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Saronita primordial]|h|r",
+				["LOOTNAME"] = "Saronita primordial",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 80,
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50617:0:0:0:0:0:0:0:80|h[Espaldares de Huesopúa Oxidados]|h|r",
+				["LOOTNAME"] = "Espaldares de Huesopúa Oxidados",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_117",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 277,
+			},
+			["MOB NAME"] = "Lord Tuétano",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Fragmento de Escarcha de Las Sombras]|h|r",
+				["LOOTNAME"] = "Fragmento de Escarcha de Las Sombras",
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 0,
+			},
+		}, -- [64]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50706:0:0:0:0:0:0:0:80|h[Abominación Diminuta en un Tarro]|h|r",
+				["LOOTNAME"] = "Abominación Diminuta en un Tarro",
+				["ICON"] = "Interface\\Icons\\inv_alchemy_enchantedvial",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 277,
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Katy",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Marca de Santificación de Conquistador]|h|r",
+				["LOOTNAME"] = "Marca de Santificación de Conquistador",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 80,
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Marca de Santificación de Protector]|h|r",
+				["LOOTNAME"] = "Marca de Santificación de Protector",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 80,
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Marca de Santificación de Vencedor]|h|r",
+				["LOOTNAME"] = "Marca de Santificación de Vencedor",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 80,
+			},
+		}, -- [65]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50428:0:0:0:0:0:0:0:80|h[Cetro real de Terenas II]|h|r",
+				["LOOTNAME"] = "Cetro real de Terenas II",
+				["ICON"] = "Interface\\Icons\\inv_mace_115",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 271,
+			},
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50427:0:0:0:0:0:0:0:80|h[Oleada de sangre, hoja de agonía de Kel'Thuzad]|h|r",
+				["LOOTNAME"] = "Oleada de sangre, hoja de agonía de Kel'Thuzad",
+				["ICON"] = "Interface\\Icons\\inv_sword_150",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 271,
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Fiusa",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Marca de Santificación de Conquistador]|h|r",
+				["LOOTNAME"] = "Marca de Santificación de Conquistador",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 80,
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Saronita primordial]|h|r",
+				["LOOTNAME"] = "Saronita primordial",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 80,
+			},
+			["MOB NAME"] = "El Rey Exánime",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Marca de Santificación de Protector]|h|r",
+				["LOOTNAME"] = "Marca de Santificación de Protector",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 80,
+			},
+		}, -- [66]
 		[0] = {
 			["TOTAL ITEMS"] = 0,
 		},
-		["TOTAL WINDOWS"] = 61,
-		["CURRENT WINDOW"] = 61,
+		["TOTAL WINDOWS"] = 66,
+		["CURRENT WINDOW"] = 66,
 	},
 	["Rank Priority"] = {
 		10, -- [1]
@@ -2101,11 +2334,29 @@ RaidRoll_DBPC = {
 			},
 			["kaaneda"] = {
 			},
+			["hexabott"] = {
+			},
+			["guilgalad"] = {
+			},
 			["jollyne"] = {
+			},
+			["muchie"] = {
+			},
+			["zourrows"] = {
 			},
 			["fagguette"] = {
 			},
+			["polonic"] = {
+			},
+			["vergoula"] = {
+			},
+			["maitanie"] = {
+			},
 			["mightypula"] = {
+			},
+			["omegavash"] = {
+			},
+			["dobz"] = {
 			},
 			["sanpaidk"] = {
 			},
@@ -2113,17 +2364,19 @@ RaidRoll_DBPC = {
 			},
 			["toronegro"] = {
 			},
-			["siemens"] = {
-			},
 			["vladimiruwu"] = {
 			},
-			["rajiv"] = {
+			["siemens"] = {
+			},
+			["seppuku"] = {
+			},
+			["crop"] = {
 			},
 			["ukacan"] = {
 			},
-			["polonic"] = {
-			},
 			["celenne"] = {
+			},
+			["atsumichan"] = {
 			},
 			["dudukute"] = {
 			},
@@ -2131,31 +2384,31 @@ RaidRoll_DBPC = {
 			},
 			["olutmestari"] = {
 			},
-			["crop"] = {
+			["rajiv"] = {
 			},
 			["daynale"] = {
 			},
 			["phantomlol"] = {
 			},
-			["dobz"] = {
+			["moliwa"] = {
 			},
 			["ienny"] = {
 			},
-			["izbal"] = {
+			["painstream"] = {
 			},
-			["moliwa"] = {
+			["epiona"] = {
 			},
 			["dazzell"] = {
 			},
-			["raysz"] = {
+			["nimarst"] = {
 			},
 			["miejue"] = {
 			},
-			["painstream"] = {
+			["raysz"] = {
 			},
 			["jenovahorde"] = {
 			},
-			["nimarst"] = {
+			["izbal"] = {
 			},
 			["nderasore"] = {
 			},
@@ -2165,7 +2418,7 @@ RaidRoll_DBPC = {
 			},
 			["bofbof"] = {
 			},
-			["epiona"] = {
+			["themoment"] = {
 			},
 			["taciturno"] = {
 			},
@@ -2278,53 +2531,75 @@ RaidRoll_DBPC = {
 		["RR_NameMark"] = {
 			[""] = {
 			},
-			["sutilesagia"] = {
+			["iivar"] = {
 			},
-			["cyrilchoquet"] = {
-			},
-			["harucho"] = {
-			},
-			["incompleted"] = {
-			},
-			["tonyrecm"] = {
-			},
-			["outtempo"] = {
-			},
-			["giveass"] = {
+			["jubiileu"] = {
 			},
 			["darkmoonnl"] = {
 			},
-			["eie"] = {
+			["anasazi"] = {
 			},
-			["honeysoull"] = {
-			},
-			["tsutsgii"] = {
-			},
-			["kati"] = {
-			},
-			["avox"] = {
-			},
-			["fatmeh"] = {
-			},
-			["berni"] = {
-			},
-			["nakujlufe"] = {
+			["giveass"] = {
 			},
 			["ithachi"] = {
 			},
+			["tsutsgii"] = {
+			},
+			["xguille"] = {
+			},
+			["nakujlufe"] = {
+			},
+			["avox"] = {
+			},
+			["orkoman"] = {
+			},
+			["ninospumoni"] = {
+			},
+			["sutilesagia"] = {
+			},
+			["harucho"] = {
+			},
+			["dirtykokot"] = {
+			},
+			["incompleted"] = {
+			},
 			["bluecrab"] = {
+			},
+			["honeysoull"] = {
+			},
+			["tonyrecm"] = {
+			},
+			["screamozlock"] = {
+			},
+			["outtempo"] = {
+			},
+			["piivoine"] = {
+			},
+			["kati"] = {
+			},
+			["berni"] = {
+			},
+			["fatmeh"] = {
+			},
+			["nidav"] = {
+			},
+			["zoltano"] = {
+			},
+			["pickro"] = {
+			},
+			["shamanpk"] = {
 			},
 			["laobeibi"] = {
 			},
 			["abusing"] = {
 			},
-			["screamozlock"] = {
+			["eie"] = {
 			},
-			["piivoine"] = {
+			["angelwhite"] = {
 			},
-			["ninospumoni"] = {
+			["cyrilchoquet"] = {
 			},
-			["shamanpk"] = {
+			["ironspiritt"] = {
 			},
 		},
 		["RR_RollCheckBox_Multi_Rollers"] = false,

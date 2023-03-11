@@ -246,10 +246,16 @@ ZygorTalentAdvisorSettings = {
 				"01:42:45> Viewer started. ---------------------------", -- [100]
 			},
 		},
-		["Kati - Frostmourne"] = {
+		["Doxy - Frostmourne"] = {
 			["debuglog"] = {
-				"21:58:09> Viewer started. ---------------------------", -- [1]
-				"21:58:10> PLAYER_ALIVE", -- [2]
+				"21:01:16> Viewer started. ---------------------------", -- [1]
+				"21:01:18> PLAYER_ALIVE", -- [2]
+			},
+		},
+		["Tar - Icecrown"] = {
+			["debuglog"] = {
+				"21:55:41> Viewer started. ---------------------------", -- [1]
+				"21:55:42> PLAYER_ALIVE", -- [2]
 			},
 		},
 		["Dyxo - Icecrown"] = {
@@ -270,10 +276,10 @@ ZygorTalentAdvisorSettings = {
 				"21:54:25> PLAYER_ALIVE", -- [2]
 			},
 		},
-		["Tar - Icecrown"] = {
+		["Kati - Frostmourne"] = {
 			["debuglog"] = {
-				"21:55:41> Viewer started. ---------------------------", -- [1]
-				"21:55:42> PLAYER_ALIVE", -- [2]
+				"21:58:09> Viewer started. ---------------------------", -- [1]
+				"21:58:10> PLAYER_ALIVE", -- [2]
 			},
 		},
 	},
@@ -283,11 +289,12 @@ ZygorTalentAdvisorSettings = {
 		["Yeni - Icecrown"] = "Yeni - Icecrown",
 		["Katy - Icecrown"] = "Katy - Icecrown",
 		["Kati - Icecrown"] = "Kati - Icecrown",
-		["Kati - Frostmourne"] = "Kati - Frostmourne",
+		["Doxy - Frostmourne"] = "Doxy - Frostmourne",
+		["Tar - Icecrown"] = "Tar - Icecrown",
 		["Dyxo - Icecrown"] = "Dyxo - Icecrown",
 		["Zantir - Icecrown"] = "Zantir - Icecrown",
 		["Yenny - Icecrown"] = "Yenny - Icecrown",
-		["Tar - Icecrown"] = "Tar - Icecrown",
+		["Kati - Frostmourne"] = "Kati - Frostmourne",
 	},
 	["profiles"] = {
 		["Kyz - Icecrown"] = {
@@ -300,7 +307,9 @@ ZygorTalentAdvisorSettings = {
 		},
 		["Kati - Icecrown"] = {
 		},
-		["Kati - Frostmourne"] = {
+		["Doxy - Frostmourne"] = {
+		},
+		["Tar - Icecrown"] = {
 		},
 		["Dyxo - Icecrown"] = {
 		},
@@ -308,7 +317,7 @@ ZygorTalentAdvisorSettings = {
 		},
 		["Yenny - Icecrown"] = {
 		},
-		["Tar - Icecrown"] = {
+		["Kati - Frostmourne"] = {
 		},
 	},
 }

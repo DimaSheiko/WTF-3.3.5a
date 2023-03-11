@@ -6,10 +6,10 @@ ThreatPlatesDB = {
 	},
 	["char"] = {
 		["Kyz - Icecrown"] = {
-			["welcome"] = true,
 			["spec"] = {
 				["primary"] = false,
 			},
+			["welcome"] = true,
 			["specInfo"] = {
 				{
 					19, -- [1]
@@ -85,14 +85,27 @@ ThreatPlatesDB = {
 			},
 			["welcome"] = true,
 		},
-		["Tar - Icecrown"] = {
+		["Dyxo - Icecrown"] = {
 			["welcome"] = true,
-		},
-		["Doxy - Frostmourne"] = {
 			["spec"] = {
 				["primary"] = false,
 			},
+			["specInfo"] = {
+				{
+					11, -- [1]
+				}, -- [1]
+			},
+			["specName"] = {
+				"Armas", -- [1]
+				"Furia", -- [2]
+				"Protección", -- [3]
+			},
+		},
+		["Doxy - Frostmourne"] = {
 			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
 			["specInfo"] = {
 				{
 					44, -- [1]
@@ -104,17 +117,17 @@ ThreatPlatesDB = {
 				"Protección", -- [3]
 			},
 		},
-		["Dyxo - Icecrown"] = {
+		["Zantir - Icecrown"] = {
+			["welcome"] = true,
 			["spec"] = {
 				["primary"] = false,
 			},
-			["welcome"] = true,
 		},
 		["Kati - Icecrown"] = {
+			["welcome"] = true,
 			["spec"] = {
 				["primary"] = false,
 			},
-			["welcome"] = true,
 			["specInfo"] = {
 				{
 					51, -- [1]
@@ -138,11 +151,8 @@ ThreatPlatesDB = {
 				["primary"] = false,
 			},
 		},
-		["Zantir - Icecrown"] = {
+		["Tar - Icecrown"] = {
 			["welcome"] = true,
-			["spec"] = {
-				["primary"] = false,
-			},
 		},
 	},
 	["profileKeys"] = {
@@ -153,10 +163,10 @@ ThreatPlatesDB = {
 		["Kati - Frostmourne"] = "Default",
 		["Kati - Icecrown"] = "Default",
 		["Doxy - Frostmourne"] = "Default",
-		["Tar - Icecrown"] = "Default",
-		["Kati - Blackrock [PvP only]"] = "Default",
 		["Dyxo - Icecrown"] = "Default",
+		["Kati - Blackrock [PvP only]"] = "Default",
 		["Zantir - Icecrown"] = "Default",
+		["Tar - Icecrown"] = "Default",
 		["Yenny - Icecrown"] = "Default",
 		["Kati - Lordaeron"] = "Default",
 	},

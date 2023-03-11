@@ -1,8 +1,12 @@
 
 EncounterDetailsDB = {
-	["encounter_spells"] = {
-	},
 	["emotes"] = {
+		{
+			["boss"] = "Toravon el Vigía de Hielo",
+		}, -- [1]
+		{
+			["boss"] = "Toravon el Vigía de Hielo",
+		}, -- [2]
 		{
 			{
 				0.5270000000018627, -- [1]
@@ -17,12 +21,8 @@ EncounterDetailsDB = {
 				7, -- [4]
 			}, -- [2]
 			["boss"] = "El Rey Exánime",
-		}, -- [1]
-		{
-			["boss"] = "El Rey Exánime",
-		}, -- [2]
-		{
-			["boss"] = "El Rey Exánime",
 		}, -- [3]
+	},
+	["encounter_spells"] = {
 	},
 }

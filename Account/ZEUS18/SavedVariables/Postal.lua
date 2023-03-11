@@ -1,11 +1,5 @@
 
 Postal3DB = {
-	["profileKeys"] = {
-		["Yeni - Icecrown"] = "Yeni - Icecrown",
-		["Katy - Icecrown"] = "Katy - Icecrown",
-		["Doxy - Frostmourne"] = "Doxy - Frostmourne",
-		["Kati - Icecrown"] = "Kati - Icecrown",
-	},
 	["global"] = {
 		["BlackBook"] = {
 			["alts"] = {
@@ -15,6 +9,12 @@ Postal3DB = {
 				"Yeni|Icecrown|Horde", -- [4]
 			},
 		},
+	},
+	["profileKeys"] = {
+		["Yeni - Icecrown"] = "Yeni - Icecrown",
+		["Katy - Icecrown"] = "Katy - Icecrown",
+		["Doxy - Frostmourne"] = "Doxy - Frostmourne",
+		["Kati - Icecrown"] = "Kati - Icecrown",
 	},
 	["profiles"] = {
 		["Yeni - Icecrown"] = {

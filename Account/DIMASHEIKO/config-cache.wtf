@@ -1,7 +1,7 @@
 SET showVKeyCastbar "0"
 SET autoQuestWatch "0"
 SET autoQuestProgress "0"
-SET flaggedTutorials "v##0##?##3##A##B"
+SET flaggedTutorials "v##0##?##3##A##B##Q"
 SET cameraPitchMoveSpeed "45"
 SET cameraYawMoveSpeed "90"
 SET cameraView "1"

@@ -2,21 +2,35 @@
 AtlasLootOptions = nil
 AtlasLootDB = {
 	["profileKeys"] = {
+		["Kyz - Icecrown"] = "Kyz - Icecrown",
 		["Yeni - Icecrown"] = "Yeni - Icecrown",
+		["Yenny - Icecrown"] = "Yenny - Icecrown",
+		["Dyxo - Icecrown"] = "Dyxo - Icecrown",
 		["Katy - Icecrown"] = "Katy - Icecrown",
+		["Doxy - Frostmourne"] = "Doxy - Frostmourne",
 		["Kati - Icecrown"] = "Kati - Icecrown",
 	},
 	["profiles"] = {
+		["Kyz - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
 		["Yeni - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Yenny - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Dyxo - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
 		["Katy - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Kati - Icecrown"] = {
-			["BigraidHeroic"] = true,
+		["Doxy - Frostmourne"] = {
 			["AtlasType"] = "Unknown",
-			["LastBoss"] = "ICCLanathel",
+		},
+		["Kati - Icecrown"] = {
+			["AtlasType"] = "Unknown",
 		},
 	},
 }
@@ -31,6 +45,20 @@ AtlasLootWishList = {
 			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
 		},
+		["Doxy"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Kati"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
 		["Katy"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
@@ -38,7 +66,21 @@ AtlasLootWishList = {
 			["markInTable"] = "own",
 			["AllowShareWishlist"] = true,
 		},
-		["Kati"] = {
+		["Yenny"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Kyz"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Dyxo"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
@@ -49,12 +91,12 @@ AtlasLootWishList = {
 	["Own"] = {
 		["Yeni"] = {
 		},
-		["Katy"] = {
+		["Doxy"] = {
 		},
 		["Kati"] = {
 			{
 				{
-					0, -- [1]
+					2, -- [1]
 					51272, -- [2]
 					"", -- [3]
 					"|cffa335eeCelada Juraluz Santificada", -- [4]
@@ -64,7 +106,7 @@ AtlasLootWishList = {
 					"T10PaladinHoly|AtlasLootWotLK", -- [8]
 				}, -- [1]
 				{
-					0, -- [1]
+					3, -- [1]
 					51273, -- [2]
 					"", -- [3]
 					"|cffa335eeBufas Juraluz Santificadas", -- [4]
@@ -74,7 +116,7 @@ AtlasLootWishList = {
 					"T10PaladinHoly|AtlasLootWotLK", -- [8]
 				}, -- [2]
 				{
-					0, -- [1]
+					6, -- [1]
 					50724, -- [2]
 					"", -- [3]
 					"|cffa335eeGargantilla Carmesí de la Reina de Sangre", -- [4]
@@ -91,6 +133,14 @@ AtlasLootWishList = {
 					"Interface\\Icons\\Spell_Holy_HolyBolt", -- [3]
 				},
 			}, -- [1]
+		},
+		["Katy"] = {
+		},
+		["Yenny"] = {
+		},
+		["Kyz"] = {
+		},
+		["Dyxo"] = {
 		},
 	},
 }

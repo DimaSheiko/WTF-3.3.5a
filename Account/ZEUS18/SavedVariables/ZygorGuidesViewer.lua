@@ -2,15 +2,15 @@
 ZygorGuidesViewerSettings = {
 	["char"] = {
 		["Kyz - Icecrown"] = {
-			["starting"] = false,
+			["maint_fetchitemdata"] = true,
 			["guides_history"] = {
 				{
 					["short"] = "Blood Elf (1-13)",
 					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
 				}, -- [1]
 			},
-			["maint_fetchquestdata"] = true,
 			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+			["maint_fetchquestdata"] = true,
 			["taxis"] = {
 			},
 			["debuglog"] = {
@@ -34,10 +34,10 @@ ZygorGuidesViewerSettings = {
 				"21:55:00> Translated: accept/turnin Recuperar la Isla del Caminante del Sol", -- [18]
 				"21:55:00> frameNeedsUpdating, so updating.", -- [19]
 			},
-			["maint_fetchitemdata"] = true,
+			["starting"] = false,
 		},
 		["Yosehanny - Icecrown"] = {
-			["maint_fetchitemdata"] = true,
+			["starting"] = false,
 			["guides_history"] = {
 				{
 					["short"] = "Blood Elf (1-13)",
@@ -45,8 +45,8 @@ ZygorGuidesViewerSettings = {
 					["step"] = 1,
 				}, -- [1]
 			},
-			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
 			["maint_fetchquestdata"] = true,
+			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
 			["taxis"] = {
 			},
 			["debuglog"] = {
@@ -98,11 +98,238 @@ ZygorGuidesViewerSettings = {
 				"21:54:43> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [46]
 				"21:54:43> FocusStep 1", -- [47]
 			},
-			["starting"] = false,
+			["maint_fetchitemdata"] = true,
 		},
 		["Yeni - Icecrown"] = {
-			["maint_fetchquestdata"] = true,
+			["maint_fetchitemdata"] = true,
 			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+			["guides_history"] = {
+				{
+					["short"] = "Blood Elf (1-13)",
+					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+					["step"] = 1,
+				}, -- [1]
+			},
+			["RecipesKnown"] = {
+				[44488] = true,
+				[7426] = true,
+				[7428] = true,
+				[44528] = true,
+				[60609] = true,
+				[32667] = true,
+				[13817] = true,
+				[59621] = true,
+				[47899] = true,
+				[44592] = true,
+				[44616] = true,
+				[7443] = true,
+				[13841] = true,
+				[17180] = true,
+				[34002] = true,
+				[7454] = true,
+				[20009] = true,
+				[44489] = true,
+				[44513] = true,
+				[20029] = true,
+				[44529] = true,
+				[13620] = true,
+				[27946] = true,
+				[13626] = true,
+				[27958] = true,
+				[47900] = true,
+				[44593] = true,
+				[13640] = true,
+				[44625] = true,
+				[44633] = true,
+				[13646] = true,
+				[60714] = true,
+				[13905] = true,
+				[13915] = true,
+				[33995] = true,
+				[13419] = true,
+				[44506] = true,
+				[13935] = true,
+				[13937] = true,
+				[13939] = true,
+				[32664] = true,
+				[13943] = true,
+				[13945] = true,
+				[13947] = true,
+				[47901] = true,
+				[13698] = true,
+				[13700] = true,
+				[13702] = true,
+				[60691] = true,
+				[60707] = true,
+				[7766] = true,
+				[17181] = true,
+				[60763] = true,
+				[33996] = true,
+				[34004] = true,
+				[20014] = true,
+				[44576] = true,
+				[13485] = true,
+				[20026] = true,
+				[20030] = true,
+				[13746] = true,
+				[7782] = true,
+				[44584] = true,
+				[44555] = true,
+				[7457] = true,
+				[13501] = true,
+				[13503] = true,
+				[7788] = true,
+				[44595] = true,
+				[60668] = true,
+				[34009] = true,
+				[34001] = true,
+				[60692] = true,
+				[44635] = true,
+				[7795] = true,
+				[69412] = true,
+				[28003] = true,
+				[33993] = true,
+				[20033] = true,
+				[13529] = true,
+				[28019] = true,
+				[20013] = true,
+				[28027] = true,
+				[27899] = true,
+				[13794] = true,
+				[13931] = true,
+				[44484] = true,
+				[44492] = true,
+				[44500] = true,
+				[44508] = true,
+				[7786] = true,
+				[44524] = true,
+				[7776] = true,
+				[7793] = true,
+				[32665] = true,
+				[60621] = true,
+				[25125] = true,
+				[62948] = true,
+				[59625] = true,
+				[60653] = true,
+				[44596] = true,
+				[13628] = true,
+				[47672] = true,
+				[13941] = true,
+				[13642] = true,
+				[44636] = true,
+				[13622] = true,
+				[59636] = true,
+				[13648] = true,
+				[44575] = true,
+				[13846] = true,
+				[13607] = true,
+				[13380] = true,
+				[33990] = true,
+				[44629] = true,
+				[27944] = true,
+				[13858] = true,
+				[44589] = true,
+				[20011] = true,
+				[20015] = true,
+				[27972] = true,
+				[20023] = true,
+				[7857] = true,
+				[13617] = true,
+				[20035] = true,
+				[60606] = true,
+				[27948] = true,
+				[7859] = true,
+				[20051] = true,
+				[28004] = true,
+				[13631] = true,
+				[13378] = true,
+				[13635] = true,
+				[13637] = true,
+				[13655] = true,
+				[63746] = true,
+				[13898] = true,
+				[28028] = true,
+				[44645] = true,
+				[42613] = true,
+				[7861] = true,
+				[13653] = true,
+				[7863] = true,
+				[28016] = true,
+				[13659] = true,
+				[33991] = true,
+				[7867] = true,
+				[34007] = true,
+				[20008] = true,
+				[25126] = true,
+				[44588] = true,
+				[44494] = true,
+				[13917] = true,
+				[44510] = true,
+				[33992] = true,
+				[13663] = true,
+				[13890] = true,
+				[13689] = true,
+				[13687] = true,
+				[60623] = true,
+				[13882] = true,
+				[59619] = true,
+				[44582] = true,
+				[44598] = true,
+				[60663] = true,
+				[13887] = true,
+				[13836] = true,
+				[13822] = true,
+				[44630] = true,
+				[44383] = true,
+				[13815] = true,
+				[13695] = true,
+				[13693] = true,
+				[13948] = true,
+				[13464] = true,
+				[13661] = true,
+				[14810] = true,
+				[60767] = true,
+				[13657] = true,
+				[27905] = true,
+				[13644] = true,
+				[27913] = true,
+				[20012] = true,
+				[20016] = true,
+				[20020] = true,
+				[25124] = true,
+				[20028] = true,
+				[44621] = true,
+				[20036] = true,
+				[27945] = true,
+				[60616] = true,
+				[44509] = true,
+				[27957] = true,
+				[27961] = true,
+				[47898] = true,
+				[44591] = true,
+				[62959] = true,
+				[13421] = true,
+				[7745] = true,
+				[44623] = true,
+				[44631] = true,
+				[7420] = true,
+				[7779] = true,
+				[42615] = true,
+				[7771] = true,
+				[7748] = true,
+				[14293] = true,
+				[7418] = true,
+				[14807] = true,
+				[14809] = true,
+				[7421] = true,
+				[13538] = true,
+				[28022] = true,
+				[60619] = true,
+				[47766] = true,
+			},
+			["maint_fetchquestdata"] = true,
+			["taxis"] = {
+			},
 			["debuglog"] = {
 				"19:57:33> CacheQuestLog cached 1 quests", -- [1]
 				"19:57:33> New Quest: Los ignotos id 13187", -- [2]
@@ -206,279 +433,9 @@ ZygorGuidesViewerSettings = {
 				"16:31:16> 215 Encantamiento recipes found", -- [100]
 			},
 			["starting"] = false,
-			["guides_history"] = {
-				{
-					["short"] = "Blood Elf (1-13)",
-					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
-					["step"] = 1,
-				}, -- [1]
-			},
-			["RecipesKnown"] = {
-				[44488] = true,
-				[7426] = true,
-				[7428] = true,
-				[44528] = true,
-				[60609] = true,
-				[32667] = true,
-				[13817] = true,
-				[59621] = true,
-				[47899] = true,
-				[44592] = true,
-				[44616] = true,
-				[7443] = true,
-				[13841] = true,
-				[17180] = true,
-				[34002] = true,
-				[7454] = true,
-				[20009] = true,
-				[44489] = true,
-				[44513] = true,
-				[20029] = true,
-				[44529] = true,
-				[13620] = true,
-				[27946] = true,
-				[13626] = true,
-				[27958] = true,
-				[47900] = true,
-				[44593] = true,
-				[13640] = true,
-				[44625] = true,
-				[44633] = true,
-				[13646] = true,
-				[60714] = true,
-				[13905] = true,
-				[13915] = true,
-				[33995] = true,
-				[13419] = true,
-				[44506] = true,
-				[13935] = true,
-				[13937] = true,
-				[13939] = true,
-				[32664] = true,
-				[13943] = true,
-				[13945] = true,
-				[13947] = true,
-				[47901] = true,
-				[13698] = true,
-				[13700] = true,
-				[13702] = true,
-				[60691] = true,
-				[60707] = true,
-				[7766] = true,
-				[17181] = true,
-				[60763] = true,
-				[33996] = true,
-				[34004] = true,
-				[20014] = true,
-				[47766] = true,
-				[13485] = true,
-				[20026] = true,
-				[20030] = true,
-				[13746] = true,
-				[7782] = true,
-				[60619] = true,
-				[44555] = true,
-				[28022] = true,
-				[13501] = true,
-				[13503] = true,
-				[7788] = true,
-				[44595] = true,
-				[60668] = true,
-				[13538] = true,
-				[7421] = true,
-				[60692] = true,
-				[44635] = true,
-				[7795] = true,
-				[69412] = true,
-				[28003] = true,
-				[14809] = true,
-				[20033] = true,
-				[13529] = true,
-				[28019] = true,
-				[20013] = true,
-				[28027] = true,
-				[27899] = true,
-				[13794] = true,
-				[7748] = true,
-				[44484] = true,
-				[44492] = true,
-				[44500] = true,
-				[44508] = true,
-				[7771] = true,
-				[44524] = true,
-				[7776] = true,
-				[7779] = true,
-				[32665] = true,
-				[60621] = true,
-				[7420] = true,
-				[60653] = true,
-				[59625] = true,
-				[62948] = true,
-				[44596] = true,
-				[13628] = true,
-				[47672] = true,
-				[7745] = true,
-				[13421] = true,
-				[44636] = true,
-				[13622] = true,
-				[44591] = true,
-				[13648] = true,
-				[27961] = true,
-				[13846] = true,
-				[20011] = true,
-				[20023] = true,
-				[33990] = true,
-				[13898] = true,
-				[60606] = true,
-				[13858] = true,
-				[13378] = true,
-				[13607] = true,
-				[20015] = true,
-				[63746] = true,
-				[44509] = true,
-				[44629] = true,
-				[13617] = true,
-				[20035] = true,
-				[27944] = true,
-				[27948] = true,
-				[44645] = true,
-				[20051] = true,
-				[7861] = true,
-				[13631] = true,
-				[44589] = true,
-				[13635] = true,
-				[13637] = true,
-				[7863] = true,
-				[44621] = true,
-				[7857] = true,
-				[7867] = true,
-				[7859] = true,
-				[42613] = true,
-				[28004] = true,
-				[13653] = true,
-				[13655] = true,
-				[28016] = true,
-				[13659] = true,
-				[33991] = true,
-				[28028] = true,
-				[34007] = true,
-				[27913] = true,
-				[13644] = true,
-				[44588] = true,
-				[44494] = true,
-				[13657] = true,
-				[44510] = true,
-				[60767] = true,
-				[14810] = true,
-				[13661] = true,
-				[60623] = true,
-				[13687] = true,
-				[13689] = true,
-				[59619] = true,
-				[13948] = true,
-				[44582] = true,
-				[13693] = true,
-				[60663] = true,
-				[13695] = true,
-				[13815] = true,
-				[13822] = true,
-				[44630] = true,
-				[44383] = true,
-				[13836] = true,
-				[13887] = true,
-				[44598] = true,
-				[13882] = true,
-				[13464] = true,
-				[13890] = true,
-				[13663] = true,
-				[33992] = true,
-				[13917] = true,
-				[27905] = true,
-				[25126] = true,
-				[20008] = true,
-				[20012] = true,
-				[20016] = true,
-				[20020] = true,
-				[25124] = true,
-				[20028] = true,
-				[27972] = true,
-				[20036] = true,
-				[27945] = true,
-				[60616] = true,
-				[13380] = true,
-				[27957] = true,
-				[44575] = true,
-				[47898] = true,
-				[59636] = true,
-				[62959] = true,
-				[13642] = true,
-				[13941] = true,
-				[44623] = true,
-				[44631] = true,
-				[25125] = true,
-				[7793] = true,
-				[42615] = true,
-				[7786] = true,
-				[13931] = true,
-				[14293] = true,
-				[7418] = true,
-				[14807] = true,
-				[33993] = true,
-				[34001] = true,
-				[34009] = true,
-				[7457] = true,
-				[44584] = true,
-				[44576] = true,
-			},
-			["taxis"] = {
-			},
-			["maint_fetchitemdata"] = true,
 		},
 		["Katy - Icecrown"] = {
-			["maint_fetchitemdata"] = true,
-			["step"] = 81,
-			["guides_history"] = {
-				{
-					["short"] = "Orc (1-13)",
-					["step"] = 192,
-					["full"] = "Zygor's Horde Leveling Guides\\Orc (1-13)",
-				}, -- [1]
-				{
-					["short"] = "Main Guide (13-20)",
-					["full"] = "Zygor's Horde Leveling Guides\\Main Guide (13-20)",
-					["step"] = 2,
-				}, -- [2]
-				{
-					["short"] = "The Oracles",
-					["full"] = "Zygor's Horde Dailies Guides\\Reputation\\The Oracles",
-				}, -- [3]
-				{
-					["short"] = "Blood Elf (1-13)",
-					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
-					["step"] = 81,
-				}, -- [4]
-			},
-			["maint_fetchquestdata"] = true,
-			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
-			["taxis"] = {
-				["Kargath"] = true,
-				["Ciudad de Lunargenta"] = true,
-				["Rocal"] = true,
-				["Zona de escala de Sol Devastado"] = true,
-				["Peñasco Llamarada"] = true,
-				["Tranquilien"] = true,
-				["El Sepulcro"] = true,
-				["Bahía del Botín"] = true,
-				[2] = true,
-				["Zul'Aman"] = true,
-				["Puesto del Torio"] = true,
-				["Entrañas"] = true,
-				["Sentencia"] = true,
-				["Molino Tarren"] = true,
-				["Grom'gol"] = true,
-				["Capilla de la Esperanza de la Luz"] = true,
-				["Poblado Sañadiente"] = true,
-			},
+			["starting"] = false,
 			["debuglog"] = {
 				"13:01:55> CacheQuestLog cached 7 quests", -- [1]
 				"13:01:55> CacheQuestLog cached 7 quests", -- [2]
@@ -581,10 +538,53 @@ ZygorGuidesViewerSettings = {
 				"00:00:28> ZONE_CHANGED_NEW_AREA (dead?)", -- [99]
 				"00:00:32> CacheQuestLog cached 7 quests", -- [100]
 			},
-			["starting"] = false,
+			["guides_history"] = {
+				{
+					["short"] = "Orc (1-13)",
+					["step"] = 192,
+					["full"] = "Zygor's Horde Leveling Guides\\Orc (1-13)",
+				}, -- [1]
+				{
+					["short"] = "Main Guide (13-20)",
+					["full"] = "Zygor's Horde Leveling Guides\\Main Guide (13-20)",
+					["step"] = 2,
+				}, -- [2]
+				{
+					["short"] = "The Oracles",
+					["full"] = "Zygor's Horde Dailies Guides\\Reputation\\The Oracles",
+				}, -- [3]
+				{
+					["short"] = "Blood Elf (1-13)",
+					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+					["step"] = 81,
+				}, -- [4]
+			},
+			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
+			["maint_fetchquestdata"] = true,
+			["taxis"] = {
+				["Kargath"] = true,
+				["Ciudad de Lunargenta"] = true,
+				["Rocal"] = true,
+				["Zona de escala de Sol Devastado"] = true,
+				["Peñasco Llamarada"] = true,
+				["Tranquilien"] = true,
+				["El Sepulcro"] = true,
+				["Bahía del Botín"] = true,
+				[2] = true,
+				["Zul'Aman"] = true,
+				["Puesto del Torio"] = true,
+				["Entrañas"] = true,
+				["Sentencia"] = true,
+				["Molino Tarren"] = true,
+				["Poblado Sañadiente"] = true,
+				["Capilla de la Esperanza de la Luz"] = true,
+				["Grom'gol"] = true,
+			},
+			["step"] = 81,
+			["maint_fetchitemdata"] = true,
 		},
 		["Kati - Icecrown"] = {
-			["starting"] = false,
+			["maint_fetchitemdata"] = true,
 			["guides_history"] = {
 				{
 					["short"] = "Blood Elf (1-13)",
@@ -592,8 +592,8 @@ ZygorGuidesViewerSettings = {
 					["step"] = 1,
 				}, -- [1]
 			},
-			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
 			["maint_fetchquestdata"] = true,
+			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
 			["taxis"] = {
 			},
 			["debuglog"] = {
@@ -698,52 +698,93 @@ ZygorGuidesViewerSettings = {
 				"01:42:52> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [99]
 				"01:42:52> FocusStep 1", -- [100]
 			},
-			["maint_fetchitemdata"] = true,
-		},
-		["Kati - Frostmourne"] = {
-			["maint_fetchitemdata"] = true,
-			["guides_history"] = {
-				{
-					["short"] = "Blood Elf (1-13)",
-					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
-				}, -- [1]
-			},
-			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
-			["maint_fetchquestdata"] = true,
-			["taxis"] = {
-			},
-			["debuglog"] = {
-				"21:58:09> Viewer started. ---------------------------", -- [1]
-				"21:58:10> PLAYER_ENTERING_WORLD (dead?)", -- [2]
-				"21:58:10> PLAYER_ALIVE (dead?)", -- [3]
-				"21:58:11> CacheQuestLog cached 0 quests", -- [4]
-				"21:58:11> Got completed quests list", -- [5]
-				"21:58:11> CacheQuestLog cached 4 quests", -- [6]
-				"21:58:11> New Quest: Eversong Woods bonus quest id 91002", -- [7]
-				"21:58:11> New Quest: Medidas extremas id 8326", -- [8]
-				"21:58:11> New Quest: Las posesiones de Solanian id 8330", -- [9]
-				"21:58:11> New Quest: Por un puñado de esquirlas id 8336", -- [10]
-				"21:58:11> ZONE_CHANGED_NEW_AREA (dead?)", -- [11]
-				"21:58:11> CacheQuestLog cached 4 quests", -- [12]
-				"21:58:12> Guides loaded. -----", -- [13]
-				"21:58:12> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [14]
-				"21:58:12> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [15]
-				"21:58:12> FocusStep 1", -- [16]
-				"21:58:12> Translated: accept/turnin Recuperar la Isla del Caminante del Sol", -- [17]
-				"21:58:12> frameNeedsUpdating, so updating.", -- [18]
-			},
 			["starting"] = false,
 		},
-		["Dyxo - Icecrown"] = {
+		["Doxy - Frostmourne"] = {
 			["maint_fetchitemdata"] = true,
+			["taxis"] = {
+			},
+			["guidename"] = "Zygor's Alliance Leveling Guides\\Human (1-13)",
+			["maint_fetchquestdata"] = true,
+			["starting"] = false,
+			["debuglog"] = {
+				"21:01:16> Viewer started. ---------------------------", -- [1]
+				"21:01:18> PLAYER_ENTERING_WORLD (dead?)", -- [2]
+				"21:01:18> PLAYER_ALIVE (dead?)", -- [3]
+				"21:01:18> CacheQuestLog cached 0 quests", -- [4]
+				"21:01:19> Got completed quests list", -- [5]
+				"21:01:19> CacheQuestLog cached 10 quests", -- [6]
+				"21:01:19> New Quest: Choca esos huesos id 3882", -- [7]
+				"21:01:19> New Quest: El aparato volador de Shizzle id 4503", -- [8]
+				"21:01:19> New Quest: Ecología alienígena id 3883", -- [9]
+				"21:01:19> New Quest: Muigin y Larion id 4141", -- [10]
+				"21:01:19> New Quest: Buscando a Memo 01 id 4243", -- [11]
+				"21:01:19> New Quest: Salvar a la expedición id 3881", -- [12]
+				"21:01:19> New Quest: Cuidado con los pterrordáctilos id 4501", -- [13]
+				"21:01:19> New Quest: ¡Perdido! id 4492", -- [14]
+				"21:01:19> New Quest: The Hinterlands bonus quest id 91033", -- [15]
+				"21:01:19> New Quest: Un'Goro Crater bonus quest id 91037", -- [16]
+				"21:01:19> ZONE_CHANGED_NEW_AREA (dead?)", -- [17]
+				"21:01:19> CacheQuestLog cached 10 quests", -- [18]
+				"21:01:19> CacheQuestLog cached 10 quests", -- [19]
+				"21:01:20> Guides loaded. -----", -- [20]
+				"21:01:20> SetGuide Zygor's Alliance Leveling Guides\\Human (1-13) (1", -- [21]
+				"21:01:20> Guide loaded: Zygor's Alliance Leveling Guides\\Human (1-13)", -- [22]
+				"21:01:20> FocusStep 1", -- [23]
+				"21:01:20> Translated: accept/turnin Una amenaza del interior", -- [24]
+				"21:01:20> frameNeedsUpdating, so updating.", -- [25]
+				"21:02:24> Hiding arrow with guide", -- [26]
+			},
 			["guides_history"] = {
 				{
 					["short"] = "Human (1-13)",
 					["full"] = "Zygor's Alliance Leveling Guides\\Human (1-13)",
 				}, -- [1]
 			},
-			["guidename"] = "Zygor's Alliance Leveling Guides\\Human (1-13)",
+		},
+		["Tar - Icecrown"] = {
+			["maint_fetchitemdata"] = true,
+			["guides_history"] = {
+				{
+					["short"] = "Death Knight (55-60)",
+					["full"] = "Zygor's Horde Leveling Guides\\Death Knight (55-60)",
+				}, -- [1]
+			},
+			["guidename"] = "Zygor's Horde Leveling Guides\\Death Knight (55-60)",
 			["maint_fetchquestdata"] = true,
+			["taxis"] = {
+			},
+			["debuglog"] = {
+				"21:55:41> Viewer started. ---------------------------", -- [1]
+				"21:55:42> PLAYER_ENTERING_WORLD (dead?)", -- [2]
+				"21:55:42> PLAYER_ALIVE (dead?)", -- [3]
+				"21:55:42> CacheQuestLog cached 0 quests", -- [4]
+				"21:55:42> Got completed quests list", -- [5]
+				"21:55:42> CacheQuestLog cached 4 quests", -- [6]
+				"21:55:42> New Quest: Cuando llegue el caos, deja que el sufrimiento tome las riendas id 12678", -- [7]
+				"21:55:42> New Quest: Desafío de la Muerte id 12733", -- [8]
+				"21:55:42> New Quest: El gran robo de Palomino id 12680", -- [9]
+				"21:55:42> New Quest: Esta noche cenamos en Villa Refugio id 12679", -- [10]
+				"21:55:43> ZONE_CHANGED_NEW_AREA (dead?)", -- [11]
+				"21:55:43> Guides loaded. -----", -- [12]
+				"21:55:43> SetGuide Zygor's Horde Leveling Guides\\Death Knight (55-60) (1", -- [13]
+				"21:55:43> Guide loaded: Zygor's Horde Leveling Guides\\Death Knight (55-60)", -- [14]
+				"21:55:43> FocusStep 1", -- [15]
+				"21:55:43> frameNeedsUpdating, so updating.", -- [16]
+				"21:55:49> Hiding arrow with guide", -- [17]
+			},
+			["starting"] = false,
+		},
+		["Dyxo - Icecrown"] = {
+			["starting"] = false,
+			["guides_history"] = {
+				{
+					["short"] = "Human (1-13)",
+					["full"] = "Zygor's Alliance Leveling Guides\\Human (1-13)",
+				}, -- [1]
+			},
+			["maint_fetchquestdata"] = true,
+			["guidename"] = "Zygor's Alliance Leveling Guides\\Human (1-13)",
 			["taxis"] = {
 			},
 			["debuglog"] = {
@@ -769,18 +810,18 @@ ZygorGuidesViewerSettings = {
 				"21:55:17> CacheQuestLog cached 4 quests", -- [20]
 				"21:55:19> Hiding arrow with guide", -- [21]
 			},
-			["starting"] = false,
+			["maint_fetchitemdata"] = true,
 		},
 		["Zantir - Icecrown"] = {
-			["maint_fetchitemdata"] = true,
+			["starting"] = false,
 			["guides_history"] = {
 				{
 					["short"] = "Blood Elf (1-13)",
 					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
 				}, -- [1]
 			},
-			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
 			["maint_fetchquestdata"] = true,
+			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
 			["taxis"] = {
 			},
 			["debuglog"] = {
@@ -804,18 +845,18 @@ ZygorGuidesViewerSettings = {
 				"21:52:41> Translated: accept/turnin Recuperar la Isla del Caminante del Sol", -- [18]
 				"21:52:41> frameNeedsUpdating, so updating.", -- [19]
 			},
-			["starting"] = false,
+			["maint_fetchitemdata"] = true,
 		},
 		["Yenny - Icecrown"] = {
-			["starting"] = false,
+			["maint_fetchitemdata"] = true,
 			["guides_history"] = {
 				{
 					["short"] = "Human (1-13)",
 					["full"] = "Zygor's Alliance Leveling Guides\\Human (1-13)",
 				}, -- [1]
 			},
-			["maint_fetchquestdata"] = true,
 			["guidename"] = "Zygor's Alliance Leveling Guides\\Human (1-13)",
+			["maint_fetchquestdata"] = true,
 			["taxis"] = {
 			},
 			["debuglog"] = {
@@ -843,38 +884,39 @@ ZygorGuidesViewerSettings = {
 				"21:54:27> FocusStep 1", -- [22]
 				"21:54:27> frameNeedsUpdating, so updating.", -- [23]
 			},
-			["maint_fetchitemdata"] = true,
+			["starting"] = false,
 		},
-		["Tar - Icecrown"] = {
+		["Kati - Frostmourne"] = {
 			["starting"] = false,
 			["guides_history"] = {
 				{
-					["short"] = "Death Knight (55-60)",
-					["full"] = "Zygor's Horde Leveling Guides\\Death Knight (55-60)",
+					["short"] = "Blood Elf (1-13)",
+					["full"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
 				}, -- [1]
 			},
 			["maint_fetchquestdata"] = true,
-			["guidename"] = "Zygor's Horde Leveling Guides\\Death Knight (55-60)",
+			["guidename"] = "Zygor's Horde Leveling Guides\\Blood Elf (1-13)",
 			["taxis"] = {
 			},
 			["debuglog"] = {
-				"21:55:41> Viewer started. ---------------------------", -- [1]
-				"21:55:42> PLAYER_ENTERING_WORLD (dead?)", -- [2]
-				"21:55:42> PLAYER_ALIVE (dead?)", -- [3]
-				"21:55:42> CacheQuestLog cached 0 quests", -- [4]
-				"21:55:42> Got completed quests list", -- [5]
-				"21:55:42> CacheQuestLog cached 4 quests", -- [6]
-				"21:55:42> New Quest: Cuando llegue el caos, deja que el sufrimiento tome las riendas id 12678", -- [7]
-				"21:55:42> New Quest: Desafío de la Muerte id 12733", -- [8]
-				"21:55:42> New Quest: El gran robo de Palomino id 12680", -- [9]
-				"21:55:42> New Quest: Esta noche cenamos en Villa Refugio id 12679", -- [10]
-				"21:55:43> ZONE_CHANGED_NEW_AREA (dead?)", -- [11]
-				"21:55:43> Guides loaded. -----", -- [12]
-				"21:55:43> SetGuide Zygor's Horde Leveling Guides\\Death Knight (55-60) (1", -- [13]
-				"21:55:43> Guide loaded: Zygor's Horde Leveling Guides\\Death Knight (55-60)", -- [14]
-				"21:55:43> FocusStep 1", -- [15]
-				"21:55:43> frameNeedsUpdating, so updating.", -- [16]
-				"21:55:49> Hiding arrow with guide", -- [17]
+				"21:58:09> Viewer started. ---------------------------", -- [1]
+				"21:58:10> PLAYER_ENTERING_WORLD (dead?)", -- [2]
+				"21:58:10> PLAYER_ALIVE (dead?)", -- [3]
+				"21:58:11> CacheQuestLog cached 0 quests", -- [4]
+				"21:58:11> Got completed quests list", -- [5]
+				"21:58:11> CacheQuestLog cached 4 quests", -- [6]
+				"21:58:11> New Quest: Eversong Woods bonus quest id 91002", -- [7]
+				"21:58:11> New Quest: Medidas extremas id 8326", -- [8]
+				"21:58:11> New Quest: Las posesiones de Solanian id 8330", -- [9]
+				"21:58:11> New Quest: Por un puñado de esquirlas id 8336", -- [10]
+				"21:58:11> ZONE_CHANGED_NEW_AREA (dead?)", -- [11]
+				"21:58:11> CacheQuestLog cached 4 quests", -- [12]
+				"21:58:12> Guides loaded. -----", -- [13]
+				"21:58:12> SetGuide Zygor's Horde Leveling Guides\\Blood Elf (1-13) (1", -- [14]
+				"21:58:12> Guide loaded: Zygor's Horde Leveling Guides\\Blood Elf (1-13)", -- [15]
+				"21:58:12> FocusStep 1", -- [16]
+				"21:58:12> Translated: accept/turnin Recuperar la Isla del Caminante del Sol", -- [17]
+				"21:58:12> frameNeedsUpdating, so updating.", -- [18]
 			},
 			["maint_fetchitemdata"] = true,
 		},
@@ -885,13 +927,14 @@ ZygorGuidesViewerSettings = {
 		["Yeni - Icecrown"] = "Yeni - Icecrown",
 		["Katy - Icecrown"] = "Katy - Icecrown",
 		["Kati - Icecrown"] = "Kati - Icecrown",
-		["Kati - Frostmourne"] = "Kati - Frostmourne",
-		["Zantir - Icecrown"] = "Zantir - Icecrown",
-		["Kati - Blackrock [PvP only]"] = "Kati - Blackrock [PvP only]",
+		["Doxy - Frostmourne"] = "Doxy - Frostmourne",
+		["Kati - Lordaeron"] = "Kati - Lordaeron",
 		["Dyxo - Icecrown"] = "Dyxo - Icecrown",
+		["Kati - Blackrock [PvP only]"] = "Kati - Blackrock [PvP only]",
+		["Zantir - Icecrown"] = "Zantir - Icecrown",
 		["Tar - Icecrown"] = "Tar - Icecrown",
 		["Yenny - Icecrown"] = "Yenny - Icecrown",
-		["Kati - Lordaeron"] = "Kati - Lordaeron",
+		["Kati - Frostmourne"] = "Kati - Frostmourne",
 	},
 	["profiles"] = {
 		["Kyz - Icecrown"] = {
@@ -924,7 +967,13 @@ ZygorGuidesViewerSettings = {
 			["arrowcam"] = false,
 			["visible"] = false,
 		},
-		["Kati - Frostmourne"] = {
+		["Doxy - Frostmourne"] = {
+			["visible"] = false,
+			["arrowcam"] = false,
+			["arrowsmooth"] = true,
+		},
+		["Tar - Icecrown"] = {
+			["visible"] = false,
 			["arrowcam"] = false,
 			["arrowsmooth"] = true,
 		},
@@ -941,8 +990,7 @@ ZygorGuidesViewerSettings = {
 			["arrowcam"] = false,
 			["arrowsmooth"] = true,
 		},
-		["Tar - Icecrown"] = {
-			["visible"] = false,
+		["Kati - Frostmourne"] = {
 			["arrowcam"] = false,
 			["arrowsmooth"] = true,
 		},

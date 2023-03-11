@@ -1,4 +1,11 @@
 Version: 1
+Frame: WorldMapScreenAnchor
+FrameLevel: 0
+Anchor: TOPLEFT
+X: 10
+Y: -118
+W: 1
+H: 1
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -6,10 +13,10 @@ X: 0
 Y: 0
 W: 365
 H: 200
-Frame: ukwrlttxtwpobnxqbizm
+Frame: rdnfkrphtfrqapwsxmfo
 FrameLevel: 5
 Anchor: TOPRIGHT
-X: -4
-Y: -86
+X: -41
+Y: -123
 W: 25
 H: 25

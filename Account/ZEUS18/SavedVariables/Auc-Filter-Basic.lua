@@ -5,6 +5,8 @@ AucAdvancedFilterBasic_IgnoreList = {
 	["Icecrown"] = {
 		["Horde"] = {
 		},
+		["Alliance"] = {
+		},
 	},
 	["Blackrock [PvP only]"] = {
 		["Horde"] = {

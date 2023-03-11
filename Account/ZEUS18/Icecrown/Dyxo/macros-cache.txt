@@ -1,0 +1,5 @@
+MACRO 16777217 "Auctioneer" INV_Misc_QuestionMark
+/cleartarget
+/targetexact Subastadora Jaxon
+/cleartarget [dead] [noexists]
+END

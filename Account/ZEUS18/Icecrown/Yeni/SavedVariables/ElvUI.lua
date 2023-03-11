@@ -1,31 +1,31 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/lb filter OnEnterPressed", -- [1]
-		"/lb SearchButton", -- [2]
-		"/lb filter SearchButton", -- [3]
-		"/lb filter TSMSearchBarFrame", -- [4]
-		"/FSTACK", -- [5]
-		"/lb mouse", -- [6]
-		"/lb filter tsmeditbox", -- [7]
-		"/lb filter TSMEdit", -- [8]
-		"/lb filter tsm", -- [9]
-		"/lb filter TSM", -- [10]
-		"/d .", -- [11]
-		"/lb filter SearchRealTimeButton", -- [12]
-		"/wowlua", -- [13]
-		"/fstack", -- [14]
-		"/focus Chim", -- [15]
-		"/tsm sources", -- [16]
-		"/focus Keelen", -- [17]
-		"/focus Keelen Capas", -- [18]
-		"/lol", -- [19]
-		"/join global", -- [20]
+		"/FSTACK", -- [1]
+		"/lb mouse", -- [2]
+		"/lb filter tsmeditbox", -- [3]
+		"/lb filter TSMEdit", -- [4]
+		"/lb filter tsm", -- [5]
+		"/d .", -- [6]
+		"/lb filter SearchRealTimeButton", -- [7]
+		"/focus Chim", -- [8]
+		"/tsm sources", -- [9]
+		"/focus Keelen", -- [10]
+		"/focus Keelen Capas", -- [11]
+		"/lol", -- [12]
+		"/script DEFAULT_CHAT_FRAME:AddMessage(\"\\124cffffffff\\124Hitem:37602::::::::80:::::\\124h[Vitela de armadura II]\\124h\\124r\");", -- [13]
+		"/floodmsg WTB |cff1eff00|Hitem:43299:0:0:0:0:0:0:0:75|h[Collar Dañado]|h|r 100g each. WTB |cffa335ee|Hitem:34057:0:0:0:0:0:0:0:75|h[Cristal Abisal]|h|r 70g each. /w me or COD.", -- [14]
+		"/lb filter TSM", -- [15]
+		"/lb filter GetBagSlots", -- [16]
+		"/wowlua", -- [17]
+		"/lb filter TSMAPI", -- [18]
+		"/join global", -- [19]
+		"/fstack", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"WTB ALL YOUR CARDINAL RUBIES 220 Each C.O.D Me", -- [1]
-			"Zroubaa", -- [2]
+			"Ukrainian guild \" Mists of Barabashovo \" recruits active players from 5k8 for ICC & RS! RT: weekdays - 20:00, weekends - 18:00 Kyiv time", -- [1]
+			"Dustman", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -34,16 +34,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6208, -- [11]
-			"0x07000000007C7AF4", -- [12]
+			3970, -- [11]
+			"0x07000000008F235F", -- [12]
 			0, -- [13]
-			[51] = 1677958315,
+			[51] = 1678548599,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffZroubaa|r",
+			[52] = "|cfff48cbaDustman|r",
 		}, -- [1]
 		{
-			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
-			"Smellfarts", -- [2]
+			"Ukrainian guild \" Mists of Barabashovo \" recruits active players from 5k8 for ICC & RS! RT: weekdays - 20:00, weekends - 18:00 Kyiv time", -- [1]
+			"Greatshark", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -52,16 +52,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6209, -- [11]
-			"0x0700000000849B71", -- [12]
+			3971, -- [11]
+			"0x07000000008240F3", -- [12]
 			0, -- [13]
-			[51] = 1677958317,
+			[51] = 1678548601,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aSmellfarts|r",
+			[52] = "|cff0070ddGreatshark|r",
 		}, -- [2]
 		{
-			"WTB |cffffffff|Hitem:36905:0:0:0:0:0:0:0:80|h[Flor Exánime]|h|r - 700g/stack, |cffffffff|Hitem:36903:0:0:0:0:0:0:0:80|h[Lengua de Víboris]|h|r -800g/stack - C.O.D me!", -- [1]
-			"Owlgore", -- [2]
+			"ICC 10NM !! 5.5K+ACHIEVE!!BOE RES !! NEED 1RESTO SHAMY 1TANK", -- [1]
+			"Collei", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -70,16 +70,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6210, -- [11]
-			"0x070000000047575D", -- [12]
+			3972, -- [11]
+			"0x07000000001CDC00", -- [12]
 			0, -- [13]
-			[51] = 1677958322,
+			[51] = 1678548602,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aOwlgore|r",
+			[52] = "|cff9382c9Collei|r",
 		}, -- [3]
 		{
-			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
-			"Kilbore", -- [2]
+			"<The Fallen Champion>PVE guild is recruiting members 5.2K gs +. Doing ICC 10nm/hc(8/12), Weekly ICC 25 and RS (10/25), we use DKP & Discord for comms, RT 19pm ST. We offer free repairs and dental plans for all ranks.", -- [1]
+			"Arxs", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -88,34 +88,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6211, -- [11]
-			"0x07000000000116A0", -- [12]
+			3973, -- [11]
+			"0x07000000008358AC", -- [12]
 			0, -- [13]
-			[51] = 1677958325,
+			[51] = 1678548604,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aKilbore|r",
+			[52] = "|cfffff468Arxs|r",
 		}, -- [4]
 		{
-			"La guild Española <Below Zero> Recluta para LODs y RS HC Horario 8:30 ST p.m.! DKP!", -- [1]
-			"Barcosyputas", -- [2]
+			"WTB DRUID WITH ENGI/JC 2 BIS TRINKETS & WEP /W ME UR BEST OFFER WITH NAME OF CHAR ONLY VIA WARMANE TRADE !!!", -- [1]
+			"Ssagittarius", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"", -- [6]
+			"AFK", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6212, -- [11]
-			"0x07000000005F5FB1", -- [12]
+			3974, -- [11]
+			"0x070000000053AF7F", -- [12]
 			0, -- [13]
-			[51] = 1677958325,
+			[51] = 1678548609,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aBarcosyputas|r",
+			[52] = "|cffc69b6dSsagittarius|r",
 		}, -- [5]
 		{
-			"<The Old Crew> traži nove clanove za raidove. Radimo 3x ICC 25 (8/12 hc), 5x RS 25 i 3x ICC 10 tjedno. Koristimo Discord i DKP sistem. Vrijeme raidova je 20:00. Minimalni GS za ulazak u guild je 5.8k. Za vise informacija /w.", -- [1]
-			"Posthar", -- [2]
+			"LFM RS 25 RHSAM RDUDU AND DPS 5.8 GS. CTS RESS CTS RESS!!!!WHISHPER ACH", -- [1]
+			"Greamy", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -124,51 +124,15 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6213, -- [11]
-			"0x070000000056FF7B", -- [12]
+			3975, -- [11]
+			"0x07000000008B9F2F", -- [12]
 			0, -- [13]
-			[51] = 1677958328,
+			[51] = 1678548612,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Posthar|r",
+			[52] = "|cffc69b6dGreamy|r",
 		}, -- [6]
 		{
-			"LFM ICC 25N (GS-HC) Need last Spot 1x DPS (Mage) 5.7 GS+ Memo,Achiev .Ress BOE+PS+Bloods W/ME ", -- [1]
-			"Mysterak", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6214, -- [11]
-			"0x07000000006DBE1C", -- [12]
-			0, -- [13]
-			[51] = 1677958329,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Mysterak|r",
-		}, -- [7]
-		{
-			"WTS BIS UH DKs (non SM), you pick the items min 66 coins", -- [1]
-			"Xploze", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6215, -- [11]
-			"0x07000000005F0590", -- [12]
-			0, -- [13]
-			[51] = 1677958331,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Xploze|r",
-		}, -- [8]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"< Demonic Empire > End Game English Speaking Guild.Doing 12x LOD [ 0 % Buff Solo Tank 2 Heal / Solo Tank Solo Heal & 0% Buff Full ICc 25 HC Clear ] &14x RS 25 HC / Ulduar & immortality & immortal.RT=7 PM.Apply@ https://demonic-empire.shivtr.com", -- [1]
 			"Shadowmourn", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
@@ -178,589 +142,13 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6216, -- [11]
+			3976, -- [11]
 			"0x07000000008191C6", -- [12]
 			0, -- [13]
-			[51] = 1677958331,
+			[51] = 1678548612,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cfff48cbaShadowmourn|r",
-		}, -- [9]
-		{
-			"WTB ALL YOUR SARONITE BAR 7G EACH", -- [1]
-			"Marinatankin", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6217, -- [11]
-			"0x070000000075A170", -- [12]
-			0, -- [13]
-			[51] = 1677958332,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaMarinatankin|r",
-		}, -- [10]
-		{
-			"LFM POS NM /W GS AND SPEC LAST SPOT: TANK", -- [1]
-			"Batushko", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6218, -- [11]
-			"0x07000000007F461A", -- [12]
-			0, -- [13]
-			[51] = 1677958333,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Batushko|r",
-		}, -- [11]
-		{
-			"LFM ICC 25 HC LOD run +6.3 Link achiv Lod for inv DIscord Req SFS FREE BOe reserve Miss1 RANDOM DPS 24/25 |cffffff00|Hachievement:4584:0700000000012F8D:1:6:16:19:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowpala", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6219, -- [11]
-			"0x0700000000012F8D", -- [12]
-			0, -- [13]
-			[51] = 1677958334,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowpala|r",
-		}, -- [12]
-		{
-			"BANE RUN NEED 2 TANKS (B+P=RES) /W ME |cffffff00|Hachievement:4584:0700000000105EDB:1:3:9:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Drunkpotato", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6220, -- [11]
-			"0x0700000000105EDB", -- [12]
-			0, -- [13]
-			[51] = 1677958335,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDrunkpotato|r",
-		}, -- [13]
-		{
-			"LFM ICC 25N (LK RUN ) NEED 1x dmg 5.7 GS+ (memo,Achiev) ... Ress BOE+PS+blood W/ME ", -- [1]
-			"Elgeno", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6221, -- [11]
-			"0x07000000008DA248", -- [12]
-			0, -- [13]
-			[51] = 1677958335,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff0070ddElgeno|r",
-		}, -- [14]
-		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wexpsy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6222, -- [11]
-			"0x070000000063557D", -- [12]
-			0, -- [13]
-			[51] = 1677958337,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffWexpsy|r",
-		}, -- [15]
-		{
-			"Guildless, bored and capable? Say no more, join <Disappointed> Today! We're looking for competent people able to clear LoD! Required: class knowledge and 6k + Char || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
-			"Holylone", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6223, -- [11]
-			"0x07000000005B34C6", -- [12]
-			0, -- [13]
-			[51] = 1677958339,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffHolylone|r",
-		}, -- [16]
-		{
-			"Lf enchanter", -- [1]
-			"Samurog", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6224, -- [11]
-			"0x07000000008C30C9", -- [12]
-			0, -- [13]
-			[51] = 1677958340,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Samurog|r",
-		}, -- [17]
-		{
-			"<Invadersx> is an end game guild recruiting heroic experienced raiders with 6.3k+ gs for LoD/RS/ToGC. Raid time 17:45PM ST. Send your chars at https://discord.gg/TFe3QCJsdK", -- [1]
-			"Invadersx", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6225, -- [11]
-			"0x07000000008CF512", -- [12]
-			0, -- [13]
-			[51] = 1677958342,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dInvadersx|r",
-		}, -- [18]
-		{
-			"[Longevity] Guild TGF-et hírdet, tapasztalt játékosoknak. Hetente több 10-es hc run, Icc25Hc 8/12 heti 3db és LoD progress raid. Heti minimum 3 db Rs25. DKP system. SFS gyüjtése jelenleg opció várólista van.", -- [1]
-			"Streetrats", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6226, -- [11]
-			"0x0700000000505499", -- [12]
-			0, -- [13]
-			[51] = 1677958343,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffStreetrats|r",
-		}, -- [19]
-		{
-			"<The Red Devils> are recruiting 6k+. We are currently progressing 10/12 ICC25hc.mainly need DP+other heals We raid on mondays(ICC25hc 10/12) and thursdays(icc25 8/12) 6PM. Fill in the application: [https://reddevils.gq/] fresh dkp system!", -- [1]
-			"Brutface", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6227, -- [11]
-			"0x070000000068DF99", -- [12]
-			0, -- [13]
-			[51] = 1677958344,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBrutface|r",
-		}, -- [20]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminprot", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6228, -- [11]
-			"0x07000000008F2372", -- [12]
-			0, -- [13]
-			[51] = 1677958345,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminprot|r",
-		}, -- [21]
-		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wedopsy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6229, -- [11]
-			"0x0700000000607345", -- [12]
-			0, -- [13]
-			[51] = 1677958345,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Wedopsy|r",
-		}, -- [22]
-		{
-			"TOGC10 mount run need DK TANK FWAR 6.2 nothinr reserved", -- [1]
-			"Bqk", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6230, -- [11]
-			"0x0700000000637FDE", -- [12]
-			0, -- [13]
-			[51] = 1677958347,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaBqk|r",
-		}, -- [23]
-		{
-			"LFM ICC 10 LK Run (GS-HC; wfs ress) need all 5,8+ /w me with gs class achiev", -- [1]
-			"Djcrouchpeek", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6232, -- [11]
-			"0x07000000003EBE32", -- [12]
-			0, -- [13]
-			[51] = 1677958348,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDjcrouchpeek|r",
-		}, -- [24]
-		{
-			"LFM |cffffff00|Hachievement:693:070000000067535C:1:2:21:23:0:0:0:0|h[Guarida de Magtheridon]|h|r (staff res)", -- [1]
-			"Formz", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6234, -- [11]
-			"0x070000000067535C", -- [12]
-			0, -- [13]
-			[51] = 1677958351,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aFormz|r",
-		}, -- [25]
-		{
-			"Na prodaju 54c, moze i uzivo /w", -- [1]
-			"Kevah", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6235, -- [11]
-			"0x070000000072F300", -- [12]
-			0, -- [13]
-			[51] = 1677958351,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaKevah|r",
-		}, -- [26]
-		{
-			"LFM ICC25N (BLOOD RES) 5.9+ NEED ALL", -- [1]
-			"Levov", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6236, -- [11]
-			"0x07000000008C6329", -- [12]
-			0, -- [13]
-			[51] = 1677958351,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Levov|r",
-		}, -- [27]
-		{
-			"WTS Bane boost 12/12hc full run with all of loots dm me for ressved your spot our raid time 11am/ 2pm Sever time |cffffff00|Hachievement:4583:0700000000060E84:1:10:11:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r", -- [1]
-			"Todaystar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6238, -- [11]
-			"0x0700000000060E84", -- [12]
-			0, -- [13]
-			[51] = 1677958353,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTodaystar|r",
-		}, -- [28]
-		{
-			"Looking for reliable players to join our guild and heroic raiding teams, raiding 12pm ST. Zero toxicity guild, weekly LoD, come and have some fun with us!Try to get LoD experience, 6.2k toons but if they are really nice we can take lower. Nobody below 5k ", -- [1]
-			"Valknaar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6239, -- [11]
-			"0x070000000086034C", -- [12]
-			0, -- [13]
-			[51] = 1677958354,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Valknaar|r",
-		}, -- [29]
-		{
-			"LFM ICC10 12/12HC solo tank solo heal fresh bane run!! Need ret or hunter (big PP only) /w me GS/Spec/Achiev. Must have 6k+ GS + time + discord (no need to talk but more fun if you do). grp loot", -- [1]
-			"Deandsonia", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6241, -- [11]
-			"0x070000000065062D", -- [12]
-			0, -- [13]
-			[51] = 1677958356,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDeandsonia|r",
-		}, -- [30]
-		{
-			"WTB DK ON SFS QUEST WITH RS SET (MUST HAVE GOOD MOUNTS AND EOF + MARKS) PM ME WITH NAME !!!", -- [1]
-			"Oldisgold", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6243, -- [11]
-			"0x07000000003C2F72", -- [12]
-			0, -- [13]
-			[51] = 1677958358,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Oldisgold|r",
-		}, -- [31]
-		{
-			"CRYPTEA (H/A) vs ICC25H + RS25H- Boomkin PoV (10.000 golds GIVEAWAY, join the stream and participate <3) https://www.twitch.tv/finalarguments", -- [1]
-			"Include", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6244, -- [11]
-			"0x0700000000006F55", -- [12]
-			0, -- [13]
-			[51] = 1677958359,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Include|r",
-		}, -- [32]
-		{
-			"Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:070000000063B8B2:1:5:26:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Fistotank", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6246, -- [11]
-			"0x070000000063B8B2", -- [12]
-			0, -- [13]
-			[51] = 1677958360,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Fistotank|r",
-		}, -- [33]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminstrator", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6247, -- [11]
-			"0x07000000008F236F", -- [12]
-			0, -- [13]
-			[51] = 1677958360,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminstrator|r",
-		}, -- [34]
-		{
-			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
-			"Titanhorns", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6249, -- [11]
-			"0x07000000002B1B48", -- [12]
-			0, -- [13]
-			[51] = 1677958363,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTitanhorns|r",
-		}, -- [35]
-		{
-			"< NOV > Bulgarski guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Hakerzz", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6250, -- [11]
-			"0x070000000017E687", -- [12]
-			0, -- [13]
-			[51] = 1677958364,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefHakerzz|r",
-		}, -- [36]
-		{
-			"WTS ORC DK, named Cholak via warmane trade. It has Shadowmourne, Penumbra HC, Apocalypse advance HC, STS HC and WF shoulders and Head. It has BiS pvp proffessions ( JC & BS 450). /w me if interested.", -- [1]
-			"Missclappy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6251, -- [11]
-			"0x07000000005D9DCD", -- [12]
-			0, -- [13]
-			[51] = 1677958366,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMissclappy|r",
-		}, -- [37]
-		{
-			"TOG10 MOUNT RUN NEED DK TANK/ FWAR 6k2+ |cffffff00|Hachievement:3810:070000000085A274:1:12:31:22:4294967295:4294967295:4294967295:4294967295|h[Un tributo a la locura (10 j.)]|h|r", -- [1]
-			"Whizzed", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6252, -- [11]
-			"0x070000000085A274", -- [12]
-			0, -- [13]
-			[51] = 1677958368,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefWhizzed|r",
-		}, -- [38]
-		{
-			"WTS on ICECROWN> Human female warr named<Pamority> with 27533gold,63EOF, 11eot,2138arena points,30k honor -AND- Human female rog named<Verile> with 27608gold, 103EOF,20EOT,31k honor on Warmane trade! 30c each ", -- [1]
-			"Mokrontar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6253, -- [11]
-			"0x07000000007E1A9C", -- [12]
-			0, -- [13]
-			[51] = 1677958372,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Mokrontar|r",
-		}, -- [39]
-		{
-			" https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM (All Subscribers are invited to a \"SUBS\" Bane Run where you can join with any gs character you want.", -- [1]
-			"Ritaora", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6254, -- [11]
-			"0x07000000005A378A", -- [12]
-			0, -- [13]
-			[51] = 1677958374,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaRitaora|r",
-		}, -- [40]
-		{
-			"LFM ICC 25 NM RUN NEED ALL // 5.7 GS + [Heroic: Fall of the Lich King (25 player)] (BOE, PRIMOS, SFS RESS) // W ARCHIVE", -- [1]
-			"Uxia", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6255, -- [11]
-			"0x0700000000632FAD", -- [12]
-			0, -- [13]
-			[51] = 1677958376,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaUxia|r",
-		}, -- [41]
+		}, -- [7]
 		{
 			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
 			"Smellfarts", -- [2]
@@ -772,16 +160,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6256, -- [11]
+			3977, -- [11]
 			"0x0700000000849B71", -- [12]
 			0, -- [13]
-			[51] = 1677958379,
+			[51] = 1678548612,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cffff7c0aSmellfarts|r",
-		}, -- [42]
+		}, -- [8]
 		{
-			" |cffffff00|Hachievement:1872:0700000000746C4C:0:0:0:-1:0:0:0:0|h[¡Fiesta de zombis!]|h|r LFM!!!", -- [1]
-			"Munttorah", -- [2]
+			"<SayNoToTryhard> English speaking guild is looking for new members to progress in ICC 25HC, currenlty doing ICC 25 12/12HC + 8/12HC + 25N /Ulduar25 / Multiple RS 25N / TOC 25 . Raids are at svt 18:00, using DKP system With any question feel free", -- [1]
+			"Jinxo", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -790,16 +178,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6257, -- [11]
-			"0x0700000000746C4C", -- [12]
+			3978, -- [11]
+			"0x07000000003BE35A", -- [12]
 			0, -- [13]
-			[51] = 1677958380,
+			[51] = 1678548612,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aMunttorah|r",
-		}, -- [43]
+			[52] = "|cff0070ddJinxo|r",
+		}, -- [9]
 		{
-			"ICC 10N CHILL EOF RUN /W ME 5,5 GS+ NOTHING RESS ", -- [1]
-			"Snittch", -- [2]
+			"Nov Bulgarski Guild <The Unforgiiven> Nabira aktivni igrachi za svoite raidove ICC10/25 TOC 25 RS 25. Iziskva se Poznaniq i Discord. Izpolzvame DKP system.Guilda e chill mqsto i vseki e dobre doshul.", -- [1]
+			"Ihavenosoul", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -808,16 +196,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6261, -- [11]
-			"0x07000000008D0F42", -- [12]
+			3979, -- [11]
+			"0x0700000000392B3D", -- [12]
 			0, -- [13]
-			[51] = 1677958383,
+			[51] = 1678548612,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dSnittch|r",
-		}, -- [44]
+			[52] = "|cffff7c0aIhavenosoul|r",
+		}, -- [10]
 		{
-			"WTB |cff1eff00|Hitem:36923:0:0:0:0:0:0:0:80|h[Calcedonia]|h|r", -- [1]
-			"Violatorr", -- [2]
+			"WTS DK name Bolestt and Xypper - 66 and 103 coins. On trade already", -- [1]
+			"Xbz", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -826,34 +214,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6263, -- [11]
-			"0x0700000000440A5D", -- [12]
+			3980, -- [11]
+			"0x070000000089C4D5", -- [12]
 			0, -- [13]
-			[51] = 1677958384,
+			[51] = 1678548614,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dViolatorr|r",
-		}, -- [45]
+			[52] = "|cfff48cbaXbz|r",
+		}, -- [11]
 		{
-			"WTB ALL YOUR CARDINAL RUBIES 220 Each C.O.D Me", -- [1]
-			"Zroubaa", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6264, -- [11]
-			"0x07000000007C7AF4", -- [12]
-			0, -- [13]
-			[51] = 1677958385,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffZroubaa|r",
-		}, -- [46]
-		{
-			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
-			"Swishtime", -- [2]
+			"WTS |cffffff00|Hachievement:4583:07000000006736BC:1:4:5:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r ICC10 HC (Full Run) --BOOST RUN-- with all items for golds. DM for more info!", -- [1]
+			"Ancienty", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -862,16 +232,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6265, -- [11]
-			"0x07000000008F1FB1", -- [12]
+			3981, -- [11]
+			"0x07000000001ACDA9", -- [12]
 			0, -- [13]
-			[51] = 1677958385,
+			[51] = 1678548614,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Swishtime|r",
-		}, -- [47]
+			[52] = "|cfff48cbaAncienty|r",
+		}, -- [12]
 		{
-			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
-			"Kilbore", -- [2]
+			"LFM |cffffff00|Hachievement:4583:070000000089798C:1:2:6:23:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r ICC10N/HC fast LK run need 2 tanks, 2 healers, 3 mdps, 3 rdps 6.3k gs + fast run", -- [1]
+			"Oldguard", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -880,16 +250,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6267, -- [11]
-			"0x07000000000116A0", -- [12]
+			3982, -- [11]
+			"0x07000000004A3560", -- [12]
 			0, -- [13]
-			[51] = 1677958385,
+			[51] = 1678548614,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aKilbore|r",
-		}, -- [48]
+			[52] = "|cffc41e3aOldguard|r",
+		}, -- [13]
 		{
-			"Rs 25 Wis Me Need Gs +6.. Achiv Link = Invit Noting Ress Need ... 1xRsahmy 24/25 ", -- [1]
-			"Milade", -- [2]
+			"LFM ICC25 NM NEED HEALS 5.6KGS (P+B+TOSSK'S) WHSIP ME ACHIV/CLASS AND INSPECT @MEMO!!!", -- [1]
+			"Asseth", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -898,16 +268,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6268, -- [11]
-			"0x070000000068A81F", -- [12]
+			3983, -- [11]
+			"0x07000000006692E0", -- [12]
 			0, -- [13]
-			[51] = 1677958386,
+			[51] = 1678548615,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMilade|r",
-		}, -- [49]
+			[52] = "|cffc69b6dAsseth|r",
+		}, -- [14]
 		{
-			"ICC25 8/12 HC LF HUNTER RSHAM PPAL 22/25 <BP DBW RES / SFS FREE!> 6.2K+ INSPECT MEMO! HAVE TIME+ACHI! ", -- [1]
-			"Wtfx", -- [2]
+			"< Demonic Empire > End Game English Speaking Guild.Doing 12x LOD [ 0 % Buff Solo Tank 2 Heal / Solo Tank Solo Heal & 0% Buff Full ICc 25 HC Clear ] &14x RS 25 HC / Ulduar & immortality & immortal.RT=7 PM.Apply@ https://demonic-empire.shivtr.com", -- [1]
+			"Frostmourn", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -916,16 +286,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6270, -- [11]
-			"0x07000000008783D4", -- [12]
+			3984, -- [11]
+			"0x07000000008F236C", -- [12]
 			0, -- [13]
-			[51] = 1677958388,
+			[51] = 1678548616,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dWtfx|r",
-		}, -- [50]
+			[52] = "|cfff48cbaFrostmourn|r",
+		}, -- [15]
 		{
-			"<The Old Crew> traži nove clanove za raidove. Radimo 3x ICC 25 (8/12 hc), 5x RS 25 i 3x ICC 10 tjedno. Koristimo Discord i DKP sistem. Vrijeme raidova je 20:00. Minimalni GS za ulazak u guild je 5.8k. Za vise informacija /w.", -- [1]
-			"Posthar", -- [2]
+			"WTS Troll Rogue Name: Jezart Tailor/Engi - Dual Talent - 300 Mount - 7 Boe----> 30 Coin!!", -- [1]
+			"Lunairl", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -934,71 +304,17 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6271, -- [11]
-			"0x070000000056FF7B", -- [12]
+			3985, -- [11]
+			"0x07000000008F4337", -- [12]
 			0, -- [13]
-			[51] = 1677958388,
+			[51] = 1678548616,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Posthar|r",
-		}, -- [51]
+			[52] = "|cff68ccefLunairl|r",
+		}, -- [16]
 		{
-			"wtb |cffffffff|Hitem:46376:0:0:0:0:0:0:0:80|h[Frasco de la Vermis de Escarcha]|h|r 10stacks for 20k ", -- [1]
-			"Ul", -- [2]
+			"国人新人互助交流公会 M \"666\" 入会", -- [1]
+			"Zhuanyesima", -- [2]
 			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6273, -- [11]
-			"0x0700000000178056", -- [12]
-			0, -- [13]
-			[51] = 1677958389,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaUl|r",
-		}, -- [52]
-		{
-			"WTS BIS UH DKs (non SM), you pick the items min 66 coins", -- [1]
-			"Xploze", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6275, -- [11]
-			"0x07000000005F0590", -- [12]
-			0, -- [13]
-			[51] = 1677958391,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Xploze|r",
-		}, -- [53]
-		{
-			"DICK +++ Face of Orgrimmar (pvp guild) +++ recruits ambitious 6k+ GS players who consider themselves as experts in at least one of following fields: +combat+, +medic+, +johnny sins activities+ (no gay/trans allowed, we do accept lesbians)", -- [1]
-			"Zetarion", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6277, -- [11]
-			"0x07000000007664BF", -- [12]
-			0, -- [13]
-			[51] = 1677958392,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aZetarion|r",
-		}, -- [54]
-		{
-			"Ruptture tira un beso a Palakhaan.", -- [1]
-			"Ruptture", -- [2]
-			"", -- [3]
 			"", -- [4]
 			"", -- [5]
 			"", -- [6]
@@ -1006,16 +322,700 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			0, -- [11]
-			"0x07000000008F0C74", -- [12]
+			3986, -- [11]
+			"0x07000000008DEBCC", -- [12]
 			0, -- [13]
-			[51] = 1677958393,
-			[50] = "CHAT_MSG_TEXT_EMOTE",
-			[52] = "|cfff48cbaRuptture|r",
+			[51] = 1678548617,
+			[50] = "CHAT_MSG_YELL",
+			[52] = "|cff0070ddZhuanyesima|r",
+		}, -- [17]
+		{
+			"Need Dps(With OS heal for vdw) for Icc10(+9HC) min 6.0k /w gs spec achi |cffffff00|Hachievement:4532:0700000000012565:1:1:30:23:4294967295:4294967295:4294967295:4294967295|h[La caída del Rey Exánime (10 j.)]|h|r 9/10 (Nothing Res) @Vdw", -- [1]
+			"Elfmagician", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			3987, -- [11]
+			"0x0700000000012565", -- [12]
+			0, -- [13]
+			[51] = 1678548617,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefElfmagician|r",
+		}, -- [18]
+		{
+			"LFM ICC 10 N/H - Need, 1 Healer (rshaman), 1 Ranged (hunt) - EOF RUN REQ 5.6K++ < BOE+PRIMO+WFS RESS> /w GS + ach or ignore (8/10)", -- [1]
+			"Vifs", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			3988, -- [11]
+			"0x07000000008CE5DE", -- [12]
+			0, -- [13]
+			[51] = 1678548617,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aVifs|r",
+		}, -- [19]
+		{
+			"The Red Devils are recruiting. Raid time 7PM ST, Monday ICC25 10/12 HC, Thursday RS25nm/ICC Alt run, Saturday Ulduar 10 Glory .6k+ GS + Discord. More info and application form on https://reddevils.gq/join.html", -- [1]
+			"Deadlyrogue", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			3989, -- [11]
+			"0x07000000006555FF", -- [12]
+			0, -- [13]
+			[51] = 1678548618,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Deadlyrogue|r",
+		}, -- [20]
+		{
+			"WTS |cffffffff|Hitem:44501:0:0:0:0:0:0:0:19|h[Pistón de Mecánica Goblin]|h|r 700g each", -- [1]
+			"Gemseller", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			3993, -- [11]
+			"0x070000000089166C", -- [12]
+			0, -- [13]
+			[51] = 1678548619,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Gemseller|r",
+		}, -- [21]
+		{
+			"LFM RS 25 RHSAM RDUDU AND DPS 5.8 GS. CTS RESS CTS RESS!!!!WHISHPER ACH", -- [1]
+			"Popepi", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			3994, -- [11]
+			"0x07000000008EECC8", -- [12]
+			0, -- [13]
+			[51] = 1678548620,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefPopepi|r",
+		}, -- [22]
+		{
+			"LFM Need 1SP OR 1 LOCK <ICC 10 HC Quarter Hc Only> W/Me Gs:6.3k+ Class + spec |cffffff00|Hachievement:4637:070000000089CC1D:1:3:4:23:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Caída del Rey Exánime (25 j.)]|h|r", -- [1]
+			"Bobbybicepz", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			3995, -- [11]
+			"0x070000000089CC1D", -- [12]
+			0, -- [13]
+			[51] = 1678548622,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Bobbybicepz|r",
+		}, -- [23]
+		{
+			"< Demonic Empire > End Game English Speaking Guild.Doing 12x LOD [ 0 % Buff Solo Tank 2 Heal / Solo Tank Solo Heal & 0% Buff Full ICc 25 HC Clear ] &14x RS 25 HC / Ulduar & immortality & immortal.RT=7 PM.Apply@ https://demonic-empire.shivtr.com", -- [1]
+			"Adminx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			3996, -- [11]
+			"0x07000000007F923D", -- [12]
+			0, -- [13]
+			[51] = 1678548622,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffAdminx|r",
+		}, -- [24]
+		{
+			"WTS Troll Rogue Name: Jezart Tailor/Engi - Dual Talent - 300 Mount - 7 Boe----> 30 Coin!!", -- [1]
+			"Wynoom", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			3997, -- [11]
+			"0x070000000074F460", -- [12]
+			0, -- [13]
+			[51] = 1678548623,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aWynoom|r",
+		}, -- [25]
+		{
+			"ICC25 8/12HC SFS FREE NEED CAT RDPS HEAL +6.2 MUST HAVE DISCORD+TIME |cffffff00|Hachievement:4637:070000000080579B:1:7:30:22:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Caída del Rey Exánime (25 j.)]|h|r", -- [1]
+			"Drokii", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			3998, -- [11]
+			"0x070000000080579B", -- [12]
+			0, -- [13]
+			[51] = 1678548623,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaDrokii|r",
+		}, -- [26]
+		{
+			"r/w Alfastar GBOK // Papelaria GBOM // Biedese GBOW", -- [1]
+			"Soulios", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			3999, -- [11]
+			"0x07000000008C9600", -- [12]
+			0, -- [13]
+			[51] = 1678548623,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aSoulios|r",
+		}, -- [27]
+		{
+			"B PycckyI0 PVE Guild \"Exclusive Wars\" u9eT HA6OP BCEX K/\\ACCOB! nporpecc ICC 25 XM 12/12, ICC 10 XM 12/12, RS 25 XM 4/4, RS 25 O6 4/4 TOKr 25 XM 50/50 min GS 5.0+ ! B PycckyI0 PVE Guild \"Exclusive Wars\" u9eT HA6OP BCEX K/\\ACCOB! ", -- [1]
+			"Parsifal", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4000, -- [11]
+			"0x070000000028B29F", -- [12]
+			0, -- [13]
+			[51] = 1678548624,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aParsifal|r",
+		}, -- [28]
+		{
+			"< Demonic Empire > End Game English Speaking Guild.Doing 12x LOD [ 0 % Buff Solo Tank 2 Heal / Solo Tank Solo Heal & 0% Buff Full ICc 25 HC Clear ] &14x RS 25 HC / Ulduar & immortality & immortal.RT=7 PM.Apply@ https://demonic-empire.shivtr.com", -- [1]
+			"Kbk", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4002, -- [11]
+			"0x070000000021BACA", -- [12]
+			0, -- [13]
+			[51] = 1678548626,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aKbk|r",
+		}, -- [29]
+		{
+			"tank healer rdf lvl 22", -- [1]
+			"Selfmade", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4003, -- [11]
+			"0x07000000008F93E2", -- [12]
+			0, -- [13]
+			[51] = 1678548627,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dSelfmade|r",
+		}, -- [30]
+		{
+			"Wtb im need have meta |cffa335ee|Hitem:40152:0:0:0:0:0:0:0:80|h[Ametrino Pujante]|h|r", -- [1]
+			"Stevefox", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4004, -- [11]
+			"0x070000000062F149", -- [12]
+			0, -- [13]
+			[51] = 1678548629,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aStevefox|r",
+		}, -- [31]
+		{
+			"< Demonic Empire > End Game English Speaking Guild.Doing 12x LOD [ 0 % Buff Solo Tank 2 Heal / Solo Tank Solo Heal & 0% Buff Full ICc 25 HC Clear ] &14x RS 25 HC / Ulduar & immortality & immortal.RT=7 PM.Apply@ https://demonic-empire.shivtr.com", -- [1]
+			"Steevenqt", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4006, -- [11]
+			"0x07000000007EA76D", -- [12]
+			0, -- [13]
+			[51] = 1678548629,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070ddSteevenqt|r",
+		}, -- [32]
+		{
+			"<Fanatic> Endgame guild looking for hardcore players to farm LOD and RS 25HC. Req to join 6.3+ 3 alt. RT 17 pm ST Using DKP+DISCORD. Currently farming 12xLod 12xrs 4xTogc 50/50 Perweek", -- [1]
+			"Truecleave", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4007, -- [11]
+			"0x07000000006F1FDE", -- [12]
+			0, -- [13]
+			[51] = 1678548630,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dTruecleave|r",
+		}, -- [33]
+		{
+			"ICC 25 8/12 HC 6.2 gs+ Need Rsham and Rogue/ SP/ Boomie/ Mage (B+P+SFS Ress) |cffffff00|Hachievement:4608:07000000004E434C:1:12:13:20:4294967295:4294967295:4294967295:4294967295|h[La caída del Rey Exánime (25 j.)]|h|r", -- [1]
+			"Jebute", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4009, -- [11]
+			"0x07000000004E434C", -- [12]
+			0, -- [13]
+			[51] = 1678548632,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aJebute|r",
+		}, -- [34]
+		{
+			"LFM ICC10N /hc 8/12 LK run need 2 tanks, 2 healers, 3 mdps, 3 rdps 6.2 k gs +", -- [1]
+			"Assasini", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4010, -- [11]
+			"0x070000000056B993", -- [12]
+			0, -- [13]
+			[51] = 1678548633,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Assasini|r",
+		}, -- [35]
+		{
+			"HOR need heal ,last boss", -- [1]
+			"Chevin", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4012, -- [11]
+			"0x07000000008F3049", -- [12]
+			0, -- [13]
+			[51] = 1678548635,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Chevin|r",
+		}, -- [36]
+		{
+			"Fresh ICC 25 8/12HC #2 Need 1 Rsham 1 bomi or shadow 6k2+/w me ach for inv (b/p_sfs res) ", -- [1]
+			"Deadliste", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4013, -- [11]
+			"0x0700000000628471", -- [12]
+			0, -- [13]
+			[51] = 1678548637,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff9382c9Deadliste|r",
+		}, -- [37]
+		{
+			"--LFM ICC 10 EOF// NEED 1HUNTER 1HEAL// (achiv+time for invi) 5.7k+ boe+p. ress----LFM ICC 10 EOF// NEED 1HUNTER 1HEAL// (achiv+time for invi) 5.7k+ boe+p. ress----LFM ICC 10 EOF// NEED 1HUNTER 1HEAL// (achiv+time for invi) 5.7k+ boe+p. ress----LFM ", -- [1]
+			"Browpal", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4014, -- [11]
+			"0x070000000077B5C7", -- [12]
+			0, -- [13]
+			[51] = 1678548639,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaBrowpal|r",
+		}, -- [38]
+		{
+			"WTS Bane boost with all of loots dm me for your spot |cffffff00|Hachievement:4583:070000000089798C:1:2:6:23:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r", -- [1]
+			"Onedaystar", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4015, -- [11]
+			"0x070000000089798C", -- [12]
+			0, -- [13]
+			[51] = 1678548642,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffOnedaystar|r",
+		}, -- [39]
+		{
+			"< Demonic Empire > End Game English Speaking Guild.Doing 12x LOD [ 0 % Buff Solo Tank 2 Heal / Solo Tank Solo Heal & 0% Buff Full ICc 25 HC Clear ] &14x RS 25 HC / Ulduar & immortality & immortal.RT=7 PM.Apply@ https://demonic-empire.shivtr.com", -- [1]
+			"Admindisc", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4016, -- [11]
+			"0x070000000080B9E1", -- [12]
+			0, -- [13]
+			[51] = 1678548643,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffAdmindisc|r",
+		}, -- [40]
+		{
+			"<The Old Crew> trazi nove AKTIVNE clanove za raidove. Radimo ICC 25 8/12 HC, RS 25 NM, ICC10 NM i HC. Koristimo Discord i DKP sistem. Vrijeme raidova je 20:00. Minimalni GS za ulazak u guild je 5.8k. Za vise informacija /w.", -- [1]
+			"Bubletrouble", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4017, -- [11]
+			"0x0700000000000492", -- [12]
+			0, -- [13]
+			[51] = 1678548645,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaBubletrouble|r",
+		}, -- [41]
+		{
+			"LFM VOA 10 class run F+F /w me gs spec need 1x heaů druid and dps warr,rogue,hunt", -- [1]
+			"Zivotjehorky", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4019, -- [11]
+			"0x07000000008F1012", -- [12]
+			0, -- [13]
+			[51] = 1678548646,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070ddZivotjehorky|r",
+		}, -- [42]
+		{
+			"WTB ALL YOUR |cffffffff|Hitem:36905:0:0:0:0:0:0:0:80|h[Flor Exánime]|h|r- 750g/stack |||| |cffffffff|Hitem:36903:0:0:0:0:0:0:0:80|h[Lengua de Víboris]|h|r -850g/stack ||||/w me or C.O.D <3", -- [1]
+			"Retrydemon", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4021, -- [11]
+			"0x07000000008F7D58", -- [12]
+			0, -- [13]
+			[51] = 1678548649,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaRetrydemon|r",
+		}, -- [43]
+		{
+			"LFM VOA 25 - Need, 1 Tank, 1 Healer (No disco), 2 Melee, 5 Ranged - Fire and Frost (16/25)", -- [1]
+			"Keratoukos", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4022, -- [11]
+			"0x0700000000711B97", -- [12]
+			0, -- [13]
+			[51] = 1678548651,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aKeratoukos|r",
+		}, -- [44]
+		{
+			"LFM VOA 10 CLASS RUN ONLY FROST NEED DPS /w.me", -- [1]
+			"Beranis", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			4023, -- [11]
+			"0x07000000007428D0", -- [12]
+			0, -- [13]
+			[51] = 1678548652,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Beranis|r",
+		}, -- [45]
+		{
+			"LFM ICC25 GRun - Need, 3 Healer (Disco/Rdudu/Random), 2 Melee (Ret/Fury), 6 Ranged (Lock/Boomie/Mage/SP/Hunter) - 5.8k min GS+ Link best achievment//BoE+Primo+SFS ress (14/25)", -- [1]
+			"Garidapriest", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			8, -- [11]
+			"0x0700000000626062", -- [12]
+			0, -- [13]
+			[51] = 1678562030,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffGaridapriest|r",
+		}, -- [46]
+		{
+			"RS 25 Nm Need 1 tank 1 (hplay-rdudu) and dps 6k+ [The Twilight Destroyer (25 player)] ", -- [1]
+			"Meryouma", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			9, -- [11]
+			"0x07000000005ACD67", -- [12]
+			0, -- [13]
+			[51] = 1678562034,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefMeryouma|r",
+		}, -- [47]
+		{
+			"RS 25 NM >< Need 1 Tank 2 heal 3 dps 6k+/w me ach for inv |cffffff00|Hachievement:4815:07000000006283D7:1:12:22:22:4294967295:4294967295:4294967295:4294967295|h[El Destructor del Crepúsculo (25 j.)]|h|r", -- [1]
+			"Sathathin", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			10, -- [11]
+			"0x07000000006283D7", -- [12]
+			0, -- [13]
+			[51] = 1678562034,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aSathathin|r",
+		}, -- [48]
+		{
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST |cffffff00|Hachievement:4584:07000000000820D4:1:1:29:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Cllaymore", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			11, -- [11]
+			"0x07000000000820D4", -- [12]
+			0, -- [13]
+			[51] = 1678562035,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dCllaymore|r",
+		}, -- [49]
+		{
+			"LFM [Zul'Aman] Need All /w gs+spect ", -- [1]
+			"Ferdino", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			12, -- [11]
+			"0x07000000006EE7B8", -- [12]
+			0, -- [13]
+			[51] = 1678562035,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Ferdino|r",
+		}, -- [50]
+		{
+			"WTS |cffffff00|Hachievement:4583:07000000006736BC:1:4:5:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r ICC10 HC (Full Run) --BOOST RUN-- with all items for golds. DM for more info!", -- [1]
+			"Ancienty", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			13, -- [11]
+			"0x07000000001ACDA9", -- [12]
+			0, -- [13]
+			[51] = 1678562035,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaAncienty|r",
+		}, -- [51]
+		{
+			"WTS HUMAN PRIEST 7 BoE´s 280% FLYING DUAL TALENTS 450 ENGINEERING 30 COINS!!", -- [1]
+			"Jynrokh", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			14, -- [11]
+			"0x07000000008EA279", -- [12]
+			0, -- [13]
+			[51] = 1678562037,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Jynrokh|r",
+		}, -- [52]
+		{
+			"NEED TANK FOS POS NM RUN", -- [1]
+			"Cummin", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			15, -- [11]
+			"0x07000000008F0EEB", -- [12]
+			0, -- [13]
+			[51] = 1678562040,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffCummin|r",
+		}, -- [53]
+		{
+			"Balkanski PvE Gild <<Klinika>> Trazi igrace za aktivno raidanje GPROG: icc10n/hc 12/12,icc25HC 12/12,RS 10/25 4/4!Koristi se DISKORD+DKP!Minimalni gs je 6k,poznavanje svoje klase i taktika!Prvensteveno dobra zabava i atmosfera:)Za vise info/w me", -- [1]
+			"Snoplu", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			16, -- [11]
+			"0x070000000015194F", -- [12]
+			0, -- [13]
+			[51] = 1678562041,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Snoplu|r",
+		}, -- [54]
+		{
+			"Balkanski PvE Guild <Klinika> trazi clanove za aktivan progres, trenutni prog je ICC10nm 12/12 ICC10hc 12/12, ICC25hc 12/12, RS10/25 4/4. GS req 5,8 Koristi se Diskord + DKP! Za vise informacija Whisper", -- [1]
+			"Kurvaarr", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			17, -- [11]
+			"0x070000000060EDD0", -- [12]
+			0, -- [13]
+			[51] = 1678562041,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aKurvaarr|r",
 		}, -- [55]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowmourn", -- [2]
+			"Russian NEW GUILD <LOCK OUT> Nabiraem ludey 1-80 lvl // sistema /ROLL . Sobiraem adecvatnuy colectiv dlya osvoenia VSEGO contenta LK, budem radu vsem!", -- [1]
+			"Soulldem", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1024,16 +1024,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6279, -- [11]
-			"0x07000000008191C6", -- [12]
+			18, -- [11]
+			"0x07000000008EFDA5", -- [12]
 			0, -- [13]
-			[51] = 1677958393,
+			[51] = 1678562043,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowmourn|r",
+			[52] = "|cffaad372Soulldem|r",
 		}, -- [56]
 		{
-			"LFM POS NM /W GS AND SPEC LAST SPOT: TANK", -- [1]
-			"Batushko", -- [2]
+			"WTS Rog undead 14 boe (4255 GS=instant RHC) 2 full prof LW+Tailor 280% name : Nevermor 30 coin ", -- [1]
+			"Nevermor", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1042,16 +1042,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6281, -- [11]
-			"0x07000000007F461A", -- [12]
+			19, -- [11]
+			"0x07000000008E2AA4", -- [12]
 			0, -- [13]
-			[51] = 1677958395,
+			[51] = 1678562043,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Batushko|r",
+			[52] = "|cfffff468Nevermor|r",
 		}, -- [57]
 		{
-			"BANE RUN NEED 2 TANKS (B+P=RES) /W ME |cffffff00|Hachievement:4584:0700000000105EDB:1:3:9:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Drunkpotato", -- [2]
+			"<Disappointed> Is looking for competent raiders to fill our roster and are able to clear LoD! Required: 6k + Char and class knowledge || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
+			"Holylone", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1060,34 +1060,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6282, -- [11]
-			"0x0700000000105EDB", -- [12]
+			21, -- [11]
+			"0x07000000005B34C6", -- [12]
 			0, -- [13]
-			[51] = 1677958399,
+			[51] = 1678562045,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDrunkpotato|r",
+			[52] = "|cffffffffHolylone|r",
 		}, -- [58]
 		{
-			"LF Enchanter", -- [1]
-			"Samurog", -- [2]
+			"<Fanatic> Endgame guild looking for hardcore players to farm LOD and RS 25HC. Req to join 6.3+ 3 alt. RT 17 pm ST Using DKP+DISCORD. Currently farming 10xLod 10xrs 2xTogc 50/50 Perweek", -- [1]
+			"Truecleave", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"", -- [6]
+			"AFK", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6283, -- [11]
-			"0x07000000008C30C9", -- [12]
+			22, -- [11]
+			"0x07000000006F1FDE", -- [12]
 			0, -- [13]
-			[51] = 1677958402,
+			[51] = 1678562047,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Samurog|r",
+			[52] = "|cffc69b6dTruecleave|r",
 		}, -- [59]
 		{
-			"<Invadersx> is an end game guild recruiting heroic experienced raiders with 6.3k+ gs for LoD/RS/ToGC. Raid time 17:45PM ST. Send your chars at https://discord.gg/TFe3QCJsdK", -- [1]
-			"Invadersx", -- [2]
+			"Guild Irani < Freaky Guys > Progress: 1x LOD + 5x ICC 25 8/12 HC + 8x RS 25 + ToGc 25 Player ACtive +6.3 Baraye Ezafe Kardan Raid haye Hc Mipazirad w/me For Info", -- [1]
+			"Justwarlock", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1096,16 +1096,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6284, -- [11]
-			"0x07000000008CF512", -- [12]
+			23, -- [11]
+			"0x07000000007B8581", -- [12]
 			0, -- [13]
-			[51] = 1677958402,
+			[51] = 1678562048,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dInvadersx|r",
+			[52] = "|cff9382c9Justwarlock|r",
 		}, -- [60]
 		{
-			"BIS BM hunt and enhance shamy looking for skilled healer for 3v3 rushing to 2k", -- [1]
-			"Hunterftw", -- [2]
+			"< Demonic Empire > End Game English Speaking Guild.Doing 12x LOD [ 0 % Buff Solo Tank 2 Heal / Solo Tank Solo Heal & 0% Buff Full ICc 25 HC Clear ] &14x RS 25 HC / Ulduar & immortality & immortal.RT=7 PM.Apply@ https://demonic-empire.shivtr.com", -- [1]
+			"Shamanresto", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1114,34 +1114,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6285, -- [11]
-			"0x07000000006BF676", -- [12]
+			24, -- [11]
+			"0x07000000004AA762", -- [12]
 			0, -- [13]
-			[51] = 1677958403,
+			[51] = 1678562049,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Hunterftw|r",
+			[52] = "|cff0070ddShamanresto|r",
 		}, -- [61]
 		{
-			"<The Red Devils> are recruiting 6k+. We are currently progressing 10/12 ICC25hc.mainly need DP+other heals We raid on mondays(ICC25hc 10/12) and thursdays(icc25 8/12) 6PM. Fill in the application: [https://reddevils.gq/] fresh dkp system!", -- [1]
-			"Brutface", -- [2]
+			"{estrella} Wipe and Furious {estrella} Recluta gente para sus raids . Se arman ICC10, ICC25 Y SR25 {cuadrado} {diamante} HORARIO DE RAIDEO 20:00ST. {cuadrado} {diamante}", -- [1]
+			"Germory", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"AFK", -- [6]
+			"", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6286, -- [11]
-			"0x070000000068DF99", -- [12]
+			25, -- [11]
+			"0x070000000034F5B6", -- [12]
 			0, -- [13]
-			[51] = 1677958404,
+			[51] = 1678562050,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBrutface|r",
+			[52] = "|cfff48cbaGermory|r",
 		}, -- [62]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminprot", -- [2]
+			"WTS Warlock[name:Darkslash] for 48 coins Lowest Price possible! [BiS WEP + Full BoE`s] + [ENGI + JC] + [280% Fly] via Warmane Store ", -- [1]
+			"Randomnuub", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1150,16 +1150,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6287, -- [11]
-			"0x07000000008F2372", -- [12]
+			26, -- [11]
+			"0x07000000002A4558", -- [12]
 			0, -- [13]
-			[51] = 1677958405,
+			[51] = 1678562051,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminprot|r",
+			[52] = "|cffaad372Randomnuub|r",
 		}, -- [63]
 		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wexpsy", -- [2]
+			"Need Rdps and Heal Icc 25n 5.6k gs w/me inv B+P+DBW RES LK RUN [The Frostwing Halls (25 player)]", -- [1]
+			"Warriorgopal", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1168,16 +1168,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6288, -- [11]
-			"0x070000000063557D", -- [12]
+			27, -- [11]
+			"0x07000000007E7F65", -- [12]
 			0, -- [13]
-			[51] = 1677958410,
+			[51] = 1678562051,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffWexpsy|r",
+			[52] = "|cffc69b6dWarriorgopal|r",
 		}, -- [64]
 		{
-			"Na prodaju 54c, moze i uzivo /w", -- [1]
-			"Kevah", -- [2]
+			"COIN SCAMMERS ALERT! ------------- BEWARE of lvl 19-24 selling CHEAP COINS, they have HTML edited proofs to temporarily change coin value from 0 to 1000 COINS and he cant even show LIVE SCREENSHARE in DC. ", -- [1]
+			"Ilvwlwvliwvv", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1186,34 +1186,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6289, -- [11]
-			"0x070000000072F300", -- [12]
+			29, -- [11]
+			"0x07000000008C4842", -- [12]
 			0, -- [13]
-			[51] = 1677958411,
+			[51] = 1678562054,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaKevah|r",
+			[52] = "|cffc41e3aIlvwlwvliwvv|r",
 		}, -- [65]
 		{
-			"LF Hpala for 3v3 !", -- [1]
-			"Hexorcist", -- [2]
+			"WTS |cffffffff|Hitem:44501:0:0:0:0:0:0:0:19|h[Pistón de Mecánica Goblin]|h|r 700g each", -- [1]
+			"Gemseller", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"", -- [6]
+			"AFK", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6290, -- [11]
-			"0x070000000046329F", -- [12]
+			30, -- [11]
+			"0x070000000089166C", -- [12]
 			0, -- [13]
-			[51] = 1677958412,
+			[51] = 1678562057,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff0070ddHexorcist|r",
+			[52] = "|cffaad372Gemseller|r",
 		}, -- [66]
 		{
-			"WTB |cffffffff|Hitem:36905:0:0:0:0:0:0:0:80|h[Flor Exánime]|h|r - 700g/stack, |cffffffff|Hitem:36903:0:0:0:0:0:0:0:80|h[Lengua de Víboris]|h|r -800g/stack - C.O.D me!", -- [1]
-			"Owlgore", -- [2]
+			"TOC 25 Normal SCROLL Run. |cffffff00|Hachievement:3916:070000000068A90B:0:0:0:-1:0:0:0:0|h[La Llamada de la Cruzada (25 j.)]|h|r Only BoE Reserved. /w spec and gearscore. 5.5k+Need 1 DPS 24/25", -- [1]
+			"Izgori", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1222,16 +1222,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6291, -- [11]
-			"0x070000000047575D", -- [12]
+			31, -- [11]
+			"0x07000000006E4F58", -- [12]
 			0, -- [13]
-			[51] = 1677958412,
+			[51] = 1678562060,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aOwlgore|r",
+			[52] = "|cff68ccefIzgori|r",
 		}, -- [67]
 		{
-			"WTS Bane boost 12/12hc full run with all of loots dm me for ressved your spot our raid time 11am/ 2pm Sever time |cffffff00|Hachievement:4583:0700000000060E84:1:10:11:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r", -- [1]
-			"Todaystar", -- [2]
+			"LFM ICC 25 NM - Need, 2 Healer (Disco/Rdruid), 4 Melee ((No More Rogues)Retri/Fury/Feral), 5 Ranged (Lock/Boomie/Mage/Hunter) - 5.8GS+ BoE+Primos (sfs) ress Link Achivement gs spec (14/25)", -- [1]
+			"Brokenbad", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1240,16 +1240,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6292, -- [11]
-			"0x0700000000060E84", -- [12]
+			32, -- [11]
+			"0x07000000007663F7", -- [12]
 			0, -- [13]
-			[51] = 1677958413,
+			[51] = 1678562061,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTodaystar|r",
+			[52] = "|cff68ccefBrokenbad|r",
 		}, -- [68]
 		{
-			"WTB |cffa335ee|Hitem:49994:0:0:0:0:0:0:0:80|h[Brazales frágiles de la Dama]|h|r", -- [1]
-			"Maddjionicar", -- [2]
+			" |cffffff00|Hachievement:697:07000000007BB54C:1:8:1:22:0:0:0:0|h[El Templo Oscuro]|h|r Need 1 heal 1 Tank +2Dps --[Warglaive of Azzinoth]Ress--", -- [1]
+			"Suntoryo", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1258,16 +1258,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6293, -- [11]
-			"0x07000000008EF52F", -- [12]
+			33, -- [11]
+			"0x07000000007BB54C", -- [12]
 			0, -- [13]
-			[51] = 1677958413,
+			[51] = 1678562062,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefMaddjionicar|r",
+			[52] = "|cfffff468Suntoryo|r",
 		}, -- [69]
 		{
-			"[Longevity] Guild TGF-et hírdet, tapasztalt játékosoknak. Hetente több 10-es hc run, Icc25Hc 8/12 heti 3db és LoD progress raid. Heti minimum 3 db Rs25. DKP system. SFS gyüjtése jelenleg opció várólista van.", -- [1]
-			"Streetrats", -- [2]
+			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
+			"Smellfarts", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1276,16 +1276,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6294, -- [11]
-			"0x0700000000505499", -- [12]
+			35, -- [11]
+			"0x0700000000849B71", -- [12]
 			0, -- [13]
-			[51] = 1677958414,
+			[51] = 1678562064,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffStreetrats|r",
+			[52] = "|cffff7c0aSmellfarts|r",
 		}, -- [70]
 		{
-			"LF ENCHANTER ", -- [1]
-			"Tyreaal", -- [2]
+			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
+			"Kilbore", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1294,16 +1294,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6295, -- [11]
-			"0x07000000008D79CB", -- [12]
+			36, -- [11]
+			"0x07000000000116A0", -- [12]
 			0, -- [13]
-			[51] = 1677958414,
+			[51] = 1678562068,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaTyreaal|r",
+			[52] = "|cffff7c0aKilbore|r",
 		}, -- [71]
 		{
-			"Guildless, bored and capable? Say no more, join <Disappointed> Today! We're looking for competent people able to clear LoD! Required: class knowledge and 6k + Char || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
-			"Holylone", -- [2]
+			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
+			"Swishtime", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1312,16 +1312,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6296, -- [11]
-			"0x07000000005B34C6", -- [12]
+			37, -- [11]
+			"0x07000000008F1FB1", -- [12]
 			0, -- [13]
-			[51] = 1677958415,
+			[51] = 1678562070,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffHolylone|r",
+			[52] = "|cfffff468Swishtime|r",
 		}, -- [72]
 		{
-			"LFM Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:07000000005CD744:1:10:27:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Vaargoth", -- [2]
+			"Fresh Era PvP guild <<dont mess with us>> is currently recruiting experienced / geared players that are willing to WPVP / Premade and more. Requirements are 1800 arena rate or 40 k honor kills /w me for more info", -- [1]
+			"Muck", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1330,16 +1330,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6297, -- [11]
-			"0x07000000005CD744", -- [12]
+			38, -- [11]
+			"0x070000000013E227", -- [12]
 			0, -- [13]
-			[51] = 1677958416,
+			[51] = 1678562070,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefVaargoth|r",
+			[52] = "|cfff48cbaMuck|r",
 		}, -- [73]
 		{
-			"LFM ICC 10 LK Run (GS-HC; wfs ress) need all 5,8+ /w me with gs class achiev", -- [1]
-			"Djcrouchpeek", -- [2]
+			"LFM ICC 25 HC 6/12 hc need 1 dps 5.7k+ full gems enchants (boe sfs primos res) LAST SPOT 24/25|cffffff00|Hachievement:4584:0700000000837CFE:1:9:17:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Warlockxzc", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1348,16 +1348,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6298, -- [11]
-			"0x07000000003EBE32", -- [12]
+			39, -- [11]
+			"0x0700000000837CFE", -- [12]
 			0, -- [13]
-			[51] = 1677958418,
+			[51] = 1678562072,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDjcrouchpeek|r",
+			[52] = "|cffaad372Warlockxzc|r",
 		}, -- [74]
 		{
-			"WTB DK ON SFS QUEST WITH RS SET (MUST HAVE GOOD MOUNTS AND EOF + MARKS) PM ME WITH NAME !!!", -- [1]
-			"Oldisgold", -- [2]
+			"LFM icc25 - Need, 1 Melee (retri), 1 Ranged (boomi) - 5.5 gs guild run boe/shards/bloods res (23/25)", -- [1]
+			"Stormleet", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1366,34 +1366,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6299, -- [11]
-			"0x07000000003C2F72", -- [12]
+			40, -- [11]
+			"0x0700000000441BAF", -- [12]
 			0, -- [13]
-			[51] = 1677958418,
+			[51] = 1678562072,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Oldisgold|r",
+			[52] = "|cfff48cbaStormleet|r",
 		}, -- [75]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminstrator", -- [2]
+			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
+			"Bblackbaret", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"", -- [6]
+			"AFK", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6300, -- [11]
-			"0x07000000008F236F", -- [12]
+			41, -- [11]
+			"0x070000000088EF46", -- [12]
 			0, -- [13]
-			[51] = 1677958422,
+			[51] = 1678562075,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminstrator|r",
+			[52] = "|cffaad372Bblackbaret|r",
 		}, -- [76]
 		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wedopsy", -- [2]
+			"icc 25hc/nm need all +6.2 wis me your class gs achive b/p ress sfs free ", -- [1]
+			"Thelight", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1402,16 +1402,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6301, -- [11]
-			"0x0700000000607345", -- [12]
+			43, -- [11]
+			"0x0700000000463C80", -- [12]
 			0, -- [13]
-			[51] = 1677958422,
+			[51] = 1678562079,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Wedopsy|r",
+			[52] = "|cfff48cbaThelight|r",
 		}, -- [77]
 		{
-			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
-			"Titanhorns", -- [2]
+			" |cffffff00|Hachievement:697:07000000007BB54C:1:8:1:22:0:0:0:0|h[El Templo Oscuro]|h|r Need 1 heal 1 Tank +2Dps --[Warglaive of Azzinoth]Ress--", -- [1]
+			"Fenixx", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1420,16 +1420,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6303, -- [11]
-			"0x07000000002B1B48", -- [12]
+			44, -- [11]
+			"0x07000000008D399E", -- [12]
 			0, -- [13]
-			[51] = 1677958423,
+			[51] = 1678562080,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTitanhorns|r",
+			[52] = "|cfff48cbaFenixx|r",
 		}, -- [78]
 		{
-			"< NOV > Bulgarski guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Hakerzz", -- [2]
+			"ICC 10nm FRSH 8+/12. Need 2 Tank, 2 Heal, Dps/Rdps (5.1+) no ress", -- [1]
+			"Underouth", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1438,16 +1438,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6304, -- [11]
-			"0x070000000017E687", -- [12]
+			45, -- [11]
+			"0x070000000030F788", -- [12]
 			0, -- [13]
-			[51] = 1677958424,
+			[51] = 1678562082,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefHakerzz|r",
+			[52] = "|cff68ccefUnderouth|r",
 		}, -- [79]
 		{
-			"LFM ICC25N (BLOOD RES) 5.9+ NEED ALL", -- [1]
-			"Levov", -- [2]
+			"WTS Troll Rogue Name: Jezart Tailor/Engi - Dual Talent - 300 Mount - 7 Boe----> 30 Coin!!", -- [1]
+			"Wynoom", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1456,16 +1456,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6305, -- [11]
-			"0x07000000008C6329", -- [12]
+			46, -- [11]
+			"0x070000000074F460", -- [12]
 			0, -- [13]
-			[51] = 1677958425,
+			[51] = 1678562082,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Levov|r",
+			[52] = "|cffff7c0aWynoom|r",
 		}, -- [80]
 		{
-			"WTS ORC DK, named Cholak via warmane trade. It has Shadowmourne, Penumbra HC, Apocalypse advance HC, STS HC and WF shoulders and Head. It has BiS pvp proffessions ( JC & BS 450). /w me if interested.", -- [1]
-			"Missclappy", -- [2]
+			"Bulgarski guild <DumkaiteseOtzad> nabira hora s opit v ICC i RS. Ako tursite chill runove - zapovqdaite. RT@19:00 BG vreme. /w za poveche info", -- [1]
+			"Apophiss", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1474,16 +1474,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6306, -- [11]
-			"0x07000000005D9DCD", -- [12]
+			47, -- [11]
+			"0x0700000000622914", -- [12]
 			0, -- [13]
-			[51] = 1677958426,
+			[51] = 1678562082,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMissclappy|r",
+			[52] = "|cffc41e3aApophiss|r",
 		}, -- [81]
 		{
-			"LFM ICC 25 HC LOD run +6.3 Link achiv Lod for inv DIscord Req SFS FREE BOe reserve Miss1 RANDOM DPS 24/25 |cffffff00|Hachievement:4584:0700000000012F8D:1:6:16:19:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowpala", -- [2]
+			"WTS 500 coins! cheapest price and fast deal!! Get your [Shadowmourne] CHEAP now!! LEGlT DEAL and can show PR00F! whisper me if interested", -- [1]
+			"Ilwvlwvliwvv", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1492,16 +1492,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6307, -- [11]
-			"0x0700000000012F8D", -- [12]
+			48, -- [11]
+			"0x07000000008F6BE3", -- [12]
 			0, -- [13]
-			[51] = 1677958428,
+			[51] = 1678562082,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowpala|r",
+			[52] = "|cffaad372Ilwvlwvliwvv|r",
 		}, -- [82]
 		{
-			"ICC 25HC 8/12 FRESH, need all min 6.2kgs and achiv must+time (primo+sfs ress) |cffffff00|Hachievement:4584:0700000000731DA0:1:11:10:21:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Claaujr", -- [2]
+			"Ukrainian guild \" Mists of Barabashovo \" recruits active players from 5k8 for ICC & RS! RT: weekdays - 20:00, weekends - 18:00 Kyiv time.", -- [1]
+			"Wheresmybow", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1510,16 +1510,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6308, -- [11]
-			"0x0700000000731DA0", -- [12]
+			49, -- [11]
+			"0x07000000008AC3D1", -- [12]
 			0, -- [13]
-			[51] = 1677958428,
+			[51] = 1678562087,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aClaaujr|r",
+			[52] = "|cffaad372Wheresmybow|r",
 		}, -- [83]
 		{
-			"Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:070000000063B8B2:1:5:26:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Fistotank", -- [2]
+			"LFM ULDuar 25 Man MIX run +5.8 Full run Only Fragment reserve 24/25 discordreq1tank.1BOOMY.MAGe |cffffff00|Hachievement:2958:0700000000012F8D:1:10:10:21:4294967295:4294967295:4294967295:4294967295|h[La gloria del asaltante de Ulduar (25 j.)]|h|r", -- [1]
+			"Shadowpala", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1528,16 +1528,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6309, -- [11]
-			"0x070000000063B8B2", -- [12]
+			50, -- [11]
+			"0x0700000000012F8D", -- [12]
 			0, -- [13]
-			[51] = 1677958430,
+			[51] = 1678562088,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Fistotank|r",
+			[52] = "|cfff48cbaShadowpala|r",
 		}, -- [84]
 		{
-			"LFM |cffffff00|Hachievement:693:070000000067535C:1:2:21:23:0:0:0:0|h[Guarida de Magtheridon]|h|r tmog run (staff res)", -- [1]
-			"Formz", -- [2]
+			"LFM 1 DPS FOR TOC5 TRINCKET RUN!!!", -- [1]
+			"Abadonx", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1546,16 +1546,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6310, -- [11]
-			"0x070000000067535C", -- [12]
+			51, -- [11]
+			"0x0700000000000154", -- [12]
 			0, -- [13]
-			[51] = 1677958431,
+			[51] = 1678562089,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aFormz|r",
+			[52] = "|cffc41e3aAbadonx|r",
 		}, -- [85]
 		{
-			"ICC 25HC 8/12 FRESH, need all min 6.2kgs and achiv must+time (primo+sfs ress) |cffffff00|Hachievement:4584:070000000083155E:1:10:29:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Claujr", -- [2]
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST|cffffff00|Hachievement:4584:0700000000535C70:1:7:18:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Assashin", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1564,16 +1564,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6311, -- [11]
-			"0x070000000083155E", -- [12]
+			53, -- [11]
+			"0x0700000000535C70", -- [12]
 			0, -- [13]
-			[51] = 1677958434,
+			[51] = 1678562089,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaClaujr|r",
+			[52] = "|cfffff468Assashin|r",
 		}, -- [86]
 		{
-			"LFM ICC10 12/12HC solo tank solo heal fresh bane run!! Need ret or hunter (big PP only) /w me GS/Spec/Achiev. Must have 6k+ GS + time + discord (no need to talk but more fun if you do). grp loot", -- [1]
-			"Deandsonia", -- [2]
+			"LFM ICC25 GRun - Need, 3 Healer (Disco/Rdudu/Random), 2 Melee (Ret/Fury), 6 Ranged (Lock/Boomie/Mage/SP/Hunter) - 5.8k min GS+ Link best achievment//BoE+Primo+SFS ress (14/25)", -- [1]
+			"Garidapriest", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1582,16 +1582,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6312, -- [11]
-			"0x070000000065062D", -- [12]
+			54, -- [11]
+			"0x0700000000626062", -- [12]
 			0, -- [13]
-			[51] = 1677958440,
+			[51] = 1678562090,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDeandsonia|r",
+			[52] = "|cffffffffGaridapriest|r",
 		}, -- [87]
 		{
-			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
-			"Smellfarts", -- [2]
+			"LFM ICC 25 NM NEED ALL // 5.8GS + (BOE, PRIMOS, SFS RESS) // W ARCHIVE AND ROLL [Fall of the Lich King (25 player)]", -- [1]
+			"Chikendruid", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1600,16 +1600,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6313, -- [11]
-			"0x0700000000849B71", -- [12]
+			55, -- [11]
+			"0x070000000066B9F2", -- [12]
 			0, -- [13]
-			[51] = 1677958441,
+			[51] = 1678562093,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aSmellfarts|r",
+			[52] = "|cffff7c0aChikendruid|r",
 		}, -- [88]
 		{
-			"LFM ICC25NM/HC4/12+ - Need, 2 Ranged (Boomie/Mage Last spots) - G run (BOE+PRIMOS+sfs RESS) Must be at least 5.7 gs fully gemmed enchanted link gs spec achive we will try to push for more hc (23/25)", -- [1]
-			"Humilitas", -- [2]
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST |cffffff00|Hachievement:4584:07000000000820D4:1:1:29:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Cllaymore", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1618,16 +1618,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6314, -- [11]
-			"0x07000000007BE7EC", -- [12]
+			56, -- [11]
+			"0x07000000000820D4", -- [12]
 			0, -- [13]
-			[51] = 1677958443,
+			[51] = 1678562095,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaHumilitas|r",
+			[52] = "|cffc69b6dCllaymore|r",
 		}, -- [89]
 		{
-			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
-			"Kilbore", -- [2]
+			"LFM [Zul'Aman] Need All /w gs+spect ", -- [1]
+			"Ferdino", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1636,34 +1636,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6315, -- [11]
-			"0x07000000000116A0", -- [12]
+			57, -- [11]
+			"0x07000000006EE7B8", -- [12]
 			0, -- [13]
-			[51] = 1677958446,
+			[51] = 1678562095,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aKilbore|r",
+			[52] = "|cfffff468Ferdino|r",
 		}, -- [90]
 		{
-			"WTS on ICECROWN> Human female warr named<Pamority> with 27533gold,63EOF, 11eot,2138arena points,30k honor -AND- Human female rog named<Verile> with 27608gold, 103EOF,20EOT,31k honor on Warmane trade! 30c each ", -- [1]
-			"Mokrontar", -- [2]
+			"WTS |cffffff00|Hachievement:4583:07000000006736BC:1:4:5:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r ICC10 HC (Full Run) --BOOST RUN-- with all items for golds. DM for more info!", -- [1]
+			"Ancienty", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"", -- [6]
+			"AFK", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6316, -- [11]
-			"0x07000000007E1A9C", -- [12]
+			58, -- [11]
+			"0x07000000001ACDA9", -- [12]
 			0, -- [13]
-			[51] = 1677958447,
+			[51] = 1678562100,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Mokrontar|r",
+			[52] = "|cfff48cbaAncienty|r",
 		}, -- [91]
 		{
-			"<The Old Crew> traži nove clanove za raidove. Radimo 3x ICC 25 (8/12 hc), 5x RS 25 i 3x ICC 10 tjedno. Koristimo Discord i DKP sistem. Vrijeme raidova je 20:00. Minimalni GS za ulazak u guild je 5.8k. Za vise informacija /w.", -- [1]
-			"Posthar", -- [2]
+			"Balkanski PvE Gild <<Klinika>> Trazi igrace za aktivno raidanje GPROG: icc10n/hc 12/12,icc25HC 12/12,RS 10/25 4/4!Koristi se DISKORD+DKP!Minimalni gs je 6k,poznavanje svoje klase i taktika!Prvensteveno dobra zabava i atmosfera:)Za vise info/w me", -- [1]
+			"Snoplu", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1672,16 +1672,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6317, -- [11]
-			"0x070000000056FF7B", -- [12]
+			59, -- [11]
+			"0x070000000015194F", -- [12]
 			0, -- [13]
-			[51] = 1677958448,
+			[51] = 1678562101,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Posthar|r",
+			[52] = "|cffaad372Snoplu|r",
 		}, -- [92]
 		{
-			"LFM ULDUAR 10 wisp me spec gs \"Only skilled players\"", -- [1]
-			"Hemma", -- [2]
+			"Russian NEW GUILD <LOCK OUT> Nabiraem ludey 1-80 lvl // sistema /ROLL . Sobiraem adecvatnuy colectiv dlya osvoenia VSEGO contenta LK, budem radu vsem!", -- [1]
+			"Soulldem", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1690,16 +1690,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6318, -- [11]
-			"0x07000000008857BA", -- [12]
+			60, -- [11]
+			"0x07000000008EFDA5", -- [12]
 			0, -- [13]
-			[51] = 1677958450,
+			[51] = 1678562102,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Hemma|r",
+			[52] = "|cffaad372Soulldem|r",
 		}, -- [93]
 		{
-			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Blackbarett", -- [2]
+			"RS 25 NM >< Need 1 Tank out & 2 heal 3 dps 6k+/w me ach for inv ", -- [1]
+			"Sathathin", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1708,16 +1708,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6319, -- [11]
-			"0x070000000087DF9C", -- [12]
+			61, -- [11]
+			"0x07000000006283D7", -- [12]
 			0, -- [13]
-			[51] = 1677958451,
+			[51] = 1678562102,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff0070ddBlackbarett|r",
+			[52] = "|cffc41e3aSathathin|r",
 		}, -- [94]
 		{
-			"WTS BIS UH DKs (non SM), you pick the items min 66 coins", -- [1]
-			"Xploze", -- [2]
+			"WTB ALL |cff1eff00|Hitem:35624:0:0:0:0:0:0:0:80|h[Tierra Eterna]|h|r 140g for stack/w me or C.O.D", -- [1]
+			"Eatscats", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1726,16 +1726,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6320, -- [11]
-			"0x07000000005F0590", -- [12]
+			62, -- [11]
+			"0x070000000051E7F6", -- [12]
 			0, -- [13]
-			[51] = 1677958451,
+			[51] = 1678562103,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Xploze|r",
+			[52] = "|cff0070ddEatscats|r",
 		}, -- [95]
 		{
-			" |cffffff00|Hachievement:1872:0700000000746C4C:0:0:0:-1:0:0:0:0|h[¡Fiesta de zombis!]|h|r NEED HEAL AND DPS", -- [1]
-			"Munttorah", -- [2]
+			"WTS PALA RETRY + SHADOW EDGE 65 COINS IN WARMANE MARKET ,Name (SOLZA)", -- [1]
+			"Fibo", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1744,16 +1744,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6321, -- [11]
-			"0x0700000000746C4C", -- [12]
+			64, -- [11]
+			"0x07000000008E90F5", -- [12]
 			0, -- [13]
-			[51] = 1677958452,
+			[51] = 1678562105,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aMunttorah|r",
+			[52] = "|cffffffffFibo|r",
 		}, -- [96]
 		{
-			"WTS |cff1eff00|Hitem:41163:0:0:0:0:0:0:0:80|h[Barra de Titanio]|h|r", -- [1]
-			"Arfnar", -- [2]
+			"LFM TOC 25 SCROLLLL RUN NEED DPS ", -- [1]
+			"Fiuggi", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1762,34 +1762,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6322, -- [11]
-			"0x07000000006277B7", -- [12]
+			65, -- [11]
+			"0x070000000056F8BF", -- [12]
 			0, -- [13]
-			[51] = 1677958454,
+			[51] = 1678562106,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aArfnar|r",
+			[52] = "|cffff7c0aFiuggi|r",
 		}, -- [97]
 		{
-			"WTB ALL YOUR CARDINAL RUBIES 220 Each C.O.D Me", -- [1]
-			"Zroubaa", -- [2]
+			"<Fanatic> Endgame guild looking for hardcore players to farm LOD and RS 25HC. Req to join 6.3+ 3 alt. RT 17 pm ST Using DKP+DISCORD. Currently farming 10xLod 10xrs 2xTogc 50/50 Perweek", -- [1]
+			"Truecleave", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"", -- [6]
+			"AFK", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6323, -- [11]
-			"0x07000000007C7AF4", -- [12]
+			66, -- [11]
+			"0x07000000006F1FDE", -- [12]
 			0, -- [13]
-			[51] = 1677958455,
+			[51] = 1678562107,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffZroubaa|r",
+			[52] = "|cffc69b6dTruecleave|r",
 		}, -- [98]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowmourn", -- [2]
+			"RS 25 Nm Need 1 tank 1 (hplay-rdudu) and dps 6k+ [The Twilight Destroyer (25 player)] ", -- [1]
+			"Meryouma", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1798,16 +1798,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6324, -- [11]
-			"0x07000000008191C6", -- [12]
+			67, -- [11]
+			"0x07000000005ACD67", -- [12]
 			0, -- [13]
-			[51] = 1677958455,
+			[51] = 1678562107,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowmourn|r",
+			[52] = "|cff68ccefMeryouma|r",
 		}, -- [99]
 		{
-			"Looking for reliable players to join our guild and heroic raiding teams, raiding 12pm ST. Zero toxicity guild, weekly LoD, come and have some fun with us!Try to get LoD experience, 6.2k toons but if they are really nice we can take lower. Nobody below 5k ", -- [1]
-			"Valknaar", -- [2]
+			"{estrella} Wipe and Furious {estrella} Recluta gente para sus raids . Se arman ICC10, ICC25 Y SR25 {cuadrado} {diamante} HORARIO DE RAIDEO 20:00ST. {cuadrado} {diamante}", -- [1]
+			"Germory", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1816,16 +1816,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6325, -- [11]
-			"0x070000000086034C", -- [12]
+			70, -- [11]
+			"0x070000000034F5B6", -- [12]
 			0, -- [13]
-			[51] = 1677958459,
+			[51] = 1678562110,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Valknaar|r",
+			[52] = "|cfff48cbaGermory|r",
 		}, -- [100]
 		{
-			"TOG10 MOUNT RUN NEED DK TANK/ FWAR 6k2+ |cffffff00|Hachievement:3810:070000000085A274:1:12:31:22:4294967295:4294967295:4294967295:4294967295|h[Un tributo a la locura (10 j.)]|h|r ", -- [1]
-			"Whizzed", -- [2]
+			"<Disappointed> Is looking for competent raiders to fill our roster and are able to clear LoD! Required: 6k + Char and class knowledge || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
+			"Holylone", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1834,16 +1834,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6326, -- [11]
-			"0x070000000085A274", -- [12]
+			71, -- [11]
+			"0x07000000005B34C6", -- [12]
 			0, -- [13]
-			[51] = 1677958461,
+			[51] = 1678562110,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefWhizzed|r",
+			[52] = "|cffffffffHolylone|r",
 		}, -- [101]
 		{
-			"<Invadersx> is an end game guild recruiting heroic experienced raiders with 6.3k+ gs for LoD/RS/ToGC. Raid time 17:45PM ST. Send your chars at https://discord.gg/TFe3QCJsdK", -- [1]
-			"Invadersx", -- [2]
+			"< Demonic Empire > End Game English Speaking Guild.Doing 12x LOD [ 0 % Buff Solo Tank 2 Heal / Solo Tank Solo Heal & 0% Buff Full ICc 25 HC Clear ] &14x RS 25 HC / Ulduar & immortality & immortal.RT=7 PM.Apply@ https://demonic-empire.shivtr.com", -- [1]
+			"Shamanresto", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1852,34 +1852,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6327, -- [11]
-			"0x07000000008CF512", -- [12]
+			72, -- [11]
+			"0x07000000004AA762", -- [12]
 			0, -- [13]
-			[51] = 1677958462,
+			[51] = 1678562110,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dInvadersx|r",
+			[52] = "|cff0070ddShamanresto|r",
 		}, -- [102]
 		{
-			"<The Red Devils> are recruiting 6k+. We are currently progressing 10/12 ICC25hc.mainly need DP+other heals We raid on mondays(ICC25hc 10/12) and thursdays(icc25 8/12) 6PM. Fill in the application: [https://reddevils.gq/] fresh dkp system!", -- [1]
-			"Brutface", -- [2]
+			"Guild Irani < Freaky Guys > Progress: 1x LOD + 5x ICC 25 8/12 HC + 8x RS 25 + ToGc 25 Player ACtive +6.3 Baraye Ezafe Kardan Raid haye Hc Mipazirad w/me For Info", -- [1]
+			"Justwarlock", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"AFK", -- [6]
+			"", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6328, -- [11]
-			"0x070000000068DF99", -- [12]
+			73, -- [11]
+			"0x07000000007B8581", -- [12]
 			0, -- [13]
-			[51] = 1677958464,
+			[51] = 1678562111,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBrutface|r",
+			[52] = "|cff9382c9Justwarlock|r",
 		}, -- [103]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminprot", -- [2]
+			"WTS Warlock[name:Darkslash] for 48 coins Lowest Price possible! [BiS WEP + Full BoE`s] + [ENGI + JC] + [280% Fly] via Warmane Store ", -- [1]
+			"Randomnuub", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1888,16 +1888,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6329, -- [11]
-			"0x07000000008F2372", -- [12]
+			74, -- [11]
+			"0x07000000002A4558", -- [12]
 			0, -- [13]
-			[51] = 1677958465,
+			[51] = 1678562111,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminprot|r",
+			[52] = "|cffaad372Randomnuub|r",
 		}, -- [104]
 		{
-			" https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM (All Subscribers are invited to a \"SUBS\" Bane Run where you can join with any gs character you want.", -- [1]
-			"Ritaora", -- [2]
+			"ICC 25HC 8/12 FRESH, NEED ALL MIN 6.2KGS AND ACHIV MUST+TIME (SFS RESS) |cffffff00|Hachievement:4584:070000000083155E:1:10:29:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Claujr", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1906,16 +1906,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6330, -- [11]
-			"0x07000000005A378A", -- [12]
+			75, -- [11]
+			"0x070000000083155E", -- [12]
 			0, -- [13]
-			[51] = 1677958468,
+			[51] = 1678562111,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaRitaora|r",
+			[52] = "|cfff48cbaClaujr|r",
 		}, -- [105]
 		{
-			"Na prodaju 54c, moze i uzivo /w", -- [1]
-			"Kevah", -- [2]
+			"Guild Br < A F K > aceitamos todos players do idioma Português. Todos os dias as 20h. Fazemos 3 ICC LOD RUN + 3 á 4 RS HC, e raids * Teste* para quem faz nosso apply no discord, ICC 10 HC as sextas e ICC 25 HC as Segundas. https://discord.gg/MR3gupa", -- [1]
+			"Masttertaunt", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1924,16 +1924,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6331, -- [11]
-			"0x070000000072F300", -- [12]
+			77, -- [11]
+			"0x0700000000847ACD", -- [12]
 			0, -- [13]
-			[51] = 1677958471,
+			[51] = 1678562116,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaKevah|r",
+			[52] = "|cfff48cbaMasttertaunt|r",
 		}, -- [106]
 		{
-			"WTS Bane boost 12/12hc full run with all of loots dm me for ressved your spot our raid time 11am/ 2pm Sever time |cffffff00|Hachievement:4583:0700000000060E84:1:10:11:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r", -- [1]
-			"Todaystar", -- [2]
+			"ICC 25HC 8/12 FRESH, NEED ALL MIN 6.2KGS AND ACHIV MUST+TIME (SFS RESS) |cffffff00|Hachievement:4584:070000000000C7C6:1:10:19:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Clauujr", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1942,34 +1942,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6332, -- [11]
-			"0x0700000000060E84", -- [12]
+			78, -- [11]
+			"0x070000000000C7C6", -- [12]
 			0, -- [13]
-			[51] = 1677958475,
+			[51] = 1678562116,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTodaystar|r",
+			[52] = "|cff9382c9Clauujr|r",
 		}, -- [107]
 		{
-			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
-			"Swishtime", -- [2]
+			"LFM ICC REP RUN 4k+ GS (NEED DPS LAST SPOT) /w me", -- [1]
+			"Wrldstarx", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"AFK", -- [6]
+			"", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6333, -- [11]
-			"0x07000000008F1FB1", -- [12]
+			79, -- [11]
+			"0x070000000074595E", -- [12]
 			0, -- [13]
-			[51] = 1677958475,
+			[51] = 1678562119,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Swishtime|r",
+			[52] = "|cffc69b6dWrldstarx|r",
 		}, -- [108]
 		{
-			"ICC25 8/12 HC LF HUNTER RSHAM <BP DBW RES / SFS FREE!> 6.2K+ HAVE TIME+ACHI!! 23/25 SUMMON NOW!!", -- [1]
-			"Ufcx", -- [2]
+			"LFM ICC 25 NM - Need, 2 Healer (Disco/Rdruid), 5 Melee ((No More Rogues)Retri/Fury/Feral), 5 Ranged (Lock/Boomie/Mage/Hunter) - 5.8GS+ BoE+Primos (sfs) ress Link Achivement gs spec (13/25)", -- [1]
+			"Brokenbad", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -1978,34 +1978,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6334, -- [11]
-			"0x07000000008A8C7B", -- [12]
+			81, -- [11]
+			"0x07000000007663F7", -- [12]
 			0, -- [13]
-			[51] = 1677958476,
+			[51] = 1678562121,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Ufcx|r",
+			[52] = "|cff68ccefBrokenbad|r",
 		}, -- [109]
 		{
-			"BANE RUN NEED 2 TANKS (B+P=RES) /W ME |cffffff00|Hachievement:4584:0700000000105EDB:1:3:9:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Drunkpotato", -- [2]
+			"WTS |cffffffff|Hitem:44501:0:0:0:0:0:0:0:19|h[Pistón de Mecánica Goblin]|h|r 700g each", -- [1]
+			"Gemseller", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"", -- [6]
+			"AFK", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6335, -- [11]
-			"0x0700000000105EDB", -- [12]
+			82, -- [11]
+			"0x070000000089166C", -- [12]
 			0, -- [13]
-			[51] = 1677958476,
+			[51] = 1678562122,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDrunkpotato|r",
+			[52] = "|cffaad372Gemseller|r",
 		}, -- [110]
 		{
-			"WTS |cffa335ee|Hitem:31332:0:0:0:0:0:0:0:80|h[Golpe de Traslación]|h|r", -- [1]
-			"Getts", -- [2]
+			"NEED TANK FOS POS NM RUN", -- [1]
+			"Cummin", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2014,16 +2014,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6336, -- [11]
-			"0x070000000087287F", -- [12]
+			84, -- [11]
+			"0x07000000008F0EEB", -- [12]
 			0, -- [13]
-			[51] = 1677958477,
+			[51] = 1678562125,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffGetts|r",
+			[52] = "|cffffffffCummin|r",
 		}, -- [111]
 		{
-			"WTB DK ON SFS QUEST WITH RS SET (MUST HAVE GOOD MOUNTS AND EOF + MARKS) PM ME WITH NAME !!!", -- [1]
-			"Oldisgold", -- [2]
+			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
+			"Smellfarts", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2032,34 +2032,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6337, -- [11]
-			"0x07000000003C2F72", -- [12]
+			85, -- [11]
+			"0x0700000000849B71", -- [12]
 			0, -- [13]
-			[51] = 1677958478,
+			[51] = 1678562126,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Oldisgold|r",
+			[52] = "|cffff7c0aSmellfarts|r",
 		}, -- [112]
 		{
-			"CRYPTEA (H/A) vs ICC25H + RS25H- Boomkin PoV (10.000 golds GIVEAWAY, join the stream and participate <3) https://www.twitch.tv/finalarguments", -- [1]
-			"Include", -- [2]
+			"Need Rdps and Heal Icc 25n 5.6k gs w/me inv B+P+DBW RES LK RUN [The Frostwing Halls (25 player)]", -- [1]
+			"Warriorgopal", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"AFK", -- [6]
+			"", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6338, -- [11]
-			"0x0700000000006F55", -- [12]
+			86, -- [11]
+			"0x07000000007E7F65", -- [12]
 			0, -- [13]
-			[51] = 1677958478,
+			[51] = 1678562127,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Include|r",
+			[52] = "|cffc69b6dWarriorgopal|r",
 		}, -- [113]
 		{
-			"Guild >Harvest Soul< recluta jugadores con exp en ICC25HC y RS25 HC. Progress actual: LoD (x6), RS25 HC (x4), Raid Dinamic (8/12) // Sist. de loot Dkp Hora de raids 00:30 st. /w + info", -- [1]
-			"Scruffed", -- [2]
+			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
+			"Kilbore", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2068,16 +2068,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6339, -- [11]
-			"0x070000000074F5E5", -- [12]
+			88, -- [11]
+			"0x07000000000116A0", -- [12]
 			0, -- [13]
-			[51] = 1677958479,
+			[51] = 1678562128,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaScruffed|r",
+			[52] = "|cffff7c0aKilbore|r",
 		}, -- [114]
 		{
-			"LFM ICC 10 LK Run (GS-HC; wfs ress) need all 5,8+ /w me with gs class achiev", -- [1]
-			"Djcrouchpeek", -- [2]
+			"LFM icc25 - Need, 1 Melee (retri), 1 Ranged (boomi) - 5.5 gs guild run boe/shards/bloods res (23/25)", -- [1]
+			"Stormleet", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2086,16 +2086,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6340, -- [11]
-			"0x07000000003EBE32", -- [12]
+			89, -- [11]
+			"0x0700000000441BAF", -- [12]
 			0, -- [13]
-			[51] = 1677958479,
+			[51] = 1678562132,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDjcrouchpeek|r",
+			[52] = "|cfff48cbaStormleet|r",
 		}, -- [115]
 		{
-			"BIS BM hunt and enhance shamy looking for skilled healer for 3v3 rushing to 2k", -- [1]
-			"Hunterftw", -- [2]
+			"WTS HUMAN PRIEST 7 BoE´s 280% FLYING DUAL TALENTS 450 ENGINEERING 30 COINS!!", -- [1]
+			"Jynrokh", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2104,16 +2104,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6341, -- [11]
-			"0x07000000006BF676", -- [12]
+			91, -- [11]
+			"0x07000000008EA279", -- [12]
 			0, -- [13]
-			[51] = 1677958479,
+			[51] = 1678562133,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Hunterftw|r",
+			[52] = "|cffaad372Jynrokh|r",
 		}, -- [116]
 		{
-			"LFM |cffffff00|Hachievement:682:0700000000851C91:1:10:3:22:4294967295:4294967295:4294967295:4294967295|h[Heroico: Bancal del Magister]|h|r MGT HEROIC FOR MOUNT + PET RUN (U NEED TO FINISH NORMAL MODE TO UNLOCK IT) !!", -- [1]
-			"Eadrin", -- [2]
+			"LFM ICC 25 6/12 hc need 3 dps (pref feral boomie) 5.7k+ full gems enchants (boe sfs primos res)", -- [1]
+			"Killjaeden", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2122,16 +2122,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6342, -- [11]
-			"0x0700000000851C91", -- [12]
+			92, -- [11]
+			"0x07000000001E3BB2", -- [12]
 			0, -- [13]
-			[51] = 1677958482,
+			[51] = 1678562133,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Eadrin|r",
+			[52] = "|cfffff468Killjaeden|r",
 		}, -- [117]
 		{
-			"need BDK, Rsham + Mage for [Glory of the Ulduar Raider (10 player)]", -- [1]
-			"Clariss", -- [2]
+			"global quit", -- [1]
+			"Alfry", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2140,16 +2140,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6343, -- [11]
-			"0x0700000000854519", -- [12]
+			93, -- [11]
+			"0x07000000008F0E02", -- [12]
 			0, -- [13]
-			[51] = 1677958482,
+			[51] = 1678562134,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffClariss|r",
+			[52] = "|cff9382c9Alfry|r",
 		}, -- [118]
 		{
-			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
-			"Titanhorns", -- [2]
+			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
+			"Bblackbaret", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2158,16 +2158,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6344, -- [11]
-			"0x07000000002B1B48", -- [12]
+			94, -- [11]
+			"0x070000000088EF46", -- [12]
 			0, -- [13]
-			[51] = 1677958483,
+			[51] = 1678562135,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTitanhorns|r",
+			[52] = "|cffaad372Bblackbaret|r",
 		}, -- [119]
 		{
-			"[Longevity] Guild TGF-et hírdet, tapasztalt játékosoknak. Hetente több 10-es hc run, Icc25Hc 8/12 heti 3db és LoD progress raid. Heti minimum 3 db Rs25. DKP system. SFS gyüjtése jelenleg opció várólista van.", -- [1]
-			"Streetrats", -- [2]
+			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
+			"Swishtime", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2176,16 +2176,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6345, -- [11]
-			"0x0700000000505499", -- [12]
+			95, -- [11]
+			"0x07000000008F1FB1", -- [12]
 			0, -- [13]
-			[51] = 1677958484,
+			[51] = 1678562139,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffStreetrats|r",
+			[52] = "|cfffff468Swishtime|r",
 		}, -- [120]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminstrator", -- [2]
+			"WTS Troll Rogue Name: Jezart Tailor/Engi - Dual Talent - 300 Mount - 7 Boe----> 30 Coin!!", -- [1]
+			"Wynoom", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2194,16 +2194,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6346, -- [11]
-			"0x07000000008F236F", -- [12]
+			97, -- [11]
+			"0x070000000074F460", -- [12]
 			0, -- [13]
-			[51] = 1677958484,
+			[51] = 1678562141,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminstrator|r",
+			[52] = "|cffff7c0aWynoom|r",
 		}, -- [121]
 		{
-			"< NOV > Bulgarski guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Hakerzz", -- [2]
+			"Bulgarski guild <DumkaiteseOtzad> nabira hora s opit v ICC i RS. Ako tursite chill runove - zapovqdaite. RT@19:00 BG vreme. /w za poveche info", -- [1]
+			"Apophiss", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2212,16 +2212,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6347, -- [11]
-			"0x070000000017E687", -- [12]
+			98, -- [11]
+			"0x0700000000622914", -- [12]
 			0, -- [13]
-			[51] = 1677958484,
+			[51] = 1678562142,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefHakerzz|r",
+			[52] = "|cffc41e3aApophiss|r",
 		}, -- [122]
 		{
-			"Rs 25 Wis Me Need Gs +6.. Achiv Link = Invit Noting Ress Need ... 1xRsahmy 24/25 ", -- [1]
-			"Milade", -- [2]
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST|cffffff00|Hachievement:4584:0700000000535C70:1:7:18:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Assashin", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2230,16 +2230,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6348, -- [11]
-			"0x070000000068A81F", -- [12]
+			111, -- [11]
+			"0x0700000000535C70", -- [12]
 			0, -- [13]
-			[51] = 1677958486,
+			[51] = 1678562149,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMilade|r",
+			[52] = "|cfffff468Assashin|r",
 		}, -- [123]
 		{
-			"WTS ORC DK, named Cholak via warmane trade. It has Shadowmourne, Penumbra HC, Apocalypse advance HC, STS HC and WF shoulders and Head. It has BiS pvp proffessions ( JC & BS 450). /w me if interested.", -- [1]
-			"Missclappy", -- [2]
+			"LFM ICC25 GRun - Need, 3 Healer (Disco/Rdudu/Random), 2 Melee (Ret/Fury), 6 Ranged (Lock/Boomie/Mage/SP/Hunter) - 5.8k min GS+ Link best achievment//BoE+Primo+SFS ress (14/25)", -- [1]
+			"Garidapriest", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2248,16 +2248,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6349, -- [11]
-			"0x07000000005D9DCD", -- [12]
+			113, -- [11]
+			"0x0700000000626062", -- [12]
 			0, -- [13]
-			[51] = 1677958486,
+			[51] = 1678562150,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMissclappy|r",
+			[52] = "|cffffffffGaridapriest|r",
 		}, -- [124]
 		{
-			"LF HUNTER RSHAM ICC25 8/12 6.2K+ BP + DBW RESS", -- [1]
-			"Bighaus", -- [2]
+			"LFM ICC 25 HC 6/12 hc need 1 dps(BOOMY/feral ) 5.7k+ full gems enchants (boe sfs primos res) LAST SPOT 24/25|cffffff00|Hachievement:4584:0700000000837CFE:1:9:17:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Warlockxzc", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2266,16 +2266,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6351, -- [11]
-			"0x0700000000036A32", -- [12]
+			119, -- [11]
+			"0x0700000000837CFE", -- [12]
 			0, -- [13]
-			[51] = 1677958489,
+			[51] = 1678562154,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBighaus|r",
+			[52] = "|cffaad372Warlockxzc|r",
 		}, -- [125]
 		{
-			"Guildless, bored and capable? Say no more, join <Disappointed> Today! We're looking for competent people able to clear LoD! Required: class knowledge and 6k + Char || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
-			"Holylone", -- [2]
+			"WTS 72600g fo 26 coins ", -- [1]
+			"Ergoth", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2284,16 +2284,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6352, -- [11]
-			"0x07000000005B34C6", -- [12]
+			124, -- [11]
+			"0x07000000001BEF27", -- [12]
 			0, -- [13]
-			[51] = 1677958490,
+			[51] = 1678562155,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffHolylone|r",
+			[52] = "|cffc41e3aErgoth|r",
 		}, -- [126]
 		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wedopsy", -- [2]
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST |cffffff00|Hachievement:4584:07000000000820D4:1:1:29:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Cllaymore", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2302,16 +2302,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6354, -- [11]
-			"0x0700000000607345", -- [12]
+			125, -- [11]
+			"0x07000000000820D4", -- [12]
 			0, -- [13]
-			[51] = 1677958491,
+			[51] = 1678562155,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Wedopsy|r",
+			[52] = "|cffc69b6dCllaymore|r",
 		}, -- [127]
 		{
-			"LFM |cffffff00|Hachievement:693:070000000067535C:1:2:21:23:0:0:0:0|h[Guarida de Magtheridon]|h|r tmog run (staff res)", -- [1]
-			"Formz", -- [2]
+			"LFM [Zul'Aman] Need All /w gs+spect ", -- [1]
+			"Ferdino", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2320,16 +2320,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6357, -- [11]
-			"0x070000000067535C", -- [12]
+			126, -- [11]
+			"0x07000000006EE7B8", -- [12]
 			0, -- [13]
-			[51] = 1677958496,
+			[51] = 1678562155,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aFormz|r",
+			[52] = "|cfffff468Ferdino|r",
 		}, -- [128]
 		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wexpsy", -- [2]
+			"TOC 25 Normal SCROLL Run. |cffffff00|Hachievement:3916:070000000068A90B:0:0:0:-1:0:0:0:0|h[La Llamada de la Cruzada (25 j.)]|h|r Only BoE Reserved. /w spec and gearscore. 5.5k+ Need 1 DPS 24/25", -- [1]
+			"Jesen", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2338,16 +2338,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6359, -- [11]
-			"0x070000000063557D", -- [12]
+			127, -- [11]
+			"0x07000000006654AB", -- [12]
 			0, -- [13]
-			[51] = 1677958498,
+			[51] = 1678562155,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffWexpsy|r",
+			[52] = "|cff0070ddJesen|r",
 		}, -- [129]
 		{
-			"Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:070000000063B8B2:1:5:26:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Fistotank", -- [2]
+			"Ukrainian guild \" Mists of Barabashovo \" recruits active players from 5k8 for ICC & RS! RT: weekdays - 20:00, weekends - 18:00 Kyiv time.", -- [1]
+			"Wheresmybow", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2356,16 +2356,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6361, -- [11]
-			"0x070000000063B8B2", -- [12]
+			128, -- [11]
+			"0x07000000008AC3D1", -- [12]
 			0, -- [13]
-			[51] = 1677958500,
+			[51] = 1678562155,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Fistotank|r",
+			[52] = "|cffaad372Wheresmybow|r",
 		}, -- [130]
 		{
-			"LFM ICC25NM/HC4/12+ - Need, 2 Ranged (Boomie/Mage Last spots) - G run (BOE+PRIMOS+sfs RESS) Must be at least 5.7 gs fully gemmed enchanted link gs spec achive we will try to push for more hc (23/25)", -- [1]
-			"Humilitas", -- [2]
+			"Balkanski PvE Gild <<Klinika>> Trazi igrace za aktivno raidanje GPROG: icc10n/hc 12/12,icc25HC 12/12,RS 10/25 4/4!Koristi se DISKORD+DKP!Minimalni gs je 6k,poznavanje svoje klase i taktika!Prvensteveno dobra zabava i atmosfera:)Za vise info/w me", -- [1]
+			"Snoplu", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2374,16 +2374,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6363, -- [11]
-			"0x07000000007BE7EC", -- [12]
+			142, -- [11]
+			"0x070000000015194F", -- [12]
 			0, -- [13]
-			[51] = 1677958503,
+			[51] = 1678562161,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaHumilitas|r",
+			[52] = "|cffaad372Snoplu|r",
 		}, -- [131]
 		{
-			"RDF JOIN dongeun need TANK LVL 60 +", -- [1]
-			"Poower", -- [2]
+			"Russian NEW GUILD <LOCK OUT> Nabiraem ludey 1-80 lvl // sistema /ROLL . Sobiraem adecvatnuy colectiv dlya osvoenia VSEGO contenta LK, budem radu vsem!", -- [1]
+			"Soulldem", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2392,34 +2392,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6365, -- [11]
-			"0x07000000008F25C6", -- [12]
+			147, -- [11]
+			"0x07000000008EFDA5", -- [12]
 			0, -- [13]
-			[51] = 1677958503,
+			[51] = 1678562162,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Poower|r",
+			[52] = "|cffaad372Soulldem|r",
 		}, -- [132]
 		{
-			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
-			"Smellfarts", -- [2]
+			"WTS |cffffff00|Hachievement:4583:07000000006736BC:1:4:5:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r ICC10 HC (Full Run) --BOOST RUN-- with all items for golds. DM for more info!", -- [1]
+			"Ancienty", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"", -- [6]
+			"AFK", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6366, -- [11]
-			"0x0700000000849B71", -- [12]
+			150, -- [11]
+			"0x07000000001ACDA9", -- [12]
 			0, -- [13]
-			[51] = 1677958503,
+			[51] = 1678562165,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aSmellfarts|r",
+			[52] = "|cfff48cbaAncienty|r",
 		}, -- [133]
 		{
-			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
-			"Kilbore", -- [2]
+			"Fresh Era PvP guild <<dont mess with us>> is currently recruiting experienced / geared players that are willing to WPVP / Premade and more. Requirements are 1800 arena rate or 40 k honor kills /w me for more info", -- [1]
+			"Muck", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2428,16 +2428,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6369, -- [11]
-			"0x07000000000116A0", -- [12]
+			156, -- [11]
+			"0x070000000013E227", -- [12]
 			0, -- [13]
-			[51] = 1677958506,
+			[51] = 1678562170,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aKilbore|r",
+			[52] = "|cfff48cbaMuck|r",
 		}, -- [134]
 		{
-			"ICC 10N CHILL EOF RUN /W ME 5,5 GS+ NOTHING RESS ", -- [1]
-			"Snittch", -- [2]
+			"Guild Irani < Freaky Guys > Progress: 1x LOD + 5x ICC 25 8/12 HC + 8x RS 25 + ToGc 25 Player ACtive +6.3 Baraye Ezafe Kardan Raid haye Hc Mipazirad w/me For Info", -- [1]
+			"Justwarlock", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2446,16 +2446,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6371, -- [11]
-			"0x07000000008D0F42", -- [12]
+			157, -- [11]
+			"0x07000000007B8581", -- [12]
 			0, -- [13]
-			[51] = 1677958507,
+			[51] = 1678562171,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dSnittch|r",
+			[52] = "|cff9382c9Justwarlock|r",
 		}, -- [135]
 		{
-			"<The Old Crew> traži nove clanove za raidove. Radimo 3x ICC 25 (8/12 hc), 5x RS 25 i 3x ICC 10 tjedno. Koristimo Discord i DKP sistem. Vrijeme raidova je 20:00. Minimalni GS za ulazak u guild je 5.8k. Za vise informacija /w.", -- [1]
-			"Posthar", -- [2]
+			"WTS Warlock[name:Darkslash] for 48 coins Lowest Price possible! [BiS WEP + Full BoE`s] + [ENGI + JC] + [280% Fly] via Warmane Store ", -- [1]
+			"Randomnuub", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2464,16 +2464,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6372, -- [11]
-			"0x070000000056FF7B", -- [12]
+			158, -- [11]
+			"0x07000000002A4558", -- [12]
 			0, -- [13]
-			[51] = 1677958508,
+			[51] = 1678562171,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Posthar|r",
+			[52] = "|cffaad372Randomnuub|r",
 		}, -- [136]
 		{
-			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Blackbarett", -- [2]
+			"< Demonic Empire > End Game English Speaking Guild.Doing 12x LOD [ 0 % Buff Solo Tank 2 Heal / Solo Tank Solo Heal & 0% Buff Full ICc 25 HC Clear ] &14x RS 25 HC / Ulduar & immortality & immortal.RT=7 PM.Apply@ https://demonic-empire.shivtr.com", -- [1]
+			"Shamanresto", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2482,16 +2482,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6375, -- [11]
-			"0x070000000087DF9C", -- [12]
+			159, -- [11]
+			"0x07000000004AA762", -- [12]
 			0, -- [13]
-			[51] = 1677958510,
+			[51] = 1678562171,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff0070ddBlackbarett|r",
+			[52] = "|cff0070ddShamanresto|r",
 		}, -- [137]
 		{
-			"WTS BIS UH DKs (non SM), you pick the items min 66 coins", -- [1]
-			"Xploze", -- [2]
+			"WTB Bis PvP Pala or Warr with GLADIATOR or Arena Master Ach, Via Site, Wisp me your offer !!!", -- [1]
+			"Frozus", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2500,16 +2500,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6376, -- [11]
-			"0x07000000005F0590", -- [12]
+			160, -- [11]
+			"0x07000000000032BC", -- [12]
 			0, -- [13]
-			[51] = 1677958511,
+			[51] = 1678562171,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Xploze|r",
+			[52] = "|cffc41e3aFrozus|r",
 		}, -- [138]
 		{
-			"wtb |cffffffff|Hitem:46376:0:0:0:0:0:0:0:80|h[Frasco de la Vermis de Escarcha]|h|r 10stacks for 20k ", -- [1]
-			"Ul", -- [2]
+			"{estrella} Wipe and Furious {estrella} Recluta gente para sus raids . Se arman ICC10, ICC25 Y SR25 {cuadrado} {diamante} HORARIO DE RAIDEO 20:00ST. {cuadrado} {diamante}", -- [1]
+			"Germory", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2518,16 +2518,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6378, -- [11]
-			"0x0700000000178056", -- [12]
+			165, -- [11]
+			"0x070000000034F5B6", -- [12]
 			0, -- [13]
-			[51] = 1677958514,
+			[51] = 1678562175,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaUl|r",
+			[52] = "|cfff48cbaGermory|r",
 		}, -- [139]
 		{
-			"WTS |cff1eff00|Hitem:41163:0:0:0:0:0:0:0:80|h[Barra de Titanio]|h|r 7 stack", -- [1]
-			"Arfnar", -- [2]
+			"<Disappointed> Is looking for competent raiders to fill our roster and are able to clear LoD! Required: 6k + Char and class knowledge || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
+			"Holylone", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2536,16 +2536,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6379, -- [11]
-			"0x07000000006277B7", -- [12]
+			166, -- [11]
+			"0x07000000005B34C6", -- [12]
 			0, -- [13]
-			[51] = 1677958515,
+			[51] = 1678562175,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aArfnar|r",
+			[52] = "|cffffffffHolylone|r",
 		}, -- [140]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowmourn", -- [2]
+			"Guild Br < A F K > aceitamos todos players do idioma Português. Todos os dias as 20h. Fazemos 3 ICC LOD RUN + 3 á 4 RS HC, e raids * Teste* para quem faz nosso apply no discord, ICC 10 HC as sextas e ICC 25 HC as Segundas. https://discord.gg/MR3gupa", -- [1]
+			"Masttertaunt", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2554,16 +2554,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6380, -- [11]
-			"0x07000000008191C6", -- [12]
+			170, -- [11]
+			"0x0700000000847ACD", -- [12]
 			0, -- [13]
-			[51] = 1677958517,
+			[51] = 1678562177,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowmourn|r",
+			[52] = "|cfff48cbaMasttertaunt|r",
 		}, -- [141]
 		{
-			"ICC25 8/12HC NEED ANY DPS WE ARE SINDY REPLACE OFF |cffffff00|Hachievement:4637:07000000008A128D:1:2:10:23:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Caída del Rey Exánime (25 j.)]|h|r", -- [1]
-			"Drokislam", -- [2]
+			"LF 1 tank and 2 range dps ICC 10 n 5.4 gs plus !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!", -- [1]
+			"Shapeshyfter", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2572,16 +2572,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6381, -- [11]
-			"0x07000000008A128D", -- [12]
+			171, -- [11]
+			"0x0700000000742154", -- [12]
 			0, -- [13]
-			[51] = 1677958517,
+			[51] = 1678562177,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dDrokislam|r",
+			[52] = "|cffff7c0aShapeshyfter|r",
 		}, -- [142]
 		{
-			"LFM Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:07000000005CD744:1:10:27:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Vaargoth", -- [2]
+			"LFM ULDuar 25 Man MIX run +5.8 Full run Only Fragment reserve 24/25 discordreq1tank.1BOOMY.MAGe |cffffff00|Hachievement:2958:0700000000012F8D:1:10:10:21:4294967295:4294967295:4294967295:4294967295|h[La gloria del asaltante de Ulduar (25 j.)]|h|r", -- [1]
+			"Shadowpala", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2590,16 +2590,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6382, -- [11]
-			"0x07000000005CD744", -- [12]
+			176, -- [11]
+			"0x0700000000012F8D", -- [12]
 			0, -- [13]
-			[51] = 1677958518,
+			[51] = 1678562182,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefVaargoth|r",
+			[52] = "|cfff48cbaShadowpala|r",
 		}, -- [143]
 		{
-			"ICC 25HC 8/12 FRESH, need all min 6.2kgs and achiv must+time (primo+sfs ress) |cffffff00|Hachievement:4584:070000000083155E:1:10:29:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Claujr", -- [2]
+			"RS 25 NM >< Need 1 Tank out & 2 heal 3 dps 6k+/w me ach for inv |cffffff00|Hachievement:4815:07000000006283D7:1:12:22:22:4294967295:4294967295:4294967295:4294967295|h[El Destructor del Crepúsculo (25 j.)]|h|r", -- [1]
+			"Sathathin", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -2608,517 +2608,31 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6383, -- [11]
-			"0x070000000083155E", -- [12]
+			185, -- [11]
+			"0x07000000006283D7", -- [12]
 			0, -- [13]
-			[51] = 1677958521,
+			[51] = 1678562186,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaClaujr|r",
+			[52] = "|cffc41e3aSathathin|r",
 		}, -- [144]
 		{
-			"<Invadersx> is an end game guild recruiting heroic experienced raiders with 6.3k+ gs for LoD/RS/ToGC. Raid time 17:45PM ST. Send your chars at https://discord.gg/TFe3QCJsdK", -- [1]
-			"Invadersx", -- [2]
+			"WTS |cffffffff|Hitem:44501:0:0:0:0:0:0:0:19|h[Pistón de Mecánica Goblin]|h|r 700g each", -- [1]
+			"Gemseller", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"", -- [6]
+			"AFK", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6384, -- [11]
-			"0x07000000008CF512", -- [12]
+			187, -- [11]
+			"0x070000000089166C", -- [12]
 			0, -- [13]
-			[51] = 1677958522,
+			[51] = 1678562187,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dInvadersx|r",
+			[52] = "|cffaad372Gemseller|r",
 		}, -- [145]
-		{
-			"WTS on ICECROWN> Human female warr named<Pamority> with 27533gold,63EOF, 11eot,2138arena points,30k honor -AND- Human female rog named<Verile> with 27608gold, 103EOF,20EOT,31k honor on Warmane trade! 30c each ", -- [1]
-			"Mokrontar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6385, -- [11]
-			"0x07000000007E1A9C", -- [12]
-			0, -- [13]
-			[51] = 1677958523,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Mokrontar|r",
-		}, -- [146]
-		{
-			"wts |cff1eff00|Hitem:35982:0:0:0:0:0:-37:56:80|h[Guantes de Garrida del médico]|h|r |cff0070dd|Hitem:37856:0:0:0:0:0:0:0:80|h[Cortapapeles de Bibliotecario]|h|r |cff0070dd|Hitem:37857:0:0:0:0:0:0:0:80|h[Yelmo de las Salas de Relámpagos]|h|r", -- [1]
-			"Healsehrviel", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6386, -- [11]
-			"0x070000000045E876", -- [12]
-			0, -- [13]
-			[51] = 1677958523,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff0070ddHealsehrviel|r",
-		}, -- [147]
-		{
-			"<The Red Devils> are recruiting 6k+. We are currently progressing 10/12 ICC25hc.mainly need DP+other heals We raid on mondays(ICC25hc 10/12) and thursdays(icc25 8/12) 6PM. Fill in the application: [https://reddevils.gq/] fresh dkp system!", -- [1]
-			"Brutface", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6387, -- [11]
-			"0x070000000068DF99", -- [12]
-			0, -- [13]
-			[51] = 1677958524,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBrutface|r",
-		}, -- [148]
-		{
-			"WTB ALL YOUR CARDINAL RUBIES 220 Each C.O.D Me", -- [1]
-			"Zroubaa", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6388, -- [11]
-			"0x07000000007C7AF4", -- [12]
-			0, -- [13]
-			[51] = 1677958525,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffZroubaa|r",
-		}, -- [149]
-		{
-			"LFM ICC10 12/12HC solo tank solo heal fresh bane run!! Need ret or hunter (big PP only) /w me GS/Spec/Achiev. Must have 6k+ GS + time + discord (no need to talk but more fun if you do). grp loot", -- [1]
-			"Deandsonia", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6389, -- [11]
-			"0x070000000065062D", -- [12]
-			0, -- [13]
-			[51] = 1677958525,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDeandsonia|r",
-		}, -- [150]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminprot", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6390, -- [11]
-			"0x07000000008F2372", -- [12]
-			0, -- [13]
-			[51] = 1677958525,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminprot|r",
-		}, -- [151]
-		{
-			"WTB |cff1eff00|Hitem:36923:0:0:0:0:0:0:0:80|h[Calcedonia]|h|r", -- [1]
-			"Violatorr", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6391, -- [11]
-			"0x0700000000440A5D", -- [12]
-			0, -- [13]
-			[51] = 1677958525,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dViolatorr|r",
-		}, -- [152]
-		{
-			"ICC 25HC 8/12 FRESH, need all min 6.2kgs and achiv must+time (primo+sfs ress) |cffffff00|Hachievement:4584:0700000000731DA0:1:11:10:21:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Claaujr", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6392, -- [11]
-			"0x0700000000731DA0", -- [12]
-			0, -- [13]
-			[51] = 1677958526,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aClaaujr|r",
-		}, -- [153]
-		{
-			"LF ENCHANTER ", -- [1]
-			"Tyreaal", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6393, -- [11]
-			"0x07000000008D79CB", -- [12]
-			0, -- [13]
-			[51] = 1677958531,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaTyreaal|r",
-		}, -- [154]
-		{
-			"Na prodaju 54c, moze i uzivo /w", -- [1]
-			"Kevah", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6394, -- [11]
-			"0x070000000072F300", -- [12]
-			0, -- [13]
-			[51] = 1677958531,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaKevah|r",
-		}, -- [155]
-		{
-			"WTS Bane boost 12/12hc full run with all of loots dm me for ressved your spot our raid time 11am/ 2pm Sever time |cffffff00|Hachievement:4583:0700000000060E84:1:10:11:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r", -- [1]
-			"Todaystar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6395, -- [11]
-			"0x0700000000060E84", -- [12]
-			0, -- [13]
-			[51] = 1677958537,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTodaystar|r",
-		}, -- [156]
-		{
-			"WTB DK ON SFS QUEST WITH RS SET (MUST HAVE GOOD MOUNTS AND EOF + MARKS) PM ME WITH NAME !!!", -- [1]
-			"Oldisgold", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6396, -- [11]
-			"0x07000000003C2F72", -- [12]
-			0, -- [13]
-			[51] = 1677958538,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Oldisgold|r",
-		}, -- [157]
-		{
-			"Guild >Harvest Soul< recluta jugadores con exp en ICC25HC y RS25 HC. Progress actual: LoD (x6), RS25 HC (x4), Raid Dinamic (8/12) // Sist. de loot Dkp Hora de raids 00:30 st. /w + info", -- [1]
-			"Scruffed", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6397, -- [11]
-			"0x070000000074F5E5", -- [12]
-			0, -- [13]
-			[51] = 1677958539,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaScruffed|r",
-		}, -- [158]
-		{
-			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
-			"Titanhorns", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6398, -- [11]
-			"0x07000000002B1B48", -- [12]
-			0, -- [13]
-			[51] = 1677958543,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTitanhorns|r",
-		}, -- [159]
-		{
-			"< NOV > Bulgarski guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Hakerzz", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6399, -- [11]
-			"0x070000000017E687", -- [12]
-			0, -- [13]
-			[51] = 1677958544,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefHakerzz|r",
-		}, -- [160]
-		{
-			"LFM ICC25N (BLOOD RES) 5.9+ NEED ALL", -- [1]
-			"Levov", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6400, -- [11]
-			"0x07000000008C6329", -- [12]
-			0, -- [13]
-			[51] = 1677958545,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Levov|r",
-		}, -- [161]
-		{
-			" https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM (All Subscribers are invited to a \"SUBS\" Bane Run where you can join with any gs character you want.", -- [1]
-			"Ritaora", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6401, -- [11]
-			"0x07000000005A378A", -- [12]
-			0, -- [13]
-			[51] = 1677958546,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaRitaora|r",
-		}, -- [162]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminstrator", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6402, -- [11]
-			"0x07000000008F236F", -- [12]
-			0, -- [13]
-			[51] = 1677958546,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminstrator|r",
-		}, -- [163]
-		{
-			"WTS ORC DK, named Cholak via warmane trade. It has Shadowmourne, Penumbra HC, Apocalypse advance HC, STS HC and WF shoulders and Head. It has BiS pvp proffessions ( JC & BS 450). /w me if interested.", -- [1]
-			"Missclappy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6403, -- [11]
-			"0x07000000005D9DCD", -- [12]
-			0, -- [13]
-			[51] = 1677958546,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMissclappy|r",
-		}, -- [164]
-		{
-			"WTB |cffffffff|Hitem:36905:0:0:0:0:0:0:0:80|h[Flor Exánime]|h|r - 700g/stack, |cffffffff|Hitem:36903:0:0:0:0:0:0:0:80|h[Lengua de Víboris]|h|r -800g/stack - C.O.D me!", -- [1]
-			"Owlgore", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6404, -- [11]
-			"0x070000000047575D", -- [12]
-			0, -- [13]
-			[51] = 1677958547,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aOwlgore|r",
-		}, -- [165]
-		{
-			"LFM ICC 10 LK Run (GS-HC; wfs ress) need all 5,8+ /w me with gs class achiev", -- [1]
-			"Djcrouchpeek", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6405, -- [11]
-			"0x07000000003EBE32", -- [12]
-			0, -- [13]
-			[51] = 1677958549,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDjcrouchpeek|r",
-		}, -- [166]
-		{
-			"LF HUNTER RSHAM ICC25 8/12 6.2K+ BP + DBW RESS", -- [1]
-			"Bighaus", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6406, -- [11]
-			"0x0700000000036A32", -- [12]
-			0, -- [13]
-			[51] = 1677958550,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBighaus|r",
-		}, -- [167]
-		{
-			"[Longevity] Guild TGF-et hírdet, tapasztalt játékosoknak. Hetente több 10-es hc run, Icc25Hc 8/12 heti 3db és LoD progress raid. Heti minimum 3 db Rs25. DKP system. SFS gyüjtése jelenleg opció várólista van.", -- [1]
-			"Streetrats", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6407, -- [11]
-			"0x0700000000505499", -- [12]
-			0, -- [13]
-			[51] = 1677958555,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffStreetrats|r",
-		}, -- [168]
-		{
-			"WTS |cffa335ee|Hitem:47645:0:0:0:0:0:0:0:80|h[Diseño: guardamuñecas con pinchos de titanio]|h|r", -- [1]
-			"Neocrazy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6408, -- [11]
-			"0x07000000004CC1D1", -- [12]
-			0, -- [13]
-			[51] = 1677958556,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefNeocrazy|r",
-		}, -- [169]
-		{
-			"LFM ICC25NM/HC4/12+ - Need, 2 Ranged (Boomie/Mage Last spots) - G run (BOE+PRIMOS+sfs RESS) Must be at least 5.7 gs fully gemmed enchanted link gs spec achive we will try to push for more hc (23/25)", -- [1]
-			"Humilitas", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6409, -- [11]
-			"0x07000000007BE7EC", -- [12]
-			0, -- [13]
-			[51] = 1677958563,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaHumilitas|r",
-		}, -- [170]
-		{
-			"Guildless, bored and capable? Say no more, join <Disappointed> Today! We're looking for competent people able to clear LoD! Required: class knowledge and 6k + Char || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
-			"Holylone", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6410, -- [11]
-			"0x07000000005B34C6", -- [12]
-			0, -- [13]
-			[51] = 1677958565,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffHolylone|r",
-		}, -- [171]
-		{
-			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
-			"Swishtime", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6411, -- [11]
-			"0x07000000008F1FB1", -- [12]
-			0, -- [13]
-			[51] = 1677958565,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Swishtime|r",
-		}, -- [172]
 		{
 			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
 			"Smellfarts", -- [2]
@@ -3130,13 +2644,13 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6412, -- [11]
+			194, -- [11]
 			"0x0700000000849B71", -- [12]
 			0, -- [13]
-			[51] = 1677958565,
+			[51] = 1678562188,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cffff7c0aSmellfarts|r",
-		}, -- [173]
+		}, -- [146]
 		{
 			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
 			"Kilbore", -- [2]
@@ -3148,16 +2662,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6413, -- [11]
+			195, -- [11]
 			"0x07000000000116A0", -- [12]
 			0, -- [13]
-			[51] = 1677958567,
+			[51] = 1678562188,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cffff7c0aKilbore|r",
-		}, -- [174]
+		}, -- [147]
 		{
-			"<The Old Crew> traži nove clanove za raidove. Radimo 3x ICC 25 (8/12 hc), 5x RS 25 i 3x ICC 10 tjedno. Koristimo Discord i DKP sistem. Vrijeme raidova je 20:00. Minimalni GS za ulazak u guild je 5.8k. Za vise informacija /w.", -- [1]
-			"Posthar", -- [2]
+			"LFM icc25 - Need, 1 Melee (retri), 1 Ranged (boomi) - 5.5 gs guild run boe/shards/bloods res (23/25)", -- [1]
+			"Stormleet", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3166,16 +2680,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6414, -- [11]
-			"0x070000000056FF7B", -- [12]
+			200, -- [11]
+			"0x0700000000441BAF", -- [12]
 			0, -- [13]
-			[51] = 1677958568,
+			[51] = 1678562192,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Posthar|r",
-		}, -- [175]
+			[52] = "|cfff48cbaStormleet|r",
+		}, -- [148]
 		{
-			"Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:070000000063B8B2:1:5:26:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Fistotank", -- [2]
+			"WTS 500 coins! cheapest price and fast deal!! Get your [Shadowmourne] CHEAP now!! LEGlT DEAL and can show PR00F! whisper me if interested", -- [1]
+			"Ilwvlwvliwvv", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3184,16 +2698,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6415, -- [11]
-			"0x070000000063B8B2", -- [12]
+			201, -- [11]
+			"0x07000000008F6BE3", -- [12]
 			0, -- [13]
-			[51] = 1677958570,
+			[51] = 1678562192,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Fistotank|r",
-		}, -- [176]
+			[52] = "|cffaad372Ilwvlwvliwvv|r",
+		}, -- [149]
 		{
-			"need 1 healer pos norm last boss", -- [1]
-			"Sharbat", -- [2]
+			"ICC 25HC 8/12 FRESH, NEED ALL MIN 6.2KGS AND ACHIV MUST+TIME (SFS RESS) |cffffff00|Hachievement:4584:070000000000C7C6:1:10:19:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Clauujr", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3202,16 +2716,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6416, -- [11]
-			"0x07000000008AF504", -- [12]
+			202, -- [11]
+			"0x070000000000C7C6", -- [12]
 			0, -- [13]
-			[51] = 1677958570,
+			[51] = 1678562192,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Sharbat|r",
-		}, -- [177]
+			[52] = "|cff9382c9Clauujr|r",
+		}, -- [150]
+		{
+			"COIN SCAMMERS ALERT! ------------- BEWARE of lvl 19-24 selling CHEAP COINS, they have HTML edited proofs to temporarily change coin value from 0 to 1000 COINS and he cant even show LIVE SCREENSHARE in DC. ", -- [1]
+			"Ilvwlwvliwvv", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			203, -- [11]
+			"0x07000000008C4842", -- [12]
+			0, -- [13]
+			[51] = 1678562193,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aIlvwlwvliwvv|r",
+		}, -- [151]
 		{
 			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Blackbarett", -- [2]
+			"Bblackbaret", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3220,16 +2752,484 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6417, -- [11]
-			"0x070000000087DF9C", -- [12]
+			206, -- [11]
+			"0x070000000088EF46", -- [12]
 			0, -- [13]
-			[51] = 1677958570,
+			[51] = 1678562195,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff0070ddBlackbarett|r",
+			[52] = "|cffaad372Bblackbaret|r",
+		}, -- [152]
+		{
+			" |cffffff00|Hachievement:697:07000000007BB54C:1:8:1:22:0:0:0:0|h[El Templo Oscuro]|h|r Need 1 heal 1 Tank +2Dps --[Warglaive of Azzinoth]Ress--", -- [1]
+			"Suntoryo", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			207, -- [11]
+			"0x07000000007BB54C", -- [12]
+			0, -- [13]
+			[51] = 1678562195,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Suntoryo|r",
+		}, -- [153]
+		{
+			"LFM ICC 25 NM NEED ALL // 5.8GS + (BOE, PRIMOS, SFS RESS) // W ARCHIVE AND ROLL [Fall of the Lich King (25 player)]", -- [1]
+			"Chikendruid", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			221, -- [11]
+			"0x070000000066B9F2", -- [12]
+			0, -- [13]
+			[51] = 1678562199,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aChikendruid|r",
+		}, -- [154]
+		{
+			"WTS Troll Rogue Name: Jezart Tailor/Engi - Dual Talent - 300 Mount - 7 Boe----> 30 Coin!!", -- [1]
+			"Wynoom", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			225, -- [11]
+			"0x070000000074F460", -- [12]
+			0, -- [13]
+			[51] = 1678562201,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aWynoom|r",
+		}, -- [155]
+		{
+			"Bulgarski guild <DumkaiteseOtzad> nabira hora s opit v ICC i RS. Ako tursite chill runove - zapovqdaite. RT@19:00 BG vreme. /w za poveche info", -- [1]
+			"Apophiss", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			226, -- [11]
+			"0x0700000000622914", -- [12]
+			0, -- [13]
+			[51] = 1678562202,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aApophiss|r",
+		}, -- [156]
+		{
+			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
+			"Swishtime", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			227, -- [11]
+			"0x07000000008F1FB1", -- [12]
+			0, -- [13]
+			[51] = 1678562208,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Swishtime|r",
+		}, -- [157]
+		{
+			"ICC 10nm FRSH 8+/12. Need 2 Tank, 2 Heal, Dps/Rdps (5.1+) no ress", -- [1]
+			"Underouth", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			228, -- [11]
+			"0x070000000030F788", -- [12]
+			0, -- [13]
+			[51] = 1678562208,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefUnderouth|r",
+		}, -- [158]
+		{
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST|cffffff00|Hachievement:4584:0700000000535C70:1:7:18:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Assashin", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			232, -- [11]
+			"0x0700000000535C70", -- [12]
+			0, -- [13]
+			[51] = 1678562209,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Assashin|r",
+		}, -- [159]
+		{
+			"LFM ICC25 GRun - Need, 3 Healer (Disco/Rdudu/Random), 2 Melee (Ret/Fury), 6 Ranged (Lock/Boomie/Mage/SP/Hunter) - 5.8k min GS+ Link best achievment//BoE+Primo+SFS ress (14/25)", -- [1]
+			"Garidapriest", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			235, -- [11]
+			"0x0700000000626062", -- [12]
+			0, -- [13]
+			[51] = 1678562210,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffGaridapriest|r",
+		}, -- [160]
+		{
+			"LFM ICC 25 full nm lk run ( GS Hc )+5.9 /w Me Gs Class Role + Achieve B+P+ Rapid AScent Ress + SFS free roll +1x dps hunt l Last spot 24/25 @ fest", -- [1]
+			"Mortyx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			236, -- [11]
+			"0x07000000008C9775", -- [12]
+			0, -- [13]
+			[51] = 1678562210,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffMortyx|r",
+		}, -- [161]
+		{
+			"Balkanski PvE Guild <Klinika> trazi clanove za aktivan progres, trenutni prog je ICC10nm 12/12 ICC10hc 12/12, ICC25hc 12/12, RS10/25 4/4. GS req 5,8 Koristi se Diskord + DKP! Za vise informacija Whisper", -- [1]
+			"Kurvaarr", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			237, -- [11]
+			"0x070000000060EDD0", -- [12]
+			0, -- [13]
+			[51] = 1678562211,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aKurvaarr|r",
+		}, -- [162]
+		{
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST |cffffff00|Hachievement:4584:07000000000820D4:1:1:29:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Cllaymore", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			241, -- [11]
+			"0x07000000000820D4", -- [12]
+			0, -- [13]
+			[51] = 1678562215,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dCllaymore|r",
+		}, -- [163]
+		{
+			"LFM [Zul'Aman] Need All /w gs+spect ", -- [1]
+			"Ferdino", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			242, -- [11]
+			"0x07000000006EE7B8", -- [12]
+			0, -- [13]
+			[51] = 1678562215,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Ferdino|r",
+		}, -- [164]
+		{
+			"LFM ICC 25 HC 6/12 hc need 1 dps(BOOMY/feral ) 5.7k+ full gems enchants (boe sfs primos res) LAST SPOT 24/25|cffffff00|Hachievement:4584:0700000000837CFE:1:9:17:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Warlockxzc", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			243, -- [11]
+			"0x0700000000837CFE", -- [12]
+			0, -- [13]
+			[51] = 1678562219,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Warlockxzc|r",
+		}, -- [165]
+		{
+			"LF LW", -- [1]
+			"Faghot", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			244, -- [11]
+			"0x07000000008E2D4C", -- [12]
+			0, -- [13]
+			[51] = 1678562220,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefFaghot|r",
+		}, -- [166]
+		{
+			"Balkanski PvE Gild <<Klinika>> Trazi igrace za aktivno raidanje GPROG: icc10n/hc 12/12,icc25HC 12/12,RS 10/25 4/4!Koristi se DISKORD+DKP!Minimalni gs je 6k,poznavanje svoje klase i taktika!Prvensteveno dobra zabava i atmosfera:)Za vise info/w me", -- [1]
+			"Snoplu", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			245, -- [11]
+			"0x070000000015194F", -- [12]
+			0, -- [13]
+			[51] = 1678562221,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Snoplu|r",
+		}, -- [167]
+		{
+			"Russian NEW GUILD <LOCK OUT> Nabiraem ludey 1-80 lvl // sistema /ROLL . Sobiraem adecvatnuy colectiv dlya osvoenia VSEGO contenta LK, budem radu vsem!", -- [1]
+			"Soulldem", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			246, -- [11]
+			"0x07000000008EFDA5", -- [12]
+			0, -- [13]
+			[51] = 1678562222,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Soulldem|r",
+		}, -- [168]
+		{
+			"Ukrainian guild \" Mists of Barabashovo \" recruits active players from 5k8 for ICC & RS! RT: weekdays - 20:00, weekends - 18:00 Kyiv time.", -- [1]
+			"Wheresmybow", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			247, -- [11]
+			"0x07000000008AC3D1", -- [12]
+			0, -- [13]
+			[51] = 1678562224,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Wheresmybow|r",
+		}, -- [169]
+		{
+			" |cffffff00|Hachievement:697:07000000007BB54C:1:8:1:22:0:0:0:0|h[El Templo Oscuro]|h|r Need 1 heal 1 Tank +2Dps --[Warglaive of Azzinoth]Ress--", -- [1]
+			"Fenixx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			248, -- [11]
+			"0x07000000008D399E", -- [12]
+			0, -- [13]
+			[51] = 1678562224,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaFenixx|r",
+		}, -- [170]
+		{
+			"LFM ICC 25 NM/HC - Need, 1 Healer (Disco), 5 Melee ((No More Rogues)Retri/Fury/Feral), 5 Ranged (Lock/Boomie/Mage/Hunter) - 5.8GS+ BoE+Primos (sfs) ress Link Achivement gs spec (14/25)", -- [1]
+			"Brokenbad", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			249, -- [11]
+			"0x07000000007663F7", -- [12]
+			0, -- [13]
+			[51] = 1678562226,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefBrokenbad|r",
+		}, -- [171]
+		{
+			"WTS |cffffff00|Hachievement:4583:07000000006736BC:1:4:5:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r ICC10 HC (Full Run) --BOOST RUN-- with all items for golds. DM for more info!", -- [1]
+			"Ancienty", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			256, -- [11]
+			"0x07000000001ACDA9", -- [12]
+			0, -- [13]
+			[51] = 1678562230,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaAncienty|r",
+		}, -- [172]
+		{
+			"WTS Warlock[name:Darkslash] for 48 coins Lowest Price possible! [BiS WEP + Full BoE`s] + [ENGI + JC] + [280% Fly] via Warmane Store ", -- [1]
+			"Randomnuub", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			258, -- [11]
+			"0x07000000002A4558", -- [12]
+			0, -- [13]
+			[51] = 1678562231,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Randomnuub|r",
+		}, -- [173]
+		{
+			"WTS 72600g fo 26 coins ", -- [1]
+			"Ergoth", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			259, -- [11]
+			"0x07000000001BEF27", -- [12]
+			0, -- [13]
+			[51] = 1678562231,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aErgoth|r",
+		}, -- [174]
+		{
+			"Guild Irani < Freaky Guys > Progress: 1x LOD + 5x ICC 25 8/12 HC + 8x RS 25 + ToGc 25 Player ACtive +6.3 Baraye Ezafe Kardan Raid haye Hc Mipazirad w/me For Info", -- [1]
+			"Justwarlock", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			260, -- [11]
+			"0x07000000007B8581", -- [12]
+			0, -- [13]
+			[51] = 1678562231,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff9382c9Justwarlock|r",
+		}, -- [175]
+		{
+			"< Demonic Empire > End Game English Speaking Guild.Doing 12x LOD [ 0 % Buff Solo Tank 2 Heal / Solo Tank Solo Heal & 0% Buff Full ICc 25 HC Clear ] &14x RS 25 HC / Ulduar & immortality & immortal.RT=7 PM.Apply@ https://demonic-empire.shivtr.com", -- [1]
+			"Shamanresto", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			261, -- [11]
+			"0x07000000004AA762", -- [12]
+			0, -- [13]
+			[51] = 1678562232,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070ddShamanresto|r",
+		}, -- [176]
+		{
+			"{estrella} Wipe and Furious {estrella} Recluta gente para sus raids . Se arman ICC10, ICC25 Y SR25 {cuadrado} {diamante} HORARIO DE RAIDEO 20:00ST. {cuadrado} {diamante}", -- [1]
+			"Germory", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			263, -- [11]
+			"0x070000000034F5B6", -- [12]
+			0, -- [13]
+			[51] = 1678562235,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaGermory|r",
+		}, -- [177]
+		{
+			"LFM |cffff2020|Hquest:24585:80|h[¡El Leviatán de llamas debe morir!]|h|r", -- [1]
+			"Passivedk", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			264, -- [11]
+			"0x070000000082FC21", -- [12]
+			0, -- [13]
+			[51] = 1678562235,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aPassivedk|r",
 		}, -- [178]
 		{
-			"WTS BIS UH DKs (non SM), you pick the items min 66 coins", -- [1]
-			"Xploze", -- [2]
+			"LFM [Zul'Aman] Need All /w gs+spect ", -- [1]
+			"Volfishele", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3238,16 +3238,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6418, -- [11]
-			"0x07000000005F0590", -- [12]
+			267, -- [11]
+			"0x07000000008B86A8", -- [12]
 			0, -- [13]
-			[51] = 1677958571,
+			[51] = 1678562238,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Xploze|r",
+			[52] = "|cff0070ddVolfishele|r",
 		}, -- [179]
 		{
-			"LFM |cffffff00|Hachievement:693:070000000067535C:1:2:21:23:0:0:0:0|h[Guarida de Magtheridon]|h|r tmog run (staff res)", -- [1]
-			"Formz", -- [2]
+			"<Disappointed> Is looking for competent raiders to fill our roster and are able to clear LoD! Required: 6k + Char and class knowledge || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
+			"Holylone", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3256,16 +3256,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6419, -- [11]
-			"0x070000000067535C", -- [12]
+			270, -- [11]
+			"0x07000000005B34C6", -- [12]
 			0, -- [13]
-			[51] = 1677958575,
+			[51] = 1678562240,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aFormz|r",
+			[52] = "|cffffffffHolylone|r",
 		}, -- [180]
 		{
-			"wtb |cffffffff|Hitem:46376:0:0:0:0:0:0:0:80|h[Frasco de la Vermis de Escarcha]|h|r 10stacks for 20k ", -- [1]
-			"Ul", -- [2]
+			"someone need warlock for ulduar ?", -- [1]
+			"Smokinzaza", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3274,16 +3274,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6420, -- [11]
-			"0x0700000000178056", -- [12]
+			272, -- [11]
+			"0x07000000008CA95F", -- [12]
 			0, -- [13]
-			[51] = 1677958575,
+			[51] = 1678562241,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaUl|r",
+			[52] = "|cff9382c9Smokinzaza|r",
 		}, -- [181]
 		{
-			" |cffffff00|Hachievement:1872:0700000000746C4C:0:0:0:-1:0:0:0:0|h[¡Fiesta de zombis!]|h|r NEED heal", -- [1]
-			"Munttorah", -- [2]
+			"WTS Rog undead 14 boe (4255 GS=instant RHC) 2 full prof LW+Tailor 280% name : Nevermor 30 coin ", -- [1]
+			"Nevermor", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3292,16 +3292,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6421, -- [11]
-			"0x0700000000746C4C", -- [12]
+			277, -- [11]
+			"0x07000000008E2AA4", -- [12]
 			0, -- [13]
-			[51] = 1677958578,
+			[51] = 1678562244,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aMunttorah|r",
+			[52] = "|cfffff468Nevermor|r",
 		}, -- [182]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowmourn", -- [2]
+			"Icc 10 Full Lk RUn Nm Wis Me Need Gs +5.7 Achiv Link For iNvit Boe Ress Need .. 1xBoomi Or Mage 9/10 ", -- [1]
+			"Miladr", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3310,16 +3310,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6423, -- [11]
-			"0x07000000008191C6", -- [12]
+			279, -- [11]
+			"0x07000000007A5A0C", -- [12]
 			0, -- [13]
-			[51] = 1677958579,
+			[51] = 1678562245,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowmourn|r",
+			[52] = "|cfffff468Miladr|r",
 		}, -- [183]
 		{
-			"Looking for reliable players to join our guild and heroic raiding teams, raiding 12pm ST. Zero toxicity guild, weekly LoD, come and have some fun with us!Try to get LoD experience, 6.2k toons but if they are really nice we can take lower. Nobody below 5k ", -- [1]
-			"Valknaar", -- [2]
+			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
+			"Kilbore", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3328,16 +3328,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6424, -- [11]
-			"0x070000000086034C", -- [12]
+			282, -- [11]
+			"0x07000000000116A0", -- [12]
 			0, -- [13]
-			[51] = 1677958580,
+			[51] = 1678562249,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Valknaar|r",
+			[52] = "|cffff7c0aKilbore|r",
 		}, -- [184]
 		{
-			"<Invadersx> is an end game guild recruiting heroic experienced raiders with 6.3k+ gs for LoD/RS/ToGC. Raid time 17:45PM ST. Send your chars at https://discord.gg/TFe3QCJsdK", -- [1]
-			"Invadersx", -- [2]
+			"LFM Tank heal dps >> 2 bosses left > Illidari council Ilidan stormrage < |cffffff00|Hachievement:697:07000000005F9900:1:11:24:20:0:0:0:0|h[El Templo Oscuro]|h|r", -- [1]
+			"Unknoow", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3346,16 +3346,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6425, -- [11]
-			"0x07000000008CF512", -- [12]
+			283, -- [11]
+			"0x07000000005F9900", -- [12]
 			0, -- [13]
-			[51] = 1677958582,
+			[51] = 1678562249,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dInvadersx|r",
+			[52] = "|cfffff468Unknoow|r",
 		}, -- [185]
 		{
-			"<The Red Devils> are recruiting 6k+. We are currently progressing 10/12 ICC25hc.mainly need DP+other heals We raid on mondays(ICC25hc 10/12) and thursdays(icc25 8/12) 6PM. Fill in the application: [https://reddevils.gq/] fresh dkp system!", -- [1]
-			"Brutface", -- [2]
+			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
+			"Smellfarts", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3364,16 +3364,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6426, -- [11]
-			"0x070000000068DF99", -- [12]
+			286, -- [11]
+			"0x0700000000849B71", -- [12]
 			0, -- [13]
-			[51] = 1677958584,
+			[51] = 1678562250,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBrutface|r",
+			[52] = "|cffff7c0aSmellfarts|r",
 		}, -- [186]
 		{
-			"WTS |cff1eff00|Hitem:41163:0:0:0:0:0:0:0:80|h[Barra de Titanio]|h|r", -- [1]
-			"Arfnar", -- [2]
+			"WTS 500 coins! cheapest price and fast deal!! Get your [Shadowmourne] CHEAP now!! LEGlT DEAL and can show PR00F! whisper me if interested", -- [1]
+			"Ilwvlwvliwvv", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3382,16 +3382,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6427, -- [11]
-			"0x07000000006277B7", -- [12]
+			288, -- [11]
+			"0x07000000008F6BE3", -- [12]
 			0, -- [13]
-			[51] = 1677958584,
+			[51] = 1678562252,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aArfnar|r",
+			[52] = "|cffaad372Ilwvlwvliwvv|r",
 		}, -- [187]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminprot", -- [2]
+			"LFM icc25 - Need, 1 Melee (retri), 1 Ranged (boomi) - 5.5 gs guild run boe/shards/bloods res (23/25)", -- [1]
+			"Stormleet", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3400,34 +3400,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6428, -- [11]
-			"0x07000000008F2372", -- [12]
+			289, -- [11]
+			"0x0700000000441BAF", -- [12]
 			0, -- [13]
-			[51] = 1677958585,
+			[51] = 1678562252,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminprot|r",
+			[52] = "|cfff48cbaStormleet|r",
 		}, -- [188]
 		{
-			"BIS BM hunt and enhance shamy looking for skilled healer for 3v3 rushing to 2k", -- [1]
-			"Hunterftw", -- [2]
+			"WTS |cffffffff|Hitem:44501:0:0:0:0:0:0:0:19|h[Pistón de Mecánica Goblin]|h|r 700g each", -- [1]
+			"Gemseller", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"", -- [6]
+			"AFK", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6429, -- [11]
-			"0x07000000006BF676", -- [12]
+			290, -- [11]
+			"0x070000000089166C", -- [12]
 			0, -- [13]
-			[51] = 1677958585,
+			[51] = 1678562252,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Hunterftw|r",
+			[52] = "|cffaad372Gemseller|r",
 		}, -- [189]
 		{
-			"TOG10 MOUNT RUN NEED LAST RANDOM DPS 6k2+ |cffffff00|Hachievement:3810:070000000085A274:1:12:31:22:4294967295:4294967295:4294967295:4294967295|h[Un tributo a la locura (10 j.)]|h|r", -- [1]
-			"Whizzed", -- [2]
+			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
+			"Bblackbaret", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3436,16 +3436,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6430, -- [11]
-			"0x070000000085A274", -- [12]
+			294, -- [11]
+			"0x070000000088EF46", -- [12]
 			0, -- [13]
-			[51] = 1677958587,
+			[51] = 1678562255,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefWhizzed|r",
+			[52] = "|cffaad372Bblackbaret|r",
 		}, -- [190]
 		{
-			"LFM ICC 25 HC LOD run +6.3 Link achiv Lod for inv DIscord Req SFS FREE BOe reserve Miss1 RANDOM DPS 24/25 |cffffff00|Hachievement:4584:0700000000012F8D:1:6:16:19:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowpala", -- [2]
+			"WTS Troll Rogue Name: Jezart Tailor/Engi - Dual Talent - 300 Mount - 7 Boe----> 30 Coin!!", -- [1]
+			"Wynoom", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3454,16 +3454,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6431, -- [11]
-			"0x0700000000012F8D", -- [12]
+			298, -- [11]
+			"0x070000000074F460", -- [12]
 			0, -- [13]
-			[51] = 1677958587,
+			[51] = 1678562261,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowpala|r",
+			[52] = "|cffff7c0aWynoom|r",
 		}, -- [191]
 		{
-			"WTB |cff1eff00|Hitem:36923:0:0:0:0:0:0:0:80|h[Calcedonia]|h|r", -- [1]
-			"Violatorr", -- [2]
+			"Bulgarski guild <DumkaiteseOtzad> nabira hora s opit v ICC i RS. Ako tursite chill runove - zapovqdaite. RT@19:00 BG vreme. /w za poveche info", -- [1]
+			"Apophiss", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3472,34 +3472,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6432, -- [11]
-			"0x0700000000440A5D", -- [12]
+			300, -- [11]
+			"0x0700000000622914", -- [12]
 			0, -- [13]
-			[51] = 1677958590,
+			[51] = 1678562262,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dViolatorr|r",
+			[52] = "|cffc41e3aApophiss|r",
 		}, -- [192]
 		{
-			"Na prodaju 54c, moze i uzivo /w", -- [1]
-			"Kevah", -- [2]
+			"LFM ICC 25nm need 1x resto druid or mage or elemental shaman +5.9 (B+P+Ring of rapid Asent ress) 24/25", -- [1]
+			"Xshammy", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"AFK", -- [6]
+			"", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6434, -- [11]
-			"0x070000000072F300", -- [12]
+			301, -- [11]
+			"0x07000000008C6BDA", -- [12]
 			0, -- [13]
-			[51] = 1677958591,
+			[51] = 1678562265,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaKevah|r",
+			[52] = "|cff0070ddXshammy|r",
 		}, -- [193]
 		{
-			"WTB ALL YOUR CARDINAL RUBIES 220 Each C.O.D Me", -- [1]
-			"Zroubaa", -- [2]
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST|cffffff00|Hachievement:4584:0700000000535C70:1:7:18:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Assashin", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3508,229 +3508,13 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6435, -- [11]
-			"0x07000000007C7AF4", -- [12]
+			302, -- [11]
+			"0x0700000000535C70", -- [12]
 			0, -- [13]
-			[51] = 1677958596,
+			[51] = 1678562269,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffZroubaa|r",
+			[52] = "|cfffff468Assashin|r",
 		}, -- [194]
-		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wexpsy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6436, -- [11]
-			"0x070000000063557D", -- [12]
-			0, -- [13]
-			[51] = 1677958596,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffWexpsy|r",
-		}, -- [195]
-		{
-			"wts |cffa335ee|Hitem:50452:0:0:0:0:0:0:0:80|h[Collar de la Suerte de Wodin]|h|r", -- [1]
-			"Healsehrviel", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6437, -- [11]
-			"0x070000000045E876", -- [12]
-			0, -- [13]
-			[51] = 1677958596,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff0070ddHealsehrviel|r",
-		}, -- [196]
-		{
-			"WTS Bane boost 12/12hc full run with all of loots dm me for ressved your spot our raid time 11am/ 2pm Sever time |cffffff00|Hachievement:4583:0700000000060E84:1:10:11:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r", -- [1]
-			"Todaystar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6438, -- [11]
-			"0x0700000000060E84", -- [12]
-			0, -- [13]
-			[51] = 1677958597,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTodaystar|r",
-		}, -- [197]
-		{
-			"WTS on ICECROWN> Human female warr named<Pamority> with 27533gold,63EOF, 11eot,2138arena points,30k honor -AND- Human female rog named<Verile> with 27608gold, 103EOF,20EOT,31k honor on Warmane trade! 30c each ", -- [1]
-			"Mokrontar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6439, -- [11]
-			"0x07000000007E1A9C", -- [12]
-			0, -- [13]
-			[51] = 1677958598,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Mokrontar|r",
-		}, -- [198]
-		{
-			"WTB DK ON SFS QUEST WITH RS SET (MUST HAVE GOOD MOUNTS AND EOF + MARKS) PM ME WITH NAME !!!", -- [1]
-			"Oldisgold", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6440, -- [11]
-			"0x07000000003C2F72", -- [12]
-			0, -- [13]
-			[51] = 1677958598,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Oldisgold|r",
-		}, -- [199]
-		{
-			"CRYPTEA (H/A) vs ICC25H + RS25H- Boomkin PoV (10.000 golds GIVEAWAY, join the stream and participate <3) https://www.twitch.tv/finalarguments", -- [1]
-			"Include", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6441, -- [11]
-			"0x0700000000006F55", -- [12]
-			0, -- [13]
-			[51] = 1677958598,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Include|r",
-		}, -- [200]
-		{
-			"Guild >Harvest Soul< recluta jugadores con exp en ICC25HC y RS25 HC. Progress actual: LoD (x6), RS25 HC (x4), Raid Dinamic (8/12) // Sist. de loot Dkp Hora de raids 00:30 st. /w + info", -- [1]
-			"Scruffed", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6442, -- [11]
-			"0x070000000074F5E5", -- [12]
-			0, -- [13]
-			[51] = 1677958599,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaScruffed|r",
-		}, -- [201]
-		{
-			"LFM [Heroic: Magister's Terrace] MGT HEROIC FOR MOUNT + PET RUN (U NEED TO FINISH NORMAL MODE TO UNLOCK IT) !!", -- [1]
-			"Eadrin", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6443, -- [11]
-			"0x0700000000851C91", -- [12]
-			0, -- [13]
-			[51] = 1677958602,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Eadrin|r",
-		}, -- [202]
-		{
-			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
-			"Titanhorns", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6444, -- [11]
-			"0x07000000002B1B48", -- [12]
-			0, -- [13]
-			[51] = 1677958603,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTitanhorns|r",
-		}, -- [203]
-		{
-			" |cffffff00|Hachievement:697:070000000035E5BA:1:9:10:18:0:0:0:0|h[El Templo Oscuro]|h|r Need LVL 80 Wis Me Nothing Res Need 1x dk Tank 1x prot pala lvl 80 and 2x Ret ", -- [1]
-			"Soouls", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6445, -- [11]
-			"0x070000000035E5BA", -- [12]
-			0, -- [13]
-			[51] = 1677958604,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Soouls|r",
-		}, -- [204]
-		{
-			"< NOV > Bulgarski guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Hakerzz", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6446, -- [11]
-			"0x070000000017E687", -- [12]
-			0, -- [13]
-			[51] = 1677958604,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefHakerzz|r",
-		}, -- [205]
-		{
-			"WTS ORC DK, named Cholak via warmane trade. It has Shadowmourne, Penumbra HC, Apocalypse advance HC, STS HC and WF shoulders and Head. It has BiS pvp proffessions ( JC & BS 450). /w me if interested.", -- [1]
-			"Missclappy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6447, -- [11]
-			"0x07000000005D9DCD", -- [12]
-			0, -- [13]
-			[51] = 1677958606,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMissclappy|r",
-		}, -- [206]
 		{
 			"Fresh Era PvP guild <<dont mess with us>> is currently recruiting experienced / geared players that are willing to WPVP / Premade and more. Requirements are 1800 arena rate or 40 k honor kills /w me for more info", -- [1]
 			"Muck", -- [2]
@@ -3742,16 +3526,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6448, -- [11]
+			304, -- [11]
 			"0x070000000013E227", -- [12]
 			0, -- [13]
-			[51] = 1677958608,
+			[51] = 1678562270,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cfff48cbaMuck|r",
-		}, -- [207]
+		}, -- [195]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminstrator", -- [2]
+			"LFM ICC25 GRun - Need, 3 Healer (Disco/Rdudu/Random), 2 Melee (Ret/Fury), 6 Ranged (Lock/Boomie/Mage/SP/Hunter) - 5.8k min GS+ Link best achievment//BoE+Primo+SFS ress (14/25)", -- [1]
+			"Garidapriest", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -3760,573 +3544,15 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6449, -- [11]
-			"0x07000000008F236F", -- [12]
+			305, -- [11]
+			"0x0700000000626062", -- [12]
 			0, -- [13]
-			[51] = 1677958608,
+			[51] = 1678562270,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminstrator|r",
-		}, -- [208]
+			[52] = "|cffffffffGaridapriest|r",
+		}, -- [196]
 		{
-			"LF HUNTER RSHAM ICC25 8/12 6.2K+ BP + DBW RESS", -- [1]
-			"Bighaus", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6450, -- [11]
-			"0x0700000000036A32", -- [12]
-			0, -- [13]
-			[51] = 1677958613,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBighaus|r",
-		}, -- [209]
-		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wedopsy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6452, -- [11]
-			"0x0700000000607345", -- [12]
-			0, -- [13]
-			[51] = 1677958615,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Wedopsy|r",
-		}, -- [210]
-		{
-			"LFM ICC25NM/HC4/12+ - Need, 1 Ranged (Mage Last spots) - G run (BOE+PRIMOS+sfs RESS) Must be at least 5.7 gs fully gemmed enchanted link gs spec achive we will try to push for more hc (24/25)", -- [1]
-			"Humilitas", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6453, -- [11]
-			"0x07000000007BE7EC", -- [12]
-			0, -- [13]
-			[51] = 1677958623,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaHumilitas|r",
-		}, -- [211]
-		{
-			"[Longevity] Guild TGF-et hírdet, tapasztalt játékosoknak. Hetente több 10-es hc run, Icc25Hc 8/12 heti 3db és LoD progress raid. Heti minimum 3 db Rs25. DKP system. SFS gyüjtése jelenleg opció várólista van.", -- [1]
-			"Streetrats", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6454, -- [11]
-			"0x0700000000505499", -- [12]
-			0, -- [13]
-			[51] = 1677958625,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffStreetrats|r",
-		}, -- [212]
-		{
-			"LFM ICC 25 NM RUN NEED ALL // 5.7 GS + [Heroic: Fall of the Lich King (25 player)] (BOE, PRIMOS, SFS RESS) // W ARCHIVE", -- [1]
-			"Uxia", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6455, -- [11]
-			"0x0700000000632FAD", -- [12]
-			0, -- [13]
-			[51] = 1677958626,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaUxia|r",
-		}, -- [213]
-		{
-			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
-			"Kilbore", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6456, -- [11]
-			"0x07000000000116A0", -- [12]
-			0, -- [13]
-			[51] = 1677958627,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aKilbore|r",
-		}, -- [214]
-		{
-			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
-			"Smellfarts", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6458, -- [11]
-			"0x0700000000849B71", -- [12]
-			0, -- [13]
-			[51] = 1677958627,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aSmellfarts|r",
-		}, -- [215]
-		{
-			" https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM (All Subscribers are invited to a \"SUBS\" Bane Run where you can join with any gs character you want.", -- [1]
-			"Ritaora", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6459, -- [11]
-			"0x07000000005A378A", -- [12]
-			0, -- [13]
-			[51] = 1677958629,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaRitaora|r",
-		}, -- [216]
-		{
-			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Blackbarett", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6460, -- [11]
-			"0x070000000087DF9C", -- [12]
-			0, -- [13]
-			[51] = 1677958630,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff0070ddBlackbarett|r",
-		}, -- [217]
-		{
-			"WTS BIS UH DKs (non SM), you pick the items min 66 coins", -- [1]
-			"Xploze", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6461, -- [11]
-			"0x07000000005F0590", -- [12]
-			0, -- [13]
-			[51] = 1677958631,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Xploze|r",
-		}, -- [218]
-		{
-			"ICC25 8/12HC NEED ANY DPS WE ARE SINDY REPLACE OFF |cffffff00|Hachievement:4637:07000000008A128D:1:2:10:23:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Caída del Rey Exánime (25 j.)]|h|r", -- [1]
-			"Drokislam", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6462, -- [11]
-			"0x07000000008A128D", -- [12]
-			0, -- [13]
-			[51] = 1677958632,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dDrokislam|r",
-		}, -- [219]
-		{
-			"LFM ICC 10 LK Run (GS-HC; wfs ress) need all 5,8+ /w me with gs class achiev", -- [1]
-			"Djcrouchpeek", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6463, -- [11]
-			"0x07000000003EBE32", -- [12]
-			0, -- [13]
-			[51] = 1677958635,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDjcrouchpeek|r",
-		}, -- [220]
-		{
-			"WTB |cffffffff|Hitem:36905:0:0:0:0:0:0:0:80|h[Flor Exánime]|h|r - 700g/stack, |cffffffff|Hitem:36903:0:0:0:0:0:0:0:80|h[Lengua de Víboris]|h|r -800g/stack - C.O.D me!", -- [1]
-			"Owlgore", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6464, -- [11]
-			"0x070000000047575D", -- [12]
-			0, -- [13]
-			[51] = 1677958637,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aOwlgore|r",
-		}, -- [221]
-		{
-			"ICC 25HC 8/12 FRESH, need all min 6.2kgs and achiv must+time (primo+sfs ress) |cffffff00|Hachievement:4584:0700000000731DA0:1:11:10:21:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Claaujr", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6465, -- [11]
-			"0x0700000000731DA0", -- [12]
-			0, -- [13]
-			[51] = 1677958637,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aClaaujr|r",
-		}, -- [222]
-		{
-			"<The Old Crew> traži nove clanove za raidove. Radimo 3x ICC 25 (8/12 hc), 5x RS 25 i 3x ICC 10 tjedno. Koristimo Discord i DKP sistem. Vrijeme raidova je 20:00. Minimalni GS za ulazak u guild je 5.8k. Za vise informacija /w.", -- [1]
-			"Posthar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6466, -- [11]
-			"0x070000000056FF7B", -- [12]
-			0, -- [13]
-			[51] = 1677958638,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Posthar|r",
-		}, -- [223]
-		{
-			"Guildless, bored and capable? Say no more, join <Disappointed> Today! We're looking for competent people able to clear LoD! Required: class knowledge and 6k + Char || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
-			"Holylone", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6467, -- [11]
-			"0x07000000005B34C6", -- [12]
-			0, -- [13]
-			[51] = 1677958640,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffHolylone|r",
-		}, -- [224]
-		{
-			"Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:070000000063B8B2:1:5:26:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Fistotank", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6468, -- [11]
-			"0x070000000063B8B2", -- [12]
-			0, -- [13]
-			[51] = 1677958640,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Fistotank|r",
-		}, -- [225]
-		{
-			"LFM ULDUAR 10 wisp me spec gs \"Only skilled players\"", -- [1]
-			"Hemma", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6469, -- [11]
-			"0x07000000008857BA", -- [12]
-			0, -- [13]
-			[51] = 1677958641,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Hemma|r",
-		}, -- [226]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowmourn", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6470, -- [11]
-			"0x07000000008191C6", -- [12]
-			0, -- [13]
-			[51] = 1677958641,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowmourn|r",
-		}, -- [227]
-		{
-			"<Invadersx> is an end game guild recruiting heroic experienced raiders with 6.3k+ gs for LoD/RS/ToGC. Raid time 17:45PM ST. Send your chars at https://discord.gg/TFe3QCJsdK", -- [1]
-			"Invadersx", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6471, -- [11]
-			"0x07000000008CF512", -- [12]
-			0, -- [13]
-			[51] = 1677958642,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dInvadersx|r",
-		}, -- [228]
-		{
-			"LFM ICC10 12/12HC solo tank solo heal fresh bane run!! Need ret or hunter (big PP only) /w me GS/Spec/Achiev. Must have 6k+ GS + time + discord (no need to talk but more fun if you do). grp loot", -- [1]
-			"Deandsonia", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6472, -- [11]
-			"0x070000000065062D", -- [12]
-			0, -- [13]
-			[51] = 1677958644,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDeandsonia|r",
-		}, -- [229]
-		{
-			"<The Red Devils> are recruiting 6k+. We are currently progressing 10/12 ICC25hc.mainly need DP+other heals We raid on mondays(ICC25hc 10/12) and thursdays(icc25 8/12) 6PM. Fill in the application: [https://reddevils.gq/] fresh dkp system!", -- [1]
-			"Brutface", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6473, -- [11]
-			"0x070000000068DF99", -- [12]
-			0, -- [13]
-			[51] = 1677958644,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBrutface|r",
-		}, -- [230]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminprot", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6474, -- [11]
-			"0x07000000008F2372", -- [12]
-			0, -- [13]
-			[51] = 1677958645,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminprot|r",
-		}, -- [231]
-		{
-			"Na prodaju 54c, moze i uzivo /w", -- [1]
-			"Kevah", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6481, -- [11]
-			"0x070000000072F300", -- [12]
-			0, -- [13]
-			[51] = 1677958651,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaKevah|r",
-		}, -- [232]
-		{
-			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
-			"Swishtime", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6484, -- [11]
-			"0x07000000008F1FB1", -- [12]
-			0, -- [13]
-			[51] = 1677958655,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Swishtime|r",
-		}, -- [233]
-		{
-			" |cffffff00|Hachievement:1872:0700000000746C4C:0:0:0:-1:0:0:0:0|h[¡Fiesta de zombis!]|h|r NEED HEAL", -- [1]
-			"Munttorah", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6485, -- [11]
-			"0x0700000000746C4C", -- [12]
-			0, -- [13]
-			[51] = 1677958655,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aMunttorah|r",
-		}, -- [234]
-		{
-			"ICC25 8/12 HC LF HUNTER RSHAM DISC MAGE 21/25 <BP DBW RES / SFS FREE!> 6.2K+ INSPECT MEMO! HAVE TIME+ACHI! ", -- [1]
-			"Wtfx", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6486, -- [11]
-			"0x07000000008783D4", -- [12]
-			0, -- [13]
-			[51] = 1677958656,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dWtfx|r",
-		}, -- [235]
-		{
-			"WTS Bane boost 12/12hc full run with all of loots dm me for ressved your spot our raid time 11am/ 2pm Sever time |cffffff00|Hachievement:4583:0700000000060E84:1:10:11:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r", -- [1]
-			"Todaystar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6487, -- [11]
-			"0x0700000000060E84", -- [12]
-			0, -- [13]
-			[51] = 1677958657,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTodaystar|r",
-		}, -- [236]
-		{
-			"TOG10 MOUNT RUN NEED LAST RANDOM DPS 6k2+ |cffffff00|Hachievement:3810:070000000085A274:1:12:31:22:4294967295:4294967295:4294967295:4294967295|h[Un tributo a la locura (10 j.)]|h|r", -- [1]
-			"Whizzed", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6488, -- [11]
-			"0x070000000085A274", -- [12]
-			0, -- [13]
-			[51] = 1677958658,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefWhizzed|r",
-		}, -- [237]
-		{
-			"WTB DK ON SFS QUEST WITH RS SET (MUST HAVE GOOD MOUNTS AND EOF + MARKS) PM ME WITH NAME !!!", -- [1]
-			"Oldisgold", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6489, -- [11]
-			"0x07000000003C2F72", -- [12]
-			0, -- [13]
-			[51] = 1677958658,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Oldisgold|r",
-		}, -- [238]
-		{
-			"Guild >Harvest Soul< recluta jugadores con exp en ICC25HC y RS25 HC. Progress actual: LoD (x6), RS25 HC (x4), Raid Dinamic (8/12) // Sist. de loot Dkp Hora de raids 00:30 st. /w + info", -- [1]
-			"Scruffed", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6490, -- [11]
-			"0x070000000074F5E5", -- [12]
-			0, -- [13]
-			[51] = 1677958659,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaScruffed|r",
-		}, -- [239]
-		{
-			"ICC 25HC 8/12 FRESH, need all min 6.2kgs and achiv must+time (primo+sfs ress) |cffffff00|Hachievement:4584:070000000083155E:1:10:29:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"ICC 25HC 8/12 FRESH, NEED ALL MIN 6.2KGS AND ACHIV MUST+TIME (SFS RESS) |cffffff00|Hachievement:4584:070000000083155E:1:10:29:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
 			"Claujr", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
@@ -4336,16 +3562,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6491, -- [11]
+			306, -- [11]
 			"0x070000000083155E", -- [12]
 			0, -- [13]
-			[51] = 1677958663,
+			[51] = 1678562270,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cfff48cbaClaujr|r",
-		}, -- [240]
+		}, -- [197]
 		{
-			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
-			"Titanhorns", -- [2]
+			"Balkanski PvE Guild <Klinika> trazi clanove za aktivan progres, trenutni prog je ICC10nm 12/12 ICC10hc 12/12, ICC25hc 12/12, RS10/25 4/4. GS req 5,8 Koristi se Diskord + DKP! Za vise informacija Whisper", -- [1]
+			"Kurvaarr", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -4354,16 +3580,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6493, -- [11]
-			"0x07000000002B1B48", -- [12]
+			307, -- [11]
+			"0x070000000060EDD0", -- [12]
 			0, -- [13]
-			[51] = 1677958663,
+			[51] = 1678562271,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTitanhorns|r",
-		}, -- [241]
+			[52] = "|cffc41e3aKurvaarr|r",
+		}, -- [198]
 		{
-			"< NOV > Bulgarski guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Hakerzz", -- [2]
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST |cffffff00|Hachievement:4584:07000000000820D4:1:1:29:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Cllaymore", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -4372,16 +3598,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6494, -- [11]
-			"0x070000000017E687", -- [12]
+			310, -- [11]
+			"0x07000000000820D4", -- [12]
 			0, -- [13]
-			[51] = 1677958664,
+			[51] = 1678562275,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefHakerzz|r",
-		}, -- [242]
+			[52] = "|cffc69b6dCllaymore|r",
+		}, -- [199]
 		{
-			"Selling characters. NAMES: Azzinoth, Saint", -- [1]
-			"Willb", -- [2]
+			"LFM [Zul'Aman] Need All /w gs+spect ", -- [1]
+			"Ferdino", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -4390,177 +3616,15 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6495, -- [11]
-			"0x070000000024F377", -- [12]
+			311, -- [11]
+			"0x07000000006EE7B8", -- [12]
 			0, -- [13]
-			[51] = 1677958665,
+			[51] = 1678562275,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Willb|r",
-		}, -- [243]
+			[52] = "|cfffff468Ferdino|r",
+		}, -- [200]
 		{
-			"WTB ALL YOUR CARDINAL RUBIES 220 Each C.O.D Me", -- [1]
-			"Zroubaa", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6496, -- [11]
-			"0x07000000007C7AF4", -- [12]
-			0, -- [13]
-			[51] = 1677958666,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffZroubaa|r",
-		}, -- [244]
-		{
-			"WTS ORC DK, named Cholak via warmane trade. It has Shadowmourne, Penumbra HC, Apocalypse advance HC, STS HC and WF shoulders and Head. It has BiS pvp proffessions ( JC & BS 450). /w me if interested.", -- [1]
-			"Missclappy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6497, -- [11]
-			"0x07000000005D9DCD", -- [12]
-			0, -- [13]
-			[51] = 1677958666,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMissclappy|r",
-		}, -- [245]
-		{
-			"<Passion> Social raiding guild is recruiting people of all caliber to join our community. Our goal is to have a relaxed and fun raiding environment while still maintaining clean clears. Farming LOD/RS/TOGC weekly @18 ST. /w for more info", -- [1]
-			"Grassonly", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6500, -- [11]
-			"0x070000000064C70F", -- [12]
-			0, -- [13]
-			[51] = 1677958667,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aGrassonly|r",
-		}, -- [246]
-		{
-			"LFM Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:07000000005CD744:1:10:27:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Vaargoth", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6504, -- [11]
-			"0x07000000005CD744", -- [12]
-			0, -- [13]
-			[51] = 1677958668,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefVaargoth|r",
-		}, -- [247]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminstrator", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6508, -- [11]
-			"0x07000000008F236F", -- [12]
-			0, -- [13]
-			[51] = 1677958670,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminstrator|r",
-		}, -- [248]
-		{
-			"WTS on ICECROWN> Human female warr named<Pamority> with 27533gold,63EOF, 11eot,2138arena points,30k honor -AND- Human female rog named<Verile> with 27608gold, 103EOF,20EOT,31k honor on Warmane trade! 30c each ", -- [1]
-			"Mokrontar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6513, -- [11]
-			"0x07000000007E1A9C", -- [12]
-			0, -- [13]
-			[51] = 1677958673,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Mokrontar|r",
-		}, -- [249]
-		{
-			"WTB |cff1eff00|Hitem:36923:0:0:0:0:0:0:0:80|h[Calcedonia]|h|r", -- [1]
-			"Violatorr", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6514, -- [11]
-			"0x0700000000440A5D", -- [12]
-			0, -- [13]
-			[51] = 1677958673,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dViolatorr|r",
-		}, -- [250]
-		{
-			"LFM [Heroic: Magister's Terrace] MGT HEROIC FOR MOUNT + PET RUN (U NEED TO FINISH NORMAL MODE TO UNLOCK IT) !!", -- [1]
-			"Eadrin", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6518, -- [11]
-			"0x0700000000851C91", -- [12]
-			0, -- [13]
-			[51] = 1677958676,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Eadrin|r",
-		}, -- [251]
-		{
-			"LFM |cffffff00|Hachievement:693:070000000067535C:1:2:21:23:0:0:0:0|h[Guarida de Magtheridon]|h|r tmog run (staff res)", -- [1]
-			"Formz", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6519, -- [11]
-			"0x070000000067535C", -- [12]
-			0, -- [13]
-			[51] = 1677958678,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aFormz|r",
-		}, -- [252]
-		{
-			"LFM ICC 25 HC LOD run +6.3 Link achiv Lod for inv DIscord Req SFS FREE BOe reserve Miss1 RDPS DPS 24/25 |cffffff00|Hachievement:4584:0700000000012F8D:1:6:16:19:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"LFM ULDuar 25 Man MIX run +5.8 Full run Only Fragment reserve 24/25 discordreq1tank.1BOOMY.MAGe |cffffff00|Hachievement:2958:0700000000012F8D:1:10:10:21:4294967295:4294967295:4294967295:4294967295|h[La gloria del asaltante de Ulduar (25 j.)]|h|r", -- [1]
 			"Shadowpala", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
@@ -4570,772 +3634,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6521, -- [11]
+			312, -- [11]
 			"0x0700000000012F8D", -- [12]
 			0, -- [13]
-			[51] = 1677958681,
+			[51] = 1678562276,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cfff48cbaShadowpala|r",
-		}, -- [253]
-		{
-			"LFM ICC25NM/HC4/12+ - Need, 2 Ranged (Boomie/Mage Last spot) - G run (BOE+PRIMOS+sfs RESS) Must be at least 5.7 gs fully gemmed enchanted link gs spec achive we will try to push for more hc (23/25)", -- [1]
-			"Humilitas", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6523, -- [11]
-			"0x07000000007BE7EC", -- [12]
-			0, -- [13]
-			[51] = 1677958683,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaHumilitas|r",
-		}, -- [254]
-		{
-			"LFM ICC25N (BLOOD RES) 5.9+ NEED ALL", -- [1]
-			"Levov", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6525, -- [11]
-			"0x07000000008C6329", -- [12]
-			0, -- [13]
-			[51] = 1677958684,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Levov|r",
-		}, -- [255]
-		{
-			"WTS NAMES LIKE BALKANDAD APOLLO HEAVENBAE BARTHOLOMEW FOR GOLD", -- [1]
-			"Ylber", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6526, -- [11]
-			"0x07000000007A40DD", -- [12]
-			0, -- [13]
-			[51] = 1677958686,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Ylber|r",
-		}, -- [256]
-		{
-			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
-			"Kilbore", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6527, -- [11]
-			"0x07000000000116A0", -- [12]
-			0, -- [13]
-			[51] = 1677958687,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aKilbore|r",
-		}, -- [257]
-		{
-			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
-			"Smellfarts", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6528, -- [11]
-			"0x0700000000849B71", -- [12]
-			0, -- [13]
-			[51] = 1677958689,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aSmellfarts|r",
-		}, -- [258]
-		{
-			"WTS blood elf retry PALADIN with gloren(HC) STS/TINY (hc) penumbra (HC) 310% mount some boe + 300eof +++ naked druid with achives /w me for more ", -- [1]
-			"Drunkpotato", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6529, -- [11]
-			"0x0700000000105EDB", -- [12]
-			0, -- [13]
-			[51] = 1677958690,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDrunkpotato|r",
-		}, -- [259]
-		{
-			"LF HUNTER RSHAM ICC25 8/12 6.2K+ BP + DBW RESS", -- [1]
-			"Bighaus", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6530, -- [11]
-			"0x0700000000036A32", -- [12]
-			0, -- [13]
-			[51] = 1677958690,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBighaus|r",
-		}, -- [260]
-		{
-			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Blackbarett", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6531, -- [11]
-			"0x070000000087DF9C", -- [12]
-			0, -- [13]
-			[51] = 1677958690,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff0070ddBlackbarett|r",
-		}, -- [261]
-		{
-			"WTS BIS UH DKs (non SM), you pick the items min 66 coins", -- [1]
-			"Xploze", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6532, -- [11]
-			"0x07000000005F0590", -- [12]
-			0, -- [13]
-			[51] = 1677958691,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Xploze|r",
-		}, -- [262]
-		{
-			"[Longevity] Guild TGF-et hírdet, tapasztalt játékosoknak. Hetente több 10-es hc run, Icc25Hc 8/12 heti 3db és LoD progress raid. Heti minimum 3 db Rs25. DKP system. SFS gyüjtése jelenleg opció várólista van.", -- [1]
-			"Streetrats", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6533, -- [11]
-			"0x0700000000505499", -- [12]
-			0, -- [13]
-			[51] = 1677958695,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffStreetrats|r",
-		}, -- [263]
-		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wexpsy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6534, -- [11]
-			"0x070000000063557D", -- [12]
-			0, -- [13]
-			[51] = 1677958697,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffWexpsy|r",
-		}, -- [264]
-		{
-			"<The Old Crew> traži nove clanove za raidove. Radimo 3x ICC 25 (8/12 hc), 5x RS 25 i 3x ICC 10 tjedno. Koristimo Discord i DKP sistem. Vrijeme raidova je 20:00. Minimalni GS za ulazak u guild je 5.8k. Za vise informacija /w.", -- [1]
-			"Posthar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6535, -- [11]
-			"0x070000000056FF7B", -- [12]
-			0, -- [13]
-			[51] = 1677958699,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Posthar|r",
-		}, -- [265]
-		{
-			"<Invadersx> is an end game guild recruiting heroic experienced raiders with 6.3k+ gs for LoD/RS/ToGC. Raid time 17:45PM ST. Send your chars at https://discord.gg/TFe3QCJsdK", -- [1]
-			"Invadersx", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6536, -- [11]
-			"0x07000000008CF512", -- [12]
-			0, -- [13]
-			[51] = 1677958702,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dInvadersx|r",
-		}, -- [266]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowmourn", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6538, -- [11]
-			"0x07000000008191C6", -- [12]
-			0, -- [13]
-			[51] = 1677958704,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowmourn|r",
-		}, -- [267]
-		{
-			"<The Red Devils> are recruiting 6k+. We are currently progressing 10/12 ICC25hc.mainly need DP+other heals We raid on mondays(ICC25hc 10/12) and thursdays(icc25 8/12) 6PM. Fill in the application: [https://reddevils.gq/] fresh dkp system!", -- [1]
-			"Brutface", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6539, -- [11]
-			"0x070000000068DF99", -- [12]
-			0, -- [13]
-			[51] = 1677958704,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBrutface|r",
-		}, -- [268]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminprot", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6540, -- [11]
-			"0x07000000008F2372", -- [12]
-			0, -- [13]
-			[51] = 1677958705,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminprot|r",
-		}, -- [269]
-		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wedopsy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6541, -- [11]
-			"0x0700000000607345", -- [12]
-			0, -- [13]
-			[51] = 1677958705,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Wedopsy|r",
-		}, -- [270]
-		{
-			"WTS Orc Hunter with STS HC, 7 BOE, Tailoring , fast fly for 48c only /w for more info", -- [1]
-			"Anthvia", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6542, -- [11]
-			"0x07000000007A1110", -- [12]
-			0, -- [13]
-			[51] = 1677958709,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAnthvia|r",
-		}, -- [271]
-		{
-			"WTS |cffa335ee|Hitem:31336:0:0:0:0:0:0:0:80|h[Hoja de hechicería]|h|r |cffa335ee|Hitem:31332:0:0:0:0:0:0:0:80|h[Golpe de Traslación]|h|r", -- [1]
-			"Getts", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6543, -- [11]
-			"0x070000000087287F", -- [12]
-			0, -- [13]
-			[51] = 1677958710,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffGetts|r",
-		}, -- [272]
-		{
-			"Fresh Era PvP guild <<dont mess with us>> is currently recruiting experienced / geared players that are willing to WPVP / Premade and more. Requirements are 1800 arena rate or 40 k honor kills /w me for more info", -- [1]
-			"Muck", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6544, -- [11]
-			"0x070000000013E227", -- [12]
-			0, -- [13]
-			[51] = 1677958710,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaMuck|r",
-		}, -- [273]
-		{
-			"LFM ICC 10 LK Run (GS-HC; wfs ress) need all 5,8+ /w me with gs class achiev", -- [1]
-			"Djcrouchpeek", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6545, -- [11]
-			"0x07000000003EBE32", -- [12]
-			0, -- [13]
-			[51] = 1677958711,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDjcrouchpeek|r",
-		}, -- [274]
-		{
-			"Na prodaju 54c, moze i uzivo /w", -- [1]
-			"Kevah", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6546, -- [11]
-			"0x070000000072F300", -- [12]
-			0, -- [13]
-			[51] = 1677958711,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaKevah|r",
-		}, -- [275]
-		{
-			"Guildless, bored and capable? Say no more, join <Disappointed> Today! We're looking for competent people able to clear LoD! Required: class knowledge and 6k + Char || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
-			"Holylone", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6548, -- [11]
-			"0x07000000005B34C6", -- [12]
-			0, -- [13]
-			[51] = 1677958715,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffHolylone|r",
-		}, -- [276]
-		{
-			"WTS Bane boost 12/12hc full run with all of loots dm me for ressved your spot our raid time 11am/ 2pm Sever time |cffffff00|Hachievement:4583:0700000000060E84:1:10:11:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r", -- [1]
-			"Todaystar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6550, -- [11]
-			"0x0700000000060E84", -- [12]
-			0, -- [13]
-			[51] = 1677958717,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTodaystar|r",
-		}, -- [277]
-		{
-			"ICC25 8/12 HC LF HUNTER RSHAM DISC MAGE BOOMIE PROT PALA <BP DBW RES / SFS FREE!> 6.2K+ HAVE TIME+ACHI!! 20/25 SUMMON NOW!!", -- [1]
-			"Ufcx", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6551, -- [11]
-			"0x07000000008A8C7B", -- [12]
-			0, -- [13]
-			[51] = 1677958717,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Ufcx|r",
-		}, -- [278]
-		{
-			"WTB DK ON SFS QUEST WITH RS SET (MUST HAVE GOOD MOUNTS AND EOF + MARKS) PM ME WITH NAME !!!", -- [1]
-			"Oldisgold", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6553, -- [11]
-			"0x07000000003C2F72", -- [12]
-			0, -- [13]
-			[51] = 1677958718,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Oldisgold|r",
-		}, -- [279]
-		{
-			"CRYPTEA (H/A) vs ICC25H + RS25H- Boomkin PoV (10.000 golds GIVEAWAY, join the stream and participate <3) https://www.twitch.tv/finalarguments", -- [1]
-			"Include", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6555, -- [11]
-			"0x0700000000006F55", -- [12]
-			0, -- [13]
-			[51] = 1677958719,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Include|r",
-		}, -- [280]
-		{
-			"Guild >Harvest Soul< recluta jugadores con exp en ICC25HC y RS25 HC. Progress actual: LoD (x6), RS25 HC (x4), Raid Dinamic (8/12) // Sist. de loot Dkp Hora de raids 00:30 st. /w + info", -- [1]
-			"Scruffed", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6556, -- [11]
-			"0x070000000074F5E5", -- [12]
-			0, -- [13]
-			[51] = 1677958719,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaScruffed|r",
-		}, -- [281]
-		{
-			"LFM RS 25Nm (STS Ress) 5.8k GS + Link Achieve", -- [1]
-			"Acidhunter", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6561, -- [11]
-			"0x07000000006C1FAE", -- [12]
-			0, -- [13]
-			[51] = 1677958723,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Acidhunter|r",
-		}, -- [282]
-		{
-			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
-			"Titanhorns", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6562, -- [11]
-			"0x07000000002B1B48", -- [12]
-			0, -- [13]
-			[51] = 1677958723,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTitanhorns|r",
-		}, -- [283]
-		{
-			"< NOV > Bulgarski guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Hakerzz", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6564, -- [11]
-			"0x070000000017E687", -- [12]
-			0, -- [13]
-			[51] = 1677958724,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefHakerzz|r",
-		}, -- [284]
-		{
-			"WTS ORC DK, named Cholak via warmane trade. It has Shadowmourne, Penumbra HC, Apocalypse advance HC, STS HC and WF shoulders and Head. It has BiS pvp proffessions ( JC & BS 450). /w me if interested.", -- [1]
-			"Missclappy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6565, -- [11]
-			"0x07000000005D9DCD", -- [12]
-			0, -- [13]
-			[51] = 1677958726,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMissclappy|r",
-		}, -- [285]
-		{
-			"LFM ULDUAR 10 wisp me spec gs \"Only skilled players\"", -- [1]
-			"Hemma", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6566, -- [11]
-			"0x07000000008857BA", -- [12]
-			0, -- [13]
-			[51] = 1677958727,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Hemma|r",
-		}, -- [286]
-		{
-			"WTB |cffffffff|Hitem:36905:0:0:0:0:0:0:0:80|h[Flor Exánime]|h|r - 700g/stack, |cffffffff|Hitem:36903:0:0:0:0:0:0:0:80|h[Lengua de Víboris]|h|r -800g/stack - C.O.D me!", -- [1]
-			"Owlgore", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6567, -- [11]
-			"0x070000000047575D", -- [12]
-			0, -- [13]
-			[51] = 1677958727,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aOwlgore|r",
-		}, -- [287]
-		{
-			"lfm icc 10 nm/ hc last spots retp/sp", -- [1]
-			"Kirokral", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6569, -- [11]
-			"0x07000000007E8189", -- [12]
-			0, -- [13]
-			[51] = 1677958730,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dKirokral|r",
-		}, -- [288]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminstrator", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6570, -- [11]
-			"0x07000000008F236F", -- [12]
-			0, -- [13]
-			[51] = 1677958732,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminstrator|r",
-		}, -- [289]
-		{
-			"WTB ALL YOUR CARDINAL RUBIES 220 Each C.O.D Me", -- [1]
-			"Zroubaa", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6572, -- [11]
-			"0x07000000007C7AF4", -- [12]
-			0, -- [13]
-			[51] = 1677958736,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffZroubaa|r",
-		}, -- [290]
-		{
-			"WTS characters. NAMES: Azzinoth, Saint", -- [1]
-			"Willb", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6583, -- [11]
-			"0x070000000024F377", -- [12]
-			0, -- [13]
-			[51] = 1677958742,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Willb|r",
-		}, -- [291]
-		{
-			"LFM ICC25NM/HC4/12+ - Need, 2 Ranged (Boomie/Mage Last spot) - G run (BOE+PRIMOS+sfs RESS) Must be at least 5.7 gs fully gemmed enchanted link gs spec achive we will try to push for more hc (23/25)", -- [1]
-			"Humilitas", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6584, -- [11]
-			"0x07000000007BE7EC", -- [12]
-			0, -- [13]
-			[51] = 1677958743,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaHumilitas|r",
-		}, -- [292]
-		{
-			"WTS lock(Xmlock) /rogue(Darkspot) 10/15 Boe items full soket enchnts dual spec 280% fly mounts 5k gold 30 coin via warmane trade", -- [1]
-			"Iseengard", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6585, -- [11]
-			"0x070000000062C92E", -- [12]
-			0, -- [13]
-			[51] = 1677958743,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aIseengard|r",
-		}, -- [293]
-		{
-			"Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:070000000063B8B2:1:5:26:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Fistotank", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6586, -- [11]
-			"0x070000000063B8B2", -- [12]
-			0, -- [13]
-			[51] = 1677958749,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Fistotank|r",
-		}, -- [294]
+		}, -- [201]
 		{
 			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
 			"Swishtime", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"AFK", -- [6]
+			"", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6587, -- [11]
+			313, -- [11]
 			"0x07000000008F1FB1", -- [12]
 			0, -- [13]
-			[51] = 1677958749,
+			[51] = 1678562277,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cfffff468Swishtime|r",
-		}, -- [295]
+		}, -- [202]
 		{
-			"WTS on ICECROWN> Human female warr named<Pamority> with 27533gold,63EOF, 11eot,2138arena points,30k honor -AND- Human female rog named<Verile> with 27608gold, 103EOF,20EOT,31k honor on Warmane trade! 30c each ", -- [1]
-			"Mokrontar", -- [2]
+			"ICC 25HC 8/12 FRESH, NEED ALL MIN 6.2KGS AND ACHIV MUST+TIME (SFS RESS) |cffffff00|Hachievement:4584:070000000000C7C6:1:10:19:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Clauujr", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5344,16 +3670,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6588, -- [11]
-			"0x07000000007E1A9C", -- [12]
+			316, -- [11]
+			"0x070000000000C7C6", -- [12]
 			0, -- [13]
-			[51] = 1677958749,
+			[51] = 1678562280,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Mokrontar|r",
-		}, -- [296]
+			[52] = "|cff9382c9Clauujr|r",
+		}, -- [203]
 		{
-			" https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM (All Subscribers are invited to a \"SUBS\" Bane Run where you can join with any gs character you want.", -- [1]
-			"Ritaora", -- [2]
+			"Balkanski PvE Gild <<Klinika>> Trazi igrace za aktivno raidanje GPROG: icc10n/hc 12/12,icc25HC 12/12,RS 10/25 4/4!Koristi se DISKORD+DKP!Minimalni gs je 6k,poznavanje svoje klase i taktika!Prvensteveno dobra zabava i atmosfera:)Za vise info/w me", -- [1]
+			"Snoplu", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5362,87 +3688,15 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6589, -- [11]
-			"0x07000000005A378A", -- [12]
+			317, -- [11]
+			"0x070000000015194F", -- [12]
 			0, -- [13]
-			[51] = 1677958749,
+			[51] = 1678562281,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaRitaora|r",
-		}, -- [297]
+			[52] = "|cffaad372Snoplu|r",
+		}, -- [204]
 		{
-			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
-			"Kilbore", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6590, -- [11]
-			"0x07000000000116A0", -- [12]
-			0, -- [13]
-			[51] = 1677958749,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aKilbore|r",
-		}, -- [298]
-		{
-			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Blackbarett", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6591, -- [11]
-			"0x070000000087DF9C", -- [12]
-			0, -- [13]
-			[51] = 1677958750,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff0070ddBlackbarett|r",
-		}, -- [299]
-		{
-			"WTS BIS UH DKs (non SM), you pick the items min 66 coins", -- [1]
-			"Xploze", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6592, -- [11]
-			"0x07000000005F0590", -- [12]
-			0, -- [13]
-			[51] = 1677958751,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Xploze|r",
-		}, -- [300]
-		{
-			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
-			"Smellfarts", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6593, -- [11]
-			"0x0700000000849B71", -- [12]
-			0, -- [13]
-			[51] = 1677958751,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aSmellfarts|r",
-		}, -- [301]
-		{
-			"WTS Boosting Service Bane / LOD / Togc / Rs 10/25 Dm ME FOR MORE INFO https://discord.gg/vEDdTXeh", -- [1]
+			"WTS Boosting Service Bane / LOD / Togc / Rs 10/25 Dm ME FOR MORE INFO https://discord.gg/Y73YmnwgPerweek", -- [1]
 			"Azhovan", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
@@ -5452,16 +3706,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6600, -- [11]
+			318, -- [11]
 			"0x070000000063B0A0", -- [12]
 			0, -- [13]
-			[51] = 1677958759,
+			[51] = 1678562282,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cffffffffAzhovan|r",
-		}, -- [302]
+		}, -- [205]
 		{
-			"LFG ICC 10n SP 5.5k gs", -- [1]
-			"Nliaduxa", -- [2]
+			"Russian NEW GUILD <LOCK OUT> Nabiraem ludey 1-80 lvl // sistema /ROLL . Sobiraem adecvatnuy colectiv dlya osvoenia VSEGO contenta LK, budem radu vsem!", -- [1]
+			"Soulldem", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5470,16 +3724,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6601, -- [11]
-			"0x07000000007C3277", -- [12]
+			319, -- [11]
+			"0x07000000008EFDA5", -- [12]
 			0, -- [13]
-			[51] = 1677958759,
+			[51] = 1678562282,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffNliaduxa|r",
-		}, -- [303]
+			[52] = "|cffaad372Soulldem|r",
+		}, -- [206]
 		{
-			"<The Old Crew> traži nove clanove za raidove. Radimo 3x ICC 25 (8/12 hc), 5x RS 25 i 3x ICC 10 tjedno. Koristimo Discord i DKP sistem. Vrijeme raidova je 20:00. Minimalni GS za ulazak u guild je 5.8k. Za vise informacija /w.", -- [1]
-			"Posthar", -- [2]
+			"LFM ICC 25 full nm lk run ( GS Hc )+5.9 /w Me Gs Class Role + Achieve B+P+ Rapid AScent Ress + SFS free roll +1x dps hunt l Last spot 24/25 @ fest Hunt ONLY !!!", -- [1]
+			"Mortyx", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5488,16 +3742,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6602, -- [11]
-			"0x070000000056FF7B", -- [12]
+			320, -- [11]
+			"0x07000000008C9775", -- [12]
 			0, -- [13]
-			[51] = 1677958759,
+			[51] = 1678562282,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Posthar|r",
-		}, -- [304]
+			[52] = "|cffffffffMortyx|r",
+		}, -- [207]
 		{
-			"LFM ICC 25 NM RUN NEED ALL // 5.7 GS + [Heroic: Fall of the Lich King (25 player)] (BOE, PRIMOS, SFS RESS) // W ARCHIVE", -- [1]
-			"Uxia", -- [2]
+			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
+			"Arnisgodx", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5506,16 +3760,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6603, -- [11]
-			"0x0700000000632FAD", -- [12]
+			322, -- [11]
+			"0x07000000004B5900", -- [12]
 			0, -- [13]
-			[51] = 1677958762,
+			[51] = 1678562285,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaUxia|r",
-		}, -- [305]
+			[52] = "|cfff48cbaArnisgodx|r",
+		}, -- [208]
 		{
-			"<Invadersx> is an end game guild recruiting heroic experienced raiders with 6.3k+ gs for LoD/RS/ToGC. Raid time 17:45PM ST. Send your chars at https://discord.gg/TFe3QCJsdK", -- [1]
-			"Invadersx", -- [2]
+			"LFM ICC 25 NM/HC - Need, 2 Healer (Disco/Rdruid), 5 Melee ((No More Rogues)Retri/Fury/Feral), 5 Ranged (Lock/Boomie/Mage/Hunter) - 5.8GS+ BoE+Primos (sfs) ress Link Achivement gs spec (13/25)", -- [1]
+			"Brokenbad", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5524,16 +3778,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6604, -- [11]
-			"0x07000000008CF512", -- [12]
+			323, -- [11]
+			"0x07000000007663F7", -- [12]
 			0, -- [13]
-			[51] = 1677958762,
+			[51] = 1678562286,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dInvadersx|r",
-		}, -- [306]
+			[52] = "|cff68ccefBrokenbad|r",
+		}, -- [209]
 		{
-			"<The Red Devils> are recruiting 6k+. We are currently progressing 10/12 ICC25hc.mainly need DP+other heals We raid on mondays(ICC25hc 10/12) and thursdays(icc25 8/12) 6PM. Fill in the application: [https://reddevils.gq/] fresh dkp system!", -- [1]
-			"Brutface", -- [2]
+			"NEED TANK FOS POS RUN", -- [1]
+			"Cummin", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5542,16 +3796,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6605, -- [11]
-			"0x070000000068DF99", -- [12]
+			324, -- [11]
+			"0x07000000008F0EEB", -- [12]
 			0, -- [13]
-			[51] = 1677958764,
+			[51] = 1678562286,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBrutface|r",
-		}, -- [307]
+			[52] = "|cffffffffCummin|r",
+		}, -- [210]
 		{
-			"[Longevity] Guild TGF-et hírdet, tapasztalt játékosoknak. Hetente több 10-es hc run, Icc25Hc 8/12 heti 3db és LoD progress raid. Heti minimum 3 db Rs25. DKP system. SFS gyüjtése jelenleg opció várólista van.", -- [1]
-			"Streetrats", -- [2]
+			"WTS Warlock[name:Darkslash] for 48 coins Lowest Price possible! [BiS WEP + Full BoE`s] + [ENGI + JC] + [280% Fly] via Warmane Store ", -- [1]
+			"Randomnuub", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5560,16 +3814,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6606, -- [11]
-			"0x0700000000505499", -- [12]
+			328, -- [11]
+			"0x07000000002A4558", -- [12]
 			0, -- [13]
-			[51] = 1677958765,
+			[51] = 1678562291,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffStreetrats|r",
-		}, -- [308]
+			[52] = "|cffaad372Randomnuub|r",
+		}, -- [211]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminprot", -- [2]
+			"Guild Irani < Freaky Guys > Progress: 1x LOD + 5x ICC 25 8/12 HC + 8x RS 25 + ToGc 25 Player ACtive +6.3 Baraye Ezafe Kardan Raid haye Hc Mipazirad w/me For Info", -- [1]
+			"Justwarlock", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5578,16 +3832,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6607, -- [11]
-			"0x07000000008F2372", -- [12]
+			329, -- [11]
+			"0x07000000007B8581", -- [12]
 			0, -- [13]
-			[51] = 1677958765,
+			[51] = 1678562291,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminprot|r",
-		}, -- [309]
+			[52] = "|cff9382c9Justwarlock|r",
+		}, -- [212]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowmourn", -- [2]
+			"Ukrainian guild \" Mists of Barabashovo \" recruits active players from 5k8 for ICC & RS! RT: weekdays - 20:00, weekends - 18:00 Kyiv time.", -- [1]
+			"Wheresmybow", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5596,16 +3850,250 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6608, -- [11]
-			"0x07000000008191C6", -- [12]
+			331, -- [11]
+			"0x07000000008AC3D1", -- [12]
 			0, -- [13]
-			[51] = 1677958766,
+			[51] = 1678562293,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowmourn|r",
-		}, -- [310]
+			[52] = "|cffaad372Wheresmybow|r",
+		}, -- [213]
 		{
-			"Na prodaju 54c, moze i uzivo /w", -- [1]
-			"Kevah", -- [2]
+			"Guild Br < A F K > aceitamos todos players do idioma Português. Todos os dias as 20h. Fazemos 3 ICC LOD RUN + 3 á 4 RS HC, e raids * Teste* para quem faz nosso apply no discord, ICC 10 HC as sextas e ICC 25 HC as Segundas. https://discord.gg/MR3gupa", -- [1]
+			"Masttertaunt", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			332, -- [11]
+			"0x0700000000847ACD", -- [12]
+			0, -- [13]
+			[51] = 1678562293,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaMasttertaunt|r",
+		}, -- [214]
+		{
+			"< Demonic Empire > End Game English Speaking Guild.Doing 12x LOD [ 0 % Buff Solo Tank 2 Heal / Solo Tank Solo Heal & 0% Buff Full ICc 25 HC Clear ] &14x RS 25 HC / Ulduar & immortality & immortal.RT=7 PM.Apply@ https://demonic-empire.shivtr.com", -- [1]
+			"Shamanresto", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			333, -- [11]
+			"0x07000000004AA762", -- [12]
+			0, -- [13]
+			[51] = 1678562293,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070ddShamanresto|r",
+		}, -- [215]
+		{
+			"{estrella} Wipe and Furious {estrella} Recluta gente para sus raids . Se arman ICC10, ICC25 Y SR25 {cuadrado} {diamante} HORARIO DE RAIDEO 20:00ST. {cuadrado} {diamante}", -- [1]
+			"Germory", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			335, -- [11]
+			"0x070000000034F5B6", -- [12]
+			0, -- [13]
+			[51] = 1678562295,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaGermory|r",
+		}, -- [216]
+		{
+			"WTS |cffffff00|Hachievement:4583:07000000006736BC:1:4:5:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r ICC10 HC (Full Run) --BOOST RUN-- with all items for golds. DM for more info!", -- [1]
+			"Ancienty", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			336, -- [11]
+			"0x07000000001ACDA9", -- [12]
+			0, -- [13]
+			[51] = 1678562295,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaAncienty|r",
+		}, -- [217]
+		{
+			"RS 25 Nm Need 1 tank 1 (hplay-rdudu) and dps 6k+ [The Twilight Destroyer (25 player)] ", -- [1]
+			"Meryouma", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			337, -- [11]
+			"0x07000000005ACD67", -- [12]
+			0, -- [13]
+			[51] = 1678562299,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefMeryouma|r",
+		}, -- [218]
+		{
+			"LF 1 tank and 2 range dps ICC 10 N 5.4 plus !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ", -- [1]
+			"Shapeshyfter", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			338, -- [11]
+			"0x0700000000742154", -- [12]
+			0, -- [13]
+			[51] = 1678562304,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aShapeshyfter|r",
+		}, -- [219]
+		{
+			"<Disappointed> Is looking for competent raiders to fill our roster and are able to clear LoD! Required: 6k + Char and class knowledge || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
+			"Holylone", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			339, -- [11]
+			"0x07000000005B34C6", -- [12]
+			0, -- [13]
+			[51] = 1678562305,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffHolylone|r",
+		}, -- [220]
+		{
+			"RS 25 NM >< Need 1 Tank out & 2 heal 3 dps 6k+/w me ach for inv |cffffff00|Hachievement:4815:07000000006283D7:1:12:22:22:4294967295:4294967295:4294967295:4294967295|h[El Destructor del Crepúsculo (25 j.)]|h|r", -- [1]
+			"Sathathin", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			340, -- [11]
+			"0x07000000006283D7", -- [12]
+			0, -- [13]
+			[51] = 1678562306,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aSathathin|r",
+		}, -- [221]
+		{
+			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
+			"Kilbore", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			341, -- [11]
+			"0x07000000000116A0", -- [12]
+			0, -- [13]
+			[51] = 1678562309,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aKilbore|r",
+		}, -- [222]
+		{
+			"LFM |cffff2020|Hquest:24585:80|h[¡El Leviatán de llamas debe morir!]|h|r need 1", -- [1]
+			"Passivedk", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			342, -- [11]
+			"0x070000000082FC21", -- [12]
+			0, -- [13]
+			[51] = 1678562311,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aPassivedk|r",
+		}, -- [223]
+		{
+			"WTS 500 coins! cheapest price and fast deal!! Get your [Shadowmourne] CHEAP now!! LEGlT DEAL and can show PR00F! whisper me if interested", -- [1]
+			"Ilwvlwvliwvv", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			343, -- [11]
+			"0x07000000008F6BE3", -- [12]
+			0, -- [13]
+			[51] = 1678562312,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Ilwvlwvliwvv|r",
+		}, -- [224]
+		{
+			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
+			"Smellfarts", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			344, -- [11]
+			"0x0700000000849B71", -- [12]
+			0, -- [13]
+			[51] = 1678562312,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aSmellfarts|r",
+		}, -- [225]
+		{
+			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
+			"Bblackbaret", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			346, -- [11]
+			"0x070000000088EF46", -- [12]
+			0, -- [13]
+			[51] = 1678562315,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Bblackbaret|r",
+		}, -- [226]
+		{
+			"WTS |cffffffff|Hitem:44501:0:0:0:0:0:0:0:19|h[Pistón de Mecánica Goblin]|h|r 700g each", -- [1]
+			"Gemseller", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5614,16 +4102,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6610, -- [11]
-			"0x070000000072F300", -- [12]
+			347, -- [11]
+			"0x070000000089166C", -- [12]
 			0, -- [13]
-			[51] = 1677958771,
+			[51] = 1678562317,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaKevah|r",
-		}, -- [311]
+			[52] = "|cffaad372Gemseller|r",
+		}, -- [227]
 		{
-			"LFM Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:07000000005CD744:1:10:27:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Vaargoth", -- [2]
+			"WTS Troll Rogue Name: Jezart Tailor/Engi - Dual Talent - 300 Mount - 7 Boe----> 30 Coin!!", -- [1]
+			"Wynoom", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5632,16 +4120,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6611, -- [11]
-			"0x07000000005CD744", -- [12]
+			348, -- [11]
+			"0x070000000074F460", -- [12]
 			0, -- [13]
-			[51] = 1677958772,
+			[51] = 1678562321,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefVaargoth|r",
-		}, -- [312]
+			[52] = "|cffff7c0aWynoom|r",
+		}, -- [228]
 		{
-			"LFM ICC 10 LK Run (GS-HC; wfs ress) need all 5,8+ /w me with gs class achiev", -- [1]
-			"Djcrouchpeek", -- [2]
+			"Bulgarski guild <DumkaiteseOtzad> nabira hora s opit v ICC i RS. Ako tursite chill runove - zapovqdaite. RT@19:00 BG vreme. /w za poveche info", -- [1]
+			"Apophiss", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5650,15 +4138,537 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6612, -- [11]
-			"0x07000000003EBE32", -- [12]
+			349, -- [11]
+			"0x0700000000622914", -- [12]
 			0, -- [13]
-			[51] = 1677958773,
+			[51] = 1678562322,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDjcrouchpeek|r",
-		}, -- [313]
+			[52] = "|cffc41e3aApophiss|r",
+		}, -- [229]
 		{
-			"LFM ICC 25 HC LOD run +6.3 Link achiv Lod for inv DIscord Req SFS FREE BOe reserve Miss1 RDPS DPS 24/25 |cffffff00|Hachievement:4584:0700000000012F8D:1:6:16:19:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST|cffffff00|Hachievement:4584:0700000000535C70:1:7:18:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Assashin", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			360, -- [11]
+			"0x0700000000535C70", -- [12]
+			0, -- [13]
+			[51] = 1678562329,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Assashin|r",
+		}, -- [230]
+		{
+			"LFM Tank heal dps >> 2 bosses left > Illidari council Ilidan stormrage < |cffffff00|Hachievement:697:07000000005F9900:1:11:24:20:0:0:0:0|h[El Templo Oscuro]|h|r", -- [1]
+			"Unknoow", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			363, -- [11]
+			"0x07000000005F9900", -- [12]
+			0, -- [13]
+			[51] = 1678562329,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Unknoow|r",
+		}, -- [231]
+		{
+			"LFM ICC25 GRun - Need, 3 Healer (Disco/Rdudu/Random), 2 Melee (Ret/Fury), 6 Ranged (Lock/Boomie/Mage/SP/Hunter) - 5.8k min GS+ Link best achievment//BoE+Primo+SFS ress (14/25)", -- [1]
+			"Garidapriest", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			365, -- [11]
+			"0x0700000000626062", -- [12]
+			0, -- [13]
+			[51] = 1678562330,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffGaridapriest|r",
+		}, -- [232]
+		{
+			"Balkanski PvE Guild <Klinika> trazi clanove za aktivan progres, trenutni prog je ICC10nm 12/12 ICC10hc 12/12, ICC25hc 12/12, RS10/25 4/4. GS req 5,8 Koristi se Diskord + DKP! Za vise informacija Whisper", -- [1]
+			"Kurvaarr", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			368, -- [11]
+			"0x070000000060EDD0", -- [12]
+			0, -- [13]
+			[51] = 1678562331,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aKurvaarr|r",
+		}, -- [233]
+		{
+			"COIN SCAMMERS ALERT! ------------- BEWARE of lvl 19-24 selling CHEAP COINS, they have HTML edited proofs to temporarily change coin value from 0 to 1000 COINS and he cant even show LIVE SCREENSHARE in DC. ", -- [1]
+			"Ilvwlwvliwvv", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			370, -- [11]
+			"0x07000000008C4842", -- [12]
+			0, -- [13]
+			[51] = 1678562332,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aIlvwlwvliwvv|r",
+		}, -- [234]
+		{
+			"LFM ICC 25 6/12 hc need 1 boomie 5.7k+ full gems enchants (boe sfs primos res) 24/25", -- [1]
+			"Killjaeden", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			376, -- [11]
+			"0x07000000001E3BB2", -- [12]
+			0, -- [13]
+			[51] = 1678562334,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Killjaeden|r",
+		}, -- [235]
+		{
+			"ICC 10nm FRSH 8+/12. Need 2 Tank, 2 Heal, Dps/Rdps (5.1+) no ress", -- [1]
+			"Underouth", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			378, -- [11]
+			"0x070000000030F788", -- [12]
+			0, -- [13]
+			[51] = 1678562334,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefUnderouth|r",
+		}, -- [236]
+		{
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST |cffffff00|Hachievement:4584:07000000000820D4:1:1:29:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Cllaymore", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			380, -- [11]
+			"0x07000000000820D4", -- [12]
+			0, -- [13]
+			[51] = 1678562335,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dCllaymore|r",
+		}, -- [237]
+		{
+			"LFM [Zul'Aman] Need All /w gs+spect ", -- [1]
+			"Ferdino", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			382, -- [11]
+			"0x07000000006EE7B8", -- [12]
+			0, -- [13]
+			[51] = 1678562335,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Ferdino|r",
+		}, -- [238]
+		{
+			"LFM ICC 25 NM NEED ALL // 5.8GS + (BOE, PRIMOS, SFS RESS) // W ARCHIVE AND ROLL [Fall of the Lich King (25 player)]", -- [1]
+			"Chikendruid", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			386, -- [11]
+			"0x070000000066B9F2", -- [12]
+			0, -- [13]
+			[51] = 1678562338,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aChikendruid|r",
+		}, -- [239]
+		{
+			" |cffffff00|Hachievement:697:07000000007BB54C:1:8:1:22:0:0:0:0|h[El Templo Oscuro]|h|r Need 1 heal 1 Tank +2Dps --[Warglaive of Azzinoth]Ress--", -- [1]
+			"Fenixx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			389, -- [11]
+			"0x07000000008D399E", -- [12]
+			0, -- [13]
+			[51] = 1678562339,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaFenixx|r",
+		}, -- [240]
+		{
+			"WTS Rog undead 14 boe (4255 GS=instant RHC) 2 full prof LW+Tailor 280% name : Nevermor 30 coin ", -- [1]
+			"Nevermor", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			392, -- [11]
+			"0x07000000008E2AA4", -- [12]
+			0, -- [13]
+			[51] = 1678562341,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Nevermor|r",
+		}, -- [241]
+		{
+			"Balkanski PvE Gild <<Klinika>> Trazi igrace za aktivno raidanje GPROG: icc10n/hc 12/12,icc25HC 12/12,RS 10/25 4/4!Koristi se DISKORD+DKP!Minimalni gs je 6k,poznavanje svoje klase i taktika!Prvensteveno dobra zabava i atmosfera:)Za vise info/w me", -- [1]
+			"Snoplu", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			393, -- [11]
+			"0x070000000015194F", -- [12]
+			0, -- [13]
+			[51] = 1678562341,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Snoplu|r",
+		}, -- [242]
+		{
+			"Russian NEW GUILD <LOCK OUT> Nabiraem ludey 1-80 lvl // sistema /ROLL . Sobiraem adecvatnuy colectiv dlya osvoenia VSEGO contenta LK, budem radu vsem!", -- [1]
+			"Soulldem", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			397, -- [11]
+			"0x07000000008EFDA5", -- [12]
+			0, -- [13]
+			[51] = 1678562342,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Soulldem|r",
+		}, -- [243]
+		{
+			"Need Rdps(Hunter Sp) Heal(Shaman Dics) Icc 25n 5.6k gs w/me inv B+P+DBW RES LK RUN [The Frostwing Halls (25 player)]", -- [1]
+			"Warriorgopal", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			399, -- [11]
+			"0x07000000007E7F65", -- [12]
+			0, -- [13]
+			[51] = 1678562345,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dWarriorgopal|r",
+		}, -- [244]
+		{
+			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
+			"Arnisgodx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			400, -- [11]
+			"0x07000000004B5900", -- [12]
+			0, -- [13]
+			[51] = 1678562345,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaArnisgodx|r",
+		}, -- [245]
+		{
+			"LFM ICC 25 NM/HC - Need, 2 Healer (Disco/Rdruid), 5 Melee ((No More Rogues)Retri/Fury/Feral), 5 Ranged (Lock/Boomie/Mage/Hunter) - 5.8GS+ BoE+Primos (sfs) ress Link Achivement gs spec (13/25)", -- [1]
+			"Brokenbad", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			401, -- [11]
+			"0x07000000007663F7", -- [12]
+			0, -- [13]
+			[51] = 1678562346,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefBrokenbad|r",
+		}, -- [246]
+		{
+			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
+			"Swishtime", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			403, -- [11]
+			"0x07000000008F1FB1", -- [12]
+			0, -- [13]
+			[51] = 1678562346,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Swishtime|r",
+		}, -- [247]
+		{
+			"LFM ICC 25 full nm lk run ( GS Hc )+5.9 /w Me Gs Class Role + Achieve B+P+ Rapid AScent Ress + SFS free roll +1x dps hunt l Last spot 24/25 @ fest Hunt ONLY !!!", -- [1]
+			"Mortyx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			405, -- [11]
+			"0x07000000008C9775", -- [12]
+			0, -- [13]
+			[51] = 1678562348,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffMortyx|r",
+		}, -- [248]
+		{
+			"WTS Warlock[name:Darkslash] for 48 coins Lowest Price possible! [BiS WEP + Full BoE`s] + [ENGI + JC] + [280% Fly] via Warmane Store ", -- [1]
+			"Randomnuub", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			411, -- [11]
+			"0x07000000002A4558", -- [12]
+			0, -- [13]
+			[51] = 1678562353,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Randomnuub|r",
+		}, -- [249]
+		{
+			"Guild Irani < Freaky Guys > Progress: 1x LOD + 5x ICC 25 8/12 HC + 8x RS 25 + ToGc 25 Player ACtive +6.3 Baraye Ezafe Kardan Raid haye Hc Mipazirad w/me For Info", -- [1]
+			"Justwarlock", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			412, -- [11]
+			"0x07000000007B8581", -- [12]
+			0, -- [13]
+			[51] = 1678562353,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff9382c9Justwarlock|r",
+		}, -- [250]
+		{
+			"ICC 25HC 8/12 FRESH, NEED ALL MIN 6.2KGS AND ACHIV MUST+TIME (SFS RESS) |cffffff00|Hachievement:4584:070000000000C7C6:1:10:19:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Clauujr", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			413, -- [11]
+			"0x070000000000C7C6", -- [12]
+			0, -- [13]
+			[51] = 1678562353,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff9382c9Clauujr|r",
+		}, -- [251]
+		{
+			"< Demonic Empire > End Game English Speaking Guild.Doing 12x LOD [ 0 % Buff Solo Tank 2 Heal / Solo Tank Solo Heal & 0% Buff Full ICc 25 HC Clear ] &14x RS 25 HC / Ulduar & immortality & immortal.RT=7 PM.Apply@ https://demonic-empire.shivtr.com", -- [1]
+			"Shamanresto", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			414, -- [11]
+			"0x07000000004AA762", -- [12]
+			0, -- [13]
+			[51] = 1678562358,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070ddShamanresto|r",
+		}, -- [252]
+		{
+			"{estrella} Wipe and Furious {estrella} Recluta gente para sus raids . Se arman ICC10, ICC25 Y SR25 {cuadrado} {diamante} HORARIO DE RAIDEO 20:00ST. {cuadrado} {diamante}", -- [1]
+			"Germory", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			415, -- [11]
+			"0x070000000034F5B6", -- [12]
+			0, -- [13]
+			[51] = 1678562358,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaGermory|r",
+		}, -- [253]
+		{
+			"WTS |cffffff00|Hachievement:4583:07000000006736BC:1:4:5:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r ICC10 HC (Full Run) --BOOST RUN-- with all items for golds. DM for more info!", -- [1]
+			"Ancienty", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			416, -- [11]
+			"0x07000000001ACDA9", -- [12]
+			0, -- [13]
+			[51] = 1678562360,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaAncienty|r",
+		}, -- [254]
+		{
+			"Ukrainian guild \" Mists of Barabashovo \" recruits active players from 5k8 for ICC & RS! RT: weekdays - 20:00, weekends - 18:00 Kyiv time.", -- [1]
+			"Wheresmybow", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			420, -- [11]
+			"0x07000000008AC3D1", -- [12]
+			0, -- [13]
+			[51] = 1678562365,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Wheresmybow|r",
+		}, -- [255]
+		{
+			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
+			"Kilbore", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			425, -- [11]
+			"0x07000000000116A0", -- [12]
+			0, -- [13]
+			[51] = 1678562369,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aKilbore|r",
+		}, -- [256]
+		{
+			"LFM icc25 - Need, 1 Melee (retri), 1 Ranged (boomi) - 5.5 gs guild run boe/shards/bloods res (23/25)", -- [1]
+			"Stormleet", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			426, -- [11]
+			"0x0700000000441BAF", -- [12]
+			0, -- [13]
+			[51] = 1678562370,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaStormleet|r",
+		}, -- [257]
+		{
+			"<Disappointed> Is looking for competent raiders to fill our roster and are able to clear LoD! Required: 6k + Char and class knowledge || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
+			"Holylone", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			427, -- [11]
+			"0x07000000005B34C6", -- [12]
+			0, -- [13]
+			[51] = 1678562370,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffHolylone|r",
+		}, -- [258]
+		{
+			"LFM ULDuar 25 Man MIX run +5.8 Full run Only Fragment reserve 24/25 discordreq1tank.1BOOMY.MAGe |cffffff00|Hachievement:2958:0700000000012F8D:1:10:10:21:4294967295:4294967295:4294967295:4294967295|h[La gloria del asaltante de Ulduar (25 j.)]|h|r", -- [1]
 			"Shadowpala", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
@@ -5668,16 +4678,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6613, -- [11]
+			429, -- [11]
 			"0x0700000000012F8D", -- [12]
 			0, -- [13]
-			[51] = 1677958775,
+			[51] = 1678562370,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cfff48cbaShadowpala|r",
-		}, -- [314]
+		}, -- [259]
 		{
-			"WTS Bane boost 12/12hc full run with all of loots dm me for ressved your spot our raid time 11am/ 2pm Sever time |cffffff00|Hachievement:4583:0700000000060E84:1:10:11:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r", -- [1]
-			"Todaystar", -- [2]
+			"Fresh Era PvP guild <<dont mess with us>> is currently recruiting experienced / geared players that are willing to WPVP / Premade and more. Requirements are 1800 arena rate or 40 k honor kills /w me for more info", -- [1]
+			"Muck", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5686,16 +4696,88 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6615, -- [11]
-			"0x0700000000060E84", -- [12]
+			430, -- [11]
+			"0x070000000013E227", -- [12]
 			0, -- [13]
-			[51] = 1677958782,
+			[51] = 1678562370,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTodaystar|r",
-		}, -- [315]
+			[52] = "|cfff48cbaMuck|r",
+		}, -- [260]
 		{
-			"WTB DK ON SFS QUEST WITH RS SET (MUST HAVE GOOD MOUNTS AND EOF + MARKS) PM ME WITH NAME !!!", -- [1]
-			"Oldisgold", -- [2]
+			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
+			"Smellfarts", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			433, -- [11]
+			"0x0700000000849B71", -- [12]
+			0, -- [13]
+			[51] = 1678562374,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aSmellfarts|r",
+		}, -- [261]
+		{
+			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
+			"Bblackbaret", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			436, -- [11]
+			"0x070000000088EF46", -- [12]
+			0, -- [13]
+			[51] = 1678562376,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Bblackbaret|r",
+		}, -- [262]
+		{
+			"WTS Troll Rogue Name: Jezart Tailor/Engi - Dual Talent - 300 Mount - 7 Boe----> 30 Coin!!", -- [1]
+			"Wynoom", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			442, -- [11]
+			"0x070000000074F460", -- [12]
+			0, -- [13]
+			[51] = 1678562381,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aWynoom|r",
+		}, -- [263]
+		{
+			"Bulgarski guild <DumkaiteseOtzad> nabira hora s opit v ICC i RS. Ako tursite chill runove - zapovqdaite. RT@19:00 BG vreme. /w za poveche info", -- [1]
+			"Apophiss", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			443, -- [11]
+			"0x0700000000622914", -- [12]
+			0, -- [13]
+			[51] = 1678562382,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aApophiss|r",
+		}, -- [264]
+		{
+			"WTS |cffffffff|Hitem:44501:0:0:0:0:0:0:0:19|h[Pistón de Mecánica Goblin]|h|r 700g each", -- [1]
+			"Gemseller", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5704,16 +4786,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6616, -- [11]
-			"0x07000000003C2F72", -- [12]
+			444, -- [11]
+			"0x070000000089166C", -- [12]
 			0, -- [13]
-			[51] = 1677958782,
+			[51] = 1678562382,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Oldisgold|r",
-		}, -- [316]
+			[52] = "|cffaad372Gemseller|r",
+		}, -- [265]
 		{
-			"Guild >Harvest Soul< recluta jugadores con exp en ICC25HC y RS25 HC. Progress actual: LoD (x6), RS25 HC (x4), Raid Dinamic (8/12) // Sist. de loot Dkp Hora de raids 00:30 st. /w + info", -- [1]
-			"Scruffed", -- [2]
+			"NEED TANK FOS POS RUN", -- [1]
+			"Cummin", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -5722,15 +4804,1815 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6617, -- [11]
-			"0x070000000074F5E5", -- [12]
+			450, -- [11]
+			"0x07000000008F0EEB", -- [12]
 			0, -- [13]
-			[51] = 1677958782,
+			[51] = 1678562388,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaScruffed|r",
+			[52] = "|cffffffffCummin|r",
+		}, -- [266]
+		{
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST|cffffff00|Hachievement:4584:0700000000535C70:1:7:18:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Assashin", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			453, -- [11]
+			"0x0700000000535C70", -- [12]
+			0, -- [13]
+			[51] = 1678562389,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Assashin|r",
+		}, -- [267]
+		{
+			"LFM ICC25 GRun - Need, 3 Healer (Disco/Rdudu/Random), 2 Melee (Ret/Fury), 6 Ranged (Lock/Boomie/Mage/SP/Hunter) - 5.8k min GS+ Link best achievment//BoE+Primo+SFS ress (14/25)", -- [1]
+			"Garidapriest", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			455, -- [11]
+			"0x0700000000626062", -- [12]
+			0, -- [13]
+			[51] = 1678562390,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffGaridapriest|r",
+		}, -- [268]
+		{
+			"Balkanski PvE Guild <Klinika> trazi clanove za aktivan progres, trenutni prog je ICC10nm 12/12 ICC10hc 12/12, ICC25hc 12/12, RS10/25 4/4. GS req 5,8 Koristi se Diskord + DKP! Za vise informacija Whisper", -- [1]
+			"Kurvaarr", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			456, -- [11]
+			"0x070000000060EDD0", -- [12]
+			0, -- [13]
+			[51] = 1678562391,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aKurvaarr|r",
+		}, -- [269]
+		{
+			"ICC 10nm FRSH 8+/12. Need 2 Tank, 2 Heal, Dps/Rdps (5.1+) no ress", -- [1]
+			"Underouth", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			459, -- [11]
+			"0x070000000030F788", -- [12]
+			0, -- [13]
+			[51] = 1678562394,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefUnderouth|r",
+		}, -- [270]
+		{
+			"LFM [Zul'Aman] Need All /w gs+spect ", -- [1]
+			"Ferdino", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			461, -- [11]
+			"0x07000000006EE7B8", -- [12]
+			0, -- [13]
+			[51] = 1678562395,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Ferdino|r",
+		}, -- [271]
+		{
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST |cffffff00|Hachievement:4584:07000000000820D4:1:1:29:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Cllaymore", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			462, -- [11]
+			"0x07000000000820D4", -- [12]
+			0, -- [13]
+			[51] = 1678562395,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dCllaymore|r",
+		}, -- [272]
+		{
+			"Balkanski PvE Gild <<Klinika>> Trazi igrace za aktivno raidanje GPROG: icc10n/hc 12/12,icc25HC 12/12,RS 10/25 4/4!Koristi se DISKORD+DKP!Minimalni gs je 6k,poznavanje svoje klase i taktika!Prvensteveno dobra zabava i atmosfera:)Za vise info/w me", -- [1]
+			"Snoplu", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			468, -- [11]
+			"0x070000000015194F", -- [12]
+			0, -- [13]
+			[51] = 1678562401,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Snoplu|r",
+		}, -- [273]
+		{
+			"Russian NEW GUILD <LOCK OUT> Nabiraem ludey 1-80 lvl // sistema /ROLL . Sobiraem adecvatnuy colectiv dlya osvoenia VSEGO contenta LK, budem radu vsem!", -- [1]
+			"Soulldem", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			470, -- [11]
+			"0x07000000008EFDA5", -- [12]
+			0, -- [13]
+			[51] = 1678562402,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Soulldem|r",
+		}, -- [274]
+		{
+			"WTS 500 coins! cheapest price and fast deal!! Get your [Shadowmourne] CHEAP now!! LEGlT DEAL and can show PR00F! whisper me if interested", -- [1]
+			"Ilwvlwvliwvv", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			472, -- [11]
+			"0x07000000008F6BE3", -- [12]
+			0, -- [13]
+			[51] = 1678562402,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Ilwvlwvliwvv|r",
+		}, -- [275]
+		{
+			" |cffffff00|Hachievement:697:07000000007BB54C:1:8:1:22:0:0:0:0|h[El Templo Oscuro]|h|r Need 1 heal 1 Tank +2Dps --[Warglaive of Azzinoth]Ress--", -- [1]
+			"Suntoryo", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			473, -- [11]
+			"0x07000000007BB54C", -- [12]
+			0, -- [13]
+			[51] = 1678562403,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Suntoryo|r",
+		}, -- [276]
+		{
+			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
+			"Arnisgodx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			476, -- [11]
+			"0x07000000004B5900", -- [12]
+			0, -- [13]
+			[51] = 1678562405,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaArnisgodx|r",
+		}, -- [277]
+		{
+			"LFM ICC 25 NM/HC - Need, 2 Healer (Disco/Rdruid), 5 Melee ((No More Rogues)Retri/Fury/Feral), 5 Ranged (Lock/Boomie/Mage/Hunter) - 5.8GS+ BoE+Primos (sfs) ress Link Achivement gs spec (13/25)", -- [1]
+			"Brokenbad", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			486, -- [11]
+			"0x07000000007663F7", -- [12]
+			0, -- [13]
+			[51] = 1678562406,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefBrokenbad|r",
+		}, -- [278]
+		{
+			"Guild Br < A F K > aceitamos todos players do idioma Português. Todos os dias as 20h. Fazemos 3 ICC LOD RUN + 3 á 4 RS HC, e raids * Teste* para quem faz nosso apply no discord, ICC 10 HC as sextas e ICC 25 HC as Segundas. https://discord.gg/MR3gupa", -- [1]
+			"Masttertaunt", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			501, -- [11]
+			"0x0700000000847ACD", -- [12]
+			0, -- [13]
+			[51] = 1678562410,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaMasttertaunt|r",
+		}, -- [279]
+		{
+			"WTS Warlock[name:Darkslash] for 48 coins Lowest Price possible! [BiS WEP + Full BoE`s] + [ENGI + JC] + [280% Fly] via Warmane Store ", -- [1]
+			"Randomnuub", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			502, -- [11]
+			"0x07000000002A4558", -- [12]
+			0, -- [13]
+			[51] = 1678562411,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Randomnuub|r",
+		}, -- [280]
+		{
+			"lfm dps for toc 5n", -- [1]
+			"Brcura", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			503, -- [11]
+			"0x07000000008B4D36", -- [12]
+			0, -- [13]
+			[51] = 1678562411,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffBrcura|r",
+		}, -- [281]
+		{
+			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
+			"Swishtime", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			504, -- [11]
+			"0x07000000008F1FB1", -- [12]
+			0, -- [13]
+			[51] = 1678562415,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Swishtime|r",
+		}, -- [282]
+		{
+			"{estrella} Wipe and Furious {estrella} Recluta gente para sus raids . Se arman ICC10, ICC25 Y SR25 {cuadrado} {diamante} HORARIO DE RAIDEO 20:00ST. {cuadrado} {diamante}", -- [1]
+			"Germory", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			505, -- [11]
+			"0x070000000034F5B6", -- [12]
+			0, -- [13]
+			[51] = 1678562415,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaGermory|r",
+		}, -- [283]
+		{
+			"< Demonic Empire > End Game English Speaking Guild.Doing 12x LOD [ 0 % Buff Solo Tank 2 Heal / Solo Tank Solo Heal & 0% Buff Full ICc 25 HC Clear ] &14x RS 25 HC / Ulduar & immortality & immortal.RT=7 PM.Apply@ https://demonic-empire.shivtr.com", -- [1]
+			"Shamanresto", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			506, -- [11]
+			"0x07000000004AA762", -- [12]
+			0, -- [13]
+			[51] = 1678562415,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070ddShamanresto|r",
+		}, -- [284]
+		{
+			" |cffffff00|Hachievement:697:07000000007BB54C:1:8:1:22:0:0:0:0|h[El Templo Oscuro]|h|r Need 1 heal 1 Tank +2Dps --[Warglaive of Azzinoth]Ress--", -- [1]
+			"Fenixx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			507, -- [11]
+			"0x07000000008D399E", -- [12]
+			0, -- [13]
+			[51] = 1678562415,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaFenixx|r",
+		}, -- [285]
+		{
+			"Need Rdps(Hunter Sp) Heal(Shaman Dics) Icc 25n 5.6k gs w/me inv B+P+DBW RES LK RUN [The Frostwing Halls (25 player)]", -- [1]
+			"Warriorgopal", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			508, -- [11]
+			"0x07000000007E7F65", -- [12]
+			0, -- [13]
+			[51] = 1678562417,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dWarriorgopal|r",
+		}, -- [286]
+		{
+			"Guild Irani < Freaky Guys > Progress: 1x LOD + 5x ICC 25 8/12 HC + 8x RS 25 + ToGc 25 Player ACtive +6.3 Baraye Ezafe Kardan Raid haye Hc Mipazirad w/me For Info", -- [1]
+			"Justwarlock", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			509, -- [11]
+			"0x07000000007B8581", -- [12]
+			0, -- [13]
+			[51] = 1678562418,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff9382c9Justwarlock|r",
+		}, -- [287]
+		{
+			"WTS |cffffff00|Hachievement:4583:07000000006736BC:1:4:5:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r ICC10 HC (Full Run) --BOOST RUN-- with all items for golds. DM for more info!", -- [1]
+			"Ancienty", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			511, -- [11]
+			"0x07000000001ACDA9", -- [12]
+			0, -- [13]
+			[51] = 1678562425,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaAncienty|r",
+		}, -- [288]
+		{
+			"LFM Tank heal dps >> 2 bosses left > Illidari council Ilidan stormrage < |cffffff00|Hachievement:697:07000000005F9900:1:11:24:20:0:0:0:0|h[El Templo Oscuro]|h|r", -- [1]
+			"Unknoow", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			512, -- [11]
+			"0x07000000005F9900", -- [12]
+			0, -- [13]
+			[51] = 1678562427,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Unknoow|r",
+		}, -- [289]
+		{
+			"RS 25 Nm Need 1 tank 1 (hplay-rdudu) and 1 dps 6k+ [The Twilight Destroyer (25 player)] ", -- [1]
+			"Meryouma", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			514, -- [11]
+			"0x07000000005ACD67", -- [12]
+			0, -- [13]
+			[51] = 1678562430,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefMeryouma|r",
+		}, -- [290]
+		{
+			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
+			"Kilbore", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			515, -- [11]
+			"0x07000000000116A0", -- [12]
+			0, -- [13]
+			[51] = 1678562430,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aKilbore|r",
+		}, -- [291]
+		{
+			"LFM icc25 - Need, 1 Ranged (boomi) - 5.5 gs guild run boe/shards/bloods res (24/25)", -- [1]
+			"Stormleet", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			516, -- [11]
+			"0x0700000000441BAF", -- [12]
+			0, -- [13]
+			[51] = 1678562430,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaStormleet|r",
+		}, -- [292]
+		{
+			"<Disappointed> Is looking for competent raiders to fill our roster and are able to clear LoD! Required: 6k + Char and class knowledge || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
+			"Holylone", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			517, -- [11]
+			"0x07000000005B34C6", -- [12]
+			0, -- [13]
+			[51] = 1678562435,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffHolylone|r",
+		}, -- [293]
+		{
+			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
+			"Bblackbaret", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			518, -- [11]
+			"0x070000000088EF46", -- [12]
+			0, -- [13]
+			[51] = 1678562435,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Bblackbaret|r",
+		}, -- [294]
+		{
+			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
+			"Smellfarts", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			519, -- [11]
+			"0x0700000000849B71", -- [12]
+			0, -- [13]
+			[51] = 1678562436,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aSmellfarts|r",
+		}, -- [295]
+		{
+			"Ukrainian guild \" Mists of Barabashovo \" recruits active players from 5k8 for ICC & RS! RT: weekdays - 20:00, weekends - 18:00 Kyiv time.", -- [1]
+			"Wheresmybow", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			520, -- [11]
+			"0x07000000008AC3D1", -- [12]
+			0, -- [13]
+			[51] = 1678562436,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Wheresmybow|r",
+		}, -- [296]
+		{
+			"LFM ICC 25 6/12 hc need 1 boomie 5.5k+ full gems enchants (boe sfs primos res) 24/25", -- [1]
+			"Killjaeden", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			521, -- [11]
+			"0x07000000001E3BB2", -- [12]
+			0, -- [13]
+			[51] = 1678562438,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Killjaeden|r",
+		}, -- [297]
+		{
+			"WTS Troll Rogue Name: Jezart Tailor/Engi - Dual Talent - 300 Mount - 7 Boe----> 30 Coin!!", -- [1]
+			"Wynoom", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			523, -- [11]
+			"0x070000000074F460", -- [12]
+			0, -- [13]
+			[51] = 1678562441,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aWynoom|r",
+		}, -- [298]
+		{
+			"Bulgarski guild <DumkaiteseOtzad> nabira hora s opit v ICC i RS. Ako tursite chill runove - zapovqdaite. RT@19:00 BG vreme. /w za poveche info", -- [1]
+			"Apophiss", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			524, -- [11]
+			"0x0700000000622914", -- [12]
+			0, -- [13]
+			[51] = 1678562442,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aApophiss|r",
+		}, -- [299]
+		{
+			"LFM ICC 25 6/12 hc need 1 boomie 5.5k+ full gems enchants (boe sfs primos res) 24/25", -- [1]
+			"Warlockxzc", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			525, -- [11]
+			"0x0700000000837CFE", -- [12]
+			0, -- [13]
+			[51] = 1678562446,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Warlockxzc|r",
+		}, -- [300]
+		{
+			"WTS |cffffffff|Hitem:44501:0:0:0:0:0:0:0:19|h[Pistón de Mecánica Goblin]|h|r 700g each", -- [1]
+			"Gemseller", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			526, -- [11]
+			"0x070000000089166C", -- [12]
+			0, -- [13]
+			[51] = 1678562449,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Gemseller|r",
+		}, -- [301]
+		{
+			"LFM ICC25 GRun - Need, 3 Healer (Disco/Rdudu/Random), 1 Melee (Ret/Fury), 6 Ranged (Lock/Boomie/Mage/SP/Hunter) - 5.8k min GS+ Link best achievment//BoE+Primo+SFS ress (15/25)", -- [1]
+			"Garidapriest", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			528, -- [11]
+			"0x0700000000626062", -- [12]
+			0, -- [13]
+			[51] = 1678562450,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffGaridapriest|r",
+		}, -- [302]
+		{
+			"Balkanski PvE Guild <Klinika> trazi clanove za aktivan progres, trenutni prog je ICC10nm 12/12 ICC10hc 12/12, ICC25hc 12/12, RS10/25 4/4. GS req 5,8 Koristi se Diskord + DKP! Za vise informacija Whisper", -- [1]
+			"Kurvaarr", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			529, -- [11]
+			"0x070000000060EDD0", -- [12]
+			0, -- [13]
+			[51] = 1678562451,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aKurvaarr|r",
+		}, -- [303]
+		{
+			"LFM [Zul'Aman] Need All /w gs+spect ", -- [1]
+			"Ferdino", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			532, -- [11]
+			"0x07000000006EE7B8", -- [12]
+			0, -- [13]
+			[51] = 1678562455,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Ferdino|r",
+		}, -- [304]
+		{
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST |cffffff00|Hachievement:4584:07000000000820D4:1:1:29:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Cllaymore", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			533, -- [11]
+			"0x07000000000820D4", -- [12]
+			0, -- [13]
+			[51] = 1678562455,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dCllaymore|r",
+		}, -- [305]
+		{
+			"LF 3 dps iCC 10 N and 1 shammy 5,4 plus !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ", -- [1]
+			"Shapeshyfter", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			534, -- [11]
+			"0x0700000000742154", -- [12]
+			0, -- [13]
+			[51] = 1678562455,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aShapeshyfter|r",
+		}, -- [306]
+		{
+			"Russian NEW GUILD <LOCK OUT> Nabiraem ludey 1-80 lvl // sistema /ROLL . Sobiraem adecvatnuy colectiv dlya osvoenia VSEGO contenta LK, budem radu vsem!", -- [1]
+			"Soulldem", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			538, -- [11]
+			"0x07000000008EFDA5", -- [12]
+			0, -- [13]
+			[51] = 1678562462,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Soulldem|r",
+		}, -- [307]
+		{
+			"WTS 500 coins! cheapest price and fast deal!! Get your [Shadowmourne] CHEAP now!! LEGlT DEAL and can show PR00F! whisper me if interested", -- [1]
+			"Ilwvlwvliwvv", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			539, -- [11]
+			"0x07000000008F6BE3", -- [12]
+			0, -- [13]
+			[51] = 1678562462,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Ilwvlwvliwvv|r",
+		}, -- [308]
+		{
+			"Balkanski PvE Gild <<Klinika>> Trazi igrace za aktivno raidanje GPROG: icc10n/hc 12/12,icc25HC 12/12,RS 10/25 4/4!Koristi se DISKORD+DKP!Minimalni gs je 6k,poznavanje svoje klase i taktika!Prvensteveno dobra zabava i atmosfera:)Za vise info/w me", -- [1]
+			"Snoplu", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			540, -- [11]
+			"0x070000000015194F", -- [12]
+			0, -- [13]
+			[51] = 1678562463,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Snoplu|r",
+		}, -- [309]
+		{
+			"LFM ULDuar 25 Man MIX run +5.8 Full run Only Fragment reserve 24/25 discordreq1tank.1BOOMY.MAGe |cffffff00|Hachievement:2958:0700000000012F8D:1:10:10:21:4294967295:4294967295:4294967295:4294967295|h[La gloria del asaltante de Ulduar (25 j.)]|h|r", -- [1]
+			"Shadowpala", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			542, -- [11]
+			"0x0700000000012F8D", -- [12]
+			0, -- [13]
+			[51] = 1678562464,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaShadowpala|r",
+		}, -- [310]
+		{
+			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
+			"Arnisgodx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			543, -- [11]
+			"0x07000000004B5900", -- [12]
+			0, -- [13]
+			[51] = 1678562465,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaArnisgodx|r",
+		}, -- [311]
+		{
+			"NEED TANK FOS POS RUN !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!", -- [1]
+			"Cummin", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			545, -- [11]
+			"0x07000000008F0EEB", -- [12]
+			0, -- [13]
+			[51] = 1678562466,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffCummin|r",
+		}, -- [312]
+		{
+			"Fresh Era PvP guild <<dont mess with us>> is currently recruiting experienced / geared players that are willing to WPVP / Premade and more. Requirements are 1800 arena rate or 40 k honor kills /w me for more info", -- [1]
+			"Muck", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			547, -- [11]
+			"0x070000000013E227", -- [12]
+			0, -- [13]
+			[51] = 1678562470,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaMuck|r",
+		}, -- [313]
+		{
+			"COIN SCAMMERS ALERT! ------------- BEWARE of lvl 19-24 selling CHEAP COINS, they have HTML edited proofs to temporarily change coin value from 0 to 1000 COINS and he cant even show LIVE SCREENSHARE in DC. ", -- [1]
+			"Ilvwlwvliwvv", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			549, -- [11]
+			"0x07000000008C4842", -- [12]
+			0, -- [13]
+			[51] = 1678562471,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aIlvwlwvliwvv|r",
+		}, -- [314]
+		{
+			"WTS Warlock[name:Darkslash] for 48 coins Lowest Price possible! [BiS WEP + Full BoE`s] + [ENGI + JC] + [280% Fly] via Warmane Store ", -- [1]
+			"Randomnuub", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			550, -- [11]
+			"0x07000000002A4558", -- [12]
+			0, -- [13]
+			[51] = 1678562471,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Randomnuub|r",
+		}, -- [315]
+		{
+			"Guild Br < A F K > aceitamos todos players do idioma Português. Todos os dias as 20h. Fazemos 3 ICC LOD RUN + 3 á 4 RS HC, e raids * Teste* para quem faz nosso apply no discord, ICC 10 HC as sextas e ICC 25 HC as Segundas. https://discord.gg/MR3gupa", -- [1]
+			"Masttertaunt", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			551, -- [11]
+			"0x0700000000847ACD", -- [12]
+			0, -- [13]
+			[51] = 1678562472,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaMasttertaunt|r",
+		}, -- [316]
+		{
+			"{estrella} Wipe and Furious {estrella} Recluta gente para sus raids . Se arman ICC10, ICC25 Y SR25 {cuadrado} {diamante} HORARIO DE RAIDEO 20:00ST. {cuadrado} {diamante}", -- [1]
+			"Germory", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			553, -- [11]
+			"0x070000000034F5B6", -- [12]
+			0, -- [13]
+			[51] = 1678562475,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaGermory|r",
 		}, -- [317]
 		{
-			"ICC 25HC 8/12 FRESH, need all min 6.2kgs and achiv must+time (primo+sfs ress) |cffffff00|Hachievement:4584:070000000083155E:1:10:29:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"10000 gold giveaway @ https://demonic-empire.shivtr.com < Demonic Emire > LOD & Rs 25 HC same as every night |cffffff00|Hachievement:4584:07000000004AA762:1:1:5:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Shamanresto", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			555, -- [11]
+			"0x07000000004AA762", -- [12]
+			0, -- [13]
+			[51] = 1678562476,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070ddShamanresto|r",
+		}, -- [318]
+		{
+			"Guild Irani < Freaky Guys > Progress: 1x LOD + 5x ICC 25 8/12 HC + 8x RS 25 + ToGc 25 Player ACtive +6.3 Baraye Ezafe Kardan Raid haye Hc Mipazirad w/me For Info", -- [1]
+			"Justwarlock", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			556, -- [11]
+			"0x07000000007B8581", -- [12]
+			0, -- [13]
+			[51] = 1678562477,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff9382c9Justwarlock|r",
+		}, -- [319]
+		{
+			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
+			"Swishtime", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			566, -- [11]
+			"0x07000000008F1FB1", -- [12]
+			0, -- [13]
+			[51] = 1678562484,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Swishtime|r",
+		}, -- [320]
+		{
+			"LFM Zull Aman need all / w gs + spect", -- [1]
+			"Yoshimisu", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			573, -- [11]
+			"0x07000000005BD35F", -- [12]
+			0, -- [13]
+			[51] = 1678562486,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaYoshimisu|r",
+		}, -- [321]
+		{
+			"WTS HUMAN PRIEST 7 BoE´s 280% FLYING DUAL TALENTS 450 ENGINEERING 30 COINS!!", -- [1]
+			"Jynrokh", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			584, -- [11]
+			"0x07000000008EA279", -- [12]
+			0, -- [13]
+			[51] = 1678562488,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Jynrokh|r",
+		}, -- [322]
+		{
+			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
+			"Kilbore", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			586, -- [11]
+			"0x07000000000116A0", -- [12]
+			0, -- [13]
+			[51] = 1678562490,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aKilbore|r",
+		}, -- [323]
+		{
+			"LFM icc25 - Need, 1 Ranged (boomi) - 5.5 gs guild run boe/shards/bloods res (24/25)", -- [1]
+			"Stormleet", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			587, -- [11]
+			"0x0700000000441BAF", -- [12]
+			0, -- [13]
+			[51] = 1678562490,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaStormleet|r",
+		}, -- [324]
+		{
+			"WTS |cffffff00|Hachievement:4583:07000000006736BC:1:4:5:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r ICC10 HC (Full Run) --BOOST RUN-- with all items for golds. DM for more info!", -- [1]
+			"Ancienty", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			588, -- [11]
+			"0x07000000001ACDA9", -- [12]
+			0, -- [13]
+			[51] = 1678562490,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaAncienty|r",
+		}, -- [325]
+		{
+			" |cffffff00|Hachievement:697:07000000007BB54C:1:8:1:22:0:0:0:0|h[El Templo Oscuro]|h|r Need 1 heal 1 Tank +2Dps --[Warglaive of Azzinoth]Ress--", -- [1]
+			"Fenixx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			589, -- [11]
+			"0x07000000008D399E", -- [12]
+			0, -- [13]
+			[51] = 1678562491,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaFenixx|r",
+		}, -- [326]
+		{
+			"attack stormwind city lf all ", -- [1]
+			"Forthehorda", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			595, -- [11]
+			"0x0700000000030B11", -- [12]
+			0, -- [13]
+			[51] = 1678562493,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Forthehorda|r",
+		}, -- [327]
+		{
+			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
+			"Bblackbaret", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			600, -- [11]
+			"0x070000000088EF46", -- [12]
+			0, -- [13]
+			[51] = 1678562495,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Bblackbaret|r",
+		}, -- [328]
+		{
+			"RS 25 Nm Need 1 tank 1 (hplay-rdudu) and dps 6k+ [The Twilight Destroyer (25 player)] ", -- [1]
+			"Meryouma", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			609, -- [11]
+			"0x07000000005ACD67", -- [12]
+			0, -- [13]
+			[51] = 1678562497,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefMeryouma|r",
+		}, -- [329]
+		{
+			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
+			"Smellfarts", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			615, -- [11]
+			"0x0700000000849B71", -- [12]
+			0, -- [13]
+			[51] = 1678562498,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aSmellfarts|r",
+		}, -- [330]
+		{
+			"<Disappointed> Is looking for competent raiders to fill our roster and are able to clear LoD! Required: 6k + Char and class knowledge || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
+			"Holylone", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			621, -- [11]
+			"0x07000000005B34C6", -- [12]
+			0, -- [13]
+			[51] = 1678562500,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffHolylone|r",
+		}, -- [331]
+		{
+			"WTS Troll Rogue Name: Jezart Tailor/Engi - Dual Talent - 300 Mount - 7 Boe----> 30 Coin!!", -- [1]
+			"Wynoom", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			624, -- [11]
+			"0x070000000074F460", -- [12]
+			0, -- [13]
+			[51] = 1678562501,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aWynoom|r",
+		}, -- [332]
+		{
+			"Bulgarski guild <DumkaiteseOtzad> nabira hora s opit v ICC i RS. Ako tursite chill runove - zapovqdaite. RT@19:00 BG vreme. /w za poveche info", -- [1]
+			"Apophiss", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			627, -- [11]
+			"0x0700000000622914", -- [12]
+			0, -- [13]
+			[51] = 1678562502,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aApophiss|r",
+		}, -- [333]
+		{
+			"Ukrainian guild \" Mists of Barabashovo \" recruits active players from 5k8 for ICC & RS! RT: weekdays - 20:00, weekends - 18:00 Kyiv time.", -- [1]
+			"Wheresmybow", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			643, -- [11]
+			"0x07000000008AC3D1", -- [12]
+			0, -- [13]
+			[51] = 1678562507,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Wheresmybow|r",
+		}, -- [334]
+		{
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST|cffffff00|Hachievement:4584:0700000000535C70:1:7:18:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Assashin", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			645, -- [11]
+			"0x0700000000535C70", -- [12]
+			0, -- [13]
+			[51] = 1678562509,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Assashin|r",
+		}, -- [335]
+		{
+			"LFM ICC25 GRun - Need, 3 Healer (Disco/Rdudu/Random), 1 Melee (Ret/Fury), 6 Ranged (Lock/Boomie/Mage/SP/Hunter) - 5.8k min GS+ Link best achievment//BoE+Primo+SFS ress (15/25)", -- [1]
+			"Garidapriest", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			648, -- [11]
+			"0x0700000000626062", -- [12]
+			0, -- [13]
+			[51] = 1678562510,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffGaridapriest|r",
+		}, -- [336]
+		{
+			"Balkanski PvE Guild <Klinika> trazi clanove za aktivan progres, trenutni prog je ICC10nm 12/12 ICC10hc 12/12, ICC25hc 12/12, RS10/25 4/4. GS req 5,8 Koristi se Diskord + DKP! Za vise informacija Whisper", -- [1]
+			"Kurvaarr", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			649, -- [11]
+			"0x070000000060EDD0", -- [12]
+			0, -- [13]
+			[51] = 1678562511,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aKurvaarr|r",
+		}, -- [337]
+		{
+			"LFM [Zul'Aman] Need All /w gs+spect ", -- [1]
+			"Ferdino", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			654, -- [11]
+			"0x07000000006EE7B8", -- [12]
+			0, -- [13]
+			[51] = 1678562515,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Ferdino|r",
+		}, -- [338]
+		{
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST |cffffff00|Hachievement:4584:07000000000820D4:1:1:29:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Cllaymore", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			655, -- [11]
+			"0x07000000000820D4", -- [12]
+			0, -- [13]
+			[51] = 1678562515,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dCllaymore|r",
+		}, -- [339]
+		{
+			"LFM ICC 25 6/12 hc need 1 boomie 5.5k+ full gems enchants (boe sfs primos res) 24/25 LAST SPOT !!!", -- [1]
+			"Warlockxzc", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			656, -- [11]
+			"0x0700000000837CFE", -- [12]
+			0, -- [13]
+			[51] = 1678562515,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Warlockxzc|r",
+		}, -- [340]
+		{
+			"LFM Tank heal dps >> 2 bosses left > Illidari council Ilidan stormrage < |cffffff00|Hachievement:697:07000000005F9900:1:11:24:20:0:0:0:0|h[El Templo Oscuro]|h|r", -- [1]
+			"Unknoow", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			660, -- [11]
+			"0x07000000005F9900", -- [12]
+			0, -- [13]
+			[51] = 1678562518,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Unknoow|r",
+		}, -- [341]
+		{
+			"Russian NEW GUILD <LOCK OUT> Nabiraem ludey 1-80 lvl // sistema /ROLL . Sobiraem adecvatnuy colectiv dlya osvoenia VSEGO contenta LK, budem radu vsem!", -- [1]
+			"Soulldem", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			665, -- [11]
+			"0x07000000008EFDA5", -- [12]
+			0, -- [13]
+			[51] = 1678562522,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Soulldem|r",
+		}, -- [342]
+		{
+			"Balkanski PvE Gild <<Klinika>> Trazi igrace za aktivno raidanje GPROG: icc10n/hc 12/12,icc25HC 12/12,RS 10/25 4/4!Koristi se DISKORD+DKP!Minimalni gs je 6k,poznavanje svoje klase i taktika!Prvensteveno dobra zabava i atmosfera:)Za vise info/w me", -- [1]
+			"Snoplu", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			666, -- [11]
+			"0x070000000015194F", -- [12]
+			0, -- [13]
+			[51] = 1678562523,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Snoplu|r",
+		}, -- [343]
+		{
+			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
+			"Arnisgodx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			669, -- [11]
+			"0x07000000004B5900", -- [12]
+			0, -- [13]
+			[51] = 1678562525,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaArnisgodx|r",
+		}, -- [344]
+		{
+			"LFM ICC 25 NM/HC - Need, 2 Healer (Disco/Rdruid), 5 Melee ((No More Rogues)Retri/Fury/Feral), 5 Ranged (Lock/Boomie/Hunter) - 5.8GS+ BoE+Primos (sfs) ress Link Achivement gs spec (13/25)", -- [1]
+			"Brokenbad", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			670, -- [11]
+			"0x07000000007663F7", -- [12]
+			0, -- [13]
+			[51] = 1678562526,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefBrokenbad|r",
+		}, -- [345]
+		{
+			"Need Rdps(Hunter Sp) Heal(Shaman Dics) Icc 25n 5.6k gs w/me inv B+P+DBW RES LK RUN [The Frostwing Halls (25 player)]", -- [1]
+			"Warriorgopal", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			673, -- [11]
+			"0x07000000007E7F65", -- [12]
+			0, -- [13]
+			[51] = 1678562530,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dWarriorgopal|r",
+		}, -- [346]
+		{
+			"ICC 10nm FRSH 8+/12. Need 2 Tank, 2 Heal, Dps/Rdps (5.1+) no ress", -- [1]
+			"Underouth", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			674, -- [11]
+			"0x070000000030F788", -- [12]
+			0, -- [13]
+			[51] = 1678562531,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefUnderouth|r",
+		}, -- [347]
+		{
+			"WTS Warlock[name:Darkslash] for 48 coins Lowest Price possible! [BiS WEP + Full BoE`s] + [ENGI + JC] + [280% Fly] via Warmane Store ", -- [1]
+			"Randomnuub", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			677, -- [11]
+			"0x07000000002A4558", -- [12]
+			0, -- [13]
+			[51] = 1678562535,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Randomnuub|r",
+		}, -- [348]
+		{
+			"Guild Br < A F K > aceitamos todos players do idioma Português. Todos os dias as 20h. Fazemos 3 ICC LOD RUN + 3 á 4 RS HC, e raids * Teste* para quem faz nosso apply no discord, ICC 10 HC as sextas e ICC 25 HC as Segundas. https://discord.gg/MR3gupa", -- [1]
+			"Masttertaunt", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			682, -- [11]
+			"0x0700000000847ACD", -- [12]
+			0, -- [13]
+			[51] = 1678562535,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaMasttertaunt|r",
+		}, -- [349]
+		{
+			"{estrella} Wipe and Furious {estrella} Recluta gente para sus raids . Se arman ICC10, ICC25 Y SR25 {cuadrado} {diamante} HORARIO DE RAIDEO 20:00ST. {cuadrado} {diamante}", -- [1]
+			"Germory", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			683, -- [11]
+			"0x070000000034F5B6", -- [12]
+			0, -- [13]
+			[51] = 1678562535,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaGermory|r",
+		}, -- [350]
+		{
+			"Guild Irani < Freaky Guys > Progress: 1x LOD + 5x ICC 25 8/12 HC + 8x RS 25 + ToGc 25 Player ACtive +6.3 Baraye Ezafe Kardan Raid haye Hc Mipazirad w/me For Info", -- [1]
+			"Justwarlock", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			686, -- [11]
+			"0x07000000007B8581", -- [12]
+			0, -- [13]
+			[51] = 1678562537,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff9382c9Justwarlock|r",
+		}, -- [351]
+		{
+			"10000 gold giveaway @ https://demonic-empire.shivtr.com < Demonic Empire > LOD & RS 25 HC same as every night |cffffff00|Hachievement:4584:07000000004AA762:1:1:5:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Shamanresto", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			687, -- [11]
+			"0x07000000004AA762", -- [12]
+			0, -- [13]
+			[51] = 1678562537,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070ddShamanresto|r",
+		}, -- [352]
+		{
+			"LFM icc25 - Need, 1 Ranged (boomi) - 5.5 gs guild run boe/shards/bloods res (24/25)", -- [1]
+			"Stormleet", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			708, -- [11]
+			"0x0700000000441BAF", -- [12]
+			0, -- [13]
+			[51] = 1678562550,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaStormleet|r",
+		}, -- [353]
+		{
+			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
+			"Kilbore", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			709, -- [11]
+			"0x07000000000116A0", -- [12]
+			0, -- [13]
+			[51] = 1678562550,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aKilbore|r",
+		}, -- [354]
+		{
+			"WTS 500 coins! cheapest price and fast deal!! Get your [Shadowmourne] CHEAP now!! LEGlT DEAL and can show PR00F! whisper me if interested", -- [1]
+			"Ilwvlwvliwvv", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			712, -- [11]
+			"0x07000000008F6BE3", -- [12]
+			0, -- [13]
+			[51] = 1678562552,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Ilwvlwvliwvv|r",
+		}, -- [355]
+		{
+			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
+			"Swishtime", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			713, -- [11]
+			"0x07000000008F1FB1", -- [12]
+			0, -- [13]
+			[51] = 1678562553,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Swishtime|r",
+		}, -- [356]
+		{
+			"LFM Zull Aman need all / w gs + spect", -- [1]
+			"Yoshimisu", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			714, -- [11]
+			"0x07000000005BD35F", -- [12]
+			0, -- [13]
+			[51] = 1678562554,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaYoshimisu|r",
+		}, -- [357]
+		{
+			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
+			"Bblackbaret", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			716, -- [11]
+			"0x070000000088EF46", -- [12]
+			0, -- [13]
+			[51] = 1678562555,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Bblackbaret|r",
+		}, -- [358]
+		{
+			"WTS |cffffff00|Hachievement:4583:07000000006736BC:1:4:5:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r ICC10 HC (Full Run) --BOOST RUN-- with all items for golds. DM for more info!", -- [1]
+			"Ancienty", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			717, -- [11]
+			"0x07000000001ACDA9", -- [12]
+			0, -- [13]
+			[51] = 1678562555,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaAncienty|r",
+		}, -- [359]
+		{
+			"LFM ICC 25 full nm lk run ( GS Hc )+5.9 /w Me Gs Class Role + Achieve B+P+ Rapid AScent Ress + SFS free roll +1x dps hunt l Last spot 24/25 @ fest Hunt ONLY !!!", -- [1]
+			"Mortyx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			719, -- [11]
+			"0x07000000008C9775", -- [12]
+			0, -- [13]
+			[51] = 1678562558,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffMortyx|r",
+		}, -- [360]
+		{
+			"LFM ULDuar 25 Man MIX run +5.8 Full run Only Fragment reserve 24/25 discordreq1tank.1BOOMY.MAGe |cffffff00|Hachievement:2958:0700000000012F8D:1:10:10:21:4294967295:4294967295:4294967295:4294967295|h[La gloria del asaltante de Ulduar (25 j.)]|h|r", -- [1]
+			"Shadowpala", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			720, -- [11]
+			"0x0700000000012F8D", -- [12]
+			0, -- [13]
+			[51] = 1678562558,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaShadowpala|r",
+		}, -- [361]
+		{
+			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
+			"Smellfarts", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			723, -- [11]
+			"0x0700000000849B71", -- [12]
+			0, -- [13]
+			[51] = 1678562560,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aSmellfarts|r",
+		}, -- [362]
+		{
+			"WTS Troll Rogue Name: Jezart Tailor/Engi - Dual Talent - 300 Mount - 7 Boe----> 30 Coin!!", -- [1]
+			"Wynoom", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			724, -- [11]
+			"0x070000000074F460", -- [12]
+			0, -- [13]
+			[51] = 1678562561,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aWynoom|r",
+		}, -- [363]
+		{
+			"Bulgarski guild <DumkaiteseOtzad> nabira hora s opit v ICC i RS. Ako tursite chill runove - zapovqdaite. RT@19:00 BG vreme. /w za poveche info", -- [1]
+			"Apophiss", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			726, -- [11]
+			"0x0700000000622914", -- [12]
+			0, -- [13]
+			[51] = 1678562562,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aApophiss|r",
+		}, -- [364]
+		{
+			"<Disappointed> Is looking for competent raiders to fill our roster and are able to clear LoD! Required: 6k + Char and class knowledge || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
+			"Holylone", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			728, -- [11]
+			"0x07000000005B34C6", -- [12]
+			0, -- [13]
+			[51] = 1678562565,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffHolylone|r",
+		}, -- [365]
+		{
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST|cffffff00|Hachievement:4584:0700000000535C70:1:7:18:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Assashin", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			732, -- [11]
+			"0x0700000000535C70", -- [12]
+			0, -- [13]
+			[51] = 1678562569,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Assashin|r",
+		}, -- [366]
+		{
+			"ICC 25HC 8/12 FRESH, NEED ALL MIN 6.2KGS AND ACHIV MUST+TIME (SFS RESS) |cffffff00|Hachievement:4584:070000000083155E:1:10:29:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
 			"Claujr", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
@@ -5740,391 +6622,13 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6618, -- [11]
+			733, -- [11]
 			"0x070000000083155E", -- [12]
 			0, -- [13]
-			[51] = 1677958782,
+			[51] = 1678562570,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cfff48cbaClaujr|r",
-		}, -- [318]
-		{
-			"WTS NAMES LIKE BALKANDAD APOLLO HEAVENBAE BARTHOLOMEW FOR GOLD", -- [1]
-			"Ylber", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6619, -- [11]
-			"0x07000000007A40DD", -- [12]
-			0, -- [13]
-			[51] = 1677958782,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Ylber|r",
-		}, -- [319]
-		{
-			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
-			"Titanhorns", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6620, -- [11]
-			"0x07000000002B1B48", -- [12]
-			0, -- [13]
-			[51] = 1677958783,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTitanhorns|r",
-		}, -- [320]
-		{
-			"< NOV > Bulgarski guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Hakerzz", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6621, -- [11]
-			"0x070000000017E687", -- [12]
-			0, -- [13]
-			[51] = 1677958784,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefHakerzz|r",
-		}, -- [321]
-		{
-			"LF enchanter", -- [1]
-			"Samurog", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6622, -- [11]
-			"0x07000000008C30C9", -- [12]
-			0, -- [13]
-			[51] = 1677958785,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Samurog|r",
-		}, -- [322]
-		{
-			"WTS ORC DK, named Cholak via warmane trade. It has Shadowmourne, Penumbra HC, Apocalypse advance HC, STS HC and WF shoulders and Head. It has BiS pvp proffessions ( JC & BS 450). /w me if interested.", -- [1]
-			"Missclappy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6624, -- [11]
-			"0x07000000005D9DCD", -- [12]
-			0, -- [13]
-			[51] = 1677958786,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMissclappy|r",
-		}, -- [323]
-		{
-			"ICC 25HC 8/12 FRESH, need all min 6.2kgs and achiv must+time (primo+sfs ress) |cffffff00|Hachievement:4584:0700000000731DA0:1:11:10:21:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Claaujr", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6625, -- [11]
-			"0x0700000000731DA0", -- [12]
-			0, -- [13]
-			[51] = 1677958787,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aClaaujr|r",
-		}, -- [324]
-		{
-			"ICC25 8/12 HC LF HUNTER RSHAM DISC MAGE BOOMIE 20/25 <BP DBW RES / SFS FREE!> 6.2K+ INSPECT MEMO! HAVE TIME+ACHI! ", -- [1]
-			"Wtfx", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6626, -- [11]
-			"0x07000000008783D4", -- [12]
-			0, -- [13]
-			[51] = 1677958787,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dWtfx|r",
-		}, -- [325]
-		{
-			"LF HUNTER RSHAM ICC25 8/12 6.2K+ BP + DBW RESS", -- [1]
-			"Bighaus", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6627, -- [11]
-			"0x0700000000036A32", -- [12]
-			0, -- [13]
-			[51] = 1677958787,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBighaus|r",
-		}, -- [326]
-		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wexpsy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6628, -- [11]
-			"0x070000000063557D", -- [12]
-			0, -- [13]
-			[51] = 1677958787,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffWexpsy|r",
-		}, -- [327]
-		{
-			"Guildless, bored and capable? Say no more, join <Disappointed> Today! We're looking for competent people able to clear LoD! Required: class knowledge and 6k + Char || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
-			"Holylone", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6630, -- [11]
-			"0x07000000005B34C6", -- [12]
-			0, -- [13]
-			[51] = 1677958793,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffHolylone|r",
-		}, -- [328]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminstrator", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6631, -- [11]
-			"0x07000000008F236F", -- [12]
-			0, -- [13]
-			[51] = 1677958794,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminstrator|r",
-		}, -- [329]
-		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wedopsy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6632, -- [11]
-			"0x0700000000607345", -- [12]
-			0, -- [13]
-			[51] = 1677958795,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Wedopsy|r",
-		}, -- [330]
-		{
-			"LFM ICC25NM/HC4/12+ - Need, 1 Melee (Fury), 1 Ranged (Boomie/Mage Last spot) - G run (BOE+PRIMOS+sfs RESS) Must be at least 5.7 gs fully gemmed enchanted link gs spec achive we will try to push for more hc (23/25)", -- [1]
-			"Humilitas", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6634, -- [11]
-			"0x07000000007BE7EC", -- [12]
-			0, -- [13]
-			[51] = 1677958804,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaHumilitas|r",
-		}, -- [331]
-		{
-			"DICK +++ Face of Orgrimmar (pvp guild) +++ recruits ambitious 6k+ GS players who consider themselves as experts in at least one of following fields: +combat+, +medic+, +johnny sins activities+ (no gay/trans allowed, we do accept lesbians)", -- [1]
-			"Zetarion", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6635, -- [11]
-			"0x07000000007664BF", -- [12]
-			0, -- [13]
-			[51] = 1677958805,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aZetarion|r",
-		}, -- [332]
-		{
-			"WTB ALL YOUR CARDINAL RUBIES 220 Each C.O.D Me", -- [1]
-			"Zroubaa", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6636, -- [11]
-			"0x07000000007C7AF4", -- [12]
-			0, -- [13]
-			[51] = 1677958806,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffZroubaa|r",
-		}, -- [333]
-		{
-			"LFM [Heroic: Magister's Terrace] MGT HEROIC FOR MOUNT + PET RUN (U NEED TO FINISH NORMAL MODE TO UNLOCK IT) !!", -- [1]
-			"Eadrin", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6637, -- [11]
-			"0x0700000000851C91", -- [12]
-			0, -- [13]
-			[51] = 1677958808,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Eadrin|r",
-		}, -- [334]
-		{
-			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
-			"Kilbore", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6638, -- [11]
-			"0x07000000000116A0", -- [12]
-			0, -- [13]
-			[51] = 1677958809,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aKilbore|r",
-		}, -- [335]
-		{
-			"LFM ICC25N (BLOOD RES) 5.9+ NEED 1 DPS / HEALERS / OT", -- [1]
-			"Levov", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6639, -- [11]
-			"0x07000000008C6329", -- [12]
-			0, -- [13]
-			[51] = 1677958809,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Levov|r",
-		}, -- [336]
-		{
-			"Guilda ROMANEASCA Barbarii in Bikini cauta membri activi pentru orice activitate pvp/pve/questing sau sa farmam alianta.Nu avem cerinte de recrutare decat Join And Have Fun.", -- [1]
-			"Tarkoved", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6640, -- [11]
-			"0x07000000008EAF05", -- [12]
-			0, -- [13]
-			[51] = 1677958809,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Tarkoved|r",
-		}, -- [337]
-		{
-			"WTB |cff1eff00|Hitem:36923:0:0:0:0:0:0:0:80|h[Calcedonia]|h|r", -- [1]
-			"Violatorr", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6641, -- [11]
-			"0x0700000000440A5D", -- [12]
-			0, -- [13]
-			[51] = 1677958809,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dViolatorr|r",
-		}, -- [338]
-		{
-			"LFM RS 25Nm (STS Ress) 5.8k GS + Link Achieve", -- [1]
-			"Acidhunter", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6642, -- [11]
-			"0x07000000006C1FAE", -- [12]
-			0, -- [13]
-			[51] = 1677958810,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Acidhunter|r",
-		}, -- [339]
+		}, -- [367]
 		{
 			"Fresh Era PvP guild <<dont mess with us>> is currently recruiting experienced / geared players that are willing to WPVP / Premade and more. Requirements are 1800 arena rate or 40 k honor kills /w me for more info", -- [1]
 			"Muck", -- [2]
@@ -6136,16 +6640,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6644, -- [11]
+			734, -- [11]
 			"0x070000000013E227", -- [12]
 			0, -- [13]
-			[51] = 1677958811,
+			[51] = 1678562570,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cfff48cbaMuck|r",
-		}, -- [340]
+		}, -- [368]
 		{
-			"WTS BIS UH DKs (non SM), you pick the items min 66 coins", -- [1]
-			"Xploze", -- [2]
+			"LFM ICC25 GRun - Need, 3 Healer (Disco/Rdudu/Random), 1 Melee (Ret/Fury), 5 Ranged (Lock/Boomie/Mage/SP/Hunter) - 5.8k min GS+ Link best achievment//BoE+Primo+SFS ress (16/25)", -- [1]
+			"Garidapriest", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -6154,16 +6658,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6645, -- [11]
-			"0x07000000005F0590", -- [12]
+			735, -- [11]
+			"0x0700000000626062", -- [12]
 			0, -- [13]
-			[51] = 1677958816,
+			[51] = 1678562570,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Xploze|r",
-		}, -- [341]
+			[52] = "|cffffffffGaridapriest|r",
+		}, -- [369]
 		{
-			"wtb |cffffffff|Hitem:46376:0:0:0:0:0:0:0:80|h[Frasco de la Vermis de Escarcha]|h|r 10stacks for 20k ", -- [1]
-			"Ul", -- [2]
+			"Balkanski PvE Guild <Klinika> trazi clanove za aktivan progres, trenutni prog je ICC10nm 12/12 ICC10hc 12/12, ICC25hc 12/12, RS10/25 4/4. GS req 5,8 Koristi se Diskord + DKP! Za vise informacija Whisper", -- [1]
+			"Kurvaarr", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -6172,13 +6676,517 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6646, -- [11]
-			"0x0700000000178056", -- [12]
+			737, -- [11]
+			"0x070000000060EDD0", -- [12]
 			0, -- [13]
-			[51] = 1677958816,
+			[51] = 1678562571,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaUl|r",
-		}, -- [342]
+			[52] = "|cffc41e3aKurvaarr|r",
+		}, -- [370]
+		{
+			"LFM [Zul'Aman] Need All /w gs+spect ", -- [1]
+			"Ferdino", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			744, -- [11]
+			"0x07000000006EE7B8", -- [12]
+			0, -- [13]
+			[51] = 1678562575,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Ferdino|r",
+		}, -- [371]
+		{
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST |cffffff00|Hachievement:4584:07000000000820D4:1:1:29:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Cllaymore", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			745, -- [11]
+			"0x07000000000820D4", -- [12]
+			0, -- [13]
+			[51] = 1678562575,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dCllaymore|r",
+		}, -- [372]
+		{
+			"Ukrainian guild \" Mists of Barabashovo \" recruits active players from 5k8 for ICC & RS! RT: weekdays - 20:00, weekends - 18:00 Kyiv time.", -- [1]
+			"Wheresmybow", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			746, -- [11]
+			"0x07000000008AC3D1", -- [12]
+			0, -- [13]
+			[51] = 1678562575,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Wheresmybow|r",
+		}, -- [373]
+		{
+			"LFM ICC 25nm need 1x resto druid or mage or elemental shaman +5.9 (B+P+Ring of rapid Asent ress) 24/25", -- [1]
+			"Xshammy", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			748, -- [11]
+			"0x07000000008C6BDA", -- [12]
+			0, -- [13]
+			[51] = 1678562577,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070ddXshammy|r",
+		}, -- [374]
+		{
+			"ICC 25HC 8/12 FRESH, NEED ALL MIN 6.2KGS AND ACHIV MUST+TIME (SFS RESS) |cffffff00|Hachievement:4584:070000000000C7C6:1:10:19:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Clauujr", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			750, -- [11]
+			"0x070000000000C7C6", -- [12]
+			0, -- [13]
+			[51] = 1678562579,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff9382c9Clauujr|r",
+		}, -- [375]
+		{
+			"Russian NEW GUILD <LOCK OUT> Nabiraem ludey 1-80 lvl // sistema /ROLL . Sobiraem adecvatnuy colectiv dlya osvoenia VSEGO contenta LK, budem radu vsem!", -- [1]
+			"Soulldem", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			752, -- [11]
+			"0x07000000008EFDA5", -- [12]
+			0, -- [13]
+			[51] = 1678562582,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Soulldem|r",
+		}, -- [376]
+		{
+			"Balkanski PvE Gild <<Klinika>> Trazi igrace za aktivno raidanje GPROG: icc10n/hc 12/12,icc25HC 12/12,RS 10/25 4/4!Koristi se DISKORD+DKP!Minimalni gs je 6k,poznavanje svoje klase i taktika!Prvensteveno dobra zabava i atmosfera:)Za vise info/w me", -- [1]
+			"Snoplu", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			754, -- [11]
+			"0x070000000015194F", -- [12]
+			0, -- [13]
+			[51] = 1678562583,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Snoplu|r",
+		}, -- [377]
+		{
+			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
+			"Arnisgodx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			755, -- [11]
+			"0x07000000004B5900", -- [12]
+			0, -- [13]
+			[51] = 1678562585,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaArnisgodx|r",
+		}, -- [378]
+		{
+			"LFM ICC 25 NM/HC - Need, 1 Healer (/Rdruid), 5 Melee ((No More Rogues)Retri/Fury/Feral), 5 Ranged (Lock/Boomie/Hunter) - 5.8GS+ BoE+Primos (sfs) ress Link Achivement gs spec (14/25)", -- [1]
+			"Brokenbad", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			757, -- [11]
+			"0x07000000007663F7", -- [12]
+			0, -- [13]
+			[51] = 1678562586,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefBrokenbad|r",
+		}, -- [379]
+		{
+			"Need Rdps(Hunter Sp) Heal(Shaman Dics) Icc 25n 5.6k gs w/me inv B+P+DBW RES LK RUN [The Frostwing Halls (25 player)]", -- [1]
+			"Warriorgopal", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			759, -- [11]
+			"0x07000000007E7F65", -- [12]
+			0, -- [13]
+			[51] = 1678562588,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dWarriorgopal|r",
+		}, -- [380]
+		{
+			"WTS Warlock[name:Darkslash] for 48 coins Lowest Price possible! [BiS WEP + Full BoE`s] + [ENGI + JC] + [280% Fly] via Warmane Store ", -- [1]
+			"Randomnuub", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			761, -- [11]
+			"0x07000000002A4558", -- [12]
+			0, -- [13]
+			[51] = 1678562591,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Randomnuub|r",
+		}, -- [381]
+		{
+			"Guild Br < A F K > aceitamos todos players do idioma Português. Todos os dias as 20h. Fazemos 3 ICC LOD RUN + 3 á 4 RS HC, e raids * Teste* para quem faz nosso apply no discord, ICC 10 HC as sextas e ICC 25 HC as Segundas. https://discord.gg/MR3gupa", -- [1]
+			"Masttertaunt", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			764, -- [11]
+			"0x0700000000847ACD", -- [12]
+			0, -- [13]
+			[51] = 1678562595,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaMasttertaunt|r",
+		}, -- [382]
+		{
+			"{estrella} Wipe and Furious {estrella} Recluta gente para sus raids . Se arman ICC10, ICC25 Y SR25 {cuadrado} {diamante} HORARIO DE RAIDEO 20:00ST. {cuadrado} {diamante}", -- [1]
+			"Germory", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			765, -- [11]
+			"0x070000000034F5B6", -- [12]
+			0, -- [13]
+			[51] = 1678562595,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaGermory|r",
+		}, -- [383]
+		{
+			"LFM Tank heal dps >> 2 bosses left > Illidari council Ilidan stormrage < |cffffff00|Hachievement:697:07000000005F9900:1:11:24:20:0:0:0:0|h[El Templo Oscuro]|h|r", -- [1]
+			"Unknoow", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			767, -- [11]
+			"0x07000000005F9900", -- [12]
+			0, -- [13]
+			[51] = 1678562598,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Unknoow|r",
+		}, -- [384]
+		{
+			"10000 gold giveaway @ https://demonic-empire.shivtr.com < Demonic Empire > LOD & RS 25 HC same as every night |cffffff00|Hachievement:4584:07000000004AA762:1:1:5:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Shamanresto", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			768, -- [11]
+			"0x07000000004AA762", -- [12]
+			0, -- [13]
+			[51] = 1678562598,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070ddShamanresto|r",
+		}, -- [385]
+		{
+			"Guild Irani < Freaky Guys > Progress: 1x LOD + 5x ICC 25 8/12 HC + 8x RS 25 + ToGc 25 Player ACtive +6.3 Baraye Ezafe Kardan Raid haye Hc Mipazirad w/me For Info", -- [1]
+			"Justwarlock", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			769, -- [11]
+			"0x07000000007B8581", -- [12]
+			0, -- [13]
+			[51] = 1678562598,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff9382c9Justwarlock|r",
+		}, -- [386]
+		{
+			"LF 3 dps and 1 shammy ICC 10 N 5,.4 plus !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ", -- [1]
+			"Shapeshyfter", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			772, -- [11]
+			"0x0700000000742154", -- [12]
+			0, -- [13]
+			[51] = 1678562602,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aShapeshyfter|r",
+		}, -- [387]
+		{
+			"warrior 5.8 lf endgame guild", -- [1]
+			"Ragio", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			773, -- [11]
+			"0x07000000008C8B1D", -- [12]
+			0, -- [13]
+			[51] = 1678562604,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dRagio|r",
+		}, -- [388]
+		{
+			"DPS LFG FOS/POS/HOR NM invite me", -- [1]
+			"Njosnaveriel", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			777, -- [11]
+			"0x07000000008EF675", -- [12]
+			0, -- [13]
+			[51] = 1678562609,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaNjosnaveriel|r",
+		}, -- [389]
+		{
+			"COIN SCAMMERS ALERT! ------------- BEWARE of lvl 19-24 selling CHEAP COINS, they have HTML edited proofs to temporarily change coin value from 0 to 1000 COINS and he cant even show LIVE SCREENSHARE in DC. ", -- [1]
+			"Ilvwlwvliwvv", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			778, -- [11]
+			"0x07000000008C4842", -- [12]
+			0, -- [13]
+			[51] = 1678562610,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aIlvwlwvliwvv|r",
+		}, -- [390]
+		{
+			"LFM icc25 - Need, 1 Ranged (boomi) - 5.5 gs guild run boe/shards/bloods res (24/25)", -- [1]
+			"Stormleet", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			779, -- [11]
+			"0x0700000000441BAF", -- [12]
+			0, -- [13]
+			[51] = 1678562611,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaStormleet|r",
+		}, -- [391]
+		{
+			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
+			"Kilbore", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			781, -- [11]
+			"0x07000000000116A0", -- [12]
+			0, -- [13]
+			[51] = 1678562611,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aKilbore|r",
+		}, -- [392]
+		{
+			"LFM ICC 25 6/12 hc need 1 boomie/FERAL 5.5k+ full gems enchants (boe sfs primos res) 24/25 LAST SPOT !!!", -- [1]
+			"Warlockxzc", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			782, -- [11]
+			"0x0700000000837CFE", -- [12]
+			0, -- [13]
+			[51] = 1678562612,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Warlockxzc|r",
+		}, -- [393]
+		{
+			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
+			"Bblackbaret", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			784, -- [11]
+			"0x070000000088EF46", -- [12]
+			0, -- [13]
+			[51] = 1678562615,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Bblackbaret|r",
+		}, -- [394]
+		{
+			"WTS |cffffff00|Hachievement:4583:07000000006736BC:1:4:5:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r ICC10 HC (Full Run) --BOOST RUN-- with all items for golds. DM for more info!", -- [1]
+			"Ancienty", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			787, -- [11]
+			"0x07000000001ACDA9", -- [12]
+			0, -- [13]
+			[51] = 1678562620,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaAncienty|r",
+		}, -- [395]
+		{
+			"WTS Troll Rogue Name: Jezart Tailor/Engi - Dual Talent - 300 Mount - 7 Boe----> 30 Coin!!", -- [1]
+			"Wynoom", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			789, -- [11]
+			"0x070000000074F460", -- [12]
+			0, -- [13]
+			[51] = 1678562621,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aWynoom|r",
+		}, -- [396]
+		{
+			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
+			"Swishtime", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			790, -- [11]
+			"0x07000000008F1FB1", -- [12]
+			0, -- [13]
+			[51] = 1678562622,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Swishtime|r",
+		}, -- [397]
+		{
+			"Bulgarski guild <DumkaiteseOtzad> nabira hora s opit v ICC i RS. Ako tursite chill runove - zapovqdaite. RT@19:00 BG vreme. /w za poveche info", -- [1]
+			"Apophiss", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			791, -- [11]
+			"0x0700000000622914", -- [12]
+			0, -- [13]
+			[51] = 1678562622,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aApophiss|r",
+		}, -- [398]
 		{
 			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
 			"Smellfarts", -- [2]
@@ -6190,16 +7198,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6647, -- [11]
+			792, -- [11]
 			"0x0700000000849B71", -- [12]
 			0, -- [13]
-			[51] = 1677958816,
+			[51] = 1678562622,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cffff7c0aSmellfarts|r",
-		}, -- [343]
+		}, -- [399]
 		{
-			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Blackbarett", -- [2]
+			"WTS 500 coins! cheapest price and fast deal!! Get your [Shadowmourne] CHEAP now!! LEGlT DEAL and can show PR00F! whisper me if interested", -- [1]
+			"Ilwvlwvliwvv", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -6208,16 +7216,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6648, -- [11]
-			"0x070000000087DF9C", -- [12]
+			793, -- [11]
+			"0x07000000008F6BE3", -- [12]
 			0, -- [13]
-			[51] = 1677958816,
+			[51] = 1678562622,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff0070ddBlackbarett|r",
-		}, -- [344]
+			[52] = "|cffaad372Ilwvlwvliwvv|r",
+		}, -- [400]
 		{
-			"WTS characters. NAMES: Azzinoth, Saint", -- [1]
-			"Willb", -- [2]
+			" |cffffff00|Hachievement:697:07000000007BB54C:1:8:1:22:0:0:0:0|h[El Templo Oscuro]|h|r Need 1 heal 1 Tank +2Dps --[Warglaive of Azzinoth]Ress--", -- [1]
+			"Suntoryo", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -6226,627 +7234,15 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6649, -- [11]
-			"0x070000000024F377", -- [12]
+			795, -- [11]
+			"0x07000000007BB54C", -- [12]
 			0, -- [13]
-			[51] = 1677958816,
+			[51] = 1678562623,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Willb|r",
-		}, -- [345]
+			[52] = "|cfffff468Suntoryo|r",
+		}, -- [401]
 		{
-			"Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:070000000063B8B2:1:5:26:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Fistotank", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6650, -- [11]
-			"0x070000000063B8B2", -- [12]
-			0, -- [13]
-			[51] = 1677958816,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Fistotank|r",
-		}, -- [346]
-		{
-			"LFM ICC25 nm/hc NEED ALL 6k+ (BOE+ PRIMO,+SFS and DBW RESS)", -- [1]
-			"Fightdemonss", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6651, -- [11]
-			"0x0700000000763C04", -- [12]
-			0, -- [13]
-			[51] = 1677958816,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Fightdemonss|r",
-		}, -- [347]
-		{
-			"wts |cffffffff|Hitem:46376:0:0:0:0:0:0:0:80|h[Frasco de la Vermis de Escarcha]|h|rx2 for 100g ", -- [1]
-			"Cuteneko", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6652, -- [11]
-			"0x07000000006A365B", -- [12]
-			0, -- [13]
-			[51] = 1677958816,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aCuteneko|r",
-		}, -- [348]
-		{
-			"WTB |cffffffff|Hitem:36905:0:0:0:0:0:0:0:80|h[Flor Exánime]|h|r - 700g/stack, |cffffffff|Hitem:36903:0:0:0:0:0:0:0:80|h[Lengua de Víboris]|h|r -800g/stack - C.O.D me!", -- [1]
-			"Owlgore", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6653, -- [11]
-			"0x070000000047575D", -- [12]
-			0, -- [13]
-			[51] = 1677958817,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aOwlgore|r",
-		}, -- [349]
-		{
-			"WTF Frost Wyrm flask", -- [1]
-			"Fellisimo", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6654, -- [11]
-			"0x070000000068983B", -- [12]
-			0, -- [13]
-			[51] = 1677958818,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefFellisimo|r",
-		}, -- [350]
-		{
-			"LFM |cffffff00|Hachievement:693:070000000067535C:1:2:21:23:0:0:0:0|h[Guarida de Magtheridon]|h|r dps + tank (staff res)", -- [1]
-			"Formz", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6655, -- [11]
-			"0x070000000067535C", -- [12]
-			0, -- [13]
-			[51] = 1677958819,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aFormz|r",
-		}, -- [351]
-		{
-			"<The Old Crew> traži nove clanove za raidove. Radimo 3x ICC 25 (8/12 hc), 5x RS 25 i 3x ICC 10 tjedno. Koristimo Discord i DKP sistem. Vrijeme raidova je 20:00. Minimalni GS za ulazak u guild je 5.8k. Za vise informacija /w.", -- [1]
-			"Posthar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6656, -- [11]
-			"0x070000000056FF7B", -- [12]
-			0, -- [13]
-			[51] = 1677958819,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Posthar|r",
-		}, -- [352]
-		{
-			" https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM (All Subscribers are invited to a \"SUBS\" Bane Run where you can join with any gs character you want.", -- [1]
-			"Ritaora", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6657, -- [11]
-			"0x07000000005A378A", -- [12]
-			0, -- [13]
-			[51] = 1677958820,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaRitaora|r",
-		}, -- [353]
-		{
-			" |cffffff00|Hachievement:697:070000000035E5BA:1:9:10:18:0:0:0:0|h[El Templo Oscuro]|h|r Need LVL 80 Wis Me Nothing Res Need 1x dk Tank 1x prot pala lvl 80 and 2x Ret ", -- [1]
-			"Soouls", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6658, -- [11]
-			"0x070000000035E5BA", -- [12]
-			0, -- [13]
-			[51] = 1677958822,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Soouls|r",
-		}, -- [354]
-		{
-			"LFM ICC25 nm/hc NEED ALL 6k+ (BOE+ PRIMO,+SFS and DBW RESS)", -- [1]
-			"Huioo", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6659, -- [11]
-			"0x07000000004B24A8", -- [12]
-			0, -- [13]
-			[51] = 1677958822,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dHuioo|r",
-		}, -- [355]
-		{
-			"<Invadersx> is an end game guild recruiting heroic experienced raiders with 6.3k+ gs for LoD/RS/ToGC. Raid time 17:45PM ST. Send your chars at https://discord.gg/TFe3QCJsdK", -- [1]
-			"Invadersx", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6660, -- [11]
-			"0x07000000008CF512", -- [12]
-			0, -- [13]
-			[51] = 1677958822,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dInvadersx|r",
-		}, -- [356]
-		{
-			"WTS on ICECROWN> Human female warr named<Pamority> with 27533gold,63EOF, 11eot,2138arena points,30k honor -AND- Human female rog named<Verile> with 27608gold, 103EOF,20EOT,31k honor on Warmane trade! 30c each ", -- [1]
-			"Mokrontar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6661, -- [11]
-			"0x07000000007E1A9C", -- [12]
-			0, -- [13]
-			[51] = 1677958823,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Mokrontar|r",
-		}, -- [357]
-		{
-			"<The Red Devils> are recruiting 6k+. We are currently progressing 10/12 ICC25hc.mainly need DP+other heals We raid on mondays(ICC25hc 10/12) and thursdays(icc25 8/12) 6PM. Fill in the application: [https://reddevils.gq/] fresh dkp system!", -- [1]
-			"Brutface", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6663, -- [11]
-			"0x070000000068DF99", -- [12]
-			0, -- [13]
-			[51] = 1677958824,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBrutface|r",
-		}, -- [358]
-		{
-			"2ts |cff0070dd|Hitem:43987:0:0:0:0:0:0:0:80|h[Pergamino de Encantar arma: magia negra]|h|r 800g fast @", -- [1]
-			"Majjoras", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6664, -- [11]
-			"0x070000000028B213", -- [12]
-			0, -- [13]
-			[51] = 1677958825,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffMajjoras|r",
-		}, -- [359]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminprot", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6665, -- [11]
-			"0x07000000008F2372", -- [12]
-			0, -- [13]
-			[51] = 1677958825,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminprot|r",
-		}, -- [360]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowmourn", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6666, -- [11]
-			"0x07000000008191C6", -- [12]
-			0, -- [13]
-			[51] = 1677958828,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowmourn|r",
-		}, -- [361]
-		{
-			"Na prodaju 54c, moze i uzivo /w", -- [1]
-			"Kevah", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6669, -- [11]
-			"0x070000000072F300", -- [12]
-			0, -- [13]
-			[51] = 1677958835,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaKevah|r",
-		}, -- [362]
-		{
-			"LFM ICC 10 LK Run (GS-HC; wfs ress) need all 5,8+ /w me with gs class achiev", -- [1]
-			"Djcrouchpeek", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6670, -- [11]
-			"0x07000000003EBE32", -- [12]
-			0, -- [13]
-			[51] = 1677958835,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDjcrouchpeek|r",
-		}, -- [363]
-		{
-			"[Longevity] Guild TGF-et hírdet, tapasztalt játékosoknak. Hetente több 10-es hc run, Icc25Hc 8/12 heti 3db és LoD progress raid. Heti minimum 3 db Rs25. DKP system. SFS gyüjtése jelenleg opció várólista van.", -- [1]
-			"Streetrats", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6671, -- [11]
-			"0x0700000000505499", -- [12]
-			0, -- [13]
-			[51] = 1677958835,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffStreetrats|r",
-		}, -- [364]
-		{
-			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
-			"Swishtime", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6672, -- [11]
-			"0x07000000008F1FB1", -- [12]
-			0, -- [13]
-			[51] = 1677958836,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Swishtime|r",
-		}, -- [365]
-		{
-			"LFM ULDUAR 10 wisp me spec gs \"Only skilled players\"", -- [1]
-			"Hemma", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6675, -- [11]
-			"0x07000000008857BA", -- [12]
-			0, -- [13]
-			[51] = 1677958842,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Hemma|r",
-		}, -- [366]
-		{
-			"WTS Bane boost 12/12hc full run with all of loots dm me for ressved your spot our raid time 11am/ 2pm Sever time |cffffff00|Hachievement:4583:0700000000060E84:1:10:11:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r", -- [1]
-			"Todaystar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6676, -- [11]
-			"0x0700000000060E84", -- [12]
-			0, -- [13]
-			[51] = 1677958842,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTodaystar|r",
-		}, -- [367]
-		{
-			"WTB DK ON SFS QUEST WITH RS SET (MUST HAVE GOOD MOUNTS AND EOF + MARKS) PM ME WITH NAME !!!", -- [1]
-			"Oldisgold", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6677, -- [11]
-			"0x07000000003C2F72", -- [12]
-			0, -- [13]
-			[51] = 1677958842,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Oldisgold|r",
-		}, -- [368]
-		{
-			"CRYPTEA (H/A) vs ICC25H + RS25H- Boomkin PoV (10.000 golds GIVEAWAY, join the stream and participate <3) https://www.twitch.tv/finalarguments", -- [1]
-			"Include", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6678, -- [11]
-			"0x0700000000006F55", -- [12]
-			0, -- [13]
-			[51] = 1677958842,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Include|r",
-		}, -- [369]
-		{
-			"Guild >Harvest Soul< recluta jugadores con exp en ICC25HC y RS25 HC. Progress actual: LoD (x6), RS25 HC (x4), Raid Dinamic (8/12) // Sist. de loot Dkp Hora de raids 00:30 st. /w + info", -- [1]
-			"Scruffed", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6679, -- [11]
-			"0x070000000074F5E5", -- [12]
-			0, -- [13]
-			[51] = 1677958842,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaScruffed|r",
-		}, -- [370]
-		{
-			"LFM Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:07000000005CD744:1:10:27:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Vaargoth", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6680, -- [11]
-			"0x07000000005CD744", -- [12]
-			0, -- [13]
-			[51] = 1677958842,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefVaargoth|r",
-		}, -- [371]
-		{
-			"WTS lock(Xmlock) /rogue(Darkspot) 10/15 Boe items full soket enchnts dual spec 280% fly mounts 5k gold 30 coin via warmane trade", -- [1]
-			"Iseengard", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6681, -- [11]
-			"0x070000000062C92E", -- [12]
-			0, -- [13]
-			[51] = 1677958842,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aIseengard|r",
-		}, -- [372]
-		{
-			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
-			"Titanhorns", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6683, -- [11]
-			"0x07000000002B1B48", -- [12]
-			0, -- [13]
-			[51] = 1677958849,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTitanhorns|r",
-		}, -- [373]
-		{
-			"< NOV > Bulgarski guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Hakerzz", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6684, -- [11]
-			"0x070000000017E687", -- [12]
-			0, -- [13]
-			[51] = 1677958849,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefHakerzz|r",
-		}, -- [374]
-		{
-			"WTS ORC DK, named Cholak via warmane trade. It has Shadowmourne, Penumbra HC, Apocalypse advance HC, STS HC and WF shoulders and Head. It has BiS pvp proffessions ( JC & BS 450). /w me if interested.", -- [1]
-			"Missclappy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6685, -- [11]
-			"0x07000000005D9DCD", -- [12]
-			0, -- [13]
-			[51] = 1677958849,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMissclappy|r",
-		}, -- [375]
-		{
-			"NEED 1DPS AND HEALER FOR TOC5 TRINKET FARM", -- [1]
-			"Wanjeda", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6687, -- [11]
-			"0x07000000008460D3", -- [12]
-			0, -- [13]
-			[51] = 1677958855,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefWanjeda|r",
-		}, -- [376]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminstrator", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6689, -- [11]
-			"0x07000000008F236F", -- [12]
-			0, -- [13]
-			[51] = 1677958862,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminstrator|r",
-		}, -- [377]
-		{
-			"Looking for reliable players to join our guild and heroic raiding teams, raiding 12pm ST. Zero toxicity guild, weekly LoD, come and have some fun with us!Try to get LoD experience, 6.2k toons but if they are really nice we can take lower. Nobody below 5k ", -- [1]
-			"Valknaar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6691, -- [11]
-			"0x070000000086034C", -- [12]
-			0, -- [13]
-			[51] = 1677958862,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Valknaar|r",
-		}, -- [378]
-		{
-			"LFM ICC25NM/HC4/12+ - Need, 1 Ranged (Boomie/Mage Last spot) - G run (BOE+PRIMOS+sfs RESS) Must be at least 5.7 gs fully gemmed enchanted link gs spec achive we will try to push for more hc (24/25)", -- [1]
-			"Humilitas", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6692, -- [11]
-			"0x07000000007BE7EC", -- [12]
-			0, -- [13]
-			[51] = 1677958868,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaHumilitas|r",
-		}, -- [379]
-		{
-			"Guildless, bored and capable? Say no more, join <Disappointed> Today! We're looking for competent people able to clear LoD! Required: class knowledge and 6k + Char || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
+			"<Disappointed> Is looking for competent raiders to fill our roster and are able to clear LoD! Required: 6k + Char and class knowledge || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
 			"Holylone", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
@@ -6856,16 +7252,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6693, -- [11]
+			798, -- [11]
 			"0x07000000005B34C6", -- [12]
 			0, -- [13]
-			[51] = 1677958868,
+			[51] = 1678562630,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cffffffffHolylone|r",
-		}, -- [380]
+		}, -- [402]
 		{
-			"Korinis Bandits mainly recruiting Thugs Pimps Smugglers Hoes mother fucking AH Jews, Gold interested greedy pricks with specific guild goal including Social Toxicity and PvE activities", -- [1]
-			"Nrozas", -- [2]
+			"Tank log Rdf 25+", -- [1]
+			"Dieforpets", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -6874,16 +7270,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6695, -- [11]
-			"0x0700000000651646", -- [12]
+			799, -- [11]
+			"0x07000000008F6ED6", -- [12]
 			0, -- [13]
-			[51] = 1677958869,
+			[51] = 1678562630,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aNrozas|r",
-		}, -- [381]
+			[52] = "|cffaad372Dieforpets|r",
+		}, -- [403]
 		{
-			"DICK +++ Face of Orgrimmar (pvp guild) +++ recruits ambitious 6k+ GS players who consider themselves as experts in at least one of following fields: +combat+, +medic+, +johnny sins activities+ (no gay/trans allowed, we do accept lesbians)", -- [1]
-			"Zetarion", -- [2]
+			"LFM ICC25 GRun - Need, 3 Healer (Disco/Rdudu/Random), 1 Melee (Ret/Fury), 5 Ranged (Lock/Boomie/Mage/SP/Hunter) - 5.8k min GS+ Link best achievment//BoE+Primo+SFS ress (16/25)", -- [1]
+			"Garidapriest", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -6892,15 +7288,231 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6696, -- [11]
-			"0x07000000007664BF", -- [12]
+			801, -- [11]
+			"0x0700000000626062", -- [12]
 			0, -- [13]
-			[51] = 1677958875,
+			[51] = 1678562631,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aZetarion|r",
-		}, -- [382]
+			[52] = "|cffffffffGaridapriest|r",
+		}, -- [404]
 		{
-			"LFM ICC 25 HC LOD run +6.3 Link achiv Lod for inv DIscord Req SFS FREE BOe reserve Miss1 RDPS DPS 24/25 |cffffff00|Hachievement:4584:0700000000012F8D:1:6:16:19:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"LFM [Zul'Aman] Need All /w gs+spect ", -- [1]
+			"Ferdino", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			804, -- [11]
+			"0x07000000006EE7B8", -- [12]
+			0, -- [13]
+			[51] = 1678562635,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Ferdino|r",
+		}, -- [405]
+		{
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST|cffffff00|Hachievement:4584:0700000000535C70:1:7:18:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Assashin", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			807, -- [11]
+			"0x0700000000535C70", -- [12]
+			0, -- [13]
+			[51] = 1678562638,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Assashin|r",
+		}, -- [406]
+		{
+			"Russian NEW GUILD <LOCK OUT> Nabiraem ludey 1-80 lvl // sistema /ROLL . Sobiraem adecvatnuy colectiv dlya osvoenia VSEGO contenta LK, budem radu vsem!", -- [1]
+			"Soulldem", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			810, -- [11]
+			"0x07000000008EFDA5", -- [12]
+			0, -- [13]
+			[51] = 1678562642,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Soulldem|r",
+		}, -- [407]
+		{
+			"ICC 25HC 8/12 FRESH, NEED ALL MIN 6.2KGS AND ACHIV MUST+TIME (SFS RESS) |cffffff00|Hachievement:4584:070000000083155E:1:10:29:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Claujr", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			813, -- [11]
+			"0x070000000083155E", -- [12]
+			0, -- [13]
+			[51] = 1678562642,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaClaujr|r",
+		}, -- [408]
+		{
+			"Balkanski PvE Gild <<Klinika>> Trazi igrace za aktivno raidanje GPROG: icc10n/hc 12/12,icc25HC 12/12,RS 10/25 4/4!Koristi se DISKORD+DKP!Minimalni gs je 6k,poznavanje svoje klase i taktika!Prvensteveno dobra zabava i atmosfera:)Za vise info/w me", -- [1]
+			"Snoplu", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			814, -- [11]
+			"0x070000000015194F", -- [12]
+			0, -- [13]
+			[51] = 1678562643,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Snoplu|r",
+		}, -- [409]
+		{
+			"Ukrainian guild \" Mists of Barabashovo \" recruits active players from 5k8 for ICC & RS! RT: weekdays - 20:00, weekends - 18:00 Kyiv time.", -- [1]
+			"Wheresmybow", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			815, -- [11]
+			"0x07000000008AC3D1", -- [12]
+			0, -- [13]
+			[51] = 1678562644,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Wheresmybow|r",
+		}, -- [410]
+		{
+			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
+			"Arnisgodx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			817, -- [11]
+			"0x07000000004B5900", -- [12]
+			0, -- [13]
+			[51] = 1678562645,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaArnisgodx|r",
+		}, -- [411]
+		{
+			"LFM ICC 25 NM/HC - Need, 1 Healer (Rdruid), 2 Melee ((No More Rogues)Fury/Feral), 5 Ranged (Lock/Boomie/Hunter) - 5.8GS+ BoE+Primos (sfs) ress Link Achivement gs spec (17/25)", -- [1]
+			"Brokenbad", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			818, -- [11]
+			"0x07000000007663F7", -- [12]
+			0, -- [13]
+			[51] = 1678562646,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefBrokenbad|r",
+		}, -- [412]
+		{
+			" |cffffff00|Hachievement:697:07000000007BB54C:1:8:1:22:0:0:0:0|h[El Templo Oscuro]|h|r Need 1 heal 1 Tank +2Dps --[Warglaive of Azzinoth]Ress--", -- [1]
+			"Fenixx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			819, -- [11]
+			"0x07000000008D399E", -- [12]
+			0, -- [13]
+			[51] = 1678562646,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaFenixx|r",
+		}, -- [413]
+		{
+			"RS 25 NM >< Need 2 HEAL 6k+/w me ach for inv (GTS RES)", -- [1]
+			"Sathathin", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			822, -- [11]
+			"0x07000000006283D7", -- [12]
+			0, -- [13]
+			[51] = 1678562650,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aSathathin|r",
+		}, -- [414]
+		{
+			"WTS Warlock[name:Darkslash] for 48 coins Lowest Price possible! [BiS WEP + Full BoE`s] + [ENGI + JC] + [280% Fly] via Warmane Store ", -- [1]
+			"Randomnuub", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			823, -- [11]
+			"0x07000000002A4558", -- [12]
+			0, -- [13]
+			[51] = 1678562651,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Randomnuub|r",
+		}, -- [415]
+		{
+			"ICC 10nm FRSH 8+/12. Need 2 Tank, 2 Heal, Dps/Rdps (5.1+) no ress", -- [1]
+			"Underouth", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			824, -- [11]
+			"0x070000000030F788", -- [12]
+			0, -- [13]
+			[51] = 1678562651,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefUnderouth|r",
+		}, -- [416]
+		{
+			"LFM ULDuar 25 Man MIX run +5.8 Full run Only Fragment reserve 24/25 discordreq1tank.1BOOMY.MAGe |cffffff00|Hachievement:2958:0700000000012F8D:1:10:10:21:4294967295:4294967295:4294967295:4294967295|h[La gloria del asaltante de Ulduar (25 j.)]|h|r", -- [1]
 			"Shadowpala", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
@@ -6910,16 +7522,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6697, -- [11]
+			826, -- [11]
 			"0x0700000000012F8D", -- [12]
 			0, -- [13]
-			[51] = 1677958875,
+			[51] = 1678562652,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cfff48cbaShadowpala|r",
-		}, -- [383]
+		}, -- [417]
 		{
-			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
-			"Kilbore", -- [2]
+			"ICC 25HC 8/12 FRESH, NEED ALL MIN 6.2KGS AND ACHIV MUST+TIME (SFS RESS) |cffffff00|Hachievement:4584:070000000000C7C6:1:10:19:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Clauujr", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -6928,16 +7540,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6698, -- [11]
-			"0x07000000000116A0", -- [12]
+			827, -- [11]
+			"0x070000000000C7C6", -- [12]
 			0, -- [13]
-			[51] = 1677958875,
+			[51] = 1678562652,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aKilbore|r",
-		}, -- [384]
+			[52] = "|cff9382c9Clauujr|r",
+		}, -- [418]
 		{
-			"WTS BIS UH DKs (non SM), you pick the items min 66 coins", -- [1]
-			"Xploze", -- [2]
+			"LFM Zull Aman need all / w gs + spect", -- [1]
+			"Yoshimisu", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -6946,286 +7558,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6699, -- [11]
-			"0x07000000005F0590", -- [12]
+			828, -- [11]
+			"0x07000000005BD35F", -- [12]
 			0, -- [13]
-			[51] = 1677958875,
+			[51] = 1678562653,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Xploze|r",
-		}, -- [385]
+			[52] = "|cfff48cbaYoshimisu|r",
+		}, -- [419]
 		{
-			"LFM ICC25 nm/hc NEED ALL 6k+ (BOE+ PRIMO,+SFS and DBW RESS)", -- [1]
-			"Fightdemonss", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6700, -- [11]
-			"0x0700000000763C04", -- [12]
-			0, -- [13]
-			[51] = 1677958875,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Fightdemonss|r",
-		}, -- [386]
-		{
-			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Blackbarett", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6701, -- [11]
-			"0x070000000087DF9C", -- [12]
-			0, -- [13]
-			[51] = 1677958875,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff0070ddBlackbarett|r",
-		}, -- [387]
-		{
-			"any alt run ?", -- [1]
-			"Zepunissan", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6702, -- [11]
-			"0x0700000000863D79", -- [12]
-			0, -- [13]
-			[51] = 1677958875,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefZepunissan|r",
-		}, -- [388]
-		{
-			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
-			"Smellfarts", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6703, -- [11]
-			"0x0700000000849B71", -- [12]
-			0, -- [13]
-			[51] = 1677958875,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aSmellfarts|r",
-		}, -- [389]
-		{
-			"WTB ALL YOUR CARDINAL RUBIES 220 Each C.O.D Me", -- [1]
-			"Zroubaa", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6704, -- [11]
-			"0x07000000007C7AF4", -- [12]
-			0, -- [13]
-			[51] = 1677958876,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffZroubaa|r",
-		}, -- [390]
-		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wexpsy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6705, -- [11]
-			"0x070000000063557D", -- [12]
-			0, -- [13]
-			[51] = 1677958877,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffWexpsy|r",
-		}, -- [391]
-		{
-			"LFG rep farm", -- [1]
-			"Katish", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6706, -- [11]
-			"0x07000000008D4222", -- [12]
-			0, -- [13]
-			[51] = 1677958878,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Katish|r",
-		}, -- [392]
-		{
-			"<The Old Crew> traži nove clanove za raidove. Radimo 3x ICC 25 (8/12 hc), 5x RS 25 i 3x ICC 10 tjedno. Koristimo Discord i DKP sistem. Vrijeme raidova je 20:00. Minimalni GS za ulazak u guild je 5.8k. Za vise informacija /w.", -- [1]
-			"Posthar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6707, -- [11]
-			"0x070000000056FF7B", -- [12]
-			0, -- [13]
-			[51] = 1677958879,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Posthar|r",
-		}, -- [393]
-		{
-			"LFM ICC25 nm/hc NEED ALL 6k+ (BOE+ PRIMO,+SFS and DBW RESS)", -- [1]
-			"Huioo", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6708, -- [11]
-			"0x07000000004B24A8", -- [12]
-			0, -- [13]
-			[51] = 1677958882,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dHuioo|r",
-		}, -- [394]
-		{
-			"ICC25 8/12 HC LF HUNTER DISC MAGE BOOMIE SP 20/25 <BP DBW RES / SFS FREE!> 6.2K+ INSPECT MEMO! HAVE TIME+ACHI! ", -- [1]
-			"Wtfx", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6709, -- [11]
-			"0x07000000008783D4", -- [12]
-			0, -- [13]
-			[51] = 1677958882,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dWtfx|r",
-		}, -- [395]
-		{
-			"<Invadersx> is an end game guild recruiting heroic experienced raiders with 6.3k+ gs for LoD/RS/ToGC. Raid time 17:45PM ST. Send your chars at https://discord.gg/TFe3QCJsdK", -- [1]
-			"Invadersx", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6710, -- [11]
-			"0x07000000008CF512", -- [12]
-			0, -- [13]
-			[51] = 1677958882,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dInvadersx|r",
-		}, -- [396]
-		{
-			"<The Red Devils> are recruiting 6k+. We are currently progressing 10/12 ICC25hc.mainly need DP+other heals We raid on mondays(ICC25hc 10/12) and thursdays(icc25 8/12) 6PM. Fill in the application: [https://reddevils.gq/] fresh dkp system!", -- [1]
-			"Brutface", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6711, -- [11]
-			"0x070000000068DF99", -- [12]
-			0, -- [13]
-			[51] = 1677958885,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBrutface|r",
-		}, -- [397]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminprot", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6712, -- [11]
-			"0x07000000008F2372", -- [12]
-			0, -- [13]
-			[51] = 1677958885,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminprot|r",
-		}, -- [398]
-		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wedopsy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6713, -- [11]
-			"0x0700000000607345", -- [12]
-			0, -- [13]
-			[51] = 1677958885,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Wedopsy|r",
-		}, -- [399]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowmourn", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6715, -- [11]
-			"0x07000000008191C6", -- [12]
-			0, -- [13]
-			[51] = 1677958890,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowmourn|r",
-		}, -- [400]
-		{
-			"Na prodaju 54c, moze i uzivo /w", -- [1]
-			"Kevah", -- [2]
+			"WTS Boosting Service Bane / LOD / Togc / Rs 10/25 Dm ME FOR MORE INFO https://discord.gg/Y73YmnwgPerweek", -- [1]
+			"Azhovan", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -7234,16 +7576,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6717, -- [11]
-			"0x070000000072F300", -- [12]
+			829, -- [11]
+			"0x070000000063B0A0", -- [12]
 			0, -- [13]
-			[51] = 1677958891,
+			[51] = 1678562654,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaKevah|r",
-		}, -- [401]
+			[52] = "|cffffffffAzhovan|r",
+		}, -- [420]
 		{
-			"WTB DK ON SFS QUEST WITH RS SET (MUST HAVE GOOD MOUNTS AND EOF + MARKS) PM ME WITH NAME !!!", -- [1]
-			"Oldisgold", -- [2]
+			"LF FOS POS HC dps heal ", -- [1]
+			"Deroni", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -7252,16 +7594,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6718, -- [11]
-			"0x07000000003C2F72", -- [12]
+			830, -- [11]
+			"0x070000000000D3F8", -- [12]
 			0, -- [13]
-			[51] = 1677958898,
+			[51] = 1678562654,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Oldisgold|r",
-		}, -- [402]
+			[52] = "|cfff48cbaDeroni|r",
+		}, -- [421]
 		{
-			"WTS on ICECROWN> Human female warr named<Pamority> with 27533gold,63EOF, 11eot,2138arena points,30k honor -AND- Human female rog named<Verile> with 27608gold, 103EOF,20EOT,31k honor on Warmane trade! 30c each ", -- [1]
-			"Mokrontar", -- [2]
+			"Need Rdps and Heal Icc 25n 5.6k gs w/me inv B+P+DBW RES LK RUN [The Frostwing Halls (25 player)]", -- [1]
+			"Warriorgopal", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -7270,16 +7612,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6719, -- [11]
-			"0x07000000007E1A9C", -- [12]
+			833, -- [11]
+			"0x07000000007E7F65", -- [12]
 			0, -- [13]
-			[51] = 1677958898,
+			[51] = 1678562655,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Mokrontar|r",
-		}, -- [403]
+			[52] = "|cffc69b6dWarriorgopal|r",
+		}, -- [422]
 		{
-			"WTS Bane boost 12/12hc full run with all of loots dm me for ressved your spot our raid time 11am/ 2pm Sever time |cffffff00|Hachievement:4583:0700000000060E84:1:10:11:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r", -- [1]
-			"Todaystar", -- [2]
+			"{estrella} Wipe and Furious {estrella} Recluta gente para sus raids . Se arman ICC10, ICC25 Y SR25 {cuadrado} {diamante} HORARIO DE RAIDEO 20:00ST. {cuadrado} {diamante}", -- [1]
+			"Germory", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -7288,16 +7630,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6720, -- [11]
-			"0x0700000000060E84", -- [12]
+			834, -- [11]
+			"0x070000000034F5B6", -- [12]
 			0, -- [13]
-			[51] = 1677958898,
+			[51] = 1678562655,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTodaystar|r",
-		}, -- [404]
+			[52] = "|cfff48cbaGermory|r",
+		}, -- [423]
 		{
-			"Guild >Harvest Soul< recluta jugadores con exp en ICC25HC y RS25 HC. Progress actual: LoD (x6), RS25 HC (x4), Raid Dinamic (8/12) // Sist. de loot Dkp Hora de raids 00:30 st. /w + info", -- [1]
-			"Scruffed", -- [2]
+			"Need heal |cffffff00|Hachievement:3778:07000000008F7658:1:3:11:23:4294967295:4294967295:4294967295:4294967295|h[Prueba del Campeón]|h|r", -- [1]
+			"Nts", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -7306,16 +7648,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6721, -- [11]
-			"0x070000000074F5E5", -- [12]
+			836, -- [11]
+			"0x07000000008F7658", -- [12]
 			0, -- [13]
-			[51] = 1677958899,
+			[51] = 1678562657,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaScruffed|r",
-		}, -- [405]
+			[52] = "|cffc41e3aNts|r",
+		}, -- [424]
 		{
-			"Icc 25 Hc Lod run 5 boss down @ FESTER lf 1 dps or resto dudu", -- [1]
-			"Smashday", -- [2]
+			"10000 gold giveaway @ https://demonic-empire.shivtr.com < Demonic Empire > LOD & RS 25 HC same as every night |cffffff00|Hachievement:4584:07000000004AA762:1:1:5:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Shamanresto", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -7324,16 +7666,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6722, -- [11]
-			"0x0700000000717419", -- [12]
+			838, -- [11]
+			"0x07000000004AA762", -- [12]
 			0, -- [13]
-			[51] = 1677958902,
+			[51] = 1678562659,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffSmashday|r",
-		}, -- [406]
+			[52] = "|cff0070ddShamanresto|r",
+		}, -- [425]
 		{
-			"LFM ICC 10 LK Run (GS-HC; wfs ress) need all 5,8+ /w me with gs class achiev", -- [1]
-			"Djcrouchpeek", -- [2]
+			"Guild Irani < Freaky Guys > Progress: 1x LOD + 5x ICC 25 8/12 HC + 8x RS 25 + ToGc 25 Player ACtive +6.3 Baraye Ezafe Kardan Raid haye Hc Mipazirad w/me For Info", -- [1]
+			"Justwarlock", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -7342,139 +7684,31 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6723, -- [11]
-			"0x07000000003EBE32", -- [12]
+			839, -- [11]
+			"0x07000000007B8581", -- [12]
 			0, -- [13]
-			[51] = 1677958902,
+			[51] = 1678562660,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDjcrouchpeek|r",
-		}, -- [407]
+			[52] = "|cff9382c9Justwarlock|r",
+		}, -- [426]
 		{
-			"WTS blood elf retry PALADIN with gloren(HC) STS/TINY (hc) penumbra (HC) 310% mount some boe + 300eof +++ naked druid with achives /w me for more ", -- [1]
-			"Drunkpotato", -- [2]
+			"RS 25 NM >< Need 2 HEAL 6k+/w me ach for inv (GTS RES) |cffffff00|Hachievement:4816:07000000007B3D24:1:5:5:22:4294967295:4294967295:4294967295:4294967295|h[Heroico: El Destructor del Crepúsculo (25 j.)]|h|r", -- [1]
+			"Proheal", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"", -- [6]
+			"AFK", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6724, -- [11]
-			"0x0700000000105EDB", -- [12]
+			843, -- [11]
+			"0x07000000007B3D24", -- [12]
 			0, -- [13]
-			[51] = 1677958902,
+			[51] = 1678562667,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDrunkpotato|r",
-		}, -- [408]
-		{
-			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
-			"Titanhorns", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6725, -- [11]
-			"0x07000000002B1B48", -- [12]
-			0, -- [13]
-			[51] = 1677958903,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTitanhorns|r",
-		}, -- [409]
-		{
-			"LFM ICC 25 NM RUN NEED ALL // 5.7 GS + [Heroic: Fall of the Lich King (25 player)] (BOE, PRIMOS, SFS RESS) // W ARCHIVE", -- [1]
-			"Uxia", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6726, -- [11]
-			"0x0700000000632FAD", -- [12]
-			0, -- [13]
-			[51] = 1677958904,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaUxia|r",
-		}, -- [410]
-		{
-			"< NOV > Bulgarski guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Hakerzz", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6727, -- [11]
-			"0x070000000017E687", -- [12]
-			0, -- [13]
-			[51] = 1677958905,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefHakerzz|r",
-		}, -- [411]
-		{
-			"[Longevity] Guild TGF-et hírdet, tapasztalt játékosoknak. Hetente több 10-es hc run, Icc25Hc 8/12 heti 3db és LoD progress raid. Heti minimum 3 db Rs25. DKP system. SFS gyüjtése jelenleg opció várólista van.", -- [1]
-			"Streetrats", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6728, -- [11]
-			"0x0700000000505499", -- [12]
-			0, -- [13]
-			[51] = 1677958905,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffStreetrats|r",
-		}, -- [412]
-		{
-			"WTS ORC DK, named Cholak via warmane trade. It has Shadowmourne, Penumbra HC, Apocalypse advance HC, STS HC and WF shoulders and Head. It has BiS pvp proffessions ( JC & BS 450). /w me if interested.", -- [1]
-			"Missclappy", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6729, -- [11]
-			"0x07000000005D9DCD", -- [12]
-			0, -- [13]
-			[51] = 1677958906,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMissclappy|r",
-		}, -- [413]
-		{
-			"WTB |cffffffff|Hitem:36905:0:0:0:0:0:0:0:80|h[Flor Exánime]|h|r - 700g/stack, |cffffffff|Hitem:36903:0:0:0:0:0:0:0:80|h[Lengua de Víboris]|h|r -800g/stack - C.O.D me!", -- [1]
-			"Owlgore", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6730, -- [11]
-			"0x070000000047575D", -- [12]
-			0, -- [13]
-			[51] = 1677958907,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aOwlgore|r",
-		}, -- [414]
+			[52] = "|cffffffffProheal|r",
+		}, -- [427]
 		{
 			"Fresh Era PvP guild <<dont mess with us>> is currently recruiting experienced / geared players that are willing to WPVP / Premade and more. Requirements are 1800 arena rate or 40 k honor kills /w me for more info", -- [1]
 			"Muck", -- [2]
@@ -7486,16 +7720,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6732, -- [11]
+			849, -- [11]
 			"0x070000000013E227", -- [12]
 			0, -- [13]
-			[51] = 1677958910,
+			[51] = 1678562670,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cfff48cbaMuck|r",
-		}, -- [415]
+		}, -- [428]
 		{
-			"WTS characters. NAMES: Azzinoth, Saint", -- [1]
-			"Willb", -- [2]
+			"3 dps boomy 5.5 dk 5.7 hunter 5.5?", -- [1]
+			"Chaposh", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -7504,211 +7738,13 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6733, -- [11]
-			"0x070000000024F377", -- [12]
+			850, -- [11]
+			"0x070000000065F10C", -- [12]
 			0, -- [13]
-			[51] = 1677958911,
+			[51] = 1678562671,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Willb|r",
-		}, -- [416]
-		{
-			"LFM ICC25N (BLOOD RES) 5.9+ NEED HEALS ONLY", -- [1]
-			"Levov", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6736, -- [11]
-			"0x07000000008C6329", -- [12]
-			0, -- [13]
-			[51] = 1677958914,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Levov|r",
-		}, -- [417]
-		{
-			"LF HUNTER disco ICC25 8/12 6.2K+ BP + DBW RESS", -- [1]
-			"Bighaus", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6738, -- [11]
-			"0x0700000000036A32", -- [12]
-			0, -- [13]
-			[51] = 1677958915,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBighaus|r",
-		}, -- [418]
-		{
-			"WTS lock(Xmlock) /rogue(Darkspot) 10/15 Boe items full soket enchnts dual spec 280% fly mounts 5k gold 30 coin via warmane trade", -- [1]
-			"Iseengard", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6739, -- [11]
-			"0x070000000062C92E", -- [12]
-			0, -- [13]
-			[51] = 1677958916,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aIseengard|r",
-		}, -- [419]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminstrator", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6742, -- [11]
-			"0x07000000008F236F", -- [12]
-			0, -- [13]
-			[51] = 1677958918,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminstrator|r",
-		}, -- [420]
-		{
-			"LFG ICC 10n SP 5.5k gs", -- [1]
-			"Nliaduxa", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6743, -- [11]
-			"0x07000000007C3277", -- [12]
-			0, -- [13]
-			[51] = 1677958919,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffNliaduxa|r",
-		}, -- [421]
-		{
-			"Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:070000000063B8B2:1:5:26:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Fistotank", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6745, -- [11]
-			"0x070000000063B8B2", -- [12]
-			0, -- [13]
-			[51] = 1677958924,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Fistotank|r",
-		}, -- [422]
-		{
-			"LFM [Heroic: Magister's Terrace] MGT HEROIC FOR MOUNT + PET RUN (U NEED TO FINISH NORMAL MODE TO UNLOCK IT) !!", -- [1]
-			"Eadrin", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6747, -- [11]
-			"0x0700000000851C91", -- [12]
-			0, -- [13]
-			[51] = 1677958924,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Eadrin|r",
-		}, -- [423]
-		{
-			"LFM ICC25NM/HC4/12+ - Need, 1 Ranged (Boomie/Mage Last spot) - G run (BOE+PRIMOS+sfs RESS) Must be at least 5.7 gs fully gemmed enchanted link gs spec achive we will try to push for more hc (24/25)", -- [1]
-			"Humilitas", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6748, -- [11]
-			"0x07000000007BE7EC", -- [12]
-			0, -- [13]
-			[51] = 1677958924,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaHumilitas|r",
-		}, -- [424]
-		{
-			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
-			"Swishtime", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6751, -- [11]
-			"0x07000000008F1FB1", -- [12]
-			0, -- [13]
-			[51] = 1677958925,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Swishtime|r",
-		}, -- [425]
-		{
-			"LF 1 shaman 6k+ for [Glory of the Ulduar Raider (10 player)]", -- [1]
-			"Clariss", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6752, -- [11]
-			"0x0700000000854519", -- [12]
-			0, -- [13]
-			[51] = 1677958925,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffClariss|r",
-		}, -- [426]
-		{
-			"LFM RS 25Nm (STS Ress) 5.8k GS + Link Achieve", -- [1]
-			"Acidhunter", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6753, -- [11]
-			"0x07000000006C1FAE", -- [12]
-			0, -- [13]
-			[51] = 1677958926,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Acidhunter|r",
-		}, -- [427]
+			[52] = "|cffff7c0aChaposh|r",
+		}, -- [429]
 		{
 			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
 			"Kilbore", -- [2]
@@ -7720,70 +7756,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6754, -- [11]
+			851, -- [11]
 			"0x07000000000116A0", -- [12]
 			0, -- [13]
-			[51] = 1677958930,
+			[51] = 1678562671,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cffff7c0aKilbore|r",
-		}, -- [428]
-		{
-			"WTS BIS UH DKs (non SM), you pick the items min 66 coins", -- [1]
-			"Xploze", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6757, -- [11]
-			"0x07000000005F0590", -- [12]
-			0, -- [13]
-			[51] = 1677958936,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Xploze|r",
-		}, -- [429]
-		{
-			"LFM ICC25 nm/hc NEED ALL 6k+ (BOE+ PRIMO,+SFS and dbw ress)", -- [1]
-			"Fightdemonss", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6758, -- [11]
-			"0x0700000000763C04", -- [12]
-			0, -- [13]
-			[51] = 1677958936,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Fightdemonss|r",
 		}, -- [430]
 		{
 			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Blackbarett", -- [2]
+			"Bblackbaret", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"", -- [6]
+			"AFK", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6760, -- [11]
-			"0x070000000087DF9C", -- [12]
+			855, -- [11]
+			"0x070000000088EF46", -- [12]
 			0, -- [13]
-			[51] = 1677958936,
+			[51] = 1678562675,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff0070ddBlackbarett|r",
+			[52] = "|cffaad372Bblackbaret|r",
 		}, -- [431]
 		{
-			"ICC 25HC 8/12 FRESH, need all min 6.2kgs and achiv must+time (primo+sfs ress) |cffffff00|Hachievement:4584:070000000083155E:1:10:29:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Claujr", -- [2]
+			"WTS Troll Rogue Name: Jezart Tailor/Engi - Dual Talent - 300 Mount - 7 Boe----> 30 Coin!!", -- [1]
+			"Wynoom", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -7792,13 +7792,31 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6761, -- [11]
-			"0x070000000083155E", -- [12]
+			860, -- [11]
+			"0x070000000074F460", -- [12]
 			0, -- [13]
-			[51] = 1677958936,
+			[51] = 1678562681,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaClaujr|r",
+			[52] = "|cffff7c0aWynoom|r",
 		}, -- [432]
+		{
+			"Bulgarski guild <DumkaiteseOtzad> nabira hora s opit v ICC i RS. Ako tursite chill runove - zapovqdaite. RT@19:00 BG vreme. /w za poveche info", -- [1]
+			"Apophiss", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			861, -- [11]
+			"0x0700000000622914", -- [12]
+			0, -- [13]
+			[51] = 1678562682,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aApophiss|r",
+		}, -- [433]
 		{
 			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
 			"Smellfarts", -- [2]
@@ -7810,15 +7828,159 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6763, -- [11]
+			863, -- [11]
 			"0x0700000000849B71", -- [12]
 			0, -- [13]
-			[51] = 1677958942,
+			[51] = 1678562684,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cffff7c0aSmellfarts|r",
-		}, -- [433]
+		}, -- [434]
 		{
-			"Guildless, bored and capable? Say no more, join <Disappointed> Today! We're looking for competent people able to clear LoD! Required: class knowledge and 6k + Char || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
+			"WTS |cffffff00|Hachievement:4583:07000000006736BC:1:4:5:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r ICC10 HC (Full Run) --BOOST RUN-- with all items for golds. DM for more info!", -- [1]
+			"Ancienty", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			865, -- [11]
+			"0x07000000001ACDA9", -- [12]
+			0, -- [13]
+			[51] = 1678562685,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaAncienty|r",
+		}, -- [435]
+		{
+			"LFM ICC 25 6/12 hc need 1 boomie/FERAL 5.5k+ full gems enchants (boe sfs primos res) 24/25 LAST SPOT !!!", -- [1]
+			"Warlockxzc", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			868, -- [11]
+			"0x0700000000837CFE", -- [12]
+			0, -- [13]
+			[51] = 1678562689,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Warlockxzc|r",
+		}, -- [436]
+		{
+			" |cffffff00|Hachievement:697:07000000007BB54C:1:8:1:22:0:0:0:0|h[El Templo Oscuro]|h|r Need 1 Tank 1 Heal --[Warglaive of Azzinoth]Ress--", -- [1]
+			"Suntoryo", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			869, -- [11]
+			"0x07000000007BB54C", -- [12]
+			0, -- [13]
+			[51] = 1678562689,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Suntoryo|r",
+		}, -- [437]
+		{
+			"fwarr 5.8 lf endgame guild", -- [1]
+			"Ragio", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			870, -- [11]
+			"0x07000000008C8B1D", -- [12]
+			0, -- [13]
+			[51] = 1678562690,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dRagio|r",
+		}, -- [438]
+		{
+			"LFM ICC25 GRun - Need, 3 Healer (Disco/Rdudu/Random), 1 Melee (Ret/Fury), 5 Ranged (Lock/Boomie/Mage/SP/Hunter) - 5.8k min GS+ Link best achievment//BoE+Primo+SFS ress (16/25)", -- [1]
+			"Garidapriest", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			871, -- [11]
+			"0x0700000000626062", -- [12]
+			0, -- [13]
+			[51] = 1678562690,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffGaridapriest|r",
+		}, -- [439]
+		{
+			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
+			"Swishtime", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			872, -- [11]
+			"0x07000000008F1FB1", -- [12]
+			0, -- [13]
+			[51] = 1678562691,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Swishtime|r",
+		}, -- [440]
+		{
+			"LFM ICC 25HC LOD RUN NEED DISCO DEMNO RETRI LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST", -- [1]
+			"Cllaymore", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			873, -- [11]
+			"0x07000000000820D4", -- [12]
+			0, -- [13]
+			[51] = 1678562691,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dCllaymore|r",
+		}, -- [441]
+		{
+			"WTS 500 coins! cheapest price and fast deal!! Get your [Shadowmourne] CHEAP now!! LEGlT DEAL and can show PR00F! whisper me if interested", -- [1]
+			"Ilwvlwvliwvv", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			875, -- [11]
+			"0x07000000008F6BE3", -- [12]
+			0, -- [13]
+			[51] = 1678562692,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Ilwvlwvliwvv|r",
+		}, -- [442]
+		{
+			"<Disappointed> Is looking for competent raiders to fill our roster and are able to clear LoD! Required: 6k + Char and class knowledge || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
 			"Holylone", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
@@ -7828,196 +7990,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6764, -- [11]
+			877, -- [11]
 			"0x07000000005B34C6", -- [12]
 			0, -- [13]
-			[51] = 1677958942,
+			[51] = 1678562695,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cffffffffHolylone|r",
-		}, -- [434]
-		{
-			"LFM ICC25 nm/hc NEED ALL 6k+ (BOE+ PRIMO,+SFS and dbw ress)", -- [1]
-			"Huioo", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6765, -- [11]
-			"0x07000000004B24A8", -- [12]
-			0, -- [13]
-			[51] = 1677958942,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dHuioo|r",
-		}, -- [435]
-		{
-			"<Invadersx> is an end game guild recruiting heroic experienced raiders with 6.3k+ gs for LoD/RS/ToGC. Raid time 17:45PM ST. Send your chars at https://discord.gg/TFe3QCJsdK", -- [1]
-			"Invadersx", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6766, -- [11]
-			"0x07000000008CF512", -- [12]
-			0, -- [13]
-			[51] = 1677958942,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dInvadersx|r",
-		}, -- [436]
-		{
-			"<The Old Crew> traži nove clanove za raidove. Radimo 3x ICC 25 (8/12 hc), 5x RS 25 i 3x ICC 10 tjedno. Koristimo Discord i DKP sistem. Vrijeme raidova je 20:00. Minimalni GS za ulazak u guild je 5.8k. Za vise informacija /w.", -- [1]
-			"Posthar", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6767, -- [11]
-			"0x070000000056FF7B", -- [12]
-			0, -- [13]
-			[51] = 1677958943,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Posthar|r",
-		}, -- [437]
-		{
-			"ICC 25HC 8/12 FRESH, need all min 6.2kgs and achiv must+time (primo+sfs ress) |cffffff00|Hachievement:4584:0700000000731DA0:1:11:10:21:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Claaujr", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6768, -- [11]
-			"0x0700000000731DA0", -- [12]
-			0, -- [13]
-			[51] = 1677958949,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aClaaujr|r",
-		}, -- [438]
-		{
-			"<The Red Devils> are recruiting 6k+. We are currently progressing 10/12 ICC25hc.mainly need DP+other heals We raid on mondays(ICC25hc 10/12) and thursdays(icc25 8/12) 6PM. Fill in the application: [https://reddevils.gq/] fresh dkp system!", -- [1]
-			"Brutface", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6769, -- [11]
-			"0x070000000068DF99", -- [12]
-			0, -- [13]
-			[51] = 1677958949,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBrutface|r",
-		}, -- [439]
-		{
-			"lfm icc nm/hc last spot ret pala", -- [1]
-			"Kirokral", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6770, -- [11]
-			"0x07000000007E8189", -- [12]
-			0, -- [13]
-			[51] = 1677958949,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dKirokral|r",
-		}, -- [440]
-		{
-			"WTS |cffa335ee|Hitem:36928:0:0:0:0:0:0:0:80|h[Piedra de Terror]|h|rx3 /w me low price", -- [1]
-			"Cuteneko", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6771, -- [11]
-			"0x07000000006A365B", -- [12]
-			0, -- [13]
-			[51] = 1677958949,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aCuteneko|r",
-		}, -- [441]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminprot", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6772, -- [11]
-			"0x07000000008F2372", -- [12]
-			0, -- [13]
-			[51] = 1677958949,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminprot|r",
-		}, -- [442]
-		{
-			"WTB ALL YOUR CARDINAL RUBIES 220 Each C.O.D Me", -- [1]
-			"Zroubaa", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6773, -- [11]
-			"0x07000000007C7AF4", -- [12]
-			0, -- [13]
-			[51] = 1677958949,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffZroubaa|r",
 		}, -- [443]
 		{
-			"Na prodaju 54c, moze i uzivo /w", -- [1]
-			"Kevah", -- [2]
+			"LFM [Zul'Aman] Need All /w gs+spect ", -- [1]
+			"Ferdino", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"AFK", -- [6]
+			"", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6774, -- [11]
-			"0x070000000072F300", -- [12]
+			878, -- [11]
+			"0x07000000006EE7B8", -- [12]
 			0, -- [13]
-			[51] = 1677958951,
+			[51] = 1678562696,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaKevah|r",
+			[52] = "|cfffff468Ferdino|r",
 		}, -- [444]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowmourn", -- [2]
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST|cffffff00|Hachievement:4584:0700000000535C70:1:7:18:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Assashin", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8026,16 +8026,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6775, -- [11]
-			"0x07000000008191C6", -- [12]
+			880, -- [11]
+			"0x0700000000535C70", -- [12]
 			0, -- [13]
-			[51] = 1677958952,
+			[51] = 1678562698,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowmourn|r",
+			[52] = "|cfffff468Assashin|r",
 		}, -- [445]
 		{
-			"LFM |cffffff00|Hachievement:693:070000000067535C:1:2:21:23:0:0:0:0|h[Guarida de Magtheridon]|h|r tank last spot (staff res)", -- [1]
-			"Formz", -- [2]
+			"Russian NEW GUILD <LOCK OUT> Nabiraem ludey 1-80 lvl // sistema /ROLL . Sobiraem adecvatnuy colectiv dlya osvoenia VSEGO contenta LK, budem radu vsem!", -- [1]
+			"Soulldem", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8044,16 +8044,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6776, -- [11]
-			"0x070000000067535C", -- [12]
+			883, -- [11]
+			"0x07000000008EFDA5", -- [12]
 			0, -- [13]
-			[51] = 1677958954,
+			[51] = 1678562702,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aFormz|r",
+			[52] = "|cffaad372Soulldem|r",
 		}, -- [446]
 		{
-			"CUMETRII AN BIKINI CAREVA ONLINE?", -- [1]
-			"Nrozas", -- [2]
+			"LF 3 dps ICC 10 N 5.4 plus !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ", -- [1]
+			"Shapeshyfter", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8062,16 +8062,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6779, -- [11]
-			"0x0700000000651646", -- [12]
+			884, -- [11]
+			"0x0700000000742154", -- [12]
 			0, -- [13]
-			[51] = 1677958955,
+			[51] = 1678562702,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aNrozas|r",
+			[52] = "|cffff7c0aShapeshyfter|r",
 		}, -- [447]
 		{
-			"WTB DK ON SFS QUEST WITH RS SET (MUST HAVE GOOD MOUNTS AND EOF + MARKS) PM ME WITH NAME !!!", -- [1]
-			"Oldisgold", -- [2]
+			"Balkanski PvE Gild <<Klinika>> Trazi igrace za aktivno raidanje GPROG: icc10n/hc 12/12,icc25HC 12/12,RS 10/25 4/4!Koristi se DISKORD+DKP!Minimalni gs je 6k,poznavanje svoje klase i taktika!Prvensteveno dobra zabava i atmosfera:)Za vise info/w me", -- [1]
+			"Snoplu", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8080,16 +8080,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6780, -- [11]
-			"0x07000000003C2F72", -- [12]
+			886, -- [11]
+			"0x070000000015194F", -- [12]
 			0, -- [13]
-			[51] = 1677958961,
+			[51] = 1678562703,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Oldisgold|r",
+			[52] = "|cffaad372Snoplu|r",
 		}, -- [448]
 		{
-			"WTS Bane boost 12/12hc full run with all of loots dm me for ressved your spot our raid time 11am/ 2pm Sever time |cffffff00|Hachievement:4583:0700000000060E84:1:10:11:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r", -- [1]
-			"Todaystar", -- [2]
+			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
+			"Arnisgodx", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8098,34 +8098,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6781, -- [11]
-			"0x0700000000060E84", -- [12]
+			887, -- [11]
+			"0x07000000004B5900", -- [12]
 			0, -- [13]
-			[51] = 1677958961,
+			[51] = 1678562705,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTodaystar|r",
+			[52] = "|cfff48cbaArnisgodx|r",
 		}, -- [449]
 		{
-			"CRYPTEA (H/A) vs ICC25H + RS25H- Boomkin PoV (10.000 golds GIVEAWAY, join the stream and participate <3) https://www.twitch.tv/finalarguments", -- [1]
-			"Include", -- [2]
+			"LFM ICC 25 NM/HC - Need, 3 Ranged (Lock/Boomie/Hunter) - 5.8GS+ BoE+Primos (sfs) ress Link Achivement gs spec (22/25)", -- [1]
+			"Brokenbad", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"AFK", -- [6]
+			"", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6782, -- [11]
-			"0x0700000000006F55", -- [12]
+			888, -- [11]
+			"0x07000000007663F7", -- [12]
 			0, -- [13]
-			[51] = 1677958961,
+			[51] = 1678562706,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Include|r",
+			[52] = "|cff68ccefBrokenbad|r",
 		}, -- [450]
 		{
-			"Guild >Harvest Soul< recluta jugadores con exp en ICC25HC y RS25 HC. Progress actual: LoD (x6), RS25 HC (x4), Raid Dinamic (8/12) // Sist. de loot Dkp Hora de raids 00:30 st. /w + info", -- [1]
-			"Scruffed", -- [2]
+			"WTS 72600g fo 26 coins ", -- [1]
+			"Ergoth", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8134,16 +8134,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6783, -- [11]
-			"0x070000000074F5E5", -- [12]
+			892, -- [11]
+			"0x07000000001BEF27", -- [12]
 			0, -- [13]
-			[51] = 1677958961,
+			[51] = 1678562710,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaScruffed|r",
+			[52] = "|cffc41e3aErgoth|r",
 		}, -- [451]
 		{
-			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
-			"Titanhorns", -- [2]
+			"WTS Warlock[name:Darkslash] for 48 coins Lowest Price possible! [BiS WEP + Full BoE`s] + [ENGI + JC] + [280% Fly] via Warmane Store ", -- [1]
+			"Randomnuub", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8152,16 +8152,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6786, -- [11]
-			"0x07000000002B1B48", -- [12]
+			893, -- [11]
+			"0x07000000002A4558", -- [12]
 			0, -- [13]
-			[51] = 1677958963,
+			[51] = 1678562711,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTitanhorns|r",
+			[52] = "|cffaad372Randomnuub|r",
 		}, -- [452]
 		{
-			"WTB |cff1eff00|Hitem:36923:0:0:0:0:0:0:0:80|h[Calcedonia]|h|r", -- [1]
-			"Violatorr", -- [2]
+			"Guild Br < A F K > aceitamos todos players do idioma Português. Todos os dias as 20h. Fazemos 3 ICC LOD RUN + 3 á 4 RS HC, e raids * Teste* para quem faz nosso apply no discord, ICC 10 HC as sextas e ICC 25 HC as Segundas. https://discord.gg/MR3gupa", -- [1]
+			"Masttertaunt", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8170,16 +8170,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6787, -- [11]
-			"0x0700000000440A5D", -- [12]
+			895, -- [11]
+			"0x0700000000847ACD", -- [12]
 			0, -- [13]
-			[51] = 1677958963,
+			[51] = 1678562712,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dViolatorr|r",
+			[52] = "|cfff48cbaMasttertaunt|r",
 		}, -- [453]
 		{
-			"LFM ICC 25 HC LOD run +6.3 Link achiv Lod for inv DIscord Req SFS FREE BOe reserve Miss1 RDPS DPS 24/25 |cffffff00|Hachievement:4584:0700000000012F8D:1:6:16:19:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowpala", -- [2]
+			"{estrella} Wipe and Furious {estrella} Recluta gente para sus raids . Se arman ICC10, ICC25 Y SR25 {cuadrado} {diamante} HORARIO DE RAIDEO 20:00ST. {cuadrado} {diamante}", -- [1]
+			"Germory", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8188,16 +8188,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6788, -- [11]
-			"0x0700000000012F8D", -- [12]
+			897, -- [11]
+			"0x070000000034F5B6", -- [12]
 			0, -- [13]
-			[51] = 1677958963,
+			[51] = 1678562715,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowpala|r",
+			[52] = "|cfff48cbaGermory|r",
 		}, -- [454]
 		{
-			"LFM Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:07000000005CD744:1:10:27:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Vaargoth", -- [2]
+			"Ukrainian guild \" Mists of Barabashovo \" recruits active players from 5k8 for ICC & RS! RT: weekdays - 20:00, weekends - 18:00 Kyiv time.", -- [1]
+			"Wheresmybow", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8206,16 +8206,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6790, -- [11]
-			"0x07000000005CD744", -- [12]
+			899, -- [11]
+			"0x07000000008AC3D1", -- [12]
 			0, -- [13]
-			[51] = 1677958964,
+			[51] = 1678562717,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefVaargoth|r",
+			[52] = "|cffaad372Wheresmybow|r",
 		}, -- [455]
 		{
-			"< NOV > Bulgarski guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Hakerzz", -- [2]
+			"RS 25 NM >< Need 2 HEAL 6k+/w me ach for inv (GTS RES) |cffffff00|Hachievement:4815:07000000006283D7:1:12:22:22:4294967295:4294967295:4294967295:4294967295|h[El Destructor del Crepúsculo (25 j.)]|h|r", -- [1]
+			"Sathathin", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8224,16 +8224,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6791, -- [11]
-			"0x070000000017E687", -- [12]
+			901, -- [11]
+			"0x07000000006283D7", -- [12]
 			0, -- [13]
-			[51] = 1677958964,
+			[51] = 1678562719,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefHakerzz|r",
+			[52] = "|cffc41e3aSathathin|r",
 		}, -- [456]
 		{
-			"WTS ORC DK, named Cholak via warmane trade. It has Shadowmourne, Penumbra HC, Apocalypse advance HC, STS HC and WF shoulders and Head. It has BiS pvp proffessions ( JC & BS 450). /w me if interested.", -- [1]
-			"Missclappy", -- [2]
+			"10000 gold giveaway @ https://demonic-empire.shivtr.com < Demonic Empire > LOD & RS 25 HC same as every night |cffffff00|Hachievement:4584:07000000004AA762:1:1:5:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Shamanresto", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8242,16 +8242,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6794, -- [11]
-			"0x07000000005D9DCD", -- [12]
+			902, -- [11]
+			"0x07000000004AA762", -- [12]
 			0, -- [13]
-			[51] = 1677958966,
+			[51] = 1678562720,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMissclappy|r",
+			[52] = "|cff0070ddShamanresto|r",
 		}, -- [457]
 		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wexpsy", -- [2]
+			"Guild Irani < Freaky Guys > Progress: 1x LOD + 5x ICC 25 8/12 HC + 8x RS 25 + ToGc 25 Player ACtive +6.3 Baraye Ezafe Kardan Raid haye Hc Mipazirad w/me For Info", -- [1]
+			"Justwarlock", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8260,16 +8260,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6796, -- [11]
-			"0x070000000063557D", -- [12]
+			903, -- [11]
+			"0x07000000007B8581", -- [12]
 			0, -- [13]
-			[51] = 1677958967,
+			[51] = 1678562720,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffWexpsy|r",
+			[52] = "|cff9382c9Justwarlock|r",
 		}, -- [458]
 		{
-			"WTS on ICECROWN> Human female warr named<Pamority> with 27533gold,63EOF, 11eot,2138arena points,30k honor -AND- Human female rog named<Verile> with 27608gold, 103EOF,20EOT,31k honor on Warmane trade! 30c each ", -- [1]
-			"Mokrontar", -- [2]
+			"ICC 10nm FRSH 8+/12. Need 2 Tank, 2 Heal, Dps/Rdps (5.1+) no ress", -- [1]
+			"Underouth", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8278,16 +8278,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6799, -- [11]
-			"0x07000000007E1A9C", -- [12]
+			905, -- [11]
+			"0x070000000030F788", -- [12]
 			0, -- [13]
-			[51] = 1677958973,
+			[51] = 1678562722,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffaad372Mokrontar|r",
+			[52] = "|cff68ccefUnderouth|r",
 		}, -- [459]
 		{
-			"[Longevity] Guild TGF-et hírdet, tapasztalt játékosoknak. Hetente több 10-es hc run, Icc25Hc 8/12 heti 3db és LoD progress raid. Heti minimum 3 db Rs25. DKP system. SFS gyüjtése jelenleg opció várólista van.", -- [1]
-			"Streetrats", -- [2]
+			"LF FOS POS HC dps heal ", -- [1]
+			"Deroni", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8296,16 +8296,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6801, -- [11]
-			"0x0700000000505499", -- [12]
+			906, -- [11]
+			"0x070000000000D3F8", -- [12]
 			0, -- [13]
-			[51] = 1677958975,
+			[51] = 1678562723,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffStreetrats|r",
+			[52] = "|cfff48cbaDeroni|r",
 		}, -- [460]
 		{
-			"ICC 25 8/12 NM HC NEED 3 HEALS 5 RDPS 6K+GS+ACHIV+DISCORD IS MUST!(BOE+PRIMO) 17/25", -- [1]
-			"Wedopsy", -- [2]
+			"need HEAL for farm TRINKET |cffffff00|Hachievement:3778:07000000008F7658:1:3:11:23:4294967295:4294967295:4294967295:4294967295|h[Prueba del Campeón]|h|r", -- [1]
+			"Nts", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8314,16 +8314,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6803, -- [11]
-			"0x0700000000607345", -- [12]
+			907, -- [11]
+			"0x07000000008F7658", -- [12]
 			0, -- [13]
-			[51] = 1677958976,
+			[51] = 1678562723,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Wedopsy|r",
+			[52] = "|cffc41e3aNts|r",
 		}, -- [461]
 		{
-			"Looking for reliable players to join our guild and heroic raiding teams, raiding 12pm ST. Zero toxicity guild, weekly LoD, come and have some fun with us!Try to get LoD experience, 6.2k toons but if they are really nice we can take lower. Nobody below 5k ", -- [1]
-			"Valknaar", -- [2]
+			" Need 1 Tank 1 Heal --[Warglaive of Azzinoth]Ress--", -- [1]
+			"Fenixx", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8332,16 +8332,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6806, -- [11]
-			"0x070000000086034C", -- [12]
+			909, -- [11]
+			"0x07000000008D399E", -- [12]
 			0, -- [13]
-			[51] = 1677958979,
+			[51] = 1678562723,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Valknaar|r",
+			[52] = "|cfff48cbaFenixx|r",
 		}, -- [462]
 		{
-			"WTS characters. NAMES: Azzinoth, Saint", -- [1]
-			"Willb", -- [2]
+			"ICC 25HC 8/12 FRESH, NEED DK TANK, HUNT, MAGE, BOOMIE, RDUDU MIN 6.2KGS AND ACHIV MUST+TIME (SFS RESS) |cffffff00|Hachievement:4584:070000000000C7C6:1:10:19:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Clauujr", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8350,16 +8350,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6807, -- [11]
-			"0x070000000024F377", -- [12]
+			910, -- [11]
+			"0x070000000000C7C6", -- [12]
 			0, -- [13]
-			[51] = 1677958979,
+			[51] = 1678562724,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Willb|r",
+			[52] = "|cff9382c9Clauujr|r",
 		}, -- [463]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminstrator", -- [2]
+			"LFM ICC 25 full nm lk run ( GS Hc )+5.9 /w Me Gs Class Role + Achieve B+P+ Rapid AScent Ress + SFS free roll +1x dps hunt l Last spot 24/25 @ Proff Hunt Only ", -- [1]
+			"Mortyx", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8368,67 +8368,13 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6808, -- [11]
-			"0x07000000008F236F", -- [12]
+			914, -- [11]
+			"0x07000000008C9775", -- [12]
 			0, -- [13]
-			[51] = 1677958980,
+			[51] = 1678562731,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminstrator|r",
+			[52] = "|cffffffffMortyx|r",
 		}, -- [464]
-		{
-			"WTB PRIMOS", -- [1]
-			"Runeguard", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6809, -- [11]
-			"0x0700000000867BC1", -- [12]
-			0, -- [13]
-			[51] = 1677958985,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aRuneguard|r",
-		}, -- [465]
-		{
-			"WTB >>> |cffa335ee|Hitem:36919:0:0:0:0:0:0:0:80|h[Rubí Cárdeno]|h|r |cffa335ee|Hitem:36931:0:0:0:0:0:0:0:80|h[Ametrino]|h|r<<< /w me", -- [1]
-			"Lowkeybro", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6810, -- [11]
-			"0x07000000008722C0", -- [12]
-			0, -- [13]
-			[51] = 1677958988,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aLowkeybro|r",
-		}, -- [466]
-		{
-			"Icc 25 8/12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:070000000063B8B2:1:5:26:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Fistotank", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6811, -- [11]
-			"0x070000000063B8B2", -- [12]
-			0, -- [13]
-			[51] = 1677958990,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Fistotank|r",
-		}, -- [467]
 		{
 			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
 			"Kilbore", -- [2]
@@ -8440,88 +8386,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6812, -- [11]
+			915, -- [11]
 			"0x07000000000116A0", -- [12]
 			0, -- [13]
-			[51] = 1677958990,
+			[51] = 1678562732,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cffff7c0aKilbore|r",
-		}, -- [468]
-		{
-			"WTS BIS UH DKs (non SM), you pick the items min 66 coins", -- [1]
-			"Xploze", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6813, -- [11]
-			"0x07000000005F0590", -- [12]
-			0, -- [13]
-			[51] = 1677958991,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Xploze|r",
-		}, -- [469]
-		{
-			"LFM ICC25 nm/hc NEED ALL 6k+ (BOE+ PRIMO,+SFS and dbw ress)", -- [1]
-			"Fightdemonss", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6814, -- [11]
-			"0x0700000000763C04", -- [12]
-			0, -- [13]
-			[51] = 1677958992,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Fightdemonss|r",
-		}, -- [470]
-		{
-			"LFM ICC25N (BLOOD RES) 5.9+ NEED HEALS ONLY", -- [1]
-			"Levov", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6816, -- [11]
-			"0x07000000008C6329", -- [12]
-			0, -- [13]
-			[51] = 1677958992,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff9382c9Levov|r",
-		}, -- [471]
-		{
-			"LFM ICC 10 LK Run (GS-HC; wfs ress) need all 5,8+ /w me with gs class achiev (5/10)", -- [1]
-			"Djcrouchpeek", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6818, -- [11]
-			"0x07000000003EBE32", -- [12]
-			0, -- [13]
-			[51] = 1677958993,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaDjcrouchpeek|r",
-		}, -- [472]
+		}, -- [465]
 		{
 			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Blackbarett", -- [2]
+			"Bblackbaret", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8530,16 +8404,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6819, -- [11]
-			"0x070000000087DF9C", -- [12]
+			917, -- [11]
+			"0x070000000088EF46", -- [12]
 			0, -- [13]
-			[51] = 1677958993,
+			[51] = 1678562735,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff0070ddBlackbarett|r",
-		}, -- [473]
+			[52] = "|cffaad372Bblackbaret|r",
+		}, -- [466]
 		{
-			"WTB |cffffffff|Hitem:36905:0:0:0:0:0:0:0:80|h[Flor Exánime]|h|r - 700g/stack, |cffffffff|Hitem:36903:0:0:0:0:0:0:0:80|h[Lengua de Víboris]|h|r -800g/stack - C.O.D me!", -- [1]
-			"Owlgore", -- [2]
+			"ICC 25HC 8/12 FRESH, NEED DK TANK, HUNT, MAGE, BOOMIE, RDUDU MIN 6.2KGS AND ACHIV MUST+TIME (SFS RESS) |cffffff00|Hachievement:4584:070000000083155E:1:10:29:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Claujr", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8548,13 +8422,85 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6821, -- [11]
-			"0x070000000047575D", -- [12]
+			919, -- [11]
+			"0x070000000083155E", -- [12]
 			0, -- [13]
-			[51] = 1677958997,
+			[51] = 1678562738,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aOwlgore|r",
-		}, -- [474]
+			[52] = "|cfff48cbaClaujr|r",
+		}, -- [467]
+		{
+			"WTS Troll Rogue Name: Jezart Tailor/Engi - Dual Talent - 300 Mount - 7 Boe----> 30 Coin!!", -- [1]
+			"Wynoom", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			922, -- [11]
+			"0x070000000074F460", -- [12]
+			0, -- [13]
+			[51] = 1678562741,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aWynoom|r",
+		}, -- [468]
+		{
+			"6.2 Boomie LF BANE", -- [1]
+			"Murdercow", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			923, -- [11]
+			"0x070000000055E54A", -- [12]
+			0, -- [13]
+			[51] = 1678562741,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aMurdercow|r",
+		}, -- [469]
+		{
+			"Bulgarski guild <DumkaiteseOtzad> nabira hora s opit v ICC i RS. Ako tursite chill runove - zapovqdaite. RT@19:00 BG vreme. /w za poveche info", -- [1]
+			"Apophiss", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			924, -- [11]
+			"0x0700000000622914", -- [12]
+			0, -- [13]
+			[51] = 1678562742,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aApophiss|r",
+		}, -- [470]
+		{
+			"LFM ULDuar 25 Man MIX run +5.8 Full run Only Fragment reserve 24/25 discordreq1tank.1BOOMY.MAGe |cffffff00|Hachievement:2958:0700000000012F8D:1:10:10:21:4294967295:4294967295:4294967295:4294967295|h[La gloria del asaltante de Ulduar (25 j.)]|h|r", -- [1]
+			"Shadowpala", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			927, -- [11]
+			"0x0700000000012F8D", -- [12]
+			0, -- [13]
+			[51] = 1678562746,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaShadowpala|r",
+		}, -- [471]
 		{
 			"<Fade> is recruiting players interested in high quality raids. Doing many ICC25HC, RS25HC, TOC25HC Immortals, Ulduar+Naxx+Bane runs. 9PM ST Raid time. We also offer the cheapest boosts for gold on the server. https://discord.gg/UVgz57JXwx", -- [1]
 			"Smellfarts", -- [2]
@@ -8566,16 +8512,70 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6824, -- [11]
+			928, -- [11]
 			"0x0700000000849B71", -- [12]
 			0, -- [13]
-			[51] = 1677958999,
+			[51] = 1678562746,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cffff7c0aSmellfarts|r",
+		}, -- [472]
+		{
+			"COIN SCAMMERS ALERT! ------------- BEWARE of lvl 19-24 selling CHEAP COINS, they have HTML edited proofs to temporarily change coin value from 0 to 1000 COINS and he cant even show LIVE SCREENSHARE in DC. ", -- [1]
+			"Ilvwlwvliwvv", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			931, -- [11]
+			"0x07000000008C4842", -- [12]
+			0, -- [13]
+			[51] = 1678562750,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aIlvwlwvliwvv|r",
+		}, -- [473]
+		{
+			"WTS |cffffff00|Hachievement:4583:07000000006736BC:1:4:5:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r ICC10 HC (Full Run) --BOOST RUN-- with all items for golds. DM for more info!", -- [1]
+			"Ancienty", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"AFK", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			932, -- [11]
+			"0x07000000001ACDA9", -- [12]
+			0, -- [13]
+			[51] = 1678562750,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaAncienty|r",
+		}, -- [474]
+		{
+			"LFM ICC25 GRun - Need, 3 Healer (Disco/Rdudu/Random), 1 Melee (Ret/Fury), 5 Ranged (Lock/Boomie/Mage/SP/Hunter) - 5.8k min GS+ Link best achievment//BoE+Primo+SFS ress (16/25)", -- [1]
+			"Garidapriest", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			933, -- [11]
+			"0x0700000000626062", -- [12]
+			0, -- [13]
+			[51] = 1678562751,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffGaridapriest|r",
 		}, -- [475]
 		{
-			"Balkanski PvE Guild <Klinika> trazi clanove za aktivan progres, trenutni prog je ICC10nm 12/12 ICC10hc 12/12, ICC25hc 12/12, RS10/25 4/4. GS req 5,8Koristi se Diskord + DKP! Za vise informacija Whisper", -- [1]
-			"Hanipliz", -- [2]
+			"LFM ICC 25HC LOD RUN NEED DISCO DEMNO RETRI LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST", -- [1]
+			"Cllaymore", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8584,34 +8584,34 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6826, -- [11]
-			"0x07000000008BE964", -- [12]
+			934, -- [11]
+			"0x07000000000820D4", -- [12]
 			0, -- [13]
-			[51] = 1677959001,
+			[51] = 1678562751,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffHanipliz|r",
+			[52] = "|cffc69b6dCllaymore|r",
 		}, -- [476]
 		{
-			"wtb |cffffffff|Hitem:46376:0:0:0:0:0:0:0:80|h[Frasco de la Vermis de Escarcha]|h|r 10stacks for 20k ", -- [1]
-			"Ul", -- [2]
+			"RS 25 NM >< Need 2 HEAL 6k+/w me ach for inv (GTS RES) |cffffff00|Hachievement:4816:07000000007B3D24:1:5:5:22:4294967295:4294967295:4294967295:4294967295|h[Heroico: El Destructor del Crepúsculo (25 j.)]|h|r", -- [1]
+			"Proheal", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
-			"", -- [6]
+			"AFK", -- [6]
 			0, -- [7]
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6828, -- [11]
-			"0x0700000000178056", -- [12]
+			935, -- [11]
+			"0x07000000007B3D24", -- [12]
 			0, -- [13]
-			[51] = 1677959001,
+			[51] = 1678562752,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaUl|r",
+			[52] = "|cffffffffProheal|r",
 		}, -- [477]
 		{
-			"LFM ICC25 nm/hc NEED ALL 6k+ (BOE+ PRIMO,+SFS and dbw ress)", -- [1]
-			"Huioo", -- [2]
+			"Need Rdps(Hunter Sp) Heal(Shaman Dics) Icc 25n 5.6k gs w/me inv B+P+DBW RES LK RUN [The Frostwing Halls (25 player)]", -- [1]
+			"Warriorgopal", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8620,16 +8620,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6830, -- [11]
-			"0x07000000004B24A8", -- [12]
+			939, -- [11]
+			"0x07000000007E7F65", -- [12]
 			0, -- [13]
-			[51] = 1677959002,
+			[51] = 1678562756,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dHuioo|r",
+			[52] = "|cffc69b6dWarriorgopal|r",
 		}, -- [478]
 		{
-			"<Invadersx> is an end game guild recruiting heroic experienced raiders with 6.3k+ gs for LoD/RS/ToGC. Raid time 17:45PM ST. Send your chars at https://discord.gg/TFe3QCJsdK", -- [1]
-			"Invadersx", -- [2]
+			"LFM [Zul'Aman] Need All /w gs+spect ", -- [1]
+			"Ferdino", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8638,16 +8638,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6831, -- [11]
-			"0x07000000008CF512", -- [12]
+			940, -- [11]
+			"0x07000000006EE7B8", -- [12]
 			0, -- [13]
-			[51] = 1677959002,
+			[51] = 1678562757,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dInvadersx|r",
+			[52] = "|cfffff468Ferdino|r",
 		}, -- [479]
 		{
-			"<The Old Crew> traži nove clanove za raidove. Radimo 3x ICC 25 (8/12 hc), 5x RS 25 i 3x ICC 10 tjedno. Koristimo Discord i DKP sistem. Vrijeme raidova je 20:00. Minimalni GS za ulazak u guild je 5.8k. Za vise informacija /w.", -- [1]
-			"Posthar", -- [2]
+			"LFM ICC 25HC LOD RUN NEED ALL ATM LINK ACHIV FOR INVITE MIN GS 6.3+ BOE PS RES (SFS FREE) DISCORD IS A MUST|cffffff00|Hachievement:4584:0700000000535C70:1:7:18:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Assashin", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8656,16 +8656,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6834, -- [11]
-			"0x070000000056FF7B", -- [12]
+			942, -- [11]
+			"0x0700000000535C70", -- [12]
 			0, -- [13]
-			[51] = 1677959004,
+			[51] = 1678562758,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Posthar|r",
+			[52] = "|cfffff468Assashin|r",
 		}, -- [480]
 		{
-			"<The Red Devils> are recruiting 6k+. We are currently progressing 10/12 ICC25hc.mainly need DP+other heals We raid on mondays(ICC25hc 10/12) and thursdays(icc25 8/12) 6PM. Fill in the application: [https://reddevils.gq/] fresh dkp system!", -- [1]
-			"Brutface", -- [2]
+			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
+			"Swishtime", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8674,16 +8674,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6835, -- [11]
-			"0x070000000068DF99", -- [12]
+			944, -- [11]
+			"0x07000000008F1FB1", -- [12]
 			0, -- [13]
-			[51] = 1677959004,
+			[51] = 1678562760,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aBrutface|r",
+			[52] = "|cfffff468Swishtime|r",
 		}, -- [481]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminprot", -- [2]
+			"<Disappointed> Is looking for competent raiders to fill our roster and are able to clear LoD! Required: 6k + Char and class knowledge || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
+			"Holylone", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8692,16 +8692,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6837, -- [11]
-			"0x07000000008F2372", -- [12]
+			947, -- [11]
+			"0x07000000005B34C6", -- [12]
 			0, -- [13]
-			[51] = 1677959006,
+			[51] = 1678562760,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminprot|r",
+			[52] = "|cffffffffHolylone|r",
 		}, -- [482]
 		{
-			"LFM ULDUAR 10 wisp me spec gs \"Only skilled players\"", -- [1]
-			"Hemma", -- [2]
+			"LFM ICC 25 6/12 hc need 1 boomie/FERAL 5.5k+ full gems enchants (boe sfs primos res) 24/25 LAST SPOT !!!", -- [1]
+			"Warlockxzc", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8710,13 +8710,121 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6839, -- [11]
-			"0x07000000008857BA", -- [12]
+			948, -- [11]
+			"0x0700000000837CFE", -- [12]
 			0, -- [13]
-			[51] = 1677959009,
+			[51] = 1678562760,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Hemma|r",
+			[52] = "|cffaad372Warlockxzc|r",
 		}, -- [483]
+		{
+			"Russian NEW GUILD <LOCK OUT> Nabiraem ludey 1-80 lvl // sistema /ROLL . Sobiraem adecvatnuy colectiv dlya osvoenia VSEGO contenta LK, budem radu vsem!", -- [1]
+			"Soulldem", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			950, -- [11]
+			"0x07000000008EFDA5", -- [12]
+			0, -- [13]
+			[51] = 1678562762,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Soulldem|r",
+		}, -- [484]
+		{
+			"WTS 500 coins! cheapest price and fast deal!! Get your [Shadowmourne] CHEAP now!! LEGlT DEAL and can show PR00F! whisper me if interested", -- [1]
+			"Ilwvlwvliwvv", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			951, -- [11]
+			"0x07000000008F6BE3", -- [12]
+			0, -- [13]
+			[51] = 1678562762,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Ilwvlwvliwvv|r",
+		}, -- [485]
+		{
+			"Balkanski PvE Gild <<Klinika>> Trazi igrace za aktivno raidanje GPROG: icc10n/hc 12/12,icc25HC 12/12,RS 10/25 4/4!Koristi se DISKORD+DKP!Minimalni gs je 6k,poznavanje svoje klase i taktika!Prvensteveno dobra zabava i atmosfera:)Za vise info/w me", -- [1]
+			"Snoplu", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			952, -- [11]
+			"0x070000000015194F", -- [12]
+			0, -- [13]
+			[51] = 1678562763,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffaad372Snoplu|r",
+		}, -- [486]
+		{
+			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
+			"Arnisgodx", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			954, -- [11]
+			"0x07000000004B5900", -- [12]
+			0, -- [13]
+			[51] = 1678562765,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfff48cbaArnisgodx|r",
+		}, -- [487]
+		{
+			"LFM ICC 25 NM/HC - Need, 3 Ranged (Lock/Boomie/Hunter) - 5.8GS+ BoE+Primos (sfs) ress Link Achivement gs spec (22/25)", -- [1]
+			"Brokenbad", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			955, -- [11]
+			"0x07000000007663F7", -- [12]
+			0, -- [13]
+			[51] = 1678562766,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff68ccefBrokenbad|r",
+		}, -- [488]
+		{
+			"Balkanski PvE Guild <Klinika> trazi clanove za aktivan progres, trenutni prog je ICC10nm 12/12 ICC10hc 12/12, ICC25hc 12/12, RS10/25 4/4. GS req 5,8 Koristi se Diskord + DKP! Za vise informacija Whisper", -- [1]
+			"Kurvaarr", -- [2]
+			"Orco", -- [3]
+			"5. Global", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			5, -- [8]
+			"global", -- [9]
+			0, -- [10]
+			959, -- [11]
+			"0x070000000060EDD0", -- [12]
+			0, -- [13]
+			[51] = 1678562768,
+			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc41e3aKurvaarr|r",
+		}, -- [489]
 		{
 			"Fresh Era PvP guild <<dont mess with us>> is currently recruiting experienced / geared players that are willing to WPVP / Premade and more. Requirements are 1800 arena rate or 40 k honor kills /w me for more info", -- [1]
 			"Muck", -- [2]
@@ -8728,124 +8836,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6840, -- [11]
+			961, -- [11]
 			"0x070000000013E227", -- [12]
 			0, -- [13]
-			[51] = 1677959011,
+			[51] = 1678562770,
 			[50] = "CHAT_MSG_CHANNEL",
 			[52] = "|cfff48cbaMuck|r",
-		}, -- [484]
-		{
-			"Na prodaju 54c, moze i uzivo /w", -- [1]
-			"Kevah", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6841, -- [11]
-			"0x070000000072F300", -- [12]
-			0, -- [13]
-			[51] = 1677959011,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaKevah|r",
-		}, -- [485]
-		{
-			"ICC25 8/12 HC LF HUNTER DISC MAGE SP 21/25 <BP DBW RES / SFS FREE!> 6.2K+ INSPECT MEMO! HAVE TIME+ACHI! ", -- [1]
-			"Wtfx", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6842, -- [11]
-			"0x07000000008783D4", -- [12]
-			0, -- [13]
-			[51] = 1677959012,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc69b6dWtfx|r",
-		}, -- [486]
-		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Shadowmourn", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6843, -- [11]
-			"0x07000000008191C6", -- [12]
-			0, -- [13]
-			[51] = 1677959014,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaShadowmourn|r",
-		}, -- [487]
-		{
-			"Guildless, bored and capable? Say no more, join <Disappointed> Today! We're looking for competent people able to clear LoD! Required: class knowledge and 6k + Char || Raidtime 17:30 ST || https://discord.gg/Abw6Bp6CV2", -- [1]
-			"Holylone", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6844, -- [11]
-			"0x07000000005B34C6", -- [12]
-			0, -- [13]
-			[51] = 1677959015,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffHolylone|r",
-		}, -- [488]
-		{
-			"speIpengar tiII saIu fem riksdaIer per tusen", -- [1]
-			"Swishtime", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"AFK", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6845, -- [11]
-			"0x07000000008F1FB1", -- [12]
-			0, -- [13]
-			[51] = 1677959015,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Swishtime|r",
-		}, -- [489]
-		{
-			"WTB ALL YOUR CARDINAL RUBIES 220 Each C.O.D Me", -- [1]
-			"Zroubaa", -- [2]
-			"Orco", -- [3]
-			"5. Global", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			5, -- [8]
-			"global", -- [9]
-			0, -- [10]
-			6846, -- [11]
-			"0x07000000007C7AF4", -- [12]
-			0, -- [13]
-			[51] = 1677959016,
-			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffffffffZroubaa|r",
 		}, -- [490]
 		{
-			"CUMETRII AN BIKINI CAREVA ONLINE?", -- [1]
-			"Nrozas", -- [2]
+			"WTS Warlock[name:Darkslash] for 48 coins Lowest Price possible! [BiS WEP + Full BoE`s] + [ENGI + JC] + [280% Fly] via Warmane Store ", -- [1]
+			"Randomnuub", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8854,16 +8854,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6847, -- [11]
-			"0x0700000000651646", -- [12]
+			962, -- [11]
+			"0x07000000002A4558", -- [12]
 			0, -- [13]
-			[51] = 1677959018,
+			[51] = 1678562771,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffc41e3aNrozas|r",
+			[52] = "|cffaad372Randomnuub|r",
 		}, -- [491]
 		{
-			"WTB DK ON SFS QUEST WITH RS SET (MUST HAVE GOOD MOUNTS AND EOF + MARKS) PM ME WITH NAME !!!", -- [1]
-			"Oldisgold", -- [2]
+			"Salam Be dostani Irani 310 ta Coin Foroshi Mojode Kharide Hozori Az Tehran Ham Hast Khialeton Rahat Bashe Khasti bego shomaramo bedam", -- [1]
+			"Rezahastam", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8872,16 +8872,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6848, -- [11]
-			"0x07000000003C2F72", -- [12]
+			963, -- [11]
+			"0x07000000008F8613", -- [12]
 			0, -- [13]
-			[51] = 1677959018,
+			[51] = 1678562771,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfffff468Oldisgold|r",
+			[52] = "|cffc69b6dRezahastam|r",
 		}, -- [492]
 		{
-			"WTS Bane boost 12/12hc full run with all of loots dm me for ressved your spot our raid time 11am/ 2pm Sever time |cffffff00|Hachievement:4583:0700000000060E84:1:10:11:21:4294967295:4294967295:4294967295:4294967295|h[La perdición del Rey caído]|h|r", -- [1]
-			"Todaystar", -- [2]
+			"Guild Br < A F K > aceitamos todos players do idioma Português. Todos os dias as 20h. Fazemos 3 ICC LOD RUN + 3 á 4 RS HC, e raids * Teste* para quem faz nosso apply no discord, ICC 10 HC as sextas e ICC 25 HC as Segundas. https://discord.gg/MR3gupa", -- [1]
+			"Masttertaunt", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8890,16 +8890,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6849, -- [11]
-			"0x0700000000060E84", -- [12]
+			970, -- [11]
+			"0x0700000000847ACD", -- [12]
 			0, -- [13]
-			[51] = 1677959018,
+			[51] = 1678562774,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTodaystar|r",
+			[52] = "|cfff48cbaMasttertaunt|r",
 		}, -- [493]
 		{
-			"https://www.twitch.tv/arnis5 - ICC25HC LOD RUN + RS25HC - DEMONIC EMPIRE + 10000 GOLD GIVEAWAY, TYPE !GOLD TO ENTER RAFFLE! 2K RESOLUTION STREAM", -- [1]
-			"Titanhorns", -- [2]
+			"{estrella} Wipe and Furious {estrella} Recluta gente para sus raids . Se arman ICC10, ICC25 Y SR25 {cuadrado} {diamante} HORARIO DE RAIDEO 20:00ST. {cuadrado} {diamante}", -- [1]
+			"Germory", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8908,16 +8908,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6850, -- [11]
-			"0x07000000002B1B48", -- [12]
+			971, -- [11]
+			"0x070000000034F5B6", -- [12]
 			0, -- [13]
-			[51] = 1677959023,
+			[51] = 1678562775,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aTitanhorns|r",
+			[52] = "|cfff48cbaGermory|r",
 		}, -- [494]
 		{
-			"< NOV > Bulgarski guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
-			"Hakerzz", -- [2]
+			"Guild Irani < Freaky Guys > Progress: 1x LOD + 5x ICC 25 8/12 HC + 8x RS 25 + ToGc 25 Player ACtive +6.3 Baraye Ezafe Kardan Raid haye Hc Mipazirad w/me For Info", -- [1]
+			"Justwarlock", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8926,16 +8926,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6851, -- [11]
-			"0x070000000017E687", -- [12]
+			974, -- [11]
+			"0x07000000007B8581", -- [12]
 			0, -- [13]
-			[51] = 1677959024,
+			[51] = 1678562780,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefHakerzz|r",
+			[52] = "|cff9382c9Justwarlock|r",
 		}, -- [495]
 		{
-			"LFM Icc 25 8??12 hc >Fresh >need Tank-DPS-Heal >sfs res> 6k1+ |cffffff00|Hachievement:4634:07000000005CD744:1:10:27:21:4294967295:4294967295:4294967295:4294967295|h[Heroico: La Sala Carmesí (25 j.)]|h|r", -- [1]
-			"Vaargoth", -- [2]
+			"10000 gold giveaway @ https://demonic-empire.shivtr.com < Demonic Empire > LOD & RS 25 HC same as every night |cffffff00|Hachievement:4584:07000000004AA762:1:1:5:20:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
+			"Shamanresto", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8944,16 +8944,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6852, -- [11]
-			"0x07000000005CD744", -- [12]
+			976, -- [11]
+			"0x07000000004AA762", -- [12]
 			0, -- [13]
-			[51] = 1677959025,
+			[51] = 1678562781,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefVaargoth|r",
+			[52] = "|cff0070ddShamanresto|r",
 		}, -- [496]
 		{
-			"WTS ORC DK, named Cholak via warmane trade. It has Shadowmourne, Penumbra HC, Apocalypse advance HC, STS HC and WF shoulders and Head. It has BiS pvp proffessions ( JC & BS 450). /w me if interested.", -- [1]
-			"Missclappy", -- [2]
+			"LF FOS POS HC dps ", -- [1]
+			"Deroni", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8962,16 +8962,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6853, -- [11]
-			"0x07000000005D9DCD", -- [12]
+			978, -- [11]
+			"0x070000000000D3F8", -- [12]
 			0, -- [13]
-			[51] = 1677959026,
+			[51] = 1678562784,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMissclappy|r",
+			[52] = "|cfff48cbaDeroni|r",
 		}, -- [497]
 		{
-			"ICC 10 need tank, heal, dps from 5.7", -- [1]
-			"Trishep", -- [2]
+			"Ukrainian guild \" Mists of Barabashovo \" recruits active players from 5k8 for ICC & RS! RT: weekdays - 20:00, weekends - 18:00 Kyiv time.", -- [1]
+			"Wheresmybow", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8980,16 +8980,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6854, -- [11]
-			"0x07000000006A5818", -- [12]
+			981, -- [11]
+			"0x07000000008AC3D1", -- [12]
 			0, -- [13]
-			[51] = 1677959028,
+			[51] = 1678562788,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cff68ccefTrishep|r",
+			[52] = "|cffaad372Wheresmybow|r",
 		}, -- [498]
 		{
-			"LFM UNLUAR 10 GLORY 1 HUNT 1 RSHAMMY 1 RDPS |cffffff00|Hachievement:2957:0700000000078341:0:0:0:-1:4091:0:0:0|h[La gloria del asaltante de Ulduar (10 j.)]|h|r", -- [1]
-			"Moarein", -- [2]
+			"LFM Progress Guild - DBM Pull - @ICC 25 10/12 HC Recruiting LAST CORE Raiders for our 1st LOD. Raid time 18:00 ST. Be cool & |cffffff00|Hachievement:556:07000000000116A0:1:11:1:15:4294967295:4294967295:4294967295:4294967295|h[Épico]|h|r Skilled (10/10)", -- [1]
+			"Kilbore", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -8998,16 +8998,16 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6869, -- [11]
-			"0x0700000000078341", -- [12]
+			984, -- [11]
+			"0x07000000000116A0", -- [12]
 			0, -- [13]
-			[51] = 1677959035,
+			[51] = 1678562792,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cffff7c0aMoarein|r",
+			[52] = "|cffff7c0aKilbore|r",
 		}, -- [499]
 		{
-			"10000 Gold Giveaway @ https://www.twitch.tv/arnis5 < Demonic Empire > LOD & RS 25 HC |cffffff00|Hachievement:4584:07000000008191C6:1:10:6:22:4294967295:4294967295:4294967295:4294967295|h[La Luz del Alba]|h|r", -- [1]
-			"Adminstrator", -- [2]
+			"< NOV > BG guild > Laughing Skull > Minimum GS 5.5+ vseki e dobre doshul. Guilda e chill, rabotim s DKP system. 19:30 BG time zapochvat raidovete.", -- [1]
+			"Bblackbaret", -- [2]
 			"Orco", -- [3]
 			"5. Global", -- [4]
 			"", -- [5]
@@ -9016,12 +9016,12 @@ ElvCharacterDB = {
 			5, -- [8]
 			"global", -- [9]
 			0, -- [10]
-			6882, -- [11]
-			"0x07000000008F236F", -- [12]
+			986, -- [11]
+			"0x070000000088EF46", -- [12]
 			0, -- [13]
-			[51] = 1677959042,
+			[51] = 1678562795,
 			[50] = "CHAT_MSG_CHANNEL",
-			[52] = "|cfff48cbaAdminstrator|r",
+			[52] = "|cffaad372Bblackbaret|r",
 		}, -- [500]
 	},
 }

@@ -52,8 +52,8 @@ KPackDB = {
 			["classColor"] = true,
 			["growUp"] = false,
 			["fontFlags"] = "",
-			["height"] = 18,
 			["orientation"] = 1,
+			["height"] = 18,
 			["font"] = "Friz Quadrata TT",
 			["showDuration"] = true,
 			["color"] = {
@@ -69,10 +69,10 @@ KPackDB = {
 			["align"] = "LEFT",
 			["scale"] = 1,
 			["width"] = 180,
-			["updateInterval"] = 0.25,
+			["spacing"] = 2,
 			["font"] = "Yanone",
 			["showIcon"] = true,
-			["spacing"] = 2,
+			["updateInterval"] = 0.25,
 			["locked"] = false,
 			["iconSize"] = 24,
 			["hideTitle"] = false,
@@ -100,8 +100,8 @@ KPackDB = {
 			["width"] = 140,
 			["scale"] = 1,
 			["font"] = "Yanone",
-			["updateInterval"] = 0.25,
 			["spacing"] = 2,
+			["updateInterval"] = 0.25,
 			["locked"] = false,
 			["iconSize"] = 24,
 			["hideTitle"] = false,
@@ -109,72 +109,73 @@ KPackDB = {
 		},
 	},
 	["disabled"] = {
+		["RaidUtility"] = true,
 		["IgnoreMore"] = false,
 		["AddOnSkins"] = true,
-		["Minimap"] = true,
-		["Reflux"] = true,
+		["Minimap"] = false,
+		["Reflux"] = false,
 		["PullnBreak"] = true,
-		["Math"] = true,
+		["Math"] = false,
 		["GarbageProtector"] = true,
-		["Auto Track"] = true,
+		["Auto Track"] = false,
 		["Virtual Plates"] = true,
-		["Simplified"] = true,
-		["QuickButton"] = true,
-		["Postal"] = true,
-		["SimpleComboPoints"] = true,
-		["Nameplates"] = true,
-		["ChatFilter"] = true,
-		["Action Bar Saver"] = true,
-		["LookUp"] = true,
+		["Simplified"] = false,
+		["QuickButton"] = false,
+		["Postal"] = false,
+		["SimpleComboPoints"] = false,
+		["Nameplates"] = false,
+		["ChatFilter"] = false,
+		["Action Bar Saver"] = false,
+		["LookUp"] = false,
 		["CombatLogFix"] = true,
 		["BlizzMove"] = true,
 		["LiveStream"] = false,
-		["Binder"] = true,
-		["AllStats"] = true,
-		["Death Recap"] = true,
+		["Binder"] = false,
+		["AllStats"] = false,
 		["Target Icons"] = false,
+		["Death Recap"] = false,
+		["CombatTime"] = false,
+		["EnhancedStackSplit"] = false,
+		["AltTabber"] = false,
 		["GearScoreLite"] = true,
-		["CombatTime"] = true,
-		["EnhancedStackSplit"] = true,
-		["TellMeWhen"] = true,
+		["SnowfallKeyPress"] = false,
 		["CloseUp"] = true,
-		["Align"] = true,
-		["SlashIn"] = true,
-		["ItemLevel"] = true,
+		["SlashIn"] = false,
+		["Align"] = false,
+		["ItemLevel"] = false,
 		["SpeedyLoad"] = false,
-		["Bubblicious"] = true,
-		["BuffFrame"] = true,
+		["Bubblicious"] = false,
 		["EnhancedColourPicker"] = true,
-		["Viewporter"] = true,
-		["Combuctor"] = true,
+		["BuffFrame"] = false,
+		["Viewporter"] = false,
+		["Combuctor"] = false,
 		["ImprovedLootFrame"] = true,
 		["FriendsInfo"] = true,
-		["Castbars"] = true,
-		["SnowfallKeyPress"] = true,
-		["LynStats"] = true,
-		["Target Percent"] = true,
-		["ChatMods"] = true,
+		["TellMeWhen"] = false,
+		["Castbars"] = false,
+		["LynStats"] = false,
+		["Target Percent"] = false,
+		["ChatMods"] = false,
 	},
-	["HalionHelper"] = {
+	["RTI"] = {
+		["alt"] = false,
+		["bindinghover"] = false,
+		["double"] = true,
+		["ctrl"] = true,
+		["hovertime"] = 0.2,
+		["doublehover"] = false,
+		["shift"] = false,
+		["speed"] = 0.25,
+		["singlehover"] = false,
+	},
+	["IgnoreMore"] = {
 		["enabled"] = true,
-		["raid"] = true,
-		["yOfs"] = 851.592895968062,
-		["xOfs"] = 1181.99949152299,
-		["voice"] = true,
-		["scale"] = 1,
-	},
-	["DarkMode"] = {
-		["normal"] = {
-			["a"] = 1,
-			["b"] = 0.37,
-			["g"] = 0.37,
-			["r"] = 0.37,
-		},
-		["equipped"] = {
-			["a"] = 1,
-			["b"] = 0.1,
-			["g"] = 0.5,
-			["r"] = 0.1,
+		["list"] = {
+			["Icecrown-Horde"] = {
+				["Jampog"] = {
+					["time"] = 1677642864,
+				},
+			},
 		},
 	},
 	["Automate"] = {
@@ -188,20 +189,53 @@ KPackDB = {
 		["junk"] = true,
 		["duels"] = false,
 	},
-	["LiveStream"] = {
-		["sendToYell"] = false,
-		["sendToParty"] = false,
-		["msg"] = "Check out my livestream @ {link} !!",
-		["sendToChannel"] = false,
-		["sendToGuild"] = true,
-		["sendToRW"] = false,
-		["sendToDND"] = true,
-		["time"] = 5,
-		["sendToEmote"] = false,
-		["sendToRaid"] = false,
-		["url"] = "",
-		["emote"] = "tells you to check out his livestream @ {link}",
-		["sendToSay"] = false,
+	["ABS"] = {
+		["count"] = false,
+		["macro"] = false,
+		["spellSubs"] = {
+		},
+		["sets"] = {
+			["DEATHKNIGHT"] = {
+			},
+			["WARRIOR"] = {
+			},
+			["PALADIN"] = {
+			},
+			["MAGE"] = {
+			},
+			["PRIEST"] = {
+			},
+			["WARLOCK"] = {
+			},
+			["HUNTER"] = {
+			},
+			["DRUID"] = {
+			},
+			["SHAMAN"] = {
+			},
+			["ROGUE"] = {
+			},
+		},
+		["rank"] = true,
+	},
+	["Reflux"] = {
+		["activeProfile"] = false,
+		["addons"] = {
+		},
+		["emulated"] = {
+		},
+		["profiles"] = {
+		},
+	},
+	["LMF"] = 2,
+	["AltTabber"] = {
+		["enabled"] = true,
+		["warning"] = true,
+		["whisper"] = true,
+		["lfg"] = true,
+		["achievement"] = true,
+		["invite"] = true,
+		["ready"] = true,
 	},
 	["SnowfallKeyPress"] = {
 		["keys"] = {
@@ -969,15 +1003,44 @@ KPackDB = {
 		["enable"] = true,
 		["animation"] = true,
 	},
-	["IgnoreMore"] = {
+	["StackSplit"] = {
+		["xlmode"] = false,
+		["mode"] = 1,
+	},
+	["HalionHelper"] = {
 		["enabled"] = true,
-		["list"] = {
-			["Icecrown-Horde"] = {
-				["Jampog"] = {
-					["time"] = 1677642864,
-				},
-			},
+		["xOfs"] = 1181.99949152299,
+		["scale"] = 1,
+		["raid"] = true,
+		["voice"] = true,
+		["yOfs"] = 851.592895968062,
+	},
+	["DarkMode"] = {
+		["normal"] = {
+			["a"] = 1,
+			["b"] = 0.37,
+			["g"] = 0.37,
+			["r"] = 0.37,
 		},
+		["equipped"] = {
+			["a"] = 1,
+			["b"] = 0.1,
+			["g"] = 0.5,
+			["r"] = 0.1,
+		},
+	},
+	["CombatTime"] = {
+		["enabled"] = false,
+		["font"] = "Friz Quadrata TT",
+		["stopwatch"] = false,
+		["color"] = {
+			1, -- [1]
+			1, -- [2]
+			0, -- [3]
+		},
+		["scale"] = 1,
+		["locked"] = false,
+		["fontFlags"] = "OUTLINE",
 	},
 	["Postal"] = {
 		["Express"] = {
@@ -1010,11 +1073,19 @@ KPackDB = {
 			["NeutralAHCancelled"] = true,
 			["NeutralAHExpired"] = true,
 			["AHSuccess"] = true,
-			["NeutralAHSuccess"] = true,
-			["Attachments"] = true,
 			["NeutralAHOutbid"] = true,
+			["Attachments"] = true,
+			["NeutralAHSuccess"] = true,
 			["AHExpired"] = true,
 		},
+	},
+	["Bubblicious"] = {
+		["enabled"] = true,
+		["font"] = true,
+		["fontsize"] = 14,
+		["color"] = true,
+		["icons"] = true,
+		["shorten"] = false,
 	},
 	["OmniCC"] = {
 		["enabled"] = true,
@@ -1061,15 +1132,20 @@ KPackDB = {
 		["minDuration"] = 3,
 		["fontFlags"] = "OUTLINE",
 	},
-	["LMF"] = 2,
-	["AltTabber"] = {
-		["enabled"] = true,
-		["warning"] = true,
-		["whisper"] = true,
-		["lfg"] = true,
-		["achievement"] = true,
-		["invite"] = true,
-		["ready"] = true,
+	["LiveStream"] = {
+		["sendToYell"] = false,
+		["sendToParty"] = false,
+		["msg"] = "Check out my livestream @ {link} !!",
+		["sendToChannel"] = false,
+		["sendToGuild"] = true,
+		["sendToRW"] = false,
+		["sendToDND"] = true,
+		["time"] = 5,
+		["sendToEmote"] = false,
+		["sendToRaid"] = false,
+		["url"] = "",
+		["emote"] = "tells you to check out his livestream @ {link}",
+		["sendToSay"] = false,
 	},
 	["ChatFilter"] = {
 		["enabled"] = true,
@@ -1111,24 +1187,509 @@ KPackDB = {
 			["Tienes que estar más cerca para interactuar con ese objetivo."] = true,
 		},
 	},
-	["RTI"] = {
-		["alt"] = false,
-		["bindinghover"] = false,
-		["double"] = true,
-		["ctrl"] = true,
-		["hovertime"] = 0.2,
-		["doublehover"] = false,
-		["shift"] = false,
-		["speed"] = 0.25,
-		["singlehover"] = false,
+	["Binder"] = {
+		{
+			["name"] = "Predeterminado",
+			["binds"] = {
+				{
+					["bindOne"] = "W",
+					["bindTwo"] = "UP",
+					["action"] = "MOVEFORWARD",
+				}, -- [1]
+				{
+					["action"] = "MOVEBACKWARD",
+					["bindOne"] = "DOWN",
+				}, -- [2]
+				{
+					["bindOne"] = "A",
+					["bindTwo"] = "LEFT",
+					["action"] = "TURNLEFT",
+				}, -- [3]
+				{
+					["bindOne"] = "D",
+					["bindTwo"] = "RIGHT",
+					["action"] = "TURNRIGHT",
+				}, -- [4]
+				{
+					["action"] = "JUMP",
+					["bindOne"] = "SPACE",
+				}, -- [5]
+				{
+					["action"] = "SITORSTAND",
+					["bindOne"] = "X",
+				}, -- [6]
+				{
+					["action"] = "TOGGLESHEATH",
+					["bindOne"] = "Z",
+				}, -- [7]
+				{
+					["action"] = "TOGGLEAUTORUN",
+					["bindOne"] = "NUMLOCK",
+				}, -- [8]
+				{
+					["action"] = "PITCHUP",
+					["bindOne"] = "INSERT",
+				}, -- [9]
+				{
+					["action"] = "PITCHDOWN",
+					["bindOne"] = "DELETE",
+				}, -- [10]
+				{
+					["action"] = "TOGGLERUN",
+					["bindOne"] = "NUMPADDIVIDE",
+				}, -- [11]
+				{
+					["action"] = "OPENCHAT",
+					["bindOne"] = "ENTER",
+				}, -- [12]
+				{
+					["action"] = "OPENCHATSLASH",
+					["bindOne"] = "/",
+				}, -- [13]
+				{
+					["action"] = "CHATPAGEUP",
+					["bindOne"] = "PAGEUP",
+				}, -- [14]
+				{
+					["action"] = "CHATBOTTOM",
+					["bindOne"] = "SHIFT-PAGEDOWN",
+				}, -- [15]
+				{
+					["action"] = "REPLY",
+					["bindOne"] = "R",
+				}, -- [16]
+				{
+					["action"] = "REPLY2",
+					["bindOne"] = "SHIFT-R",
+				}, -- [17]
+				{
+					["action"] = "COMBATLOGPAGEUP",
+					["bindOne"] = "CTRL-PAGEUP",
+				}, -- [18]
+				{
+					["action"] = "COMBATLOGPAGEDOWN",
+					["bindOne"] = "CTRL-PAGEDOWN",
+				}, -- [19]
+				{
+					["action"] = "COMBATLOGBOTTOM",
+					["bindOne"] = "CTRL-SHIFT-PAGEDOWN",
+				}, -- [20]
+				{
+					["action"] = "ACTIONBUTTON1",
+					["bindOne"] = "1",
+				}, -- [21]
+				{
+					["action"] = "ACTIONBUTTON2",
+					["bindOne"] = "2",
+				}, -- [22]
+				{
+					["action"] = "ACTIONBUTTON3",
+					["bindOne"] = "3",
+				}, -- [23]
+				{
+					["action"] = "ACTIONBUTTON4",
+					["bindOne"] = "4",
+				}, -- [24]
+				{
+					["action"] = "ACTIONBUTTON5",
+					["bindOne"] = "5",
+				}, -- [25]
+				{
+					["bindOne"] = "6",
+					["bindTwo"] = "ALT-C",
+					["action"] = "ACTIONBUTTON6",
+				}, -- [26]
+				{
+					["bindOne"] = "7",
+					["bindTwo"] = "BUTTON5",
+					["action"] = "ACTIONBUTTON7",
+				}, -- [27]
+				{
+					["action"] = "ACTIONBUTTON8",
+					["bindOne"] = "8",
+				}, -- [28]
+				{
+					["bindOne"] = "9",
+					["bindTwo"] = "V",
+					["action"] = "ACTIONBUTTON9",
+				}, -- [29]
+				{
+					["action"] = "ACTIONBUTTON10",
+					["bindOne"] = "0",
+				}, -- [30]
+				{
+					["bindOne"] = "-",
+					["bindTwo"] = "C",
+					["action"] = "ACTIONBUTTON11",
+				}, -- [31]
+				{
+					["action"] = "ACTIONBUTTON12",
+					["bindOne"] = "SHIFT-C",
+				}, -- [32]
+				{
+					["action"] = "SHAPESHIFTBUTTON1",
+					["bindOne"] = "CTRL-F1",
+				}, -- [33]
+				{
+					["action"] = "SHAPESHIFTBUTTON2",
+					["bindOne"] = "CTRL-F2",
+				}, -- [34]
+				{
+					["action"] = "SHAPESHIFTBUTTON3",
+					["bindOne"] = "CTRL-F3",
+				}, -- [35]
+				{
+					["action"] = "SHAPESHIFTBUTTON4",
+					["bindOne"] = "CTRL-F4",
+				}, -- [36]
+				{
+					["action"] = "SHAPESHIFTBUTTON5",
+					["bindOne"] = "CTRL-F5",
+				}, -- [37]
+				{
+					["action"] = "SHAPESHIFTBUTTON6",
+					["bindOne"] = "CTRL-F6",
+				}, -- [38]
+				{
+					["action"] = "SHAPESHIFTBUTTON7",
+					["bindOne"] = "CTRL-F7",
+				}, -- [39]
+				{
+					["action"] = "SHAPESHIFTBUTTON8",
+					["bindOne"] = "CTRL-F8",
+				}, -- [40]
+				{
+					["action"] = "SHAPESHIFTBUTTON9",
+					["bindOne"] = "CTRL-F9",
+				}, -- [41]
+				{
+					["action"] = "SHAPESHIFTBUTTON10",
+					["bindOne"] = "CTRL-F10",
+				}, -- [42]
+				{
+					["action"] = "BONUSACTIONBUTTON1",
+					["bindOne"] = "CTRL-1",
+				}, -- [43]
+				{
+					["action"] = "BONUSACTIONBUTTON2",
+					["bindOne"] = "CTRL-2",
+				}, -- [44]
+				{
+					["action"] = "BONUSACTIONBUTTON4",
+					["bindOne"] = "CTRL-4",
+				}, -- [45]
+				{
+					["action"] = "BONUSACTIONBUTTON5",
+					["bindOne"] = "CTRL-5",
+				}, -- [46]
+				{
+					["action"] = "BONUSACTIONBUTTON6",
+					["bindOne"] = "CTRL-6",
+				}, -- [47]
+				{
+					["action"] = "BONUSACTIONBUTTON7",
+					["bindOne"] = "CTRL-7",
+				}, -- [48]
+				{
+					["action"] = "BONUSACTIONBUTTON8",
+					["bindOne"] = "CTRL-8",
+				}, -- [49]
+				{
+					["action"] = "BONUSACTIONBUTTON9",
+					["bindOne"] = "CTRL-9",
+				}, -- [50]
+				{
+					["action"] = "BONUSACTIONBUTTON10",
+					["bindOne"] = "CTRL-0",
+				}, -- [51]
+				{
+					["action"] = "PREVIOUSACTIONPAGE",
+					["bindOne"] = "CTRL-NUMPAD8",
+				}, -- [52]
+				{
+					["action"] = "TARGETNEARESTENEMY",
+					["bindOne"] = "TAB",
+				}, -- [53]
+				{
+					["action"] = "TARGETNEARESTFRIEND",
+					["bindOne"] = "CTRL-TAB",
+				}, -- [54]
+				{
+					["action"] = "TARGETPREVIOUSFRIEND",
+					["bindOne"] = "CTRL-SHIFT-TAB",
+				}, -- [55]
+				{
+					["action"] = "TARGETPET",
+					["bindOne"] = "SHIFT-F1",
+				}, -- [56]
+				{
+					["action"] = "TARGETPARTYPET1",
+					["bindOne"] = "SHIFT-F2",
+				}, -- [57]
+				{
+					["action"] = "TARGETPARTYPET2",
+					["bindOne"] = "SHIFT-F3",
+				}, -- [58]
+				{
+					["action"] = "TARGETPARTYPET3",
+					["bindOne"] = "SHIFT-F4",
+				}, -- [59]
+				{
+					["action"] = "TARGETPARTYPET4",
+					["bindOne"] = "SHIFT-F5",
+				}, -- [60]
+				{
+					["action"] = "TARGETLASTHOSTILE",
+					["bindOne"] = "G",
+				}, -- [61]
+				{
+					["action"] = "NAMEPLATES",
+					["bindOne"] = "CTRL-V",
+				}, -- [62]
+				{
+					["action"] = "FRIENDNAMEPLATES",
+					["bindOne"] = "ALT-V",
+				}, -- [63]
+				{
+					["action"] = "INTERACTTARGET",
+					["bindOne"] = "=",
+				}, -- [64]
+				{
+					["action"] = "PETATTACK",
+					["bindOne"] = "SHIFT-T",
+				}, -- [65]
+				{
+					["action"] = "TOGGLECHARACTER0",
+					["bindOne"] = "CTRL-C",
+				}, -- [66]
+				{
+					["action"] = "TOGGLEBACKPACK",
+					["bindOne"] = "B",
+				}, -- [67]
+				{
+					["action"] = "OPENALLBAGS",
+					["bindOne"] = "SHIFT-B",
+				}, -- [68]
+				{
+					["action"] = "TOGGLESPELLBOOK",
+					["bindOne"] = "P",
+				}, -- [69]
+				{
+					["action"] = "TOGGLEPETBOOK",
+					["bindOne"] = "SHIFT-I",
+				}, -- [70]
+				{
+					["action"] = "TOGGLETALENTS",
+					["bindOne"] = "N",
+				}, -- [71]
+				{
+					["action"] = "TOGGLECHARACTER4",
+					["bindOne"] = "H",
+				}, -- [72]
+				{
+					["action"] = "TOGGLECHARACTER3",
+					["bindOne"] = "SHIFT-P",
+				}, -- [73]
+				{
+					["action"] = "TOGGLECHARACTER2",
+					["bindOne"] = "U",
+				}, -- [74]
+				{
+					["action"] = "TOGGLECHARACTER1",
+					["bindOne"] = "K",
+				}, -- [75]
+				{
+					["action"] = "TOGGLEQUESTLOG",
+					["bindOne"] = "L",
+				}, -- [76]
+				{
+					["action"] = "TOGGLEGAMEMENU",
+					["bindOne"] = "ESCAPE",
+				}, -- [77]
+				{
+					["action"] = "TOGGLEWORLDMAP",
+					["bindOne"] = "M",
+				}, -- [78]
+				{
+					["action"] = "TOGGLESOCIAL",
+					["bindOne"] = "O",
+				}, -- [79]
+				{
+					["action"] = "TOGGLEGUILDTAB",
+					["bindOne"] = "J",
+				}, -- [80]
+				{
+					["action"] = "TOGGLELFGPARENT",
+					["bindOne"] = "I",
+				}, -- [81]
+				{
+					["action"] = "TOGGLEWORLDSTATESCORES",
+					["bindOne"] = "SHIFT-SPACE",
+				}, -- [82]
+				{
+					["action"] = "TOGGLEBATTLEFIELDMINIMAP",
+					["bindOne"] = "SHIFT-M",
+				}, -- [83]
+				{
+					["action"] = "TOGGLECHANNELPULLOUT",
+					["bindOne"] = "SHIFT-O",
+				}, -- [84]
+				{
+					["action"] = "TOGGLEACHIEVEMENT",
+					["bindOne"] = "Y",
+				}, -- [85]
+				{
+					["action"] = "TOGGLESTATISTICS",
+					["bindOne"] = "SHIFT-Y",
+				}, -- [86]
+				{
+					["action"] = "MINIMAPZOOMIN",
+					["bindOne"] = "NUMPADPLUS",
+				}, -- [87]
+				{
+					["action"] = "TOGGLEMUSIC",
+					["bindOne"] = "CTRL-M",
+				}, -- [88]
+				{
+					["action"] = "MASTERVOLUMEUP",
+					["bindOne"] = "CTRL-=",
+				}, -- [89]
+				{
+					["action"] = "MASTERVOLUMEDOWN",
+					["bindOne"] = "CTRL--",
+				}, -- [90]
+				{
+					["action"] = "TOGGLEUI",
+					["bindOne"] = "ALT-Z",
+				}, -- [91]
+				{
+					["action"] = "TOGGLEFPS",
+					["bindOne"] = "CTRL-R",
+				}, -- [92]
+				{
+					["action"] = "SCREENSHOT",
+					["bindOne"] = "PRINTSCREEN",
+				}, -- [93]
+				{
+					["action"] = "NEXTVIEW",
+					["bindOne"] = "END",
+				}, -- [94]
+				{
+					["action"] = "PREVVIEW",
+					["bindOne"] = "HOME",
+				}, -- [95]
+				{
+					["action"] = "CAMERAZOOMIN",
+					["bindOne"] = "MOUSEWHEELUP",
+				}, -- [96]
+				{
+					["action"] = "CAMERAZOOMOUT",
+					["bindOne"] = "MOUSEWHEELDOWN",
+				}, -- [97]
+				{
+					["action"] = "MULTIACTIONBAR1BUTTON1",
+					["bindOne"] = "S",
+				}, -- [98]
+				{
+					["action"] = "MULTIACTIONBAR1BUTTON2",
+					["bindOne"] = "Q",
+				}, -- [99]
+				{
+					["action"] = "MULTIACTIONBAR1BUTTON3",
+					["bindOne"] = "SHIFT-E",
+				}, -- [100]
+				{
+					["action"] = "MULTIACTIONBAR1BUTTON4",
+					["bindOne"] = "E",
+				}, -- [101]
+				{
+					["action"] = "MULTIACTIONBAR1BUTTON5",
+					["bindOne"] = "SHIFT-F",
+				}, -- [102]
+				{
+					["action"] = "MULTIACTIONBAR1BUTTON6",
+					["bindOne"] = "F",
+				}, -- [103]
+				{
+					["action"] = "MULTIACTIONBAR1BUTTON7",
+					["bindOne"] = "SHIFT-Q",
+				}, -- [104]
+				{
+					["action"] = "MULTIACTIONBAR1BUTTON8",
+					["bindOne"] = "CTRL-3",
+				}, -- [105]
+				{
+					["action"] = "MULTIACTIONBAR2BUTTON1",
+					["bindOne"] = "SHIFT-1",
+				}, -- [106]
+				{
+					["action"] = "MULTIACTIONBAR2BUTTON2",
+					["bindOne"] = "SHIFT-2",
+				}, -- [107]
+				{
+					["action"] = "MULTIACTIONBAR2BUTTON3",
+					["bindOne"] = "SHIFT-3",
+				}, -- [108]
+				{
+					["action"] = "MULTIACTIONBAR2BUTTON4",
+					["bindOne"] = "T",
+				}, -- [109]
+				{
+					["action"] = "MULTIACTIONBAR2BUTTON6",
+					["bindOne"] = "SHIFT-V",
+				}, -- [110]
+				{
+					["action"] = "MULTIACTIONBAR3BUTTON4",
+					["bindOne"] = "NUMPAD5",
+				}, -- [111]
+				{
+					["action"] = "MULTIACTIONBAR3BUTTON8",
+					["bindOne"] = "NUMPAD2",
+				}, -- [112]
+				{
+					["action"] = "MULTIACTIONBAR3BUTTON10",
+					["bindOne"] = "SHIFT-S",
+				}, -- [113]
+				{
+					["bindOne"] = "SHIFT-º",
+					["bindTwo"] = "SHIFT-`",
+					["action"] = "MULTIACTIONBAR4BUTTON3",
+				}, -- [114]
+				{
+					["bindOne"] = "º",
+					["bindTwo"] = "`",
+					["action"] = "MULTIACTIONBAR4BUTTON4",
+				}, -- [115]
+				{
+					["action"] = "MULTIACTIONBAR4BUTTON7",
+					["bindOne"] = "NUMPAD8",
+				}, -- [116]
+				{
+					["action"] = "MULTIACTIONBAR4BUTTON9",
+					["bindOne"] = "NUMPAD1",
+				}, -- [117]
+				{
+					["action"] = "VEHICLENEXTSEAT",
+					["bindOne"] = "NUMPAD3",
+				}, -- [118]
+				{
+					["action"] = "VEHICLEAIMINCREMENT",
+					["bindOne"] = "CTRL-MOUSEWHEELUP",
+				}, -- [119]
+				{
+					["action"] = "VEHICLEAIMDECREMENT",
+					["bindOne"] = "CTRL-MOUSEWHEELDOWN",
+				}, -- [120]
+			},
+		}, -- [1]
 	},
 }
 kMADB = {
-	["tooltips"] = true,
+	["collapsed"] = true,
 	["characters"] = {
 	},
-	["collapsed"] = true,
 	["frameListRows"] = 18,
+	["tooltips"] = true,
 	["profiles"] = {
 		["default"] = {
 			["name"] = "default",

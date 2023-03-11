@@ -5,8 +5,8 @@ Anchor: CENTER
 X: 0
 Y: 0
 W: 365
-H: 240
-Frame: jixmkboshyjzrzheiymj
+H: 200
+Frame: wbefhitrlbnetkvartox
 FrameLevel: 5
 Anchor: TOPRIGHT
 X: -4

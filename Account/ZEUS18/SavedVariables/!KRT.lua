@@ -6,7 +6,7 @@ KRT_Options = {
 	["minimapButton"] = true,
 	["announceOnBank"] = false,
 	["showTooltips"] = true,
-	["countdownDuration"] = 5,
+	["countdownDuration"] = 10,
 	["useRaidWarning"] = true,
 	["countdownRollsBlock"] = true,
 	["sortAscending"] = false,
@@ -4596,30 +4596,23 @@ KRT_Players = {
 }
 KRT_CurrentRaid = nil
 KRT_LastBoss = nil
-KRT_NextReset = 34866
+KRT_NextReset = 29061
 KRT_Warnings = {
-	{
-		["name"] = "Stop Inside",
-		["content"] = "Stop INSIDE",
-	}, -- [1]
-	{
-		["name"] = "Stop Outside",
-		["content"] = "Stop OUTSIDE",
-	}, -- [2]
 }
 KRT_Spammer = {
-	["Ranged"] = "1",
+	["Ranged"] = "2",
 	["Tank"] = "0",
-	["Melee"] = "0",
+	["Melee"] = "1",
 	["Channels"] = {
-		"6", -- [1]
+		"Yell", -- [1]
+		"5", -- [2]
 	},
-	["MeleeClass"] = "Feral/Rogue/Warrior",
-	["HealerClass"] = "RShaman/Druid/DPriest",
-	["TankClass"] = "Pala/Druid",
-	["Name"] = "RS 10 NM",
-	["Healer"] = "0",
-	["RangedClass"] = "SPriest/Mage",
-	["Message"] = "5.5k + @ Wisp GS + Role + Archv + Come to Memo",
+	["MeleeClass"] = "EhShaman/FDruid/Rogue",
+	["HealerClass"] = "HPala/RDruid/RShaman/DPriest",
+	["TankClass"] = "Pala/DK",
+	["Name"] = "VOA 10",
+	["Healer"] = "2",
+	["RangedClass"] = "ElShaman/Boomi/Warlock/Hunter",
+	["Message"] = "Wisp GS + Role ||  Nothing Ress",
 }
 KRT_ExportString = "$I,$N,$S,$W,$T,$R,$H:$M,$d/$m/$y"

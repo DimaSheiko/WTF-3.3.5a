@@ -8,7 +8,7 @@ AF_config = {
 		["system"] = "CHANNEL",
 	},
 	["Icecrown-Yeni"] = {
-		["message"] = "WTB |cff1eff00|Hitem:43299:0:0:0:0:0:0:0:75|h[Collar Dañado]|h|r 100g each. WTB  |cffa335ee|Hitem:34057:0:0:0:0:0:0:0:75|h[Cristal Abisal]|h|r 60g each. /w me or COD.",
+		["message"] = "WTB |cff1eff00|Hitem:43299:0:0:0:0:0:0:0:75|h[Collar Dañado]|h|r 100g each. WTB |cffa335ee|Hitem:34057:0:0:0:0:0:0:0:75|h[Cristal Abisal]|h|r 70g each. /w me or COD.",
 		["channel"] = "5",
 		["idChannel"] = "5",
 		["rate"] = 60,

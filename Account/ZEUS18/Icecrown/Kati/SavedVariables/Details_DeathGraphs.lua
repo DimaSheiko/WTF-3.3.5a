@@ -5,9 +5,6 @@ DeathGraphsDBDeaths = {
 		["type"] = "deaths",
 		["name"] = "Toravon el Vigía de Hielo",
 		["id"] = 38433,
-		["diff"] = 2,
-		["player_db"] = {
-		},
 		["boss_table"] = {
 			["diff_string"] = "25 jugadores",
 			["index"] = 4,
@@ -20,15 +17,15 @@ DeathGraphsDBDeaths = {
 			["encounter"] = "Toravon el Vigía de Hielo",
 			["killed"] = true,
 		},
+		["player_db"] = {
+		},
+		["diff"] = 2,
 	},
 	["350132"] = {
 		["hash"] = "350132",
 		["type"] = "deaths",
 		["name"] = "Koralon el Vigía de las llamas",
 		["id"] = 35013,
-		["diff"] = 2,
-		["player_db"] = {
-		},
 		["boss_table"] = {
 			["diff_string"] = "25 jugadores",
 			["index"] = 3,
@@ -41,47 +38,38 @@ DeathGraphsDBDeaths = {
 			["encounter"] = "Koralon el Vigía de las llamas",
 			["killed"] = true,
 		},
+		["player_db"] = {
+		},
+		["diff"] = 2,
 	},
 	["366122"] = {
 		["hash"] = "366122",
 		["type"] = "deaths",
 		["name"] = "Lord Tuétano",
 		["id"] = 36612,
-		["diff"] = 2,
-		["boss_table"] = {
-			["diff_string"] = "25 jugadores",
-			["index"] = 1,
-			["zone"] = "Ciudadela de la Corona de Hielo",
-			["encounter"] = "Lord Tuétano",
-			["mapid"] = 605,
-			["try_number"] = 1,
-			["name"] = "Lord Tuétano",
-			["id"] = 36612,
-			["diff"] = 2,
-		},
 		["player_db"] = {
 			["Kati"] = {
-				["name"] = "Kati",
-				["class"] = "PALADIN",
-				["overall"] = {
-				},
 				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+				["name"] = "Kati",
+				["overall"] = {
 				},
 			},
 			["Dorianel"] = {
-				["name"] = "Dorianel",
-				["class"] = "DRUID",
-				["overall"] = {
-				},
 				["deaths"] = {
+				},
+				["class"] = "DRUID",
+				["name"] = "Dorianel",
+				["overall"] = {
 				},
 			},
 			["Ratattouille"] = {
-				["name"] = "Ratattouille",
-				["class"] = "MAGE",
-				["overall"] = {
-				},
 				["deaths"] = {
+				},
+				["class"] = "MAGE",
+				["name"] = "Ratattouille",
+				["overall"] = {
 				},
 			},
 			["Sandevistan"] = {
@@ -92,54 +80,66 @@ DeathGraphsDBDeaths = {
 				["name"] = "Sandevistan",
 			},
 			["Asanino"] = {
-				["name"] = "Asanino",
-				["class"] = "ROGUE",
-				["overall"] = {
-				},
 				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Asanino",
+				["overall"] = {
 				},
 			},
 			["Chetana"] = {
-				["name"] = "Chetana",
+				["deaths"] = {
+				},
 				["class"] = "DRUID",
+				["name"] = "Chetana",
 				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Lilfuk"] = {
-				["name"] = "Lilfuk",
-				["class"] = "WARRIOR",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Elicarmudu"] = {
-				["name"] = "Elicarmudu",
-				["class"] = "ROGUE",
-				["overall"] = {
-				},
-				["deaths"] = {
-				},
-			},
-			["Nowruz"] = {
-				["name"] = "Nowruz",
-				["class"] = "PRIEST",
-				["overall"] = {
-				},
-				["deaths"] = {
 				},
 			},
 			["Tojjito"] = {
-				["name"] = "Tojjito",
+				["deaths"] = {
+				},
 				["class"] = "WARRIOR",
+				["name"] = "Tojjito",
 				["overall"] = {
 				},
+			},
+			["Elicarmudu"] = {
 				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+				["name"] = "Elicarmudu",
+				["overall"] = {
+				},
+			},
+			["Nowruz"] = {
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+				["name"] = "Nowruz",
+				["overall"] = {
+				},
+			},
+			["Lilfuk"] = {
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+				["name"] = "Lilfuk",
+				["overall"] = {
 				},
 			},
 		},
+		["boss_table"] = {
+			["diff_string"] = "25 jugadores",
+			["index"] = 1,
+			["zone"] = "Ciudadela de la Corona de Hielo",
+			["encounter"] = "Lord Tuétano",
+			["mapid"] = 605,
+			["try_number"] = 1,
+			["name"] = "Lord Tuétano",
+			["diff"] = 2,
+			["id"] = 36612,
+		},
+		["diff"] = 2,
 	},
 }
 DeathGraphsDBEndurance = {
@@ -148,184 +148,6 @@ DeathGraphsDBEndurance = {
 		["type"] = "endurance",
 		["name"] = "Toravon el Vigía de Hielo",
 		["id"] = 38433,
-		["diff"] = 2,
-		["player_db"] = {
-			["Huntorwhat"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Trsitan"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Abisicari"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Harucho"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Paatko"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Tonyrecm"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Leibes"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Giveass"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Bluecrab"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Ithachi"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Hannicus"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Piivoine"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Kati"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Lmblue"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Nostromo"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Iizz"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Hyein"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Guoqing"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Bruuma"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Laobeibi"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Avox"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Magefull"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Elementday"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Oberkrall"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Howadoosova"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-		},
 		["boss_table"] = {
 			["diff_string"] = "25 jugadores",
 			["index"] = 4,
@@ -338,148 +160,197 @@ DeathGraphsDBEndurance = {
 			["encounter"] = "Toravon el Vigía de Hielo",
 			["killed"] = true,
 		},
-	},
-	["350132"] = {
-		["hash"] = "350132",
-		["type"] = "endurance",
-		["name"] = "Koralon el Vigía de las llamas",
-		["id"] = 35013,
-		["diff"] = 2,
 		["player_db"] = {
 			["Huntorwhat"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "HUNTER",
 				["deaths"] = {
 				},
-				["class"] = "HUNTER",
 			},
 			["Trsitan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Elementday"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Harucho"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Memeheals"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Deathdevil"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
+			},
+			["Dirtykokot"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "WARRIOR",
 			},
-			["Abisicari"] = {
+			["Bluecrab"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Velkepivo"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARLOCK",
+			},
+			["Hannicus"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Piivoine"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Kati"] = {
+				["encounters"] = 2,
+				["points"] = 200,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Lmblue"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Nidav"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+			},
+			["Hyein"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Bruuma"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Laobeibi"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Zoltano"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Magefull"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Angelwhite"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PALADIN",
+			},
+			["Tonyrecm"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Iivar"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "ROGUE",
 			},
-			["Harucho"] = {
+			["Oberkrall"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
 			},
 			["Paatko"] = {
 				["encounters"] = 1,
 				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
 			},
-			["Tonyrecm"] = {
+			["Melzurija"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "WARRIOR",
+				["class"] = "WARLOCK",
+			},
+			["Ezloot"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "MAGE",
 			},
 			["Leibes"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "MAGE",
-			},
-			["Giveass"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "DRUID",
 			},
-			["Bluecrab"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Ithachi"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Hannicus"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Piivoine"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Kati"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Lmblue"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Nostromo"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Iizz"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Hyein"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Guoqing"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Bruuma"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Laobeibi"] = {
+			["Jubiileu"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
@@ -489,39 +360,151 @@ DeathGraphsDBEndurance = {
 			["Avox"] = {
 				["encounters"] = 1,
 				["points"] = 100,
-				["deaths"] = {
-				},
 				["class"] = "PALADIN",
-			},
-			["Magefull"] = {
-				["encounters"] = 1,
-				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "MAGE",
 			},
-			["Elementday"] = {
+			["Anasazi"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "SHAMAN",
 			},
-			["Oberkrall"] = {
+			["Giveass"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Abisicari"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Ithachi"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Xguille"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
-				["class"] = "DEATHKNIGHT",
+				["class"] = "HUNTER",
 			},
-			["Howadoosova"] = {
+			["Pickro"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "ROGUE",
+			},
+			["Mowabonsai"] = {
 				["encounters"] = 1,
 				["points"] = 100,
 				["deaths"] = {
 				},
 				["class"] = "DRUID",
 			},
+			["Nhorka"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "HUNTER",
+			},
+			["Guoqing"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Iizz"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Orvalparkund"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["Predeter"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "WARRIOR",
+			},
+			["Nostromo"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Rebelunicorn"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DRUID",
+			},
+			["Ironspiritt"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+			},
+			["Gofpr"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "PRIEST",
+			},
+			["Orkoman"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "DEATHKNIGHT",
+			},
+			["Rshamyboy"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["deaths"] = {
+				},
+				["class"] = "SHAMAN",
+			},
+			["Howadoosova"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
 		},
+		["diff"] = 2,
+	},
+	["350132"] = {
+		["hash"] = "350132",
+		["type"] = "endurance",
+		["name"] = "Koralon el Vigía de las llamas",
+		["id"] = 35013,
 		["boss_table"] = {
 			["diff_string"] = "25 jugadores",
 			["index"] = 3,
@@ -534,13 +517,392 @@ DeathGraphsDBEndurance = {
 			["encounter"] = "Koralon el Vigía de las llamas",
 			["killed"] = true,
 		},
+		["player_db"] = {
+			["Huntorwhat"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Trsitan"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Abisicari"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Harucho"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Paatko"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Howadoosova"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Leibes"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Giveass"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Oberkrall"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Ithachi"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Hannicus"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Piivoine"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Kati"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Lmblue"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Elementday"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Iizz"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Hyein"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Guoqing"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Nostromo"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Laobeibi"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Magefull"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Avox"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Bruuma"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Bluecrab"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Tonyrecm"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+		},
+		["diff"] = 2,
 	},
 	["366122"] = {
 		["hash"] = "366122",
 		["type"] = "endurance",
 		["name"] = "Lord Tuétano",
 		["id"] = 36612,
-		["diff"] = 2,
+		["player_db"] = {
+			["Siiouxsie"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Capioll"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Dorianel"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "DRUID",
+				["deaths"] = {
+					{
+						1, -- [1]
+						100.8940000000002, -- [2]
+						"Tormenta ósea |cFFFF33333,953|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Juniors"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "SHAMAN",
+				["deaths"] = {
+				},
+			},
+			["Muzakaa"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Lilianaana"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PALADIN",
+				["deaths"] = {
+				},
+			},
+			["Serinda"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Scrappycoco"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Kati"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "PALADIN",
+				["deaths"] = {
+					{
+						1, -- [1]
+						102.362999999983, -- [2]
+						"Llama fría (DoT) |cFFFF33337,469|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Lesliieshaw"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Lilfuk"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Doigee"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "MAGE",
+				["deaths"] = {
+				},
+			},
+			["Tojjito"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+				},
+			},
+			["Thereny"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "WARLOCK",
+				["deaths"] = {
+				},
+			},
+			["Nowruz"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Ratattouille"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "MAGE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						100.8960000000079, -- [2]
+						"Tormenta ósea |cFFFF33332,652|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Sandevistan"] = {
+				["encounters"] = 2,
+				["points"] = 190,
+				["class"] = "WARRIOR",
+				["deaths"] = {
+					{
+						1, -- [1]
+						103.448000000004, -- [2]
+						"Llama fría (DoT) |cFFFF33337,843|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Asanino"] = {
+				["encounters"] = 1,
+				["points"] = 90,
+				["class"] = "ROGUE",
+				["deaths"] = {
+					{
+						1, -- [1]
+						101.2719999999972, -- [2]
+						"Empalado |cFFFF33333,830|r", -- [3]
+					}, -- [1]
+				},
+			},
+			["Prady"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Tabajunta"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+			["Chetana"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DRUID",
+				["deaths"] = {
+				},
+			},
+			["Amborguesoo"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "DEATHKNIGHT",
+				["deaths"] = {
+				},
+			},
+			["Elicarmudu"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "ROGUE",
+				["deaths"] = {
+				},
+			},
+			["Anndrossi"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "PRIEST",
+				["deaths"] = {
+				},
+			},
+			["Raffin"] = {
+				["encounters"] = 1,
+				["points"] = 100,
+				["class"] = "HUNTER",
+				["deaths"] = {
+				},
+			},
+		},
 		["boss_table"] = {
 			["diff_string"] = "25 jugadores",
 			["index"] = 1,
@@ -549,211 +911,10 @@ DeathGraphsDBEndurance = {
 			["mapid"] = 605,
 			["try_number"] = 1,
 			["name"] = "Lord Tuétano",
-			["id"] = 36612,
 			["diff"] = 2,
+			["id"] = 36612,
 		},
-		["player_db"] = {
-			["Siiouxsie"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Capioll"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Dorianel"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						100.8940000000002, -- [2]
-						"Tormenta ósea |cFFFF33333,953|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "DRUID",
-			},
-			["Juniors"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "SHAMAN",
-			},
-			["Muzakaa"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Lilianaana"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PALADIN",
-			},
-			["Serinda"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Anndrossi"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Tojjito"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Lesliieshaw"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Ratattouille"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						100.8960000000079, -- [2]
-						"Tormenta ósea |cFFFF33332,652|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "MAGE",
-			},
-			["Doigee"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "MAGE",
-			},
-			["Kati"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["deaths"] = {
-					{
-						1, -- [1]
-						102.362999999983, -- [2]
-						"Llama fría (DoT) |cFFFF33337,469|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "PALADIN",
-			},
-			["Sandevistan"] = {
-				["encounters"] = 2,
-				["points"] = 190,
-				["deaths"] = {
-					{
-						1, -- [1]
-						103.448000000004, -- [2]
-						"Llama fría (DoT) |cFFFF33337,843|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "WARRIOR",
-			},
-			["Nowruz"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Lilfuk"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARRIOR",
-			},
-			["Thereny"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "WARLOCK",
-			},
-			["Asanino"] = {
-				["encounters"] = 1,
-				["points"] = 90,
-				["deaths"] = {
-					{
-						1, -- [1]
-						101.2719999999972, -- [2]
-						"Empalado |cFFFF33333,830|r", -- [3]
-					}, -- [1]
-				},
-				["class"] = "ROGUE",
-			},
-			["Prady"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "PRIEST",
-			},
-			["Tabajunta"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-			["Chetana"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Amborguesoo"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DEATHKNIGHT",
-			},
-			["Elicarmudu"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "ROGUE",
-			},
-			["Scrappycoco"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "DRUID",
-			},
-			["Raffin"] = {
-				["encounters"] = 1,
-				["points"] = 100,
-				["deaths"] = {
-				},
-				["class"] = "HUNTER",
-			},
-		},
+		["diff"] = 2,
 	},
 }
 DeathGraphsDBCurrent = {
@@ -763,6 +924,9 @@ DeathGraphsDBCurrent = {
 				["maxhealth"] = 27955,
 				["timeofdeath"] = 102.362999999983,
 				["name"] = "Kati",
+				["time"] = 1677462499.666,
+				["class"] = "PALADIN",
+				["timestring"] = "1m 42s",
 				["events"] = {
 					{
 						2, -- [1]
@@ -1085,14 +1249,14 @@ DeathGraphsDBCurrent = {
 						"Kati", -- [6]
 					}, -- [30]
 				},
-				["class"] = "PALADIN",
-				["timestring"] = "1m 42s",
-				["time"] = 1677462499.666,
 			}, -- [1]
 			{
 				["maxhealth"] = 38650,
 				["timeofdeath"] = 103.448000000004,
 				["name"] = "Sandevistan",
+				["time"] = 1677462500.765,
+				["class"] = "WARRIOR",
+				["timestring"] = "1m 43s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -1441,9 +1605,6 @@ DeathGraphsDBCurrent = {
 						"Sandevistan", -- [6]
 					}, -- [33]
 				},
-				["class"] = "WARRIOR",
-				["timestring"] = "1m 43s",
-				["time"] = 1677462500.765,
 			}, -- [2]
 		},
 		["bossname"] = "Lord Tuétano",
@@ -1463,9 +1624,6 @@ DeathGraphsDBCurrent = {
 				["maxhealth"] = 26946,
 				["timeofdeath"] = 100.8940000000002,
 				["name"] = "Dorianel",
-				["time"] = 1677462130.145,
-				["class"] = "DRUID",
-				["timestring"] = "1m 40s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -1826,14 +1984,14 @@ DeathGraphsDBCurrent = {
 						"Dorianel", -- [6]
 					}, -- [33]
 				},
+				["class"] = "DRUID",
+				["timestring"] = "1m 40s",
+				["time"] = 1677462130.145,
 			}, -- [1]
 			{
 				["maxhealth"] = 25795,
 				["timeofdeath"] = 100.8960000000079,
 				["name"] = "Ratattouille",
-				["time"] = 1677462130.145,
-				["class"] = "MAGE",
-				["timestring"] = "1m 40s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -2080,14 +2238,14 @@ DeathGraphsDBCurrent = {
 						"Ratattouille", -- [6]
 					}, -- [22]
 				},
+				["class"] = "MAGE",
+				["timestring"] = "1m 40s",
+				["time"] = 1677462130.145,
 			}, -- [2]
 			{
 				["maxhealth"] = 32739,
 				["timeofdeath"] = 101.2719999999972,
 				["name"] = "Asanino",
-				["time"] = 1677462130.509,
-				["class"] = "ROGUE",
-				["timestring"] = "1m 41s",
 				["events"] = {
 					{
 						true, -- [1]
@@ -2443,14 +2601,14 @@ DeathGraphsDBCurrent = {
 						"Asanino", -- [6]
 					}, -- [32]
 				},
+				["class"] = "ROGUE",
+				["timestring"] = "1m 41s",
+				["time"] = 1677462130.509,
 			}, -- [3]
 			{
 				["maxhealth"] = 39404,
 				["timeofdeath"] = 102.5009999999893,
 				["name"] = "Lilfuk",
-				["time"] = 1677462131.748,
-				["class"] = "WARRIOR",
-				["timestring"] = "1m 42s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -2829,14 +2987,14 @@ DeathGraphsDBCurrent = {
 						"Lilfuk", -- [6]
 					}, -- [33]
 				},
+				["class"] = "WARRIOR",
+				["timestring"] = "1m 42s",
+				["time"] = 1677462131.748,
 			}, -- [4]
 			{
 				["maxhealth"] = 27955,
 				["timeofdeath"] = 103.3729999999923,
 				["name"] = "Kati",
-				["time"] = 1677462132.604,
-				["class"] = "PALADIN",
-				["timestring"] = "1m 43s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -3171,14 +3329,14 @@ DeathGraphsDBCurrent = {
 						"Kati", -- [6]
 					}, -- [30]
 				},
+				["class"] = "PALADIN",
+				["timestring"] = "1m 43s",
+				["time"] = 1677462132.604,
 			}, -- [5]
 			{
 				["maxhealth"] = 29260,
 				["timeofdeath"] = 103.7179999999935,
 				["name"] = "Chetana",
-				["time"] = 1677462132.962,
-				["class"] = "DRUID",
-				["timestring"] = "1m 43s",
 				["events"] = {
 					{
 						true, -- [1]
@@ -3505,14 +3663,14 @@ DeathGraphsDBCurrent = {
 						"Chetana", -- [6]
 					}, -- [29]
 				},
+				["class"] = "DRUID",
+				["timestring"] = "1m 43s",
+				["time"] = 1677462132.962,
 			}, -- [6]
 			{
 				["maxhealth"] = 33428,
 				["timeofdeath"] = 105.5210000000079,
 				["name"] = "Elicarmudu",
-				["time"] = 1677462134.771,
-				["class"] = "ROGUE",
-				["timestring"] = "1m 45s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -3758,14 +3916,14 @@ DeathGraphsDBCurrent = {
 						"Elicarmudu", -- [6]
 					}, -- [21]
 				},
+				["class"] = "ROGUE",
+				["timestring"] = "1m 45s",
+				["time"] = 1677462134.771,
 			}, -- [7]
 			{
 				["maxhealth"] = 26961,
 				["timeofdeath"] = 110.4769999999844,
 				["name"] = "Nowruz",
-				["time"] = 1677462139.727,
-				["class"] = "PRIEST",
-				["timestring"] = "1m 50s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -4132,14 +4290,14 @@ DeathGraphsDBCurrent = {
 						"Nowruz", -- [6]
 					}, -- [33]
 				},
+				["class"] = "PRIEST",
+				["timestring"] = "1m 50s",
+				["time"] = 1677462139.727,
 			}, -- [8]
 			{
 				["maxhealth"] = 26961,
 				["timeofdeath"] = 110.5829999999842,
 				["name"] = "Nowruz",
-				["time"] = 1677462139.832,
-				["class"] = "PRIEST",
-				["timestring"] = "1m 50s",
 				["events"] = {
 					{
 						3, -- [1]
@@ -4150,14 +4308,14 @@ DeathGraphsDBCurrent = {
 						"Nowruz", -- [6]
 					}, -- [1]
 				},
+				["class"] = "PRIEST",
+				["timestring"] = "1m 50s",
+				["time"] = 1677462139.832,
 			}, -- [9]
 			{
 				["maxhealth"] = 40600,
 				["timeofdeath"] = 118.7779999999912,
 				["name"] = "Tojjito",
-				["time"] = 1677462148.029,
-				["class"] = "WARRIOR",
-				["timestring"] = "1m 58s",
 				["events"] = {
 					{
 						false, -- [1]
@@ -4524,6 +4682,9 @@ DeathGraphsDBCurrent = {
 						"Tojjito", -- [6]
 					}, -- [33]
 				},
+				["class"] = "WARRIOR",
+				["timestring"] = "1m 58s",
+				["time"] = 1677462148.029,
 			}, -- [10]
 		},
 		["bossname"] = "Lord Tuétano",

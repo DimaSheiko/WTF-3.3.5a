@@ -1,10 +1,12 @@
 
 TradeSkillMaster_DestroyingDB = {
 	["profileKeys"] = {
-		["Yeni - Icecrown"] = "Default",
-		["Katy - Icecrown"] = "Default",
 		["Kyz - Icecrown"] = "Default",
 		["Yosehanny - Icecrown"] = "Default",
+		["Yeni - Icecrown"] = "Default",
+		["Katy - Icecrown"] = "Default",
+		["Doxy - Frostmourne"] = "Default",
+		["Dyxo - Icecrown"] = "Default",
 	},
 	["global"] = {
 		["autoShow"] = false,

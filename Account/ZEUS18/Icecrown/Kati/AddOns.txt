@@ -112,7 +112,7 @@ ElvUI_OptionsUI: enabled
 ElvUI_RaidMarkers: enabled
 ElvUI_VisualProcs: enabled
 KRU: enabled
-KPack: enabled
+KPack: disabled
 TableExplorer: disabled
 DBM-Core: enabled
 DBM-DefaultSkin: enabled

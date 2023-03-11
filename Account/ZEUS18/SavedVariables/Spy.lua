@@ -78,10 +78,10 @@ SpyDB = {
 		["Kati - Icecrown"] = "Kati - Icecrown",
 		["Kati - Frostmourne"] = "Kati - Frostmourne",
 		["Yenny - Icecrown"] = "Yenny - Icecrown",
-		["Zantir - Icecrown"] = "Zantir - Icecrown",
-		["Kati - Blackrock [PvP only]"] = "Kati - Blackrock [PvP only]",
 		["Dyxo - Icecrown"] = "Dyxo - Icecrown",
+		["Kati - Blackrock [PvP only]"] = "Kati - Blackrock [PvP only]",
 		["Tar - Icecrown"] = "Tar - Icecrown",
+		["Zantir - Icecrown"] = "Zantir - Icecrown",
 		["Doxy - Frostmourne"] = "Doxy - Frostmourne",
 		["Kati - Lordaeron"] = "Kati - Lordaeron",
 	},
@@ -139,6 +139,13 @@ SpyDB = {
 			},
 		},
 		["Katy - Icecrown"] = {
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
 			["MainWindow"] = {
 				["Position"] = {
 					["y"] = 863.9999958597292,
@@ -147,14 +154,6 @@ SpyDB = {
 					["h"] = 44.99999909431575,
 				},
 			},
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-				},
-			},
-			["MainWindowVis"] = false,
 		},
 		["Kati - Icecrown"] = {
 			["MainWindowVis"] = false,
@@ -208,7 +207,7 @@ SpyDB = {
 				},
 			},
 		},
-		["Zantir - Icecrown"] = {
+		["Dyxo - Icecrown"] = {
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -227,23 +226,6 @@ SpyDB = {
 		},
 		["Kati - Blackrock [PvP only]"] = {
 		},
-		["Dyxo - Icecrown"] = {
-			["Colors"] = {
-				["Bar"] = {
-					["Bar Text"] = {
-						["a"] = 1,
-					},
-				},
-			},
-			["MainWindow"] = {
-				["Position"] = {
-					["y"] = 760.0000362273697,
-					["x"] = 10.00000025876693,
-					["w"] = 129.9999992236992,
-					["h"] = 44.99999909431575,
-				},
-			},
-		},
 		["Tar - Icecrown"] = {
 			["Colors"] = {
 				["Bar"] = {
@@ -261,7 +243,7 @@ SpyDB = {
 				},
 			},
 		},
-		["Doxy - Frostmourne"] = {
+		["Zantir - Icecrown"] = {
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -271,12 +253,30 @@ SpyDB = {
 			},
 			["MainWindow"] = {
 				["Position"] = {
-					["y"] = 759.4999577562993,
+					["y"] = 760.0000362273697,
 					["x"] = 10.00000025876693,
 					["w"] = 129.9999992236992,
 					["h"] = 44.99999909431575,
 				},
 			},
+		},
+		["Doxy - Frostmourne"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["y"] = 759.5000240006324,
+					["x"] = 10.00000025876693,
+					["w"] = 129.9999992236992,
+					["h"] = 44.99999909431575,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["MainWindowVis"] = false,
 		},
 		["Kati - Lordaeron"] = {
 		},

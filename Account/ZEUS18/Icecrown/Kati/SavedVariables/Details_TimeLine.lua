@@ -3,34 +3,120 @@ DetailsTimeLineDB = {
 	["max_segments"] = 4,
 	["combat_data"] = {
 		{
-			["date_end"] = "00:38:49",
-			["date_start"] = "00:38:23",
-			["name"] = "El Rey Exánime",
-			["total_time"] = 26.16900000000169,
+			["date_start"] = "20:01:31",
+			["date_end"] = "20:03:41",
+			["name"] = "Toravon el Vigía de Hielo",
+			["total_time"] = 130.3529999999955,
 		}, -- [1]
 		{
-			["date_end"] = "00:35:51",
-			["date_start"] = "00:35:50",
-			["name"] = "El Rey Exánime",
-			["total_time"] = 0.9939999999987776,
+			["date_start"] = "19:37:42",
+			["date_end"] = "19:39:07",
+			["name"] = "Toravon el Vigía de Hielo",
+			["total_time"] = 85.22099999999773,
 		}, -- [2]
 		{
-			["date_end"] = "00:35:49",
-			["date_start"] = "00:35:48",
+			["date_start"] = "00:38:23",
+			["date_end"] = "00:38:49",
 			["name"] = "El Rey Exánime",
-			["total_time"] = 0.9909999999945285,
+			["total_time"] = 26.16900000000169,
 		}, -- [3]
 		{
-			["date_end"] = "00:35:48",
-			["date_start"] = "00:35:47",
+			["date_start"] = "00:35:50",
+			["date_end"] = "00:35:51",
 			["name"] = "El Rey Exánime",
-			["total_time"] = 0.9979999999995926,
+			["total_time"] = 0.9939999999987776,
 		}, -- [4]
 	},
 	["hide_on_combat"] = false,
 	["IndividualSpells"] = {
 		{
+			[72104] = {
+				{
+					15.58999999999651, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72104, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dirtykokot", -- [5]
+				}, -- [1]
+				{
+					35.60199999999895, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72104, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Velkepivo", -- [5]
+				}, -- [2]
+				{
+					55.61799999999494, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72104, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Zoltano", -- [5]
+				}, -- [3]
+				{
+					75.62799999999697, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72104, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Orvalparkund", -- [5]
+				}, -- [4]
+				{
+					95.64699999999721, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72104, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Velkepivo", -- [5]
+				}, -- [5]
+				{
+					115.6369999999952, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72104, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mowabonsai", -- [5]
+				}, -- [6]
+			},
+			[47982] = {
+				{
+					130.3529999999955, -- [1]
+					"Belnam", -- [2]
+					47982, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
 		}, -- [1]
+		{
+			[72090] = {
+				{
+					15.2609999999986, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72090, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Shokingballz", -- [5]
+				}, -- [1]
+				{
+					35.24199999999837, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72090, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kati", -- [5]
+				}, -- [2]
+				{
+					55.26699999999983, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72090, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Rageout", -- [5]
+				}, -- [3]
+				{
+					75.26499999999942, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72090, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kati", -- [5]
+				}, -- [4]
+			},
+		}, -- [2]
+		{
+		}, -- [3]
 		{
 			[71769] = {
 				{
@@ -40,10 +126,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [2]
-		{
-		}, -- [3]
-		{
 		}, -- [4]
 		{
 		}, -- [5]
@@ -61,6 +143,10 @@ DetailsTimeLineDB = {
 		}, -- [11]
 		{
 		}, -- [12]
+		{
+		}, -- [13]
+		{
+		}, -- [14]
 		{
 			[68980] = {
 				{
@@ -236,7 +322,7 @@ DetailsTimeLineDB = {
 					"Nyckole", -- [5]
 				}, -- [7]
 			},
-		}, -- [13]
+		}, -- [15]
 		{
 			[69037] = {
 				{
@@ -315,7 +401,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [14]
+		}, -- [16]
 		{
 			[69911] = {
 				{
@@ -481,7 +567,7 @@ DetailsTimeLineDB = {
 					"Capirodk", -- [5]
 				}, -- [9]
 			},
-		}, -- [15]
+		}, -- [17]
 		{
 			[71801] = {
 				{
@@ -620,7 +706,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
-		}, -- [16]
+		}, -- [18]
 		{
 			[71726] = {
 				{
@@ -843,100 +929,6 @@ DetailsTimeLineDB = {
 					"Capirodk", -- [5]
 				}, -- [3]
 			},
-			[73070] = {
-				{
-					126.5190000000002, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					73070, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[69929] = {
-				{
-					16.9230000000025, -- [1]
-					"Libramorte Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					45.93499999999767, -- [1]
-					"Libramorte Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					74.93699999999808, -- [1]
-					"Libramorte Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					103.9440000000031, -- [1]
-					"Libramorte Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					132.9700000000012, -- [1]
-					"Libramorte Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-				{
-					161.9820000000036, -- [1]
-					"Libramorte Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [6]
-				{
-					190.9990000000034, -- [1]
-					"Libramorte Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					210.3179999999993, -- [1]
-					"Libramorte Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [8]
-				{
-					210.3179999999993, -- [1]
-					"Vinculaescarcha Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [9]
-				{
-					210.3179999999993, -- [1]
-					"Vinculaescarcha Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [10]
-				{
-					210.3179999999993, -- [1]
-					"Libramorte Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [11]
-				{
-					210.3179999999993, -- [1]
-					"Vinculaescarcha Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [12]
-				{
-					210.3179999999993, -- [1]
-					"Vinculaescarcha Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [13]
-				{
-					210.3179999999993, -- [1]
-					"Libramorte Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [14]
-			},
 			[71818] = {
 				{
 					22.53600000000006, -- [1]
@@ -1135,7 +1127,101 @@ DetailsTimeLineDB = {
 					"Marraqueta", -- [5]
 				}, -- [28]
 			},
-		}, -- [17]
+			[69929] = {
+				{
+					16.9230000000025, -- [1]
+					"Libramorte Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					45.93499999999767, -- [1]
+					"Libramorte Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					74.93699999999808, -- [1]
+					"Libramorte Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					103.9440000000031, -- [1]
+					"Libramorte Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					132.9700000000012, -- [1]
+					"Libramorte Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					161.9820000000036, -- [1]
+					"Libramorte Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					190.9990000000034, -- [1]
+					"Libramorte Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					210.3179999999993, -- [1]
+					"Libramorte Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					210.3179999999993, -- [1]
+					"Vinculaescarcha Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					210.3179999999993, -- [1]
+					"Vinculaescarcha Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					210.3179999999993, -- [1]
+					"Libramorte Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					210.3179999999993, -- [1]
+					"Vinculaescarcha Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					210.3179999999993, -- [1]
+					"Vinculaescarcha Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					210.3179999999993, -- [1]
+					"Libramorte Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
+			},
+			[73070] = {
+				{
+					126.5190000000002, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					73070, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [19]
 		{
 			[71772] = {
 				{
@@ -1258,85 +1344,42 @@ DetailsTimeLineDB = {
 					"Capirodk", -- [5]
 				}, -- [2]
 			},
-			[73070] = {
+			[71264] = {
 				{
-					126.6730000000025, -- [1]
+					30.33800000000338, -- [1]
 					"Reina de Sangre Lana'thel", -- [2]
-					73070, -- [3]
+					71264, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[71340] = {
-				{
-					14.86100000000442, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71340, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Yuliz", -- [5]
+					"Dustygg", -- [5]
 				}, -- [1]
 				{
-					14.86100000000442, -- [1]
+					60.84000000000378, -- [1]
 					"Reina de Sangre Lana'thel", -- [2]
-					71340, -- [3]
+					71264, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Kati", -- [5]
+					"Hortlek", -- [5]
 				}, -- [2]
 				{
-					45.37900000000082, -- [1]
+					91.3640000000014, -- [1]
 					"Reina de Sangre Lana'thel", -- [2]
-					71340, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Hortlek", -- [5]
-				}, -- [3]
-				{
-					45.37900000000082, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71340, -- [3]
+					71264, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Muertoxdos", -- [5]
+				}, -- [3]
+				{
+					121.8919999999998, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71264, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kati", -- [5]
 				}, -- [4]
 				{
-					75.91100000000006, -- [1]
+					157.1549999999988, -- [1]
 					"Reina de Sangre Lana'thel", -- [2]
-					71340, -- [3]
+					71264, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Hortlek", -- [5]
+					"Dustygg", -- [5]
 				}, -- [5]
-				{
-					75.91100000000006, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71340, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Dustygg", -- [5]
-				}, -- [6]
-				{
-					106.3990000000049, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71340, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Hortlek", -- [5]
-				}, -- [7]
-				{
-					106.4000000000015, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71340, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Marraqueta", -- [5]
-				}, -- [8]
-				{
-					152.1620000000039, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71340, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Hortlek", -- [5]
-				}, -- [9]
-				{
-					152.1630000000005, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71340, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Dustygg", -- [5]
-				}, -- [10]
 			},
 			[71820] = {
 				{
@@ -1480,44 +1523,87 @@ DetailsTimeLineDB = {
 					"Kati", -- [5]
 				}, -- [20]
 			},
-			[71264] = {
+			[71340] = {
 				{
-					30.33800000000338, -- [1]
+					14.86100000000442, -- [1]
 					"Reina de Sangre Lana'thel", -- [2]
-					71264, -- [3]
+					71340, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Dustygg", -- [5]
+					"Yuliz", -- [5]
 				}, -- [1]
 				{
-					60.84000000000378, -- [1]
+					14.86100000000442, -- [1]
 					"Reina de Sangre Lana'thel", -- [2]
-					71264, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Hortlek", -- [5]
-				}, -- [2]
-				{
-					91.3640000000014, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71264, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Muertoxdos", -- [5]
-				}, -- [3]
-				{
-					121.8919999999998, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71264, -- [3]
+					71340, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Kati", -- [5]
+				}, -- [2]
+				{
+					45.37900000000082, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71340, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hortlek", -- [5]
+				}, -- [3]
+				{
+					45.37900000000082, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71340, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Muertoxdos", -- [5]
 				}, -- [4]
 				{
-					157.1549999999988, -- [1]
+					75.91100000000006, -- [1]
 					"Reina de Sangre Lana'thel", -- [2]
-					71264, -- [3]
+					71340, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hortlek", -- [5]
+				}, -- [5]
+				{
+					75.91100000000006, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71340, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Dustygg", -- [5]
-				}, -- [5]
+				}, -- [6]
+				{
+					106.3990000000049, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71340, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hortlek", -- [5]
+				}, -- [7]
+				{
+					106.4000000000015, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71340, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Marraqueta", -- [5]
+				}, -- [8]
+				{
+					152.1620000000039, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71340, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hortlek", -- [5]
+				}, -- [9]
+				{
+					152.1630000000005, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71340, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dustygg", -- [5]
+				}, -- [10]
 			},
-		}, -- [18]
+			[73070] = {
+				{
+					126.6730000000025, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					73070, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [20]
 		{
 			[71728] = {
 				{
@@ -1917,7 +2003,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [29]
 			},
-		}, -- [19]
+		}, -- [21]
 		{
 			[71943] = {
 				{
@@ -2109,7 +2195,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [11]
 			},
-		}, -- [20]
+		}, -- [22]
 		{
 			[71255] = {
 				{
@@ -2269,7 +2355,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [21]
+		}, -- [23]
 		{
 			[28405] = {
 				{
@@ -2341,6 +2427,29 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [5]
 			},
+			[72855] = {
+				{
+					19.7129999999961, -- [1]
+					"Profesor Putricidio", -- [2]
+					72855, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Capirodk", -- [5]
+				}, -- [1]
+			},
+			[70341] = {
+				{
+					9.74199999999837, -- [1]
+					"Profesor Putricidio", -- [2]
+					70341, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					9.742999999994936, -- [1]
+					"Profesor Putricidio", -- [2]
+					70341, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+			},
 			[69929] = {
 				{
 					78.8839999999982, -- [1]
@@ -2367,30 +2476,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-			[70341] = {
-				{
-					9.74199999999837, -- [1]
-					"Profesor Putricidio", -- [2]
-					70341, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					9.742999999994936, -- [1]
-					"Profesor Putricidio", -- [2]
-					70341, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-			},
-			[72855] = {
-				{
-					19.7129999999961, -- [1]
-					"Profesor Putricidio", -- [2]
-					72855, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Capirodk", -- [5]
-				}, -- [1]
-			},
-		}, -- [22]
+		}, -- [24]
 		{
 			[69278] = {
 				{
@@ -2441,7 +2527,7 @@ DetailsTimeLineDB = {
 					"Marraqueta", -- [5]
 				}, -- [3]
 			},
-		}, -- [23]
+		}, -- [25]
 		{
 			[73022] = {
 				{
@@ -2579,7 +2665,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [14]
 			},
-		}, -- [24]
+		}, -- [26]
 		{
 			[72176] = {
 				{
@@ -2906,7 +2992,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [25]
+		}, -- [27]
 		{
 			[15284] = {
 				{
@@ -3278,7 +3364,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [26]
+		}, -- [28]
 		{
 			[59350] = {
 				{
@@ -3931,13 +4017,91 @@ DetailsTimeLineDB = {
 					"Dsigual", -- [5]
 				}, -- [8]
 			},
-			[70768] = {
+			[69965] = {
 				{
-					108.25, -- [1]
-					"Partidario del Culto", -- [2]
-					70768, -- [3]
+					142.7139999999999, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
+				{
+					142.7160000000004, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					151.1139999999941, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					151.5729999999967, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					152.2849999999962, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					152.2849999999962, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					152.2849999999962, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					152.2849999999962, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					152.2849999999962, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					152.2849999999962, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
+				{
+					152.2849999999962, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [11]
+				{
+					152.2849999999962, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [12]
+				{
+					152.2849999999962, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [13]
+				{
+					152.2849999999962, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [14]
 			},
 			[72109] = {
 				{
@@ -4148,34 +4312,30 @@ DetailsTimeLineDB = {
 					"Oráculo Kor'kron", -- [5]
 				}, -- [17]
 			},
-			[69903] = {
+			[69934] = {
 				{
-					152.2849999999962, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69903, -- [3]
+					142.7139999999999, -- [1]
+					"Vindicador de El Rompecielos", -- [2]
+					69934, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Vermis de escarcha de la Aguja", -- [5]
 				}, -- [1]
 				{
 					152.2849999999962, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69903, -- [3]
+					"Vindicador de El Rompecielos", -- [2]
+					69934, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Vencedor Kor'kron", -- [5]
 				}, -- [2]
 				{
 					152.2849999999962, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69903, -- [3]
+					"Vindicador de El Rompecielos", -- [2]
+					69934, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Vermis de escarcha de la Aguja", -- [5]
 				}, -- [3]
 				{
 					152.2849999999962, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69903, -- [3]
+					"Vindicador de El Rompecielos", -- [2]
+					69934, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Vencedor Kor'kron", -- [5]
 				}, -- [4]
 			},
 			[69916] = {
@@ -4596,119 +4756,45 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [6]
 			},
-			[69934] = {
+			[69903] = {
 				{
-					142.7139999999999, -- [1]
-					"Vindicador de El Rompecielos", -- [2]
-					69934, -- [3]
+					152.2849999999962, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69903, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Vermis de escarcha de la Aguja", -- [5]
 				}, -- [1]
 				{
 					152.2849999999962, -- [1]
-					"Vindicador de El Rompecielos", -- [2]
-					69934, -- [3]
+					"Protector de El Rompecielos", -- [2]
+					69903, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Vencedor Kor'kron", -- [5]
 				}, -- [2]
 				{
 					152.2849999999962, -- [1]
-					"Vindicador de El Rompecielos", -- [2]
-					69934, -- [3]
+					"Protector de El Rompecielos", -- [2]
+					69903, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Vermis de escarcha de la Aguja", -- [5]
 				}, -- [3]
 				{
 					152.2849999999962, -- [1]
-					"Vindicador de El Rompecielos", -- [2]
-					69934, -- [3]
+					"Protector de El Rompecielos", -- [2]
+					69903, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Vencedor Kor'kron", -- [5]
 				}, -- [4]
 			},
-			[69965] = {
+			[70768] = {
 				{
-					142.7139999999999, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
+					108.25, -- [1]
+					"Partidario del Culto", -- [2]
+					70768, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
-				{
-					142.7160000000004, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					151.1139999999941, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					151.5729999999967, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					152.2849999999962, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-				{
-					152.2849999999962, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [6]
-				{
-					152.2849999999962, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					152.2849999999962, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [8]
-				{
-					152.2849999999962, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [9]
-				{
-					152.2849999999962, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [10]
-				{
-					152.2849999999962, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [11]
-				{
-					152.2849999999962, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [12]
-				{
-					152.2849999999962, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [13]
-				{
-					152.2849999999962, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [14]
 			},
-		}, -- [27]
+		}, -- [29]
 		{
 			[69055] = {
 				{
@@ -5238,7 +5324,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [22]
 			},
-		}, -- [28]
+		}, -- [30]
 		{
 			[74524] = {
 				{
@@ -5625,7 +5711,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [21]
 			},
-		}, -- [29]
+		}, -- [31]
 		{
 			[74524] = {
 				{
@@ -6083,7 +6169,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [26]
 			},
-		}, -- [30]
+		}, -- [32]
 		{
 			[74524] = {
 				{
@@ -6291,51 +6377,6 @@ DetailsTimeLineDB = {
 					"Flechajumps", -- [5]
 				}, -- [4]
 			},
-			[75476] = {
-				{
-					74.24099999999999, -- [1]
-					"Halion", -- [2]
-					75476, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-			},
-			[74562] = {
-				{
-					17.05799999999908, -- [1]
-					"Halion", -- [2]
-					74562, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Blackpuzzy", -- [5]
-				}, -- [1]
-				{
-					42.06899999999951, -- [1]
-					"Halion", -- [2]
-					74562, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Flechajumps", -- [5]
-				}, -- [2]
-				{
-					67.07699999999932, -- [1]
-					"Halion", -- [2]
-					74562, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Blackpuzzy", -- [5]
-				}, -- [3]
-				{
-					177.5659999999989, -- [1]
-					"Halion", -- [2]
-					74562, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Blackpuzzy", -- [5]
-				}, -- [4]
-				{
-					202.5689999999995, -- [1]
-					"Halion", -- [2]
-					74562, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Flechajumps", -- [5]
-				}, -- [5]
-			},
 			[74531] = {
 				{
 					9.218999999999141, -- [1]
@@ -6464,7 +6505,52 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [21]
 			},
-		}, -- [31]
+			[74562] = {
+				{
+					17.05799999999908, -- [1]
+					"Halion", -- [2]
+					74562, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Blackpuzzy", -- [5]
+				}, -- [1]
+				{
+					42.06899999999951, -- [1]
+					"Halion", -- [2]
+					74562, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Flechajumps", -- [5]
+				}, -- [2]
+				{
+					67.07699999999932, -- [1]
+					"Halion", -- [2]
+					74562, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Blackpuzzy", -- [5]
+				}, -- [3]
+				{
+					177.5659999999989, -- [1]
+					"Halion", -- [2]
+					74562, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Blackpuzzy", -- [5]
+				}, -- [4]
+				{
+					202.5689999999995, -- [1]
+					"Halion", -- [2]
+					74562, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Flechajumps", -- [5]
+				}, -- [5]
+			},
+			[75476] = {
+				{
+					74.24099999999999, -- [1]
+					"Halion", -- [2]
+					75476, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+		}, -- [33]
 		{
 			[74524] = {
 				{
@@ -6746,7 +6832,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [15]
 			},
-		}, -- [32]
+		}, -- [34]
 		{
 			[74531] = {
 				{
@@ -6900,7 +6986,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [33]
+		}, -- [35]
 		{
 			[69674] = {
 				{
@@ -7068,7 +7154,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [16]
 			},
-		}, -- [34]
+		}, -- [36]
 		{
 			[69278] = {
 				{
@@ -7119,7 +7205,7 @@ DetailsTimeLineDB = {
 					"Ninospumoni", -- [5]
 				}, -- [3]
 			},
-		}, -- [35]
+		}, -- [37]
 		{
 			[72172] = {
 				{
@@ -7254,88 +7340,6 @@ DetailsTimeLineDB = {
 					"Horror ulceroso", -- [5]
 				}, -- [3]
 			},
-			[69929] = {
-				{
-					172.1119999999937, -- [1]
-					"Libramorte Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					172.1119999999937, -- [1]
-					"Vinculaescarcha Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					172.1119999999937, -- [1]
-					"Vinculaescarcha Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					172.1119999999937, -- [1]
-					"Libramorte Ymirjar", -- [2]
-					69929, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-			},
-			[72385] = {
-				{
-					15.53399999999965, -- [1]
-					"Libramorte Colmillosauro", -- [2]
-					72385, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					31.82899999999791, -- [1]
-					"Libramorte Colmillosauro", -- [2]
-					72385, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					47.17399999999907, -- [1]
-					"Libramorte Colmillosauro", -- [2]
-					72385, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					62.76200000000245, -- [1]
-					"Libramorte Colmillosauro", -- [2]
-					72385, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					80.88399999999092, -- [1]
-					"Libramorte Colmillosauro", -- [2]
-					72385, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-				{
-					96.49099999999453, -- [1]
-					"Libramorte Colmillosauro", -- [2]
-					72385, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [6]
-				{
-					115.1180000000022, -- [1]
-					"Libramorte Colmillosauro", -- [2]
-					72385, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					131.6820000000007, -- [1]
-					"Libramorte Colmillosauro", -- [2]
-					72385, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [8]
-				{
-					149.0369999999966, -- [1]
-					"Libramorte Colmillosauro", -- [2]
-					72385, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [9]
-			},
 			[72410] = {
 				{
 					20.00299999999697, -- [1]
@@ -7394,7 +7398,89 @@ DetailsTimeLineDB = {
 					"Abusing", -- [5]
 				}, -- [8]
 			},
-		}, -- [36]
+			[72385] = {
+				{
+					15.53399999999965, -- [1]
+					"Libramorte Colmillosauro", -- [2]
+					72385, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					31.82899999999791, -- [1]
+					"Libramorte Colmillosauro", -- [2]
+					72385, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					47.17399999999907, -- [1]
+					"Libramorte Colmillosauro", -- [2]
+					72385, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					62.76200000000245, -- [1]
+					"Libramorte Colmillosauro", -- [2]
+					72385, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					80.88399999999092, -- [1]
+					"Libramorte Colmillosauro", -- [2]
+					72385, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					96.49099999999453, -- [1]
+					"Libramorte Colmillosauro", -- [2]
+					72385, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					115.1180000000022, -- [1]
+					"Libramorte Colmillosauro", -- [2]
+					72385, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					131.6820000000007, -- [1]
+					"Libramorte Colmillosauro", -- [2]
+					72385, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					149.0369999999966, -- [1]
+					"Libramorte Colmillosauro", -- [2]
+					72385, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+			},
+			[69929] = {
+				{
+					172.1119999999937, -- [1]
+					"Libramorte Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					172.1119999999937, -- [1]
+					"Vinculaescarcha Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					172.1119999999937, -- [1]
+					"Vinculaescarcha Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					172.1119999999937, -- [1]
+					"Libramorte Ymirjar", -- [2]
+					69929, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+			},
+		}, -- [38]
 		{
 			[15284] = {
 				{
@@ -7737,7 +7823,7 @@ DetailsTimeLineDB = {
 					"Tsutsgii", -- [5]
 				}, -- [7]
 			},
-		}, -- [37]
+		}, -- [39]
 		{
 			[69911] = {
 				{
@@ -8094,37 +8180,188 @@ DetailsTimeLineDB = {
 					"Tsutsgii", -- [5]
 				}, -- [5]
 			},
-			[69927] = {
+			[69898] = {
 				{
-					152.2970000000059, -- [1]
-					"Vindicador de El Rompecielos", -- [2]
-					69927, -- [3]
+					147.2139999999927, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Acechador Kor'kron", -- [5]
+					"Protector de El Rompecielos", -- [5]
 				}, -- [1]
 				{
-					152.2970000000059, -- [1]
-					"Vindicador de El Rompecielos", -- [2]
-					69927, -- [3]
+					152.0969999999943, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Acechador Kor'kron", -- [5]
+					"Protector de El Rompecielos", -- [5]
 				}, -- [2]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hoja terrorífica de El Rompecielos", -- [5]
+				}, -- [3]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Asesino de El Rompecielos", -- [5]
+				}, -- [4]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vicario de El Rompecielos", -- [5]
+				}, -- [5]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Protector de El Rompecielos", -- [5]
+				}, -- [6]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vicario de El Rompecielos", -- [5]
+				}, -- [7]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Invocador de El Rompecieloss", -- [5]
+				}, -- [8]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hoja terrorífica de El Rompecielos", -- [5]
+				}, -- [9]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Protector de El Rompecielos", -- [5]
+				}, -- [10]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Lumbrera de El Rompecielos", -- [5]
+				}, -- [11]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Vicario de El Rompecielos", -- [5]
+				}, -- [12]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Protector de El Rompecielos", -- [5]
+				}, -- [13]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hoja terrorífica de El Rompecielos", -- [5]
+				}, -- [14]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Protector de El Rompecielos", -- [5]
+				}, -- [15]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hoja terrorífica de El Rompecielos", -- [5]
+				}, -- [16]
+				{
+					152.2970000000059, -- [1]
+					"Hierofante de El Rompecielos", -- [2]
+					69898, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Hoja terrorífica de El Rompecielos", -- [5]
+				}, -- [17]
 			},
-			[69903] = {
+			[69965] = {
 				{
-					152.2970000000059, -- [1]
+					150.2039999999979, -- [1]
 					"Protector de El Rompecielos", -- [2]
-					69903, -- [3]
+					69965, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Vermis de escarcha de la Aguja", -- [5]
 				}, -- [1]
 				{
+					150.2050000000018, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
 					152.2970000000059, -- [1]
 					"Protector de El Rompecielos", -- [2]
-					69903, -- [3]
+					69965, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Vencedor Kor'kron", -- [5]
-				}, -- [2]
+				}, -- [3]
+				{
+					152.2970000000059, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					152.2970000000059, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					152.2970000000059, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					152.2970000000059, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					152.2970000000059, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					152.2970000000059, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+				{
+					152.2970000000059, -- [1]
+					"Protector de El Rompecielos", -- [2]
+					69965, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [10]
 			},
 			[69910] = {
 				{
@@ -8249,6 +8486,50 @@ DetailsTimeLineDB = {
 					"Vencedor Kor'kron", -- [5]
 				}, -- [14]
 			},
+			[71001] = {
+				{
+					9.942999999999302, -- [1]
+					"Lady Susurramuerte", -- [2]
+					71001, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Reflejo exacto", -- [5]
+				}, -- [1]
+				{
+					34.55299999999988, -- [1]
+					"Lady Susurramuerte", -- [2]
+					71001, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ejército de muertos", -- [5]
+				}, -- [2]
+				{
+					63.70399999999791, -- [1]
+					"Lady Susurramuerte", -- [2]
+					71001, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Nightelfz", -- [5]
+				}, -- [3]
+				{
+					90.59399999999732, -- [1]
+					"Lady Susurramuerte", -- [2]
+					71001, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ninospumoni", -- [5]
+				}, -- [4]
+				{
+					116.6640000000043, -- [1]
+					"Lady Susurramuerte", -- [2]
+					71001, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Teddyydk", -- [5]
+				}, -- [5]
+				{
+					143.3220000000001, -- [1]
+					"Lady Susurramuerte", -- [2]
+					71001, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Ninospumoni", -- [5]
+				}, -- [6]
+			},
 			[69916] = {
 				{
 					146.5099999999948, -- [1]
@@ -8363,50 +8644,6 @@ DetailsTimeLineDB = {
 					"Oráculo Kor'kron", -- [5]
 				}, -- [16]
 			},
-			[71001] = {
-				{
-					9.942999999999302, -- [1]
-					"Lady Susurramuerte", -- [2]
-					71001, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Reflejo exacto", -- [5]
-				}, -- [1]
-				{
-					34.55299999999988, -- [1]
-					"Lady Susurramuerte", -- [2]
-					71001, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Ejército de muertos", -- [5]
-				}, -- [2]
-				{
-					63.70399999999791, -- [1]
-					"Lady Susurramuerte", -- [2]
-					71001, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Nightelfz", -- [5]
-				}, -- [3]
-				{
-					90.59399999999732, -- [1]
-					"Lady Susurramuerte", -- [2]
-					71001, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Ninospumoni", -- [5]
-				}, -- [4]
-				{
-					116.6640000000043, -- [1]
-					"Lady Susurramuerte", -- [2]
-					71001, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Teddyydk", -- [5]
-				}, -- [5]
-				{
-					143.3220000000001, -- [1]
-					"Lady Susurramuerte", -- [2]
-					71001, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Ninospumoni", -- [5]
-				}, -- [6]
-			},
 			[69902] = {
 				{
 					152.2970000000059, -- [1]
@@ -8515,6 +8752,14 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [3]
 			},
+			[70670] = {
+				{
+					21.55800000000454, -- [1]
+					"Fanático del Culto", -- [2]
+					70670, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
 			[69926] = {
 				{
 					147.676999999996, -- [1]
@@ -8537,14 +8782,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 					"Vindicador de El Rompecielos", -- [5]
 				}, -- [3]
-			},
-			[70670] = {
-				{
-					21.55800000000454, -- [1]
-					"Fanático del Culto", -- [2]
-					70670, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
 			},
 			[70362] = {
 				{
@@ -8606,190 +8843,39 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-			[69965] = {
+			[69903] = {
 				{
-					150.2039999999979, -- [1]
+					152.2970000000059, -- [1]
 					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
+					69903, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Vermis de escarcha de la Aguja", -- [5]
 				}, -- [1]
 				{
-					150.2050000000018, -- [1]
+					152.2970000000059, -- [1]
 					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
+					69903, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Vencedor Kor'kron", -- [5]
 				}, -- [2]
-				{
-					152.2970000000059, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					152.2970000000059, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					152.2970000000059, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-				{
-					152.2970000000059, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [6]
-				{
-					152.2970000000059, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					152.2970000000059, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [8]
-				{
-					152.2970000000059, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [9]
-				{
-					152.2970000000059, -- [1]
-					"Protector de El Rompecielos", -- [2]
-					69965, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [10]
 			},
-			[69898] = {
+			[69927] = {
 				{
-					147.2139999999927, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
+					152.2970000000059, -- [1]
+					"Vindicador de El Rompecielos", -- [2]
+					69927, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Protector de El Rompecielos", -- [5]
+					"Acechador Kor'kron", -- [5]
 				}, -- [1]
 				{
-					152.0969999999943, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
+					152.2970000000059, -- [1]
+					"Vindicador de El Rompecielos", -- [2]
+					69927, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Protector de El Rompecielos", -- [5]
+					"Acechador Kor'kron", -- [5]
 				}, -- [2]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Hoja terrorífica de El Rompecielos", -- [5]
-				}, -- [3]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Asesino de El Rompecielos", -- [5]
-				}, -- [4]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Vicario de El Rompecielos", -- [5]
-				}, -- [5]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Protector de El Rompecielos", -- [5]
-				}, -- [6]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Vicario de El Rompecielos", -- [5]
-				}, -- [7]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Invocador de El Rompecieloss", -- [5]
-				}, -- [8]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Hoja terrorífica de El Rompecielos", -- [5]
-				}, -- [9]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Protector de El Rompecielos", -- [5]
-				}, -- [10]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Lumbrera de El Rompecielos", -- [5]
-				}, -- [11]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Vicario de El Rompecielos", -- [5]
-				}, -- [12]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Protector de El Rompecielos", -- [5]
-				}, -- [13]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Hoja terrorífica de El Rompecielos", -- [5]
-				}, -- [14]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Protector de El Rompecielos", -- [5]
-				}, -- [15]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Hoja terrorífica de El Rompecielos", -- [5]
-				}, -- [16]
-				{
-					152.2970000000059, -- [1]
-					"Hierofante de El Rompecielos", -- [2]
-					69898, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Hoja terrorífica de El Rompecielos", -- [5]
-				}, -- [17]
 			},
-		}, -- [38]
+		}, -- [40]
 		{
 			[69055] = {
 				{
@@ -9327,7 +9413,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [21]
 			},
-		}, -- [39]
+		}, -- [41]
 		{
 			[70814] = {
 				{
@@ -9681,7 +9767,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [16]
 			},
-		}, -- [40]
+		}, -- [42]
 		{
 			[70814] = {
 				{
@@ -9741,7 +9827,7 @@ DetailsTimeLineDB = {
 					"Serinda", -- [5]
 				}, -- [8]
 			},
-		}, -- [41]
+		}, -- [43]
 		{
 			[70814] = {
 				{
@@ -10011,7 +10097,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [16]
 			},
-		}, -- [42]
+		}, -- [44]
 		{
 			[72104] = {
 				{
@@ -10050,7 +10136,7 @@ DetailsTimeLineDB = {
 					"Nostromo", -- [5]
 				}, -- [5]
 			},
-		}, -- [43]
+		}, -- [45]
 		{
 			[67333] = {
 				{
@@ -10096,7 +10182,7 @@ DetailsTimeLineDB = {
 					"Nostromo", -- [5]
 				}, -- [6]
 			},
-		}, -- [44]
+		}, -- [46]
 		{
 			[74524] = {
 				{
@@ -10554,7 +10640,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [26]
 			},
-		}, -- [45]
+		}, -- [47]
 		{
 			[74524] = {
 				{
@@ -10901,7 +10987,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [19]
 			},
-		}, -- [46]
+		}, -- [48]
 		{
 			[69762] = {
 				{
@@ -10987,7 +11073,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [2]
 			},
-		}, -- [47]
+		}, -- [49]
 		{
 			[69762] = {
 				{
@@ -11144,8 +11230,122 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [48]
+		}, -- [50]
 		{
+			[71179] = {
+				{
+					4.15400000000227, -- [1]
+					"Archimago resucitado", -- [2]
+					71179, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Shamanpk", -- [5]
+				}, -- [1]
+				{
+					4.15400000000227, -- [1]
+					"Archimago resucitado", -- [2]
+					71179, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Incompleted", -- [5]
+				}, -- [2]
+				{
+					4.154999999998836, -- [1]
+					"Archimago resucitado", -- [2]
+					71179, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Shamanpk", -- [5]
+				}, -- [3]
+				{
+					54.24400000000242, -- [1]
+					"Archimago resucitado", -- [2]
+					71179, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Incompleted", -- [5]
+				}, -- [4]
+				{
+					83.23099999999977, -- [1]
+					"Archimago resucitado", -- [2]
+					71179, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Incompleted", -- [5]
+				}, -- [5]
+				{
+					236.1620000000003, -- [1]
+					"Archimago resucitado", -- [2]
+					71179, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Eie", -- [5]
+				}, -- [6]
+				{
+					279.1700000000019, -- [1]
+					"Archimago resucitado", -- [2]
+					71179, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kati", -- [5]
+				}, -- [7]
+				{
+					299.1850000000013, -- [1]
+					"Archimago resucitado", -- [2]
+					71179, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kati", -- [5]
+				}, -- [8]
+			},
+			[70633] = {
+				{
+					16.24300000000221, -- [1]
+					"Abominación glotona", -- [2]
+					70633, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+				{
+					132.0849999999991, -- [1]
+					"Abominación glotona", -- [2]
+					70633, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [2]
+				{
+					142.7740000000013, -- [1]
+					"Abominación glotona", -- [2]
+					70633, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [3]
+				{
+					185.3830000000016, -- [1]
+					"Abominación glotona", -- [2]
+					70633, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [4]
+				{
+					196.0119999999988, -- [1]
+					"Abominación glotona", -- [2]
+					70633, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [5]
+				{
+					235.6660000000011, -- [1]
+					"Abominación glotona", -- [2]
+					70633, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [6]
+				{
+					247.8510000000024, -- [1]
+					"Abominación glotona", -- [2]
+					70633, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [7]
+				{
+					279.380000000001, -- [1]
+					"Abominación glotona", -- [2]
+					70633, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [8]
+				{
+					290.6729999999989, -- [1]
+					"Abominación glotona", -- [2]
+					70633, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [9]
+			},
 			[70588] = {
 				{
 					40.33300000000236, -- [1]
@@ -11240,121 +11440,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [6]
 			},
-			[70633] = {
-				{
-					16.24300000000221, -- [1]
-					"Abominación glotona", -- [2]
-					70633, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [1]
-				{
-					132.0849999999991, -- [1]
-					"Abominación glotona", -- [2]
-					70633, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [2]
-				{
-					142.7740000000013, -- [1]
-					"Abominación glotona", -- [2]
-					70633, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [3]
-				{
-					185.3830000000016, -- [1]
-					"Abominación glotona", -- [2]
-					70633, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [4]
-				{
-					196.0119999999988, -- [1]
-					"Abominación glotona", -- [2]
-					70633, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [5]
-				{
-					235.6660000000011, -- [1]
-					"Abominación glotona", -- [2]
-					70633, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [6]
-				{
-					247.8510000000024, -- [1]
-					"Abominación glotona", -- [2]
-					70633, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [7]
-				{
-					279.380000000001, -- [1]
-					"Abominación glotona", -- [2]
-					70633, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [8]
-				{
-					290.6729999999989, -- [1]
-					"Abominación glotona", -- [2]
-					70633, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-				}, -- [9]
-			},
-			[71179] = {
-				{
-					4.15400000000227, -- [1]
-					"Archimago resucitado", -- [2]
-					71179, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Shamanpk", -- [5]
-				}, -- [1]
-				{
-					4.15400000000227, -- [1]
-					"Archimago resucitado", -- [2]
-					71179, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Incompleted", -- [5]
-				}, -- [2]
-				{
-					4.154999999998836, -- [1]
-					"Archimago resucitado", -- [2]
-					71179, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Shamanpk", -- [5]
-				}, -- [3]
-				{
-					54.24400000000242, -- [1]
-					"Archimago resucitado", -- [2]
-					71179, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Incompleted", -- [5]
-				}, -- [4]
-				{
-					83.23099999999977, -- [1]
-					"Archimago resucitado", -- [2]
-					71179, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Incompleted", -- [5]
-				}, -- [5]
-				{
-					236.1620000000003, -- [1]
-					"Archimago resucitado", -- [2]
-					71179, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Eie", -- [5]
-				}, -- [6]
-				{
-					279.1700000000019, -- [1]
-					"Archimago resucitado", -- [2]
-					71179, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kati", -- [5]
-				}, -- [7]
-				{
-					299.1850000000013, -- [1]
-					"Archimago resucitado", -- [2]
-					71179, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kati", -- [5]
-				}, -- [8]
-			},
-		}, -- [49]
+		}, -- [51]
 		{
 			[69911] = {
 				{
@@ -11533,15 +11619,6 @@ DetailsTimeLineDB = {
 					"Esbirro de la Aguja", -- [5]
 				}, -- [1]
 			},
-			[69926] = {
-				{
-					198.8480000000018, -- [1]
-					"Lumbrera de El Rompecielos", -- [2]
-					69926, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Protector de El Rompecielos", -- [5]
-				}, -- [1]
-			},
 			[70633] = {
 				{
 					15.24700000000303, -- [1]
@@ -11592,7 +11669,16 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [8]
 			},
-		}, -- [50]
+			[69926] = {
+				{
+					198.8480000000018, -- [1]
+					"Lumbrera de El Rompecielos", -- [2]
+					69926, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Protector de El Rompecielos", -- [5]
+				}, -- [1]
+			},
+		}, -- [52]
 		{
 			[71726] = {
 				{
@@ -11920,13 +12006,231 @@ DetailsTimeLineDB = {
 					"Sutilesagia", -- [5]
 				}, -- [13]
 			},
-			[73070] = {
+			[71818] = {
 				{
-					127.5580000000009, -- [1]
+					24.06000000000131, -- [1]
 					"Reina de Sangre Lana'thel", -- [2]
-					73070, -- [3]
+					71818, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
+					"Cyrilchoquet", -- [5]
 				}, -- [1]
+				{
+					24.06000000000131, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Screamozlock", -- [5]
+				}, -- [2]
+				{
+					34.5470000000023, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Bestmourne", -- [5]
+				}, -- [3]
+				{
+					34.5470000000023, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Fatmeh", -- [5]
+				}, -- [4]
+				{
+					45.03700000000026, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Bestmourne", -- [5]
+				}, -- [5]
+				{
+					45.03700000000026, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Outtempo", -- [5]
+				}, -- [6]
+				{
+					56.60800000000018, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Incompleted", -- [5]
+				}, -- [7]
+				{
+					56.60800000000018, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kati", -- [5]
+				}, -- [8]
+				{
+					71.24500000000262, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Outtempo", -- [5]
+				}, -- [9]
+				{
+					71.24500000000262, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Shamanpk", -- [5]
+				}, -- [10]
+				{
+					84.50500000000102, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Bestmourne", -- [5]
+				}, -- [11]
+				{
+					84.50500000000102, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kati", -- [5]
+				}, -- [12]
+				{
+					95.89900000000125, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Incompleted", -- [5]
+				}, -- [13]
+				{
+					95.89900000000125, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Bestmourne", -- [5]
+				}, -- [14]
+				{
+					107.3320000000022, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Cyrilchoquet", -- [5]
+				}, -- [15]
+				{
+					107.3320000000022, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kati", -- [5]
+				}, -- [16]
+				{
+					119.4540000000015, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Incompleted", -- [5]
+				}, -- [17]
+				{
+					119.4540000000015, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Shamanpk", -- [5]
+				}, -- [18]
+				{
+					141.3690000000024, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Cyrilchoquet", -- [5]
+				}, -- [19]
+				{
+					141.3690000000024, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Shamanpk", -- [5]
+				}, -- [20]
+				{
+					155.7020000000011, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Screamozlock", -- [5]
+				}, -- [21]
+				{
+					155.7020000000011, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Bestmourne", -- [5]
+				}, -- [22]
+				{
+					169.9220000000023, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Screamozlock", -- [5]
+				}, -- [23]
+				{
+					169.9230000000025, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Outtempo", -- [5]
+				}, -- [24]
+				{
+					182.4270000000033, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Screamozlock", -- [5]
+				}, -- [25]
+				{
+					182.4270000000033, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Bestmourne", -- [5]
+				}, -- [26]
+				{
+					196.7150000000002, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kati", -- [5]
+				}, -- [27]
+				{
+					196.7150000000002, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Fatmeh", -- [5]
+				}, -- [28]
+				{
+					210.4830000000002, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Outtempo", -- [5]
+				}, -- [29]
+				{
+					210.4830000000002, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kati", -- [5]
+				}, -- [30]
+				{
+					224.7340000000004, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Outtempo", -- [5]
+				}, -- [31]
+				{
+					224.7340000000004, -- [1]
+					"Reina de Sangre Lana'thel", -- [2]
+					71818, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Bestmourne", -- [5]
+				}, -- [32]
 			},
 			[69929] = {
 				{
@@ -14288,233 +14592,15 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [393]
 			},
-			[71818] = {
+			[73070] = {
 				{
-					24.06000000000131, -- [1]
+					127.5580000000009, -- [1]
 					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
+					73070, -- [3]
 					"SPELL_CAST_SUCCESS", -- [4]
-					"Cyrilchoquet", -- [5]
 				}, -- [1]
-				{
-					24.06000000000131, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Screamozlock", -- [5]
-				}, -- [2]
-				{
-					34.5470000000023, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Bestmourne", -- [5]
-				}, -- [3]
-				{
-					34.5470000000023, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Fatmeh", -- [5]
-				}, -- [4]
-				{
-					45.03700000000026, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Bestmourne", -- [5]
-				}, -- [5]
-				{
-					45.03700000000026, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Outtempo", -- [5]
-				}, -- [6]
-				{
-					56.60800000000018, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Incompleted", -- [5]
-				}, -- [7]
-				{
-					56.60800000000018, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kati", -- [5]
-				}, -- [8]
-				{
-					71.24500000000262, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Outtempo", -- [5]
-				}, -- [9]
-				{
-					71.24500000000262, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Shamanpk", -- [5]
-				}, -- [10]
-				{
-					84.50500000000102, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Bestmourne", -- [5]
-				}, -- [11]
-				{
-					84.50500000000102, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kati", -- [5]
-				}, -- [12]
-				{
-					95.89900000000125, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Incompleted", -- [5]
-				}, -- [13]
-				{
-					95.89900000000125, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Bestmourne", -- [5]
-				}, -- [14]
-				{
-					107.3320000000022, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Cyrilchoquet", -- [5]
-				}, -- [15]
-				{
-					107.3320000000022, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kati", -- [5]
-				}, -- [16]
-				{
-					119.4540000000015, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Incompleted", -- [5]
-				}, -- [17]
-				{
-					119.4540000000015, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Shamanpk", -- [5]
-				}, -- [18]
-				{
-					141.3690000000024, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Cyrilchoquet", -- [5]
-				}, -- [19]
-				{
-					141.3690000000024, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Shamanpk", -- [5]
-				}, -- [20]
-				{
-					155.7020000000011, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Screamozlock", -- [5]
-				}, -- [21]
-				{
-					155.7020000000011, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Bestmourne", -- [5]
-				}, -- [22]
-				{
-					169.9220000000023, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Screamozlock", -- [5]
-				}, -- [23]
-				{
-					169.9230000000025, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Outtempo", -- [5]
-				}, -- [24]
-				{
-					182.4270000000033, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Screamozlock", -- [5]
-				}, -- [25]
-				{
-					182.4270000000033, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Bestmourne", -- [5]
-				}, -- [26]
-				{
-					196.7150000000002, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kati", -- [5]
-				}, -- [27]
-				{
-					196.7150000000002, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Fatmeh", -- [5]
-				}, -- [28]
-				{
-					210.4830000000002, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Outtempo", -- [5]
-				}, -- [29]
-				{
-					210.4830000000002, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Kati", -- [5]
-				}, -- [30]
-				{
-					224.7340000000004, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Outtempo", -- [5]
-				}, -- [31]
-				{
-					224.7340000000004, -- [1]
-					"Reina de Sangre Lana'thel", -- [2]
-					71818, -- [3]
-					"SPELL_CAST_SUCCESS", -- [4]
-					"Bestmourne", -- [5]
-				}, -- [32]
 			},
-		}, -- [51]
+		}, -- [53]
 		{
 			[71393] = {
 				{
@@ -14708,7 +14794,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [52]
+		}, -- [54]
 		{
 			[71943] = {
 				{
@@ -14780,7 +14866,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [4]
 			},
-		}, -- [53]
+		}, -- [55]
 		{
 			[71255] = {
 				{
@@ -15504,7 +15590,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [90]
 			},
-		}, -- [54]
+		}, -- [56]
 		{
 			[71255] = {
 				{
@@ -15946,7 +16032,7 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [41]
 			},
-		}, -- [55]
+		}, -- [57]
 		{
 			[69278] = {
 				{
@@ -15997,7 +16083,7 @@ DetailsTimeLineDB = {
 					"Shamanpk", -- [5]
 				}, -- [3]
 			},
-		}, -- [56]
+		}, -- [58]
 		{
 			[69674] = {
 				{
@@ -16213,32 +16299,14 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [23]
 			},
-		}, -- [57]
+		}, -- [59]
 	},
 	["useicons"] = true,
-	["cooldowns_timeline"] = {
-		{
-			["Marraqueta"] = {
-				{
-					13.06900000000314, -- [1]
-					"[*] raid wide cooldown", -- [2]
-					2825, -- [3]
-				}, -- [1]
-			},
-			["Octashe"] = {
-				{
-					6.836000000002969, -- [1]
-					"Ainiali", -- [2]
-					10278, -- [3]
-				}, -- [1]
-			},
-		}, -- [1]
-		{
-		}, -- [2]
-		{
-		}, -- [3]
-		{
-		}, -- [4]
+	["backdrop_color"] = {
+		0, -- [1]
+		0, -- [2]
+		0, -- [3]
+		0.4, -- [4]
 	},
 	["window_scale"] = 1,
 	["deaths_data"] = {
@@ -16261,15 +16329,197 @@ DetailsTimeLineDB = {
 		{
 		}, -- [4]
 	},
-	["backdrop_color"] = {
-		0, -- [1]
-		0, -- [2]
-		0, -- [3]
-		0.4, -- [4]
+	["cooldowns_timeline"] = {
+		{
+			["Jubiileu"] = {
+				{
+					95.46699999999692, -- [1]
+					"[*] raid wide cooldown", -- [2]
+					31821, -- [3]
+				}, -- [1]
+			},
+			["Rshamyboy"] = {
+				{
+					19.49799999999959, -- [1]
+					"[*] raid wide cooldown", -- [2]
+					2825, -- [3]
+				}, -- [1]
+			},
+			["Anasazi"] = {
+				{
+					25.17999999999302, -- [1]
+					"[*] raid wide cooldown", -- [2]
+					2825, -- [3]
+				}, -- [1]
+			},
+			["Mowabonsai"] = {
+				{
+					31.57099999999628, -- [1]
+					"Angelwhite", -- [2]
+					29166, -- [3]
+				}, -- [1]
+				{
+					126.4959999999992, -- [1]
+					"[*] raid wide cooldown", -- [2]
+					48447, -- [3]
+				}, -- [2]
+			},
+			["Orkoman"] = {
+				{
+					28.44099999999889, -- [1]
+					"Orkoman", -- [2]
+					48792, -- [3]
+				}, -- [1]
+			},
+			["Nidav"] = {
+				{
+					66.68099999999686, -- [1]
+					"[*] raid wide cooldown", -- [2]
+					31821, -- [3]
+				}, -- [1]
+			},
+			["Ironspiritt"] = {
+				{
+					40.64699999999721, -- [1]
+					"Ironspiritt", -- [2]
+					55233, -- [3]
+				}, -- [1]
+				{
+					94.81299999999465, -- [1]
+					"Ironspiritt", -- [2]
+					48792, -- [3]
+				}, -- [2]
+				{
+					108.1139999999941, -- [1]
+					"Ironspiritt", -- [2]
+					55233, -- [3]
+				}, -- [3]
+			},
+		}, -- [1]
+		{
+			["Shokingballz"] = {
+				{
+					3.292999999997846, -- [1]
+					"[*] raid wide cooldown", -- [2]
+					2825, -- [3]
+				}, -- [1]
+			},
+			["Hallvasi"] = {
+				{
+					43.22199999999793, -- [1]
+					"Hallvasi", -- [2]
+					498, -- [3]
+				}, -- [1]
+			},
+		}, -- [2]
+		{
+			["Marraqueta"] = {
+				{
+					13.06900000000314, -- [1]
+					"[*] raid wide cooldown", -- [2]
+					2825, -- [3]
+				}, -- [1]
+			},
+			["Octashe"] = {
+				{
+					6.836000000002969, -- [1]
+					"Ainiali", -- [2]
+					10278, -- [3]
+				}, -- [1]
+			},
+		}, -- [3]
+		{
+		}, -- [4]
 	},
 	["BossSpellCast"] = {
 		{
+			["Belnam"] = {
+				{
+					130.3529999999955, -- [1]
+					"Belnam", -- [2]
+					47982, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+				}, -- [1]
+			},
+			["Toravon el Vigía de Hielo"] = {
+				{
+					15.58999999999651, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72104, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Dirtykokot", -- [5]
+				}, -- [1]
+				{
+					35.60199999999895, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72104, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Velkepivo", -- [5]
+				}, -- [2]
+				{
+					55.61799999999494, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72104, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Zoltano", -- [5]
+				}, -- [3]
+				{
+					75.62799999999697, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72104, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Orvalparkund", -- [5]
+				}, -- [4]
+				{
+					95.64699999999721, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72104, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Velkepivo", -- [5]
+				}, -- [5]
+				{
+					115.6369999999952, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72104, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Mowabonsai", -- [5]
+				}, -- [6]
+			},
 		}, -- [1]
+		{
+			["Toravon el Vigía de Hielo"] = {
+				{
+					15.2609999999986, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72090, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Shokingballz", -- [5]
+				}, -- [1]
+				{
+					35.24199999999837, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72090, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kati", -- [5]
+				}, -- [2]
+				{
+					55.26699999999983, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72090, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Rageout", -- [5]
+				}, -- [3]
+				{
+					75.26499999999942, -- [1]
+					"Toravon el Vigía de Hielo", -- [2]
+					72090, -- [3]
+					"SPELL_CAST_SUCCESS", -- [4]
+					"Kati", -- [5]
+				}, -- [4]
+			},
+		}, -- [2]
+		{
+		}, -- [3]
 		{
 			["El Rey Exánime"] = {
 				{
@@ -16279,10 +16529,6 @@ DetailsTimeLineDB = {
 					"SPELL_CAST_SUCCESS", -- [4]
 				}, -- [1]
 			},
-		}, -- [2]
-		{
-		}, -- [3]
-		{
 		}, -- [4]
 		{
 			["Lord Tuétano"] = {
